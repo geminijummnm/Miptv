@@ -13,7 +13,7 @@ rtsp://10.16.9.18/PLTV/88888888/224/3221225712/10000100000000060000000000097891_
 rtsp://10.16.9.18/PLTV/88888888/224/3221225713/10000100000000060000000000097892_0.smil
 #EXTINF:-1,tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://epg.112114.xyz/logo/湖南娱乐.png" group-title="湖南",湖南娱乐
 rtsp://10.16.9.18/PLTV/88888888/224/3221225714/10000100000000060000000000097893_0.smil
-#EXTINF:-1,tvg-id="湖南纪实" tvg-name="湖南纪实" tvg-logo="https://epg.112114.xyz/logo/湖南纪实.png" group-title="湖南",湖南纪实
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="湖南",金鹰纪实
 rtsp://10.16.9.18/PLTV/88888888/224/3221225715/10000100000000060000000000097894_0.smil
 #EXTINF:-1,tvg-id="湖南公共" tvg-name="湖南公共" tvg-logo="https://epg.112114.xyz/logo/湖南公共.png" group-title="湖南",湖南公共
 rtsp://10.16.9.18/PLTV/88888888/224/3221225716/10000100000000060000000000097895_0.smil
@@ -51,9 +51,9 @@ rtsp://10.16.9.18/PLTV/88888888/224/3221225726/10000100000000060000000000097905_
 rtsp://10.16.9.18/PLTV/88888888/224/3221225803/10000100000000060000000000458239_0.smil
 #EXTINF:-1,tvg-id="CETV-1" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="央视",CETV-1
 rtsp://10.16.9.18/PLTV/88888888/224/3221225782/10000100000000060000000000305998_0.smil
-#EXTINF:-1,tvg-id="CGTN新闻" tvg-name="CGTN新闻" tvg-logo="https://epg.112114.xyz/logo/CGTN新闻.png" group-title="央视",CGTN新闻
+#EXTINF:-1,tvg-id="CGTN新闻" tvg-name="CGTN新闻" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN新闻
 rtsp://10.16.9.18/PLTV/88888888/224/3221225591/10000100000000060000000000000169_0.smil
-#EXTINF:-1,tvg-id="CGTN发现" tvg-name="CGTN发现" tvg-logo="https://epg.112114.xyz/logo/CGTN发现.png" group-title="央视",CGTN发现
+#EXTINF:-1,tvg-id="CGTN发现" tvg-name="CGTN发现" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN发现
 rtsp://10.16.9.18/PLTV/88888888/224/3221225592/10000100000000060000000000000170_0.smil
 
 
@@ -106,7 +106,7 @@ http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/888888
 
 
 
-#EXTINF:-1,tvg-id="IPTV院线" tvg-name="IPTV院线" tvg-logo="https://epg.112114.xyz/logo/IPTV院线.png" group-title="数字",IPTV院线
+#EXTINF:-1,tvg-id="IPTV高清院线" tvg-name="IPTV高清院线" tvg-logo="https://epg.112114.xyz/logo/IPTV高清院线.png" group-title="数字",IPTV高清院线
 rtsp://10.16.9.18/PLTV/88888888/224/3221225746/10000100000000060000000000254215_0.smil
 #EXTINF:-1,tvg-id="IPTV抗战剧场" tvg-name="IPTV抗战剧场" tvg-logo="https://epg.112114.xyz/logo/IPTV抗战剧场.png" group-title="数字",IPTV抗战剧场
 rtsp://10.16.9.18/PLTV/88888888/224/3221225747/10000100000000060000000000254226_0.smil
