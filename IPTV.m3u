@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #央视高清
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -33,17 +33,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott
 #EXTINF:-1 tvg-id="A16" tvg-name="CCTV15" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV15.png" group-title="央视",CCTV-15
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3&RTS=1668595229&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="A17" tvg-name="CCTV16" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV16.png" group-title="央视",CCTV-16
-http://[24http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV17.png" group-title="央视",CCTV-17
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="A19" tvg-name="中国教育1台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV1.png" group-title="央视",CETV-01
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001020/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="中国教育2台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV2.png" group-title="央视",CETV-02
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="中国教育3台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV3.png" group-title="央视",CETV-03
 https://xxxx.m3u8
 #EXTINF:-1 tvg-id="A22" tvg-name="中国教育4台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV4.png" group-title="央视",CETV-04
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001348/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 
 #卫视高清
@@ -52,7 +52,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/o
 #EXTINF:-1 tvg-id="B02" tvg-name="东方卫视" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="B03" tvg-name="湖南卫视" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 #EXTINF:-1 tvg-id="B04" tvg-name="浙江卫视" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="B05" tvg-name="江苏卫视" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
@@ -196,9 +196,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="E04" tvg-name="北京纪实" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jskj.png" group-title="地方",纪实科教
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="E05" tvg-name="卡酷少儿" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/kakushaoer.png" group-title="地方",卡酷少儿
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="E06" tvg-name="上海新闻" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="地方",上海新闻综合
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001014/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="E07" tvg-name="上海都市" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="地方",上海都市
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="E08" tvg-name="东方影视" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="地方",东方影视
@@ -208,7 +208,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="E10" tvg-name="上海外语" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="地方",上海外语
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
 #EXTINF:-1 tvg-id="E11" tvg-name="上海教育" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="地方",上海教育台
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-id="E12" tvg-name="都市剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="地方",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="E13" tvg-name="生活时尚" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="地方",生活时尚
@@ -226,9 +226,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="E19" tvg-name="七彩戏剧" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/qcxj.png" group-title="地方",七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 #EXTINF:-1 tvg-id="E20" tvg-name="欢笑剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="地方",欢笑剧场
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="E21" tvg-name="上海第一财经" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" group-title="地方",第一财经
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001017/index.m3u8?
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
+#EXTINF:-1 tvg-id="E21" tvg-name="第一财经" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" group-title="地方",第一财经
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="E22" tvg-name="东方财经" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="地方",东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 
