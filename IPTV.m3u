@@ -126,36 +126,38 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/32212255
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="C10" tvg-name="华数高清" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数高清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="C11" tvg-name="CCTV4K超清" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="数字",CCTV-4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="C12" tvg-name="CCTV风云剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="数字",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 tvg-id="C13" tvg-name="CCTV风云音乐" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="数字",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 tvg-id="C14" tvg-name="CCTV第一剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="数字",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 tvg-id="C15" tvg-name="CCTV女性时尚" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="数字",女性时尚
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 tvg-id="C16" tvg-name="CCTV风云足球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="数字",风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 tvg-id="C17" tvg-name="CCTV兵器科技" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字",兵器科技
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 tvg-id="C18" tvg-name="CCTV怀旧剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="数字",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 tvg-id="C19" tvg-name="CCTV世界地理" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字",世界地理
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 tvg-id="C20" tvg-name="CCTV央视精品" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="数字",文化精品
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 tvg-id="C21" tvg-name="CCTV央视台球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="数字",央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 tvg-id="C22" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="数字",高尔夫网球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 tvg-id="C23" tvg-name="CCTV电视指南" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="C24" tvg-name="SiTV乐游" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="数字",乐游
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001200/index.m3u8?
-#EXTINF:-1 tvg-id="C25" tvg-name="上海纪实" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsrw.png" group-title="数字",纪实人文
+#EXTINF:-1 tvg-id="C11" tvg-name="纯享4K" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png" group-title="数字",纯享超清
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+#EXTINF:-1 tvg-id="C12" tvg-name="全纪实" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="数字",乐游频道
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
+#EXTINF:-1 tvg-id="C13" tvg-name="上海纪实" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsrw.png" group-title="数字",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="C14" tvg-name="CCTV4K超清" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV4K.png" group-title="数字",CCTV-4K
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 tvg-id="C15" tvg-name="CCTV风云剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyjc.png" group-title="数字",风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="C16" tvg-name="CCTV风云音乐" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="数字",风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="C17" tvg-name="CCTV第一剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="数字",第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="C18" tvg-name="CCTV女性时尚" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="数字",女性时尚
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="C19" tvg-name="CCTV风云足球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="数字",风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="C20" tvg-name="CCTV兵器科技" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="数字",兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="C21" tvg-name="CCTV怀旧剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="数字",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="C22" tvg-name="CCTV世界地理" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="数字",世界地理
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-id="C23" tvg-name="CCTV央视精品" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="数字",文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-id="C24" tvg-name="CCTV央视台球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="数字",央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="C25" tvg-name="CCTV央视高尔夫网球" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="数字",高尔夫网球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="C26" tvg-name="CCTV电视指南" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="数字",电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
 #国际频道
@@ -207,14 +209,14 @@ http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001128/index.m3u8?
 #EXTINF:-1 tvg-id="E11" tvg-name="上海教育" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="地方",上海教育
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001268/index.m3u8?
-#EXTINF:-1 tvg-id="E12" tvg-name="SITV都市剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="地方",都市剧场
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001203/index.m3u8?
+#EXTINF:-1 tvg-id="E12" tvg-name="都市剧场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="地方",都市剧场
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="E13" tvg-name="生活时尚" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/shss.png" group-title="地方",生活时尚
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001199/index.m3u8?
-#EXTINF:-1 tvg-id="E14" tvg-name="SITV金色学堂" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="地方",金色学堂
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001194/index.m3u8?
-#EXTINF:-1 tvg-id="E15" tvg-name="SITV法治天地" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="地方",法治天地
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001195/index.m3u8?
+#EXTINF:-1 tvg-id="E14" tvg-name="金色学堂" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="地方",金色学堂
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+#EXTINF:-1 tvg-id="E15" tvg-name="法治天地" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="地方",法治天地
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-id="E16" tvg-name="哈哈炫动" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png" group-title="地方",哈哈炫动
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001232/index.m3u8?
 #EXTINF:-1 tvg-id="E17" tvg-name="动漫秀场" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="地方",动漫秀场
