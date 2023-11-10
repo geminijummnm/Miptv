@@ -41,7 +41,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="中国教育2台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV2.png" group-title="央视",CETV-02
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="中国教育3台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV3.png" group-title="央视",CETV-03
-https://xxxx.m3u8
+http://video.cetv.cn/fs/transcode/20230515/af6/213841-1684138855-transv.mp4
 #EXTINF:-1 tvg-id="A22" tvg-name="中国教育4台" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CETV4.png" group-title="央视",CETV-04
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
