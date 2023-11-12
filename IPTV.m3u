@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml，https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="https://epg.erw.cc/e.xml,https://live.fanmingming.com/e.xml"
 #央视高清
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -124,7 +124,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="C09" tvg-name="黑莓动画" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hmdh.png" group-title="数字",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="C10" tvg-name="华数高清" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数欧美影院
+#EXTINF:-1 tvg-id="C10" tvg-name="华数高清" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="C11" tvg-name="纯享4K" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/cx4k.png" group-title="数字",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
