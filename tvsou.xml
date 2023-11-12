@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "tvxml.dtd">
-<tv>
+<tv info-name="by spark " info-url="https://epg.112114.xyz">
   <channel id="E11">
     <display-name lang="zh">茶频道</display-name>
+  </channel>
     <programme channel="茶频道" start="20231112011000 +0800" stop="20231112012500 +0800">
       <title lang="zh">蹭茶</title>
     </programme>
@@ -90,6 +90,4 @@
     <programme channel="茶频道" start="20231112230000 +0800" stop="20231112235900 +0800">
       <title lang="zh">倩倩直播间</title>
     </programme>
-  </channel>
-  <!-- More channels can be added if available -->
 </tv>
