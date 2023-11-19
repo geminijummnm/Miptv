@@ -171,8 +171,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://r.jdshipin.com/qClQf
 
 #EXTINF:-1 tvg-id="D03" tvg-name="J2" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="国际",J2
-http://r.jdshipin.com/ndGgS
-
+#http://r.jdshipin.com/ndGgS
+http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
 #EXTINF:-1 tvg-id="D04" tvg-name="NHK" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHKWORLD
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="D05" tvg-name="CNA" tvg-logo="https://gh.api.99988866.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CHANNELNEWSASIA
