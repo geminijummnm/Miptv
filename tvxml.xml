@@ -1,339 +1,339 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
 <tv generator-info-name="https://epg.erw.cc" generator-info-url="chengkongxueyuan@outlook.com">
-<channel id=A01>
+<channel id="A01">
 <display-name lang="zh">CCTV1</display-name>
 </channel>
-<channel id=A02>
+<channel id="A02">
 <display-name lang="zh">CCTV2</display-name>
 </channel>
-<channel id=A03>
+<channel id="A03">
 <display-name lang="zh">CCTV3</display-name>
 </channel>
-<channel id=A04>
+<channel id="A04">
 <display-name lang="zh">CCTV4</display-name>
 </channel>
-<channel id=A05>
+<channel id="A05">
 <display-name lang="zh">CCTV5</display-name>
 </channel>
-<channel id=A06>
+<channel id="A06">
 <display-name lang="zh">CCTV5+</display-name>
 </channel>
-<channel id=A07>
+<channel id="A07">
 <display-name lang="zh">CCTV6</display-name>
 </channel>
-<channel id=A08>
+<channel id="A08">
 <display-name lang="zh">CCTV7</display-name>
 </channel>
-<channel id=A09>
+<channel id="A09">
 <display-name lang="zh">CCTV8</display-name>
 </channel>
-<channel id=A10>
+<channel id="A10">
 <display-name lang="zh">CCTV9</display-name>
 </channel>
-<channel id=A11>
+<channel id="A11">
 <display-name lang="zh">CCTV10</display-name>
 </channel>
-<channel id=A12>
+<channel id="A12">
 <display-name lang="zh">CCTV11</display-name>
 </channel>
-<channel id=A13>
+<channel id="A13">
 <display-name lang="zh">CCTV12</display-name>
 </channel>
-<channel id=A14>
+<channel id="A14">
 <display-name lang="zh">CCTV13</display-name>
 </channel>
-<channel id=A15>
+<channel id="A15">
 <display-name lang="zh">CCTV14</display-name>
 </channel>
-<channel id=A16>
+<channel id="A16">
 <display-name lang="zh">CCTV15</display-name>
 </channel>
-<channel id=A17>
+<channel id="A17">
 <display-name lang="zh">CCTV16</display-name>
 </channel>
-<channel id=A18>
+<channel id="A18">
 <display-name lang="zh">CCTV17</display-name>
 </channel>
-<channel id=A19>
+<channel id="A19">
 <display-name lang="zh">中国教育1台</display-name>
 </channel>
-<channel id=A20>
+<channel id="A20">
 <display-name lang="zh">中国教育2台</display-name>
 </channel>
-<channel id=A21>
+<channel id="A21">
 <display-name lang="zh">中国教育3台</display-name>
 </channel>
-<channel id=A22>
+<channel id="A22">
 <display-name lang="zh">中国教育4台</display-name>
 </channel>
-<channel id=B01>
+<channel id="B01">
 <display-name lang="zh">北京卫视</display-name>
 </channel>
-<channel id=B02>
+<channel id="B02">
 <display-name lang="zh">东方卫视</display-name>
 </channel>
-<channel id=B03>
+<channel id="B03">
 <display-name lang="zh">湖南卫视</display-name>
 </channel>
-<channel id=B04>
+<channel id="B04">
 <display-name lang="zh">浙江卫视</display-name>
 </channel>
-<channel id=B05>
+<channel id="B05">
 <display-name lang="zh">江苏卫视</display-name>
 </channel>
-<channel id=B06>
+<channel id="B06">
 <display-name lang="zh">江西卫视</display-name>
 </channel>
-<channel id=B07>
+<channel id="B07">
 <display-name lang="zh">河北卫视</display-name>
 </channel>
-<channel id=B08>
+<channel id="B08">
 <display-name lang="zh">河南卫视</display-name>
 </channel>
-<channel id=B09>
+<channel id="B09">
 <display-name lang="zh">海南卫视</display-name>
 </channel>
-<channel id=B10>
+<channel id="B10">
 <display-name lang="zh">深圳卫视</display-name>
 </channel>
-<channel id=B11>
+<channel id="B11">
 <display-name lang="zh">湖北卫视</display-name>
 </channel>
-<channel id=B12>
+<channel id="B12">
 <display-name lang="zh">四川卫视</display-name>
 </channel>
-<channel id=B13>
+<channel id="B13">
 <display-name lang="zh">天津卫视</display-name>
 </channel>
-<channel id=B14>
+<channel id="B14">
 <display-name lang="zh">安徽卫视</display-name>
 </channel>
-<channel id=B15>
+<channel id="B15">
 <display-name lang="zh">山东卫视</display-name>
 </channel>
-<channel id=B16>
+<channel id="B16">
 <display-name lang="zh">广东卫视</display-name>
 </channel>
-<channel id=B17>
+<channel id="B17">
 <display-name lang="zh">广西卫视</display-name>
 </channel>
-<channel id=B18>
+<channel id="B18">
 <display-name lang="zh">贵州卫视</display-name>
 </channel>
-<channel id=B19>
+<channel id="B19">
 <display-name lang="zh">辽宁卫视</display-name>
 </channel>
-<channel id=B20>
+<channel id="B20">
 <display-name lang="zh">重庆卫视</display-name>
 </channel>
-<channel id=B21>
+<channel id="B21">
 <display-name lang="zh">黑龙江卫视</display-name>
 </channel>
-<channel id=B22>
+<channel id="B22">
 <display-name lang="zh">甘肃卫视</display-name>
 </channel>
-<channel id=B23>
+<channel id="B23">
 <display-name lang="zh">吉林卫视</display-name>
 </channel>
-<channel id=B24>
+<channel id="B24">
 <display-name lang="zh">三沙卫视</display-name>
 </channel>
-<channel id=B25>
+<channel id="B25">
 <display-name lang="zh">东南卫视</display-name>
 </channel>
-<channel id=B26>
+<channel id="B26">
 <display-name lang="zh">青海卫视</display-name>
 </channel>
-<channel id=B27>
+<channel id="B27">
 <display-name lang="zh">新疆卫视</display-name>
 </channel>
-<channel id=B28>
+<channel id="B28">
 <display-name lang="zh">云南卫视</display-name>
 </channel>
-<channel id=C01>
+<channel id="C01">
 <display-name lang="zh">CHC高清电影</display-name>
 </channel>
-<channel id=C02>
+<channel id="C02">
 <display-name lang="zh">CHC家庭影院</display-name>
 </channel>
-<channel id=C03>
+<channel id="C03">
 <display-name lang="zh">CHC动作电影</display-name>
 </channel>
-<channel id=C04>
+<channel id="C04">
 <display-name lang="zh">求索纪录</display-name>
 </channel>
-<channel id=C05>
+<channel id="C05">
 <display-name lang="zh">求索科学</display-name>
 </channel>
-<channel id=C06>
+<channel id="C06">
 <display-name lang="zh">求索动物</display-name>
 </channel>
-<channel id=C07>
+<channel id="C07">
 <display-name lang="zh">求索生活</display-name>
 </channel>
-<channel id=C08>
+<channel id="C08">
 <display-name lang="zh">黑莓电影</display-name>
 </channel>
-<channel id=C09>
+<channel id="C09">
 <display-name lang="zh">黑莓动画</display-name>
 </channel>
-<channel id=C10>
+<channel id="C10">
 <display-name lang="zh">精彩影视</display-name>
 </channel>
-<channel id=C11>
+<channel id="C11">
 <display-name lang="zh">纯享4K</display-name>
 </channel>
-<channel id=C12>
+<channel id="C12">
 <display-name lang="zh">乐游</display-name>
 </channel>
-<channel id=C13>
+<channel id="C13">
 <display-name lang="zh">上海纪实</display-name>
 </channel>
-<channel id=C14>
+<channel id="C14">
 <display-name lang="zh">CCTV4K</display-name>
 </channel>
-<channel id=C15>
+<channel id="C15">
 <display-name lang="zh">风云剧场</display-name>
 </channel>
-<channel id=C16>
+<channel id="C16">
 <display-name lang="zh">风云音乐</display-name>
 </channel>
-<channel id=C17>
+<channel id="C17">
 <display-name lang="zh">第一剧场</display-name>
 </channel>
-<channel id=C18>
+<channel id="C18">
 <display-name lang="zh">女性时尚</display-name>
 </channel>
-<channel id=C19>
+<channel id="C19">
 <display-name lang="zh">风云足球</display-name>
 </channel>
-<channel id=C20>
+<channel id="C20">
 <display-name lang="zh">兵器科技</display-name>
 </channel>
-<channel id=C21>
+<channel id="C21">
 <display-name lang="zh">怀旧剧场</display-name>
 </channel>
-<channel id=C22>
+<channel id="C22">
 <display-name lang="zh">世界地理</display-name>
 </channel>
-<channel id=C23>
+<channel id="C23">
 <display-name lang="zh">文化精品</display-name>
 </channel>
-<channel id=C24>
+<channel id="C24">
 <display-name lang="zh">央视台球</display-name>
 </channel>
-<channel id=C25>
+<channel id="C25">
 <display-name lang="zh">央视高尔夫网球</display-name>
 </channel>
-<channel id=C26>
+<channel id="C26">
 <display-name lang="zh">电视指南</display-name>
 </channel>
-<channel id=D01>
+<channel id="D01">
 <display-name lang="zh">凤凰中文</display-name>
 </channel>
-<channel id=D02>
+<channel id="D02">
 <display-name lang="zh">凤凰资讯</display-name>
 </channel>
-<channel id=D03>
+<channel id="D03">
 <display-name lang="zh">凤凰香港</display-name>
 </channel>
-<channel id=D04>
+<channel id="D04">
 <display-name lang="zh">翡翠台</display-name>
 </channel>
-<channel id=D05>
+<channel id="D05">
 <display-name lang="zh">J2</display-name>
 </channel>
-<channel id=D06>
+<channel id="D06">
 <display-name lang="zh">NHK</display-name>
 </channel>
-<channel id=D07>
+<channel id="D07">
 <display-name lang="zh">CNA</display-name>
 </channel>
-<channel id=D08>
+<channel id="D08">
 <display-name lang="zh">aljazeeraEnglish</display-name>
 </channel>
-<channel id=D09>
+<channel id="D09">
 <display-name lang="zh">CGTN</display-name>
 </channel>
-<channel id=D10>
+<channel id="D10">
 <display-name lang="zh">CGTNDocumentary</display-name>
 </channel>
-<channel id=D11>
+<channel id="D11">
 <display-name lang="zh">CGTN法语</display-name>
 </channel>
-<channel id=D12>
+<channel id="D12">
 <display-name lang="zh">CGTN俄语</display-name>
 </channel>
-<channel id=D13>
+<channel id="D13">
 <display-name lang="zh">CGTN西语</display-name>
 </channel>
-<channel id=D14>
+<channel id="D14">
 <display-name lang="zh">CGTN阿语</display-name>
 </channel>
-<channel id=E01>
+<channel id="E01">
 <display-name lang="zh">茶频道</display-name>
 </channel>
-<channel id=E02>
+<channel id="E02">
 <display-name lang="zh">快乐垂钓</display-name>
 </channel>
-<channel id=E03>
+<channel id="E03">
 <display-name lang="zh">金鹰纪实</display-name>
 </channel>
-<channel id=E04>
+<channel id="E04">
 <display-name lang="zh">北京纪实</display-name>
 </channel>
-<channel id=E05>
+<channel id="E05">
 <display-name lang="zh">卡酷少儿</display-name>
 </channel>
-<channel id=E06>
+<channel id="E06">
 <display-name lang="zh">上海新闻</display-name>
 </channel>
-<channel id=E07>
+<channel id="E07">
 <display-name lang="zh">上海都市</display-name>
 </channel>
-<channel id=E08>
+<channel id="E08">
 <display-name lang="zh">东方影视</display-name>
 </channel>
-<channel id=E09>
+<channel id="E09">
 <display-name lang="zh">上海外语</display-name>
 </channel>
-<channel id=E10>
+<channel id="E10">
 <display-name lang="zh">五星体育</display-name>
 </channel>
-<channel id=E11>
+<channel id="E11">
 <display-name lang="zh">上海教育</display-name>
 </channel>
-<channel id=E12>
+<channel id="E12">
 <display-name lang="zh">都市剧场</display-name>
 </channel>
-<channel id=E13>
+<channel id="E13">
 <display-name lang="zh">生活时尚</display-name>
 </channel>
-<channel id=E14>
+<channel id="E14">
 <display-name lang="zh">金色学堂</display-name>
 </channel>
-<channel id=E15>
+<channel id="E15">
 <display-name lang="zh">法治天地</display-name>
 </channel>
-<channel id=E16>
+<channel id="E16">
 <display-name lang="zh">哈哈炫动</display-name>
 </channel>
-<channel id=E17>
+<channel id="E17">
 <display-name lang="zh">动漫秀场</display-name>
 </channel>
-<channel id=E18>
+<channel id="E18">
 <display-name lang="zh">游戏风云</display-name>
 </channel>
-<channel id=E19>
+<channel id="E19">
 <display-name lang="zh">七彩戏剧</display-name>
 </channel>
-<channel id=E20>
+<channel id="E20">
 <display-name lang="zh">欢笑剧场</display-name>
 </channel>
-<channel id=E21>
+<channel id="E21">
 <display-name lang="zh">第一财经</display-name>
 </channel>
-<channel id=E22>
+<channel id="E22">
 <display-name lang="zh">东方财经</display-name>
 </channel>
 <programme start="2023202311200000 +0800" stop="2023202311200103 +0800" channel="A01>
