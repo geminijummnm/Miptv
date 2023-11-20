@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd"><tv generator-info-name="https://epg.erw.cc" generator-info-url="chengkongxueyuan@outlook.com"><channel id=A01>
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
+<tv generator-info-name="https://epg.erw.cc" generator-info-url="chengkongxueyuan@outlook.com">
+<channel id=A01>
 <display-name lang="zh">CCTV1</display-name>
 </channel>
 <channel id=A02>
