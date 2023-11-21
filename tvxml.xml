@@ -223,7 +223,7 @@
 <display-name lang="zh">央视台球</display-name>
 </channel>
 <channel id="C25">
-<display-name lang="zh">央视高尔夫网球</display-name>
+<display-name lang="zh">高尔夫网球</display-name>
 </channel>
 <channel id="C26">
 <display-name lang="zh">电视指南</display-name>
@@ -250,7 +250,7 @@
 <display-name lang="zh">CNA</display-name>
 </channel>
 <channel id="D08">
-<display-name lang="zh">半岛新闻</display-name>
+<display-name lang="zh">半岛英语</display-name>
 </channel>
 <channel id="D09">
 <display-name lang="zh">CGTN</display-name>
@@ -3327,25 +3327,28 @@
 <programme start="20231121230800 +0800" stop="20231121235900 +0800" channel="B06">
 <title lang="zh">再造之恩(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121000000 +0800" stop="20231121005800 +0800" channel="B07">
+<programme start="20231121000000 +0800" stop="20231121004400 +0800" channel="B07">
 <title lang="zh">有个地方叫马兰(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121005800 +0800" stop="20231121015600 +0800" channel="B07">
+<programme start="20231121004400 +0800" stop="20231121014200 +0800" channel="B07">
 <title lang="zh">有个地方叫马兰(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121015600 +0800" stop="20231121025400 +0800" channel="B07">
+<programme start="20231121014200 +0800" stop="20231121023300 +0800" channel="B07">
 <title lang="zh">有个地方叫马兰(8)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121025400 +0800" stop="20231121035200 +0800" channel="B07">
+<programme start="20231121023300 +0800" stop="20231121032300 +0800" channel="B07">
 <title lang="zh">有个地方叫马兰(9)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121035200 +0800" stop="20231121045000 +0800" channel="B07">
+<programme start="20231121032300 +0800" stop="20231121041200 +0800" channel="B07">
 <title lang="zh">有个地方叫马兰(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121045000 +0800" stop="20231121054000 +0800" channel="B07">
+<programme start="20231121041200 +0800" stop="20231121045300 +0800" channel="B07">
+<title lang="zh">有个地方叫马兰(11)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121045300 +0800" stop="20231121052800 +0800" channel="B07">
 <title lang="zh">大秧歌(79)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121054000 +0800" stop="20231121063000 +0800" channel="B07">
+<programme start="20231121052800 +0800" stop="20231121063000 +0800" channel="B07">
 <title lang="zh">大秧歌(80)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231121063000 +0800" stop="20231121070000 +0800" channel="B07">
@@ -4812,11 +4815,8 @@
 <programme start="20231121033100 +0800" stop="20231121040300 +0800" channel="B20">
 <title lang="zh">红岩本色</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121040300 +0800" stop="20231121041000 +0800" channel="B20">
-<title lang="zh">大地之上(11)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231121041000 +0800" stop="20231121043400 +0800" channel="B20">
-<title lang="zh">大地之上(8)</title><desc lang="zh"></desc>
+<programme start="20231121040300 +0800" stop="20231121043400 +0800" channel="B20">
+<title lang="zh">大地之上(2)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231121043400 +0800" stop="20231121053700 +0800" channel="B20">
 <title lang="zh">罗龙镇女人(9)</title><desc lang="zh"></desc>
@@ -9624,41 +9624,119 @@
 <programme start="20231121230200 +0800" stop="20231121235900 +0800" channel="D07">
 <title lang="zh">Beyond Maximum Security(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121000000 +0800" stop="20231121020000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121000000 +0800" stop="20231121010000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121020000 +0800" stop="20231121040000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121010000 +0800" stop="20231121013000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121040000 +0800" stop="20231121060000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121013000 +0800" stop="20231121020000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121060000 +0800" stop="20231121080000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121020000 +0800" stop="20231121030000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121080000 +0800" stop="20231121100100 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121030000 +0800" stop="20231121040000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121100100 +0800" stop="20231121120000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121040000 +0800" stop="20231121043000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121120000 +0800" stop="20231121140000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121043000 +0800" stop="20231121050000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121140000 +0800" stop="20231121160000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121050000 +0800" stop="20231121060000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121160000 +0800" stop="20231121190000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121060000 +0800" stop="20231121070000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121190000 +0800" stop="20231121200000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121070000 +0800" stop="20231121073000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121200000 +0800" stop="20231121220000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121073000 +0800" stop="20231121080000 +0800" channel="D08">
+<title lang="zh">Witness-LandOrDeath</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121220000 +0800" stop="20231121235900 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121080000 +0800" stop="20231121083000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121083000 +0800" stop="20231121090000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121090000 +0800" stop="20231121093000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121093000 +0800" stop="20231121100000 +0800" channel="D08">
+<title lang="zh">TheOccupiedWestBank-TheOtherFront</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121100000 +0800" stop="20231121103000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121103000 +0800" stop="20231121110000 +0800" channel="D08">
+<title lang="zh">PeopleAndPower-ResidentialSchools:Canada'sShame</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121110000 +0800" stop="20231121120000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121120000 +0800" stop="20231121123000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121123000 +0800" stop="20231121130000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第42集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121130000 +0800" stop="20231121133000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121133000 +0800" stop="20231121140000 +0800" channel="D08">
+<title lang="zh">101East-RohingyaVjs:InsideMyanmar'sApartheidState</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121140000 +0800" stop="20231121143000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121143000 +0800" stop="20231121150000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121150000 +0800" stop="20231121160000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121160000 +0800" stop="20231121163000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121163000 +0800" stop="20231121170000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121170000 +0800" stop="20231121173000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121173000 +0800" stop="20231121180000 +0800" channel="D08">
+<title lang="zh">Witness-LandOrDeath</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121180000 +0800" stop="20231121190000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121190000 +0800" stop="20231121193000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121193000 +0800" stop="20231121200000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121200000 +0800" stop="20231121203000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121203000 +0800" stop="20231121210000 +0800" channel="D08">
+<title lang="zh">TheBottomLine第47集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121210000 +0800" stop="20231121220000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121220000 +0800" stop="20231121223000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121223000 +0800" stop="20231121230000 +0800" channel="D08">
+<title lang="zh">InsideStory第486集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121230000 +0800" stop="20231121000000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231121000000 +0800" stop="20231121004500 +0800" channel="D09">
 <title lang="zh">剧场</title><desc lang="zh"></desc>
