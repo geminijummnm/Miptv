@@ -250,13 +250,13 @@
 <display-name lang="zh">CNA</display-name>
 </channel>
 <channel id="D08">
-<display-name lang="zh">aljazeeraEnglish</display-name>
+<display-name lang="zh">半岛新闻</display-name>
 </channel>
 <channel id="D09">
 <display-name lang="zh">CGTN</display-name>
 </channel>
 <channel id="D10">
-<display-name lang="zh">CGTNDocumentary</display-name>
+<display-name lang="zh">CGTN纪录</display-name>
 </channel>
 <channel id="D11">
 <display-name lang="zh">CGTN法语</display-name>
@@ -9801,41 +9801,113 @@
 <programme start="20231121233000 +0800" stop="20231121235900 +0800" channel="D09">
 <title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121000000 +0800" stop="20231121020000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121000000 +0800" stop="20231121003000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121020000 +0800" stop="20231121040000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121003000 +0800" stop="20231121010000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121040000 +0800" stop="20231121060000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121010000 +0800" stop="20231121020000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121060000 +0800" stop="20231121080000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121020000 +0800" stop="20231121023000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121080000 +0800" stop="20231121100100 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121023000 +0800" stop="20231121030000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121100100 +0800" stop="20231121120000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121030000 +0800" stop="20231121040000 +0800" channel="D10">
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121120000 +0800" stop="20231121140000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121040000 +0800" stop="20231121043000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121140000 +0800" stop="20231121160000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121043000 +0800" stop="20231121050000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121160000 +0800" stop="20231121190000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121050000 +0800" stop="20231121060000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121060000 +0800" stop="20231121063000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121063000 +0800" stop="20231121070000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121070000 +0800" stop="20231121073000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121073000 +0800" stop="20231121080000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121080000 +0800" stop="20231121090000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121090000 +0800" stop="20231121100000 +0800" channel="D10">
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121100000 +0800" stop="20231121103000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121103000 +0800" stop="20231121110000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121110000 +0800" stop="20231121120000 +0800" channel="D10">
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121120000 +0800" stop="20231121123000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121123000 +0800" stop="20231121130000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121130000 +0800" stop="20231121140000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121140000 +0800" stop="20231121143000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121143000 +0800" stop="20231121150000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121150000 +0800" stop="20231121160000 +0800" channel="D10">
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121160000 +0800" stop="20231121163000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121163000 +0800" stop="20231121170000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121170000 +0800" stop="20231121180000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121180000 +0800" stop="20231121183000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121183000 +0800" stop="20231121190000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231121190000 +0800" stop="20231121200000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121200000 +0800" stop="20231121220000 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121200000 +0800" stop="20231121203000 +0800" channel="D10">
+<title lang="zh">人文地理</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231121220000 +0800" stop="20231121235900 +0800" channel="D10">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231121203000 +0800" stop="20231121210000 +0800" channel="D10">
+<title lang="zh">时代写真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121210000 +0800" stop="20231121220000 +0800" channel="D10">
+<title lang="zh">特别呈现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121220000 +0800" stop="20231121223000 +0800" channel="D10">
+<title lang="zh">发现之路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121223000 +0800" stop="20231121230000 +0800" channel="D10">
+<title lang="zh">历史传奇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231121230000 +0800" stop="20231121235900 +0800" channel="D10">
+<title lang="zh">精彩放送</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231121000000 +0800" stop="20231121001500 +0800" channel="D11">
 <title lang="zh">纪录片</title><desc lang="zh"></desc>
