@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml"
-#央视高清
+#央视高清/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV1.png" group-title="央视",CCTV-1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV2.png" group-title="央视",CCTV-2
@@ -46,7 +46,7 @@ http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226722/1.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 
-#卫视高清
+#卫视高清/28个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="北京卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="B02" tvg-name="东方卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongfang.png" group-title="卫视",东方卫视
@@ -105,7 +105,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 
 
-#数字高清
+#数字高清/26个频道
 #EXTINF:-1 tvg-id="C01" tvg-name="CHC高清电影" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC1.png" group-title="数字",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="C02" tvg-name="CHC家庭影院" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CHC2.png" group-title="数字",CHC家庭影院
@@ -160,7 +160,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 
 
-#国际频道
+#国际频道/14个频道
 #EXTINF:-1 tvg-id="D01" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="国际",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="D02" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="国际",凤凰资讯
@@ -171,11 +171,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://r.jdshipin.com/qClQf
 #EXTINF:-1 tvg-id="D05" tvg-name="J2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="国际",J2
 http://r.jdshipin.com/ndGgS
-#EXTINF:-1 tvg-id="D06" tvg-name="NHK" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",NHKWORLD
+#EXTINF:-1 tvg-id="D06" tvg-name="NHK" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="D07" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CHANNELNEWSASIA
+#EXTINF:-1 tvg-id="D07" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="D08" tvg-name="半岛英语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",半岛英语
+#EXTINF:-1 tvg-id="D08" tvg-name="半岛英语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/AlJazeera.png" group-title="国际",半岛英语
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="D09" tvg-name="CGTN" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="国际",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -190,7 +190,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="D14" tvg-name="CGTN阿语" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNalby.png" group-title="国际",CGTN阿语
 https://livear.cgtn.com/1000a/prog_index.m3u8
 
-#地方特色
+#地方特色/22个频道
 #EXTINF:-1 tvg-id="E01" tvg-name="茶频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="地方",茶频道
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8/?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="E02" tvg-name="快乐垂钓" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="地方",快乐垂钓
@@ -237,7 +237,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 
 
-#咪咕体育
+#咪咕体育/56个频道
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播4K-2
