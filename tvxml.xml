@@ -280,7 +280,7 @@
 <display-name lang="zh">金鹰纪实</display-name>
 </channel>
 <channel id="E04">
-<display-name lang="zh">北京纪实</display-name>
+<display-name lang="zh">纪实科教</display-name>
 </channel>
 <channel id="E05">
 <display-name lang="zh">卡酷少儿</display-name>
@@ -10647,56 +10647,62 @@
 <programme start="20231124235000 +0800" stop="20231124235900 +0800" channel="E03">
 <title lang="zh">看世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124003900 +0800" stop="20231124012400 +0800" channel="E04">
+<programme start="20231124000000 +0800" stop="20231124003800 +0800" channel="E04">
 <title lang="zh">记忆</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124012400 +0800" stop="20231124015400 +0800" channel="E04">
-<title lang="zh">现场说法</title><desc lang="zh"></desc>
+<programme start="20231124003800 +0800" stop="20231124010800 +0800" channel="E04">
+<title lang="zh">中国故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124015600 +0800" stop="20231124024100 +0800" channel="E04">
+<programme start="20231124010800 +0800" stop="20231124013800 +0800" channel="E04">
+<title lang="zh">美食有约</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124013800 +0800" stop="20231124021400 +0800" channel="E04">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124021400 +0800" stop="20231124034800 +0800" channel="E04">
 <title lang="zh">探索</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124024100 +0800" stop="20231124032100 +0800" channel="E04">
-<title lang="zh">佳片展映</title><desc lang="zh"></desc>
+<programme start="20231124034800 +0800" stop="20231124041800 +0800" channel="E04">
+<title lang="zh">中国故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124032300 +0800" stop="20231124040800 +0800" channel="E04">
-<title lang="zh">记忆</title><desc lang="zh"></desc>
+<programme start="20231124041800 +0800" stop="20231124044800 +0800" channel="E04">
+<title lang="zh">美食有约</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124040900 +0800" stop="20231124050900 +0800" channel="E04">
-<title lang="zh">法治中国60分</title><desc lang="zh"></desc>
+<programme start="20231124044800 +0800" stop="20231124052400 +0800" channel="E04">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124050900 +0800" stop="20231124055400 +0800" channel="E04">
-<title lang="zh">探索</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124055400 +0800" stop="20231124055900 +0800" channel="E04">
-<title lang="zh">《梦想北京》城市形象片20220101</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124060000 +0800" stop="20231124060000 +0800" channel="E04">
-<title lang="zh">接次日节目单</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124060400 +0800" stop="20231124064400 +0800" channel="E04">
-<title lang="zh">佳片展映</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124064400 +0800" stop="20231124071400 +0800" channel="E04">
-<title lang="zh">法治进行时</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124071800 +0800" stop="20231124074800 +0800" channel="E04">
-<title lang="zh">民法典通解通读</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124075200 +0800" stop="20231124083700 +0800" channel="E04">
-<title lang="zh">探索</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124083700 +0800" stop="20231124091700 +0800" channel="E04">
-<title lang="zh">佳片展映</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124092100 +0800" stop="20231124100600 +0800" channel="E04">
-<title lang="zh">记忆</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124100600 +0800" stop="20231124103600 +0800" channel="E04">
+<programme start="20231124052400 +0800" stop="20231124055400 +0800" channel="E04">
 <title lang="zh">健康北京</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124103900 +0800" stop="20231124112900 +0800" channel="E04">
-<title lang="zh">精品纪录片展播</title><desc lang="zh"></desc>
+<programme start="20231124055400 +0800" stop="20231124060400 +0800" channel="E04">
+<title lang="zh">梦想北京城市形象片</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124060400 +0800" stop="20231124070400 +0800" channel="E04">
+<title lang="zh">法治中国60分</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124070400 +0800" stop="20231124073700 +0800" channel="E04">
+<title lang="zh">法治进行时</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124073700 +0800" stop="20231124080700 +0800" channel="E04">
+<title lang="zh">现场说法</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124080700 +0800" stop="20231124084000 +0800" channel="E04">
+<title lang="zh">第三调解室</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124084000 +0800" stop="20231124091000 +0800" channel="E04">
+<title lang="zh">健康北京</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124091000 +0800" stop="20231124094200 +0800" channel="E04">
+<title lang="zh">美食有约</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124094200 +0800" stop="20231124101400 +0800" channel="E04">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124101400 +0800" stop="20231124110000 +0800" channel="E04">
+<title lang="zh">记忆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124110000 +0800" stop="20231124113000 +0800" channel="E04">
+<title lang="zh">民法典通解通读</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231124113000 +0800" stop="20231124120000 +0800" channel="E04">
 <title lang="zh">现场说法</title><desc lang="zh"></desc>
@@ -10710,62 +10716,65 @@
 <programme start="20231124130000 +0800" stop="20231124140000 +0800" channel="E04">
 <title lang="zh">法治中国60分</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124140000 +0800" stop="20231124140200 +0800" channel="E04">
-<title lang="zh">气象观天下之气象预报</title><desc lang="zh"></desc>
+<programme start="20231124140000 +0800" stop="20231124143000 +0800" channel="E04">
+<title lang="zh">一师亦友</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124140200 +0800" stop="20231124141900 +0800" channel="E04">
+<programme start="20231124143000 +0800" stop="20231124143200 +0800" channel="E04">
+<title lang="zh">气象观天下:气象预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124143200 +0800" stop="20231124145200 +0800" channel="E04">
 <title lang="zh">气象观天下</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124142000 +0800" stop="20231124150000 +0800" channel="E04">
-<title lang="zh">佳片展映</title><desc lang="zh"></desc>
+<programme start="20231124145200 +0800" stop="20231124152200 +0800" channel="E04">
+<title lang="zh">美食有约</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124150400 +0800" stop="20231124154400 +0800" channel="E04">
-<title lang="zh">佳片展映（）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124154800 +0800" stop="20231124161800 +0800" channel="E04">
-<title lang="zh">丝路时间</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124161800 +0800" stop="20231124164800 +0800" channel="E04">
-<title lang="zh">中国故事</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124165200 +0800" stop="20231124173700 +0800" channel="E04">
-<title lang="zh">探索</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124173900 +0800" stop="20231124174100 +0800" channel="E04">
-<title lang="zh">气象观天下之气象预报</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124174500 +0800" stop="20231124183000 +0800" channel="E04">
-<title lang="zh">记忆</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124183000 +0800" stop="20231124190000 +0800" channel="E04">
+<programme start="20231124152200 +0800" stop="20231124155400 +0800" channel="E04">
 <title lang="zh">健康北京</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124190000 +0800" stop="20231124193000 +0800" channel="E04">
-<title lang="zh">中国故事优创版</title><desc lang="zh"></desc>
+<programme start="20231124155400 +0800" stop="20231124162600 +0800" channel="E04">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124193000 +0800" stop="20231124200000 +0800" channel="E04">
+<programme start="20231124162600 +0800" stop="20231124171100 +0800" channel="E04">
+<title lang="zh">探索</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124171100 +0800" stop="20231124171500 +0800" channel="E04">
+<title lang="zh">气象观天下:气象预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124171500 +0800" stop="20231124180000 +0800" channel="E04">
+<title lang="zh">记忆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124180000 +0800" stop="20231124183000 +0800" channel="E04">
+<title lang="zh">中国故事</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124183000 +0800" stop="20231124190000 +0800" channel="E04">
+<title lang="zh">美食有约</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124190000 +0800" stop="20231124193000 +0800" channel="E04">
+<title lang="zh">健康北京</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124193000 +0800" stop="20231124200100 +0800" channel="E04">
 <title lang="zh">民法典通解通读</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231124200100 +0800" stop="20231124204600 +0800" channel="E04">
 <title lang="zh">记忆</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124204700 +0800" stop="20231124211700 +0800" channel="E04">
+<programme start="20231124204600 +0800" stop="20231124211800 +0800" channel="E04">
 <title lang="zh">第三调解室精编版</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124212000 +0800" stop="20231124215000 +0800" channel="E04">
+<programme start="20231124211800 +0800" stop="20231124215200 +0800" channel="E04">
+<title lang="zh">艺载中国</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124215200 +0800" stop="20231124222600 +0800" channel="E04">
 <title lang="zh">法治进行时</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124215300 +0800" stop="20231124222300 +0800" channel="E04">
-<title lang="zh">创新北京精编版</title><desc lang="zh"></desc>
+<programme start="20231124222600 +0800" stop="20231124225800 +0800" channel="E04">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124222600 +0800" stop="20231124225600 +0800" channel="E04">
-<title lang="zh">中国故事</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231124225900 +0800" stop="20231124234400 +0800" channel="E04">
+<programme start="20231124225800 +0800" stop="20231124234900 +0800" channel="E04">
 <title lang="zh">探索</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231124234700 +0800" stop="20231124003700 +0800" channel="E04">
-<title lang="zh">精品纪录片展播</title><desc lang="zh"></desc>
+<programme start="20231124234900 +0800" stop="20231124000000 +0800" channel="E04">
+<title lang="zh">记忆</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231124000000 +0800" stop="20231124001200 +0800" channel="E05">
 <title lang="zh">熊出没之怪兽计划Ⅱ(18)</title><desc lang="zh"></desc>
