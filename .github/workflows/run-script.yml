@@ -1,8 +1,6 @@
 name: Run Auto-TVxml Script
 
-on:
-  schedule:
-    - cron: '30 0 * * *'  # 在每天北京时间00:30运行
+on: [push]
 
 jobs:
   run-script:
