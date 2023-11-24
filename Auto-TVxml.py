@@ -15,7 +15,7 @@ import requests
 # 原始数据来源地址
 
 m3u_url='https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u'
-epg1_api='https://epg.erw.cc/api/diyp/?ch='
+epg1_api='https://epg.112114.xyz/?ch='
 epg2_api='https://diyp.112114.xyz/?ch='
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'}
 
