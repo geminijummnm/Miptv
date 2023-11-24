@@ -9342,490 +9342,262 @@
 <programme start="20231124233000 +0800" stop="20231124125900 +0800" channel="D05">
 <title lang="zh">萌妃驾到#20[粤/普]</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123000000 +0800" stop="20231123001500 +0800" channel="D06">
+<programme start="20231124000000 +0800" stop="20231124001000 +0800" channel="D06">
 <title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123001500 +0800" stop="20231123003000 +0800" channel="D06">
+<programme start="20231124001000 +0800" stop="20231124001500 +0800" channel="D06">
+<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124001500 +0800" stop="20231124003000 +0800" channel="D06">
 <title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123003000 +0800" stop="20231123005700 +0800" channel="D06">
+<programme start="20231124003000 +0800" stop="20231124005700 +0800" channel="D06">
 <title lang="zh">GRAND SUMO Highlights-GRAND SUMO Highlights</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123005700 +0800" stop="20231123010000 +0800" channel="D06">
+<programme start="20231124005700 +0800" stop="20231124010000 +0800" channel="D06">
 <title lang="zh">Sumopedia-Sumopedia</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123010000 +0800" stop="20231123011500 +0800" channel="D06">
+<programme start="20231124010000 +0800" stop="20231124011000 +0800" channel="D06">
 <title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123011500 +0800" stop="20231123013000 +0800" channel="D06">
+<programme start="20231124011000 +0800" stop="20231124012300 +0800" channel="D06">
 <title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123013000 +0800" stop="20231123014500 +0800" channel="D06">
-<title lang="zh">NHK WORLD-JAPAN Special program-NHK WORLD-JAPAN Special program</title><desc lang="zh"></desc>
+<programme start="20231124012300 +0800" stop="20231124013000 +0800" channel="D06">
+<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123014500 +0800" stop="20231123015500 +0800" channel="D06">
-<title lang="zh">Magical Japanese-Magical Japanese</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123015500 +0800" stop="20231123020000 +0800" channel="D06">
-<title lang="zh">Core Kyoto mini-Core Kyoto mini</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123020000 +0800" stop="20231123022700 +0800" channel="D06">
-<title lang="zh">NEWSROOM TOKYO-NEWSROOM TOKYO</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123022700 +0800" stop="20231123024000 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123024000 +0800" stop="20231123025500 +0800" channel="D06">
-<title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123025500 +0800" stop="20231123030000 +0800" channel="D06">
-<title lang="zh">Ukiyoe EDO-LIFE: A Bedtime Routine-Ukiyoe EDO-LIFE: A Bedtime Routine</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123030000 +0800" stop="20231123033000 +0800" channel="D06">
-<title lang="zh">Todays Close-Up-Todays Close-Up</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123033000 +0800" stop="20231123040000 +0800" channel="D06">
-<title lang="zh">FRONTRUNNERS-FRONTRUNNERS</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123040000 +0800" stop="20231123041800 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123041800 +0800" stop="20231123043000 +0800" channel="D06">
-<title lang="zh">NEWSLINE BIZ-NEWSLINE BIZ</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123043000 +0800" stop="20231123050000 +0800" channel="D06">
-<title lang="zh">Trails to Oishii Tokyo-Trails to Oishii Tokyo</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123050000 +0800" stop="20231123051800 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123051800 +0800" stop="20231123053000 +0800" channel="D06">
-<title lang="zh">NEWSLINE BIZ-NEWSLINE BIZ</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123053000 +0800" stop="20231123060000 +0800" channel="D06">
-<title lang="zh">Dive in Tokyo-Dive in Tokyo</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123060000 +0800" stop="20231123061800 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123061800 +0800" stop="20231123063000 +0800" channel="D06">
-<title lang="zh">NEWSLINE BIZ-NEWSLINE BIZ</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123063000 +0800" stop="20231123064500 +0800" channel="D06">
-<title lang="zh">NHK WORLD-JAPAN Special program-NHK WORLD-JAPAN Special program</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123064500 +0800" stop="20231123065500 +0800" channel="D06">
-<title lang="zh">Magical Japanese-Magical Japanese</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123065500 +0800" stop="20231123070000 +0800" channel="D06">
-<title lang="zh">Core Kyoto mini-Core Kyoto mini</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123070000 +0800" stop="20231123071500 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123071500 +0800" stop="20231123072000 +0800" channel="D06">
-<title lang="zh">Ukiyoe EDO-LIFE: A Bedtime Routine-Ukiyoe EDO-LIFE: A Bedtime Routine</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123072000 +0800" stop="20231123072500 +0800" channel="D06">
-<title lang="zh">TIME-LAPSE JAPAN-TIME-LAPSE JAPAN</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123072500 +0800" stop="20231123073000 +0800" channel="D06">
-<title lang="zh">Short Program-Short Program</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123073000 +0800" stop="20231123075700 +0800" channel="D06">
-<title lang="zh">GRAND SUMO Highlights-GRAND SUMO Highlights</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123075700 +0800" stop="20231123080000 +0800" channel="D06">
-<title lang="zh">Sumopedia-Sumopedia</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123080000 +0800" stop="20231123081500 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123081500 +0800" stop="20231123083000 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123083000 +0800" stop="20231123090000 +0800" channel="D06">
-<title lang="zh">Core Kyoto-Core Kyoto</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123090000 +0800" stop="20231123091500 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123091500 +0800" stop="20231123093000 +0800" channel="D06">
-<title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123093000 +0800" stop="20231123100000 +0800" channel="D06">
+<programme start="20231124013000 +0800" stop="20231124020000 +0800" channel="D06">
 <title lang="zh">DESIGN X STORIES-DESIGN X STORIES</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123100000 +0800" stop="20231123101000 +0800" channel="D06">
+<programme start="20231124020000 +0800" stop="20231124021000 +0800" channel="D06">
 <title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123101000 +0800" stop="20231123102300 +0800" channel="D06">
+<programme start="20231124021000 +0800" stop="20231124022300 +0800" channel="D06">
 <title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123102300 +0800" stop="20231123103000 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123103000 +0800" stop="20231123110000 +0800" channel="D06">
-<title lang="zh">Japanology Plus-Japanology Plus</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123110000 +0800" stop="20231123111000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123111000 +0800" stop="20231123112300 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123112300 +0800" stop="20231123113000 +0800" channel="D06">
-<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123113000 +0800" stop="20231123120000 +0800" channel="D06">
-<title lang="zh">Trails to Oishii Tokyo-Trails to Oishii Tokyo</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123120000 +0800" stop="20231123121000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123121000 +0800" stop="20231123122300 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123122300 +0800" stop="20231123123000 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123123000 +0800" stop="20231123125700 +0800" channel="D06">
-<title lang="zh">GRAND SUMO Highlights-GRAND SUMO Highlights</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123125700 +0800" stop="20231123130000 +0800" channel="D06">
-<title lang="zh">Sumopedia-Sumopedia</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123130000 +0800" stop="20231123131000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123131000 +0800" stop="20231123131500 +0800" channel="D06">
-<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123131500 +0800" stop="20231123133000 +0800" channel="D06">
-<title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123133000 +0800" stop="20231123140000 +0800" channel="D06">
-<title lang="zh">Core Kyoto-Core Kyoto</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123140000 +0800" stop="20231123141000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123141000 +0800" stop="20231123142500 +0800" channel="D06">
+<programme start="20231124022300 +0800" stop="20231124024000 +0800" channel="D06">
 <title lang="zh">THE QUEST FOR ANCIENT COLOR-THE QUEST FOR ANCIENT COLOR</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123142500 +0800" stop="20231123143000 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123143000 +0800" stop="20231123150000 +0800" channel="D06">
-<title lang="zh">DESIGN X STORIES-DESIGN X STORIES</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123150000 +0800" stop="20231123151000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123151000 +0800" stop="20231123152500 +0800" channel="D06">
-<title lang="zh">The World Heritage Sites in Japan-The World Heritage Sites in Japan</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123152500 +0800" stop="20231123153000 +0800" channel="D06">
-<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123153000 +0800" stop="20231123160000 +0800" channel="D06">
-<title lang="zh">Japanology Plus-Japanology Plus</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123160000 +0800" stop="20231123161000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123161000 +0800" stop="20231123162000 +0800" channel="D06">
-<title lang="zh">Taiwans Windy Frontline Islands-Taiwans Windy Frontline Islands</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123162000 +0800" stop="20231123162300 +0800" channel="D06">
-<title lang="zh">Time-lapse Journey-Time-lapse Journey</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123162300 +0800" stop="20231123163000 +0800" channel="D06">
-<title lang="zh">Short Program-Short Program</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123163000 +0800" stop="20231123165700 +0800" channel="D06">
-<title lang="zh">GRAND SUMO Highlights-GRAND SUMO Highlights</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123165700 +0800" stop="20231123170000 +0800" channel="D06">
-<title lang="zh">Sumopedia-Sumopedia</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123170000 +0800" stop="20231123171000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123171000 +0800" stop="20231123171500 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123171500 +0800" stop="20231123173000 +0800" channel="D06">
+<programme start="20231124024000 +0800" stop="20231124025500 +0800" channel="D06">
 <title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123173000 +0800" stop="20231123180000 +0800" channel="D06">
-<title lang="zh">Trails to Oishii Tokyo-Trails to Oishii Tokyo</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123180000 +0800" stop="20231123181500 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123181500 +0800" stop="20231123183000 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123183000 +0800" stop="20231123190000 +0800" channel="D06">
-<title lang="zh">Core Kyoto-Core Kyoto</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123190000 +0800" stop="20231123191500 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123191500 +0800" stop="20231123193000 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123193000 +0800" stop="20231123194000 +0800" channel="D06">
-<title lang="zh">Trails to Oishii Tokyo Mini-Trails to Oishii Tokyo Mini</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123194000 +0800" stop="20231123195500 +0800" channel="D06">
-<title lang="zh">Direct Talk-Direct Talk</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123195500 +0800" stop="20231123200000 +0800" channel="D06">
+<programme start="20231124025500 +0800" stop="20231124030000 +0800" channel="D06">
 <title lang="zh">Ukiyoe EDO-LIFE: Good or Evil Soul-Ukiyoe EDO-LIFE: Good or Evil Soul</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123200000 +0800" stop="20231123201000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
+<programme start="20231124030000 +0800" stop="20231124033000 +0800" channel="D06">
+<title lang="zh">Japans Top Inventions-Japans Top Inventions</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123201000 +0800" stop="20231123202500 +0800" channel="D06">
-<title lang="zh">THE QUEST FOR ANCIENT COLOR-THE QUEST FOR ANCIENT COLOR</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123202500 +0800" stop="20231123203000 +0800" channel="D06">
-<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123203000 +0800" stop="20231123210000 +0800" channel="D06">
-<title lang="zh">DESIGN X STORIES-DESIGN X STORIES</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123210000 +0800" stop="20231123211000 +0800" channel="D06">
-<title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123211000 +0800" stop="20231123212500 +0800" channel="D06">
-<title lang="zh">The World Heritage Sites in Japan-The World Heritage Sites in Japan</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123212500 +0800" stop="20231123213000 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123213000 +0800" stop="20231123220000 +0800" channel="D06">
+<programme start="20231124033000 +0800" stop="20231124040000 +0800" channel="D06">
 <title lang="zh">Japanology Plus-Japanology Plus</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123220000 +0800" stop="20231123221000 +0800" channel="D06">
+<programme start="20231124040000 +0800" stop="20231124041500 +0800" channel="D06">
 <title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123221000 +0800" stop="20231123222300 +0800" channel="D06">
-<title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
+<programme start="20231124041500 +0800" stop="20231124043000 +0800" channel="D06">
+<title lang="zh">The World Heritage Sites in Japan-The World Heritage Sites in Japan</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123222300 +0800" stop="20231123223000 +0800" channel="D06">
-<title lang="zh">Framing Everyday Moments-Framing Everyday Moments</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123223000 +0800" stop="20231123230000 +0800" channel="D06">
+<programme start="20231124043000 +0800" stop="20231124050000 +0800" channel="D06">
 <title lang="zh">Japan Railway Journal-Japan Railway Journal</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123230000 +0800" stop="20231123231000 +0800" channel="D06">
+<programme start="20231124050000 +0800" stop="20231124051500 +0800" channel="D06">
 <title lang="zh">NHK NEWSLINE-NHK NEWSLINE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123231000 +0800" stop="20231123232300 +0800" channel="D06">
+<programme start="20231124051500 +0800" stop="20231124053000 +0800" channel="D06">
 <title lang="zh">NEWSLINE IN DEPTH-NEWSLINE IN DEPTH</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123232300 +0800" stop="20231123233000 +0800" channel="D06">
-<title lang="zh">On the Wings 5min.-On the Wings 5min.</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123010000 +0800" stop="20231123010200 +0800" channel="D07">
+<programme start="20231124010000 +0800" stop="20231124010200 +0800" channel="D07">
 <title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123010200 +0800" stop="20231123020000 +0800" channel="D07">
+<programme start="20231124010200 +0800" stop="20231124020000 +0800" channel="D07">
 <title lang="zh">Beyond Maximum Security(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123020000 +0800" stop="20231123030000 +0800" channel="D07">
+<programme start="20231124020000 +0800" stop="20231124030000 +0800" channel="D07">
 <title lang="zh">Singapore Tonight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123030000 +0800" stop="20231123040000 +0800" channel="D07">
+<programme start="20231124030000 +0800" stop="20231124040000 +0800" channel="D07">
 <title lang="zh">Beyond Maximum Security(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123040000 +0800" stop="20231123050000 +0800" channel="D07">
+<programme start="20231124040000 +0800" stop="20231124050000 +0800" channel="D07">
 <title lang="zh">Asia Tonight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123050000 +0800" stop="20231123053000 +0800" channel="D07">
-<title lang="zh">Specialists In The Unusual(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123053000 +0800" stop="20231123060000 +0800" channel="D07">
-<title lang="zh">CNA Correspondent(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123060000 +0800" stop="20231123070000 +0800" channel="D07">
-<title lang="zh">Singapore Tonight(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123070000 +0800" stop="20231123100000 +0800" channel="D07">
-<title lang="zh">Asia First(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123100000 +0800" stop="20231123100200 +0800" channel="D07">
-<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123100200 +0800" stop="20231123103000 +0800" channel="D07">
-<title lang="zh">Specialists In The Unusual(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123103000 +0800" stop="20231123110000 +0800" channel="D07">
-<title lang="zh">CNA Correspondent(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123110000 +0800" stop="20231123130000 +0800" channel="D07">
-<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123130000 +0800" stop="20231123130200 +0800" channel="D07">
-<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123130200 +0800" stop="20231123140000 +0800" channel="D07">
-<title lang="zh">Inside Our Gardens By The Bay(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123140000 +0800" stop="20231123160000 +0800" channel="D07">
-<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123160000 +0800" stop="20231123160200 +0800" channel="D07">
-<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123160200 +0800" stop="20231123170000 +0800" channel="D07">
-<title lang="zh">The Longest Day 2(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123170000 +0800" stop="20231123190000 +0800" channel="D07">
-<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123190000 +0800" stop="20231123190200 +0800" channel="D07">
-<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123190200 +0800" stop="20231123200000 +0800" channel="D07">
-<title lang="zh">Beyond Maximum Security(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123200000 +0800" stop="20231123210000 +0800" channel="D07">
-<title lang="zh">Asia Tonight(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123210000 +0800" stop="20231123210200 +0800" channel="D07">
-<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123210200 +0800" stop="20231123220000 +0800" channel="D07">
+<programme start="20231124050000 +0800" stop="20231124060000 +0800" channel="D07">
 <title lang="zh">Insight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123220000 +0800" stop="20231123230000 +0800" channel="D07">
+<programme start="20231124060000 +0800" stop="20231124070000 +0800" channel="D07">
 <title lang="zh">Singapore Tonight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123230000 +0800" stop="20231123230200 +0800" channel="D07">
+<programme start="20231124070000 +0800" stop="20231124100000 +0800" channel="D07">
+<title lang="zh">Asia First(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124100000 +0800" stop="20231124100200 +0800" channel="D07">
 <title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123230200 +0800" stop="20231123235900 +0800" channel="D07">
-<title lang="zh">The Longest Day 2(普)</title><desc lang="zh"></desc>
+<programme start="20231124100200 +0800" stop="20231124110000 +0800" channel="D07">
+<title lang="zh">Insight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123000000 +0800" stop="20231123010000 +0800" channel="D08">
+<programme start="20231124110000 +0800" stop="20231124130000 +0800" channel="D07">
+<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124130000 +0800" stop="20231124130200 +0800" channel="D07">
+<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124130200 +0800" stop="20231124133000 +0800" channel="D07">
+<title lang="zh">Specialists In The Unusual(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124133000 +0800" stop="20231124140000 +0800" channel="D07">
+<title lang="zh">CNA Correspondent(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124140000 +0800" stop="20231124160000 +0800" channel="D07">
+<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124160000 +0800" stop="20231124160200 +0800" channel="D07">
+<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124160200 +0800" stop="20231124170000 +0800" channel="D07">
+<title lang="zh">Beyond Maximum Security(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124170000 +0800" stop="20231124190000 +0800" channel="D07">
+<title lang="zh">Asia Now(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124190000 +0800" stop="20231124190200 +0800" channel="D07">
+<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124190200 +0800" stop="20231124200000 +0800" channel="D07">
+<title lang="zh">Inside Our Gardens By The Bay(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124200000 +0800" stop="20231124210000 +0800" channel="D07">
+<title lang="zh">Asia Tonight(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124210000 +0800" stop="20231124210200 +0800" channel="D07">
+<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124210200 +0800" stop="20231124220000 +0800" channel="D07">
+<title lang="zh">Food . Energy . Water .(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124220000 +0800" stop="20231124230000 +0800" channel="D07">
+<title lang="zh">Singapore Tonight(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124230000 +0800" stop="20231124230200 +0800" channel="D07">
+<title lang="zh">Headline News(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124230200 +0800" stop="20231124235900 +0800" channel="D07">
+<title lang="zh">Insight(普)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124000000 +0800" stop="20231124010000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123010000 +0800" stop="20231123013000 +0800" channel="D08">
+<programme start="20231124010000 +0800" stop="20231124013000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123013000 +0800" stop="20231123020000 +0800" channel="D08">
-<title lang="zh">InsideStory第488集</title><desc lang="zh"></desc>
+<programme start="20231124013000 +0800" stop="20231124020000 +0800" channel="D08">
+<title lang="zh">InsideStory第489集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123020000 +0800" stop="20231123030000 +0800" channel="D08">
+<programme start="20231124020000 +0800" stop="20231124030000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123030000 +0800" stop="20231123040000 +0800" channel="D08">
+<programme start="20231124030000 +0800" stop="20231124040000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123040000 +0800" stop="20231123043000 +0800" channel="D08">
+<programme start="20231124040000 +0800" stop="20231124043000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123043000 +0800" stop="20231123050000 +0800" channel="D08">
-<title lang="zh">TheStream第123集</title><desc lang="zh"></desc>
+<programme start="20231124043000 +0800" stop="20231124050000 +0800" channel="D08">
+<title lang="zh">TalkToAlJazeera-HakanFidan</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123050000 +0800" stop="20231123060000 +0800" channel="D08">
+<programme start="20231124050000 +0800" stop="20231124060000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123060000 +0800" stop="20231123070000 +0800" channel="D08">
+<programme start="20231124060000 +0800" stop="20231124070000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123070000 +0800" stop="20231123073000 +0800" channel="D08">
+<programme start="20231124070000 +0800" stop="20231124073000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123073000 +0800" stop="20231123080000 +0800" channel="D08">
-<title lang="zh">FaultLines-LicenseToKill</title><desc lang="zh"></desc>
+<programme start="20231124073000 +0800" stop="20231124080000 +0800" channel="D08">
+<title lang="zh">101East-Kazakhstan:FleeingTheDraft</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123080000 +0800" stop="20231123083000 +0800" channel="D08">
+<programme start="20231124080000 +0800" stop="20231124083000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123083000 +0800" stop="20231123090000 +0800" channel="D08">
-<title lang="zh">InsideStory第488集</title><desc lang="zh"></desc>
+<programme start="20231124083000 +0800" stop="20231124090000 +0800" channel="D08">
+<title lang="zh">InsideStory第489集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123090000 +0800" stop="20231123093000 +0800" channel="D08">
+<programme start="20231124090000 +0800" stop="20231124093000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123093000 +0800" stop="20231123100000 +0800" channel="D08">
-<title lang="zh">TheListeningPost第42集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123100000 +0800" stop="20231123103000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123103000 +0800" stop="20231123110000 +0800" channel="D08">
-<title lang="zh">TheStream第123集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123110000 +0800" stop="20231123113000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123113000 +0800" stop="20231123120000 +0800" channel="D08">
-<title lang="zh">InsideStory第488集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123120000 +0800" stop="20231123123000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123123000 +0800" stop="20231123130000 +0800" channel="D08">
-<title lang="zh">DemocracyMaybe-WeHadADream</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123130000 +0800" stop="20231123133000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123133000 +0800" stop="20231123140000 +0800" channel="D08">
-<title lang="zh">TheBottomLine第48集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123140000 +0800" stop="20231123143000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123143000 +0800" stop="20231123150000 +0800" channel="D08">
-<title lang="zh">InsideStory第488集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123150000 +0800" stop="20231123160000 +0800" channel="D08">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123160000 +0800" stop="20231123163000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123163000 +0800" stop="20231123170000 +0800" channel="D08">
-<title lang="zh">Upfront第23集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123170000 +0800" stop="20231123173000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123173000 +0800" stop="20231123180000 +0800" channel="D08">
-<title lang="zh">FaultLines-LicenseToKill</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123180000 +0800" stop="20231123190000 +0800" channel="D08">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123190000 +0800" stop="20231123193000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123193000 +0800" stop="20231123200000 +0800" channel="D08">
-<title lang="zh">InsideStory第488集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123200000 +0800" stop="20231123203000 +0800" channel="D08">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123203000 +0800" stop="20231123210000 +0800" channel="D08">
+<programme start="20231124093000 +0800" stop="20231124100000 +0800" channel="D08">
 <title lang="zh">Witness-LandOrDeath</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123210000 +0800" stop="20231123220000 +0800" channel="D08">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231123220000 +0800" stop="20231123223000 +0800" channel="D08">
+<programme start="20231124100000 +0800" stop="20231124103000 +0800" channel="D08">
 <title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123223000 +0800" stop="20231123230000 +0800" channel="D08">
-<title lang="zh">TheStream第123集</title><desc lang="zh"></desc>
+<programme start="20231124103000 +0800" stop="20231124110000 +0800" channel="D08">
+<title lang="zh">TheBottomLine第48集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231123230000 +0800" stop="20231123000000 +0800" channel="D08">
+<programme start="20231124110000 +0800" stop="20231124113000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124113000 +0800" stop="20231124120000 +0800" channel="D08">
+<title lang="zh">Upfront第23集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124120000 +0800" stop="20231124123000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124123000 +0800" stop="20231124130000 +0800" channel="D08">
+<title lang="zh">FaultLines-LicenseToKill</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124130000 +0800" stop="20231124133000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124133000 +0800" stop="20231124140000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第42集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124140000 +0800" stop="20231124143000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124143000 +0800" stop="20231124150000 +0800" channel="D08">
+<title lang="zh">TalkToAlJazeera-HakanFidan</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124150000 +0800" stop="20231124160000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124160000 +0800" stop="20231124163000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124163000 +0800" stop="20231124170000 +0800" channel="D08">
+<title lang="zh">TheStream-PalestineCreates:ArtOfResistance</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124170000 +0800" stop="20231124173000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124173000 +0800" stop="20231124180000 +0800" channel="D08">
+<title lang="zh">101East-Kazakhstan:FleeingTheDraft</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124180000 +0800" stop="20231124190000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124190000 +0800" stop="20231124193000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124193000 +0800" stop="20231124200000 +0800" channel="D08">
+<title lang="zh">InsideStory第489集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124200000 +0800" stop="20231124203000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124203000 +0800" stop="20231124210000 +0800" channel="D08">
+<title lang="zh">DemocracyMaybe-WeHadADream</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124210000 +0800" stop="20231124220000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124220000 +0800" stop="20231124223000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124223000 +0800" stop="20231124230000 +0800" channel="D08">
+<title lang="zh">InsideStory第489集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231124230000 +0800" stop="20231124000000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231124000000 +0800" stop="20231124004500 +0800" channel="D09">
