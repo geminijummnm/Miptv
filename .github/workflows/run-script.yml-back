@@ -1,6 +1,6 @@
 name: Run Auto-TVxml Script
 
-on: [push]
+#on: [push]
 
 jobs:
   run-script:
