@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests time re json
+        pip install requests time
 
     - name: Run Auto-TVxml Script
       run: python Auto-TVxml.py
@@ -30,5 +30,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add tvxml.xml
+        git status  # 添加调试信息
         git commit -m "Update tvxml.xml"
+        git status  # 添加调试信息
+        git log --oneline  # 添加调试信息
         git push
