@@ -178,10 +178,10 @@
 <display-name lang="zh">黑莓动画</display-name>
 </channel>
 <channel id="C10">
-<display-name lang="zh">精彩影视</display-name>
+<display-name lang="zh">哒啵电竞</display-name>
 </channel>
 <channel id="C11">
-<display-name lang="zh">纯享4K</display-name>
+<display-name lang="zh">哒啵赛事</display-name>
 </channel>
 <channel id="C12">
 <display-name lang="zh">乐游</display-name>
@@ -6882,209 +6882,86 @@
 <programme start="20231125235100 +0800" stop="20231125240000 +0800" channel="C09">
 <title lang="zh">全职法师第2季(第12集)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125000000 +0800" stop="20231125240000 +0800" channel="C10">
-<title lang="zh">杀破狼·贪狼</title><desc lang="zh"></desc>
+<programme start="20231125000100 +0800" stop="20231125020300 +0800" channel="C10">
+<title lang="zh">阿四后花园大冒险2【植物大战僵尸】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125012800 +0800" stop="20231125021200 +0800" channel="C10">
-<title lang="zh">伞娘传奇(12)</title><desc lang="zh"></desc>
+<programme start="20231125020300 +0800" stop="20231125041300 +0800" channel="C10">
+<title lang="zh">煞神地图闯关2【我的世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125021200 +0800" stop="20231125025600 +0800" channel="C10">
-<title lang="zh">伞娘传奇(13)</title><desc lang="zh"></desc>
+<programme start="20231125041300 +0800" stop="20231125045500 +0800" channel="C10">
+<title lang="zh">桂眼眯眯荣耀事件2【王者荣耀】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125025600 +0800" stop="20231125034000 +0800" channel="C10">
-<title lang="zh">伞娘传奇(14)</title><desc lang="zh"></desc>
+<programme start="20231125045500 +0800" stop="20231125063200 +0800" channel="C10">
+<title lang="zh">哥斯拉实力吃鸡2【和平精英】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125034000 +0800" stop="20231125042400 +0800" channel="C10">
-<title lang="zh">伞娘传奇(15)</title><desc lang="zh"></desc>
+<programme start="20231125063200 +0800" stop="20231125085900 +0800" channel="C10">
+<title lang="zh">川烈下饭排位2【王者荣耀】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125042400 +0800" stop="20231125050900 +0800" channel="C10">
-<title lang="zh">伞娘传奇(16)</title><desc lang="zh"></desc>
+<programme start="20231125085900 +0800" stop="20231125105600 +0800" channel="C10">
+<title lang="zh">桃子姐姐僵尸部落【植物大战僵尸】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125050900 +0800" stop="20231125055200 +0800" channel="C10">
-<title lang="zh">十二金钱镖(33)</title><desc lang="zh"></desc>
+<programme start="20231125105600 +0800" stop="20231125132700 +0800" channel="C10">
+<title lang="zh">阿虎失误不断【蛋仔派对】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125055200 +0800" stop="20231125063500 +0800" channel="C10">
-<title lang="zh">十二金钱镖(34)</title><desc lang="zh"></desc>
+<programme start="20231125132700 +0800" stop="20231125152800 +0800" channel="C10">
+<title lang="zh">桃子姐姐僵尸部落【植物大战僵尸】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125063500 +0800" stop="20231125071900 +0800" channel="C10">
-<title lang="zh">新甘十九妹(1)</title><desc lang="zh"></desc>
+<programme start="20231125152800 +0800" stop="20231125171200 +0800" channel="C10">
+<title lang="zh">猩猩队长在线上分记【和平精英】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125071900 +0800" stop="20231125080400 +0800" channel="C10">
-<title lang="zh">新甘十九妹(2)</title><desc lang="zh"></desc>
+<programme start="20231125171200 +0800" stop="20231125180800 +0800" channel="C10">
+<title lang="zh">可乐哥方块危机【迷你世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125080400 +0800" stop="20231125092300 +0800" channel="C10">
-<title lang="zh">飞跃地心</title><desc lang="zh"></desc>
+<programme start="20231125180800 +0800" stop="20231125191500 +0800" channel="C10">
+<title lang="zh">文墨对决日记【地铁跑酷】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125092300 +0800" stop="20231125100600 +0800" channel="C10">
-<title lang="zh">伞娘传奇(17)</title><desc lang="zh"></desc>
+<programme start="20231125191500 +0800" stop="20231125210100 +0800" channel="C10">
+<title lang="zh">狄克海威科技之星5【荒野乱斗】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125100600 +0800" stop="20231125105000 +0800" channel="C10">
-<title lang="zh">伞娘传奇(18)</title><desc lang="zh"></desc>
+<programme start="20231125210100 +0800" stop="20231125222400 +0800" channel="C10">
+<title lang="zh">无颜牛哥蛇蛇争第一2【贪吃蛇】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125105000 +0800" stop="20231125113400 +0800" channel="C10">
-<title lang="zh">伞娘传奇(19)</title><desc lang="zh"></desc>
+<programme start="20231125222400 +0800" stop="20231125240000 +0800" channel="C10">
+<title lang="zh">修梦神奇冷知识【我的世界】</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125113400 +0800" stop="20231125121800 +0800" channel="C10">
-<title lang="zh">伞娘传奇(20)</title><desc lang="zh"></desc>
+<programme start="20231125000000 +0800" stop="20231125004800 +0800" channel="C11">
+<title lang="zh">重庆QGhappy 对阵 佛山GK 第四场.ts</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125121800 +0800" stop="20231125133600 +0800" channel="C10">
-<title lang="zh">整容日记</title><desc lang="zh"></desc>
+<programme start="20231125004800 +0800" stop="20231125022700 +0800" channel="C11">
+<title lang="zh">上海EDG.M 对阵 RNG.M 第一场.ts</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125133600 +0800" stop="20231125145300 +0800" channel="C10">
-<title lang="zh">魔力果乐岛之拯救行动</title><desc lang="zh"></desc>
+<programme start="20231125022700 +0800" stop="20231125041100 +0800" channel="C11">
+<title lang="zh">RW侠 对阵 上海EDG.M 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125145300 +0800" stop="20231125162700 +0800" channel="C10">
-<title lang="zh">不二神探</title><desc lang="zh"></desc>
+<programme start="20231125041100 +0800" stop="20231125060800 +0800" channel="C11">
+<title lang="zh">MTG 对阵 VG 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125162700 +0800" stop="20231125174700 +0800" channel="C10">
-<title lang="zh">草原大作战</title><desc lang="zh"></desc>
+<programme start="20231125060800 +0800" stop="20231125075700 +0800" channel="C11">
+<title lang="zh">佛山GK 对阵 北京WB 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125174700 +0800" stop="20231125193800 +0800" channel="C10">
-<title lang="zh">分手大师</title><desc lang="zh"></desc>
+<programme start="20231125075700 +0800" stop="20231125095000 +0800" channel="C11">
+<title lang="zh">广州TTG 对阵 KSG 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125193800 +0800" stop="20231125202200 +0800" channel="C10">
-<title lang="zh">新甘十九妹(3)</title><desc lang="zh"></desc>
+<programme start="20231125095000 +0800" stop="20231125105600 +0800" channel="C11">
+<title lang="zh">南京Hero久竞 对阵 广州TTG 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125202200 +0800" stop="20231125210600 +0800" channel="C10">
-<title lang="zh">新甘十九妹(4)</title><desc lang="zh"></desc>
+<programme start="20231125105600 +0800" stop="20231125121400 +0800" channel="C11">
+<title lang="zh">重庆狼队 对阵 武汉eStarPro 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125210600 +0800" stop="20231125215000 +0800" channel="C10">
-<title lang="zh">新甘十九妹(5)</title><desc lang="zh"></desc>
+<programme start="20231125121400 +0800" stop="20231125133900 +0800" channel="C11">
+<title lang="zh">上海RNG.M 对阵 北京WB 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125215000 +0800" stop="20231125223400 +0800" channel="C10">
-<title lang="zh">新甘十九妹(6)</title><desc lang="zh"></desc>
+<programme start="20231125133900 +0800" stop="20231125163900 +0800" channel="C11">
+<title lang="zh">杭州LGD大鹅 对阵 佛山GK 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125223400 +0800" stop="20231125240000 +0800" channel="C10">
-<title lang="zh">我的青春都是你</title><desc lang="zh"></desc>
+<programme start="20231125163900 +0800" stop="20231125183000 +0800" channel="C11">
+<title lang="zh">西安WE 对阵 厦门VG 第一场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125001500 +0800" stop="20231125004300 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 横道子村——长白山下 莓香满园</title><desc lang="zh"></desc>
+<programme start="20231125183000 +0800" stop="20231125235000 +0800" channel="C11">
+<title lang="zh">2023和平精英全球总决赛周中生存赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231125004300 +0800" stop="20231125011100 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 钱冲村——一棵黄金树 铺就黄金路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125011100 +0800" stop="20231125015100 +0800" channel="C11">
-<title lang="zh">探索·发现4K 探秘三星堆 第10集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125015100 +0800" stop="20231125024300 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第三集 复兴之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125024300 +0800" stop="20231125033400 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125033400 +0800" stop="20231125041600 +0800" channel="C11">
-<title lang="zh">探秘“最美高原湿地”</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125041600 +0800" stop="20231125045800 +0800" channel="C11">
-<title lang="zh">探秘湿地公园 寻找高山雪豹</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125045800 +0800" stop="20231125050400 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 五彩碧池</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125050400 +0800" stop="20231125050900 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 钙华瀑布</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125050900 +0800" stop="20231125053900 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 白头叶猴</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125053900 +0800" stop="20231125060900 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 中国香港</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125060900 +0800" stop="20231125070800 +0800" channel="C11">
-<title lang="zh">乐享汇4K “新的唱响”演唱会</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125070800 +0800" stop="20231125073700 +0800" channel="C11">
-<title lang="zh">丛林星球4K 月亮丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125073700 +0800" stop="20231125080300 +0800" channel="C11">
-<title lang="zh">丛林星球4K 芬芳丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125080300 +0800" stop="20231125083100 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 横道子村——长白山下 莓香满园</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125083100 +0800" stop="20231125085900 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 钱冲村——一棵黄金树 铺就黄金路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125085900 +0800" stop="20231125093900 +0800" channel="C11">
-<title lang="zh">探索·发现4K 探秘三星堆 第10集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125093900 +0800" stop="20231125103000 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第三集 复兴之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125103000 +0800" stop="20231125112200 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125112200 +0800" stop="20231125120400 +0800" channel="C11">
-<title lang="zh">探秘“最美高原湿地”</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125120400 +0800" stop="20231125124600 +0800" channel="C11">
-<title lang="zh">探秘湿地公园 寻找高山雪豹</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125124600 +0800" stop="20231125125200 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 五彩碧池</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125125200 +0800" stop="20231125125700 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 钙华瀑布</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125125700 +0800" stop="20231125132700 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 白头叶猴</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125132700 +0800" stop="20231125135700 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 中国香港</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125135700 +0800" stop="20231125145600 +0800" channel="C11">
-<title lang="zh">乐享汇4K “新的唱响”演唱会</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125145600 +0800" stop="20231125152500 +0800" channel="C11">
-<title lang="zh">丛林星球4K 月亮丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125152500 +0800" stop="20231125155100 +0800" channel="C11">
-<title lang="zh">丛林星球4K 芬芳丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125155100 +0800" stop="20231125161900 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 横道子村——长白山下 莓香满园</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125161900 +0800" stop="20231125164700 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 钱冲村——一棵黄金树 铺就黄金路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125164700 +0800" stop="20231125172700 +0800" channel="C11">
-<title lang="zh">探索·发现4K 探秘三星堆 第10集</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125172700 +0800" stop="20231125181800 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第三集 复兴之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125181800 +0800" stop="20231125191000 +0800" channel="C11">
-<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125191000 +0800" stop="20231125195200 +0800" channel="C11">
-<title lang="zh">探秘“最美高原湿地”</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125195200 +0800" stop="20231125203400 +0800" channel="C11">
-<title lang="zh">探秘湿地公园 寻找高山雪豹</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125203400 +0800" stop="20231125203900 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 五彩碧池</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125203900 +0800" stop="20231125204500 +0800" channel="C11">
-<title lang="zh">美丽中国自然4K 川西胜境系列 钙华瀑布</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125204500 +0800" stop="20231125211500 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 白头叶猴</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125211500 +0800" stop="20231125214500 +0800" channel="C11">
-<title lang="zh">美丽中国说4K 中国香港</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125214500 +0800" stop="20231125224400 +0800" channel="C11">
-<title lang="zh">乐享汇4K “新的唱响”演唱会</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125224400 +0800" stop="20231125231300 +0800" channel="C11">
-<title lang="zh">丛林星球4K 月亮丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125231300 +0800" stop="20231125233900 +0800" channel="C11">
-<title lang="zh">丛林星球4K 芬芳丛林</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231125233900 +0800" stop="20231125240000 +0800" channel="C11">
-<title lang="zh">记住乡愁4K第八季 横道子村——长白山下 莓香满园</title><desc lang="zh"></desc>
+<programme start="20231125235000 +0800" stop="20231125240000 +0800" channel="C11">
+<title lang="zh">济南RW侠 对阵 MTG 第二场</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231125000100 +0800" stop="20231125004700 +0800" channel="C12">
 <title lang="zh">稻之道(5):稻之恒</title><desc lang="zh"></desc>
