@@ -28,31 +28,31 @@
   <tbody>
     <tr>
       <td>🎠湖南联通组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">https://github.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎡湖南移动组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">https://github.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎢湖南电信组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">https://github.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://github.com/Meroser/IPTV/main/IPTV.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
       <td>168个</td>
       <td>2023.11.24</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://github.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
       <td>168</td>
       <td>2023.11.26</td>
     </tr>
