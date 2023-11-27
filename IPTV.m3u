@@ -168,9 +168,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ot
 #EXTINF:-1 tvg-id="D03" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="国际",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="D04" tvg-name="翡翠台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="国际",翡翠台
-http://r.jdshipin.com/qClQf
+#http://r.jdshipin.com/qClQf
+https://bstvcdn.ballbar.net/jade_twn/playlist-15.m3u8a?t=1701077611&token=f6b812bef915d376341228617e91dd5d
 #EXTINF:-1 tvg-id="D05" tvg-name="J2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png" group-title="国际",J2
-http://r.jdshipin.com/ndGgS
+#http://r.jdshipin.com/ndGgS
+https://bstvcdn.ballbar.net/j2_twn/playlist-12.m3u8a?t=1701077826&token=86d8fbf31dee2d219ce19842c8543df1
 #EXTINF:-1 tvg-id="D06" tvg-name="NHK World" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/NHKWorld.png" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="D07" tvg-name="CNA" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ChannelAsia.png" group-title="国际",CNA
