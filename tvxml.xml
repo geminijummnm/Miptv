@@ -10260,152 +10260,137 @@
 <programme start="20231129230000 +0800" stop="20231129240000 +0800" channel="D08">
 <title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129000000 +0800" stop="20231129004500 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129000000 +0800" stop="20231129010000 +0800" channel="D09">
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129004500 +0800" stop="20231129013000 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129010000 +0800" stop="20231129020000 +0800" channel="D09">
+<title lang="zh">非洲直播室</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129013000 +0800" stop="20231129014500 +0800" channel="D09">
-<title lang="zh">学做中国菜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129014500 +0800" stop="20231129020000 +0800" channel="D09">
-<title lang="zh">学汉语</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129020000 +0800" stop="20231129023000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129023000 +0800" stop="20231129030000 +0800" channel="D09">
-<title lang="zh">这就是中国</title><desc lang="zh"></desc>
+<programme start="20231129020000 +0800" stop="20231129030000 +0800" channel="D09">
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129030000 +0800" stop="20231129033000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129033000 +0800" stop="20231129034500 +0800" channel="D09">
-<title lang="zh">学做中国菜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129034500 +0800" stop="20231129040000 +0800" channel="D09">
-<title lang="zh">学汉语</title><desc lang="zh"></desc>
+<programme start="20231129033000 +0800" stop="20231129040000 +0800" channel="D09">
+<title lang="zh">薇观世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129040000 +0800" stop="20231129043000 +0800" channel="D09">
-<title lang="zh">中华艺苑</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129043000 +0800" stop="20231129050000 +0800" channel="D09">
-<title lang="zh">神州行</title><desc lang="zh"></desc>
+<title lang="zh">对话</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129050000 +0800" stop="20231129053000 +0800" channel="D09">
-<title lang="zh">对话</title><desc lang="zh"></desc>
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129053000 +0800" stop="20231129060000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<title lang="zh">舆论纵贯线</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129060000 +0800" stop="20231129064500 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129060000 +0800" stop="20231129063000 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129064500 +0800" stop="20231129073000 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129063000 +0800" stop="20231129070000 +0800" channel="D09">
+<title lang="zh">中国再发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129073000 +0800" stop="20231129074500 +0800" channel="D09">
-<title lang="zh">学做中国菜</title><desc lang="zh"></desc>
+<programme start="20231129070000 +0800" stop="20231129073000 +0800" channel="D09">
+<title lang="zh">热点</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129074500 +0800" stop="20231129080000 +0800" channel="D09">
-<title lang="zh">学汉语</title><desc lang="zh"></desc>
+<programme start="20231129073000 +0800" stop="20231129080000 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129080000 +0800" stop="20231129083000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129083000 +0800" stop="20231129090000 +0800" channel="D09">
-<title lang="zh">这就是中国</title><desc lang="zh"></desc>
+<programme start="20231129080000 +0800" stop="20231129090000 +0800" channel="D09">
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129090000 +0800" stop="20231129093000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129093000 +0800" stop="20231129100000 +0800" channel="D09">
-<title lang="zh">中华艺苑</title><desc lang="zh"></desc>
+<title lang="zh">中国24小时</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129100000 +0800" stop="20231129103000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129103000 +0800" stop="20231129110000 +0800" channel="D09">
-<title lang="zh">神州行</title><desc lang="zh"></desc>
+<title lang="zh">薇观世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129110000 +0800" stop="20231129113000 +0800" channel="D09">
-<title lang="zh">对话</title><desc lang="zh"></desc>
+<programme start="20231129110000 +0800" stop="20231129111500 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129113000 +0800" stop="20231129121500 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129111500 +0800" stop="20231129113000 +0800" channel="D09">
+<title lang="zh">体育报道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129121500 +0800" stop="20231129130000 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129113000 +0800" stop="20231129120000 +0800" channel="D09">
+<title lang="zh">欣视点</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129130000 +0800" stop="20231129133000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<programme start="20231129120000 +0800" stop="20231129130000 +0800" channel="D09">
+<title lang="zh">环球视线</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129133000 +0800" stop="20231129134500 +0800" channel="D09">
-<title lang="zh">学做中国菜</title><desc lang="zh"></desc>
+<programme start="20231129130000 +0800" stop="20231129131500 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129134500 +0800" stop="20231129140000 +0800" channel="D09">
-<title lang="zh">学汉语</title><desc lang="zh"></desc>
+<programme start="20231129131500 +0800" stop="20231129133000 +0800" channel="D09">
+<title lang="zh">体育报道</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129133000 +0800" stop="20231129140000 +0800" channel="D09">
+<title lang="zh">中国再发现</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129140000 +0800" stop="20231129143000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129143000 +0800" stop="20231129150000 +0800" channel="D09">
-<title lang="zh">这就是中国</title><desc lang="zh"></desc>
+<title lang="zh">热点</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129150000 +0800" stop="20231129153000 +0800" channel="D09">
-<title lang="zh">神州行</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129153000 +0800" stop="20231129160000 +0800" channel="D09">
-<title lang="zh">中华艺苑</title><desc lang="zh"></desc>
+<title lang="zh">体育报道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129160000 +0800" stop="20231129163000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<programme start="20231129160000 +0800" stop="20231129161500 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129163000 +0800" stop="20231129170000 +0800" channel="D09">
-<title lang="zh">对话</title><desc lang="zh"></desc>
+<programme start="20231129161500 +0800" stop="20231129170000 +0800" channel="D09">
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129170000 +0800" stop="20231129173000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129173000 +0800" stop="20231129180000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<title lang="zh">文化速递</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129180000 +0800" stop="20231129184500 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129180000 +0800" stop="20231129181500 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129184500 +0800" stop="20231129193000 +0800" channel="D09">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231129181500 +0800" stop="20231129190000 +0800" channel="D09">
+<title lang="zh">非洲直播室</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129193000 +0800" stop="20231129194500 +0800" channel="D09">
-<title lang="zh">学做中国菜</title><desc lang="zh"></desc>
+<programme start="20231129190000 +0800" stop="20231129193000 +0800" channel="D09">
+<title lang="zh">今日亚洲</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129194500 +0800" stop="20231129200000 +0800" channel="D09">
-<title lang="zh">学汉语</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129200000 +0800" stop="20231129203000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129203000 +0800" stop="20231129210000 +0800" channel="D09">
-<title lang="zh">这就是中国</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129210000 +0800" stop="20231129213000 +0800" channel="D09">
-<title lang="zh">综合新闻</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129213000 +0800" stop="20231129220000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129220000 +0800" stop="20231129223000 +0800" channel="D09">
-<title lang="zh">中华艺苑</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129223000 +0800" stop="20231129230000 +0800" channel="D09">
-<title lang="zh">神州行</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231129230000 +0800" stop="20231129233000 +0800" channel="D09">
+<programme start="20231129193000 +0800" stop="20231129200000 +0800" channel="D09">
 <title lang="zh">对话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231129233000 +0800" stop="20231129240000 +0800" channel="D09">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20231129200000 +0800" stop="20231129201500 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129201500 +0800" stop="20231129210000 +0800" channel="D09">
+<title lang="zh">中国24小时</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129210000 +0800" stop="20231129213000 +0800" channel="D09">
+<title lang="zh">全球财经</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129213000 +0800" stop="20231129220000 +0800" channel="D09">
+<title lang="zh">欣视点</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129220000 +0800" stop="20231129223000 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129223000 +0800" stop="20231129230000 +0800" channel="D09">
+<title lang="zh">薇观世界</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231129230000 +0800" stop="20231129233000 +0800" channel="D09">
+<title lang="zh">今日世界</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231129000000 +0800" stop="20231129003000 +0800" channel="D10">
 <title lang="zh">精彩放送</title><desc lang="zh"></desc>
