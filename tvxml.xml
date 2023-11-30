@@ -10095,41 +10095,122 @@
 <programme start="20231201230200 +0800" stop="20231201240000 +0800" channel="D07">
 <title lang="zh">Insight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201000000 +0800" stop="20231201020000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201000000 +0800" stop="20231201010000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201020000 +0800" stop="20231201040000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201010000 +0800" stop="20231201013000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201040000 +0800" stop="20231201060000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201013000 +0800" stop="20231201020000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201060000 +0800" stop="20231201080000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201020000 +0800" stop="20231201030000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201080000 +0800" stop="20231201100100 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201030000 +0800" stop="20231201040000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201100100 +0800" stop="20231201120000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201040000 +0800" stop="20231201043000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201120000 +0800" stop="20231201140000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201043000 +0800" stop="20231201050000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201140000 +0800" stop="20231201160000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201050000 +0800" stop="20231201060000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201160000 +0800" stop="20231201190000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201060000 +0800" stop="20231201070000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201190000 +0800" stop="20231201200000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201070000 +0800" stop="20231201073000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201200000 +0800" stop="20231201220000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201073000 +0800" stop="20231201080000 +0800" channel="D08">
+<title lang="zh">PeopleAndPower-ACrudeMistake?P1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231201220000 +0800" stop="20231201240000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231201080000 +0800" stop="20231201083000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201083000 +0800" stop="20231201090000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201090000 +0800" stop="20231201093000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201093000 +0800" stop="20231201100000 +0800" channel="D08">
+<title lang="zh">Witness-SerigneVsTheE</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201100000 +0800" stop="20231201103000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201103000 +0800" stop="20231201110000 +0800" channel="D08">
+<title lang="zh">TheBottomLine第50集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201110000 +0800" stop="20231201113000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201113000 +0800" stop="20231201120000 +0800" channel="D08">
+<title lang="zh">Upfront第19集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201120000 +0800" stop="20231201123000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201123000 +0800" stop="20231201130000 +0800" channel="D08">
+<title lang="zh">FaultLines-NowYou'reATerrorist</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201130000 +0800" stop="20231201133000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201133000 +0800" stop="20231201140000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第43集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201140000 +0800" stop="20231201143000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201143000 +0800" stop="20231201150000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201150000 +0800" stop="20231201160000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201160000 +0800" stop="20231201163000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201163000 +0800" stop="20231201170000 +0800" channel="D08">
+<title lang="zh">TheStream第124集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201170000 +0800" stop="20231201173000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201173000 +0800" stop="20231201180000 +0800" channel="D08">
+<title lang="zh">PeopleAndPower-ACrudeMistake?P1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201180000 +0800" stop="20231201190000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201190000 +0800" stop="20231201193000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201193000 +0800" stop="20231201200000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201200000 +0800" stop="20231201203000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201203000 +0800" stop="20231201210000 +0800" channel="D08">
+<title lang="zh">DemocracyMaybe-ByThePeople</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201210000 +0800" stop="20231201220000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201220000 +0800" stop="20231201223000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201223000 +0800" stop="20231201230000 +0800" channel="D08">
+<title lang="zh">InsideStory第496集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231201230000 +0800" stop="20231201240000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231201000000 +0800" stop="20231201010000 +0800" channel="D09">
 <title lang="zh">全球财经</title><desc lang="zh"></desc>
