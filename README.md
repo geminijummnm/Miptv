@@ -53,7 +53,7 @@
     <tr>
       <td>🧢TVBOX专用源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
-      <td>168</td>
+      <td>168个</td>
       <td>2023.11.26</td>
     </tr>
   </tbody>
