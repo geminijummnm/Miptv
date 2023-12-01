@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
-<tv generator-info-name="https://epg.shellykoral.com" generator-info-url="koral@shellykoral.com">
+<tv generator-info-name="https://github.com/Meroser/IPTV" generator-info-url="Meroser@github.com">
 <channel id="A01">
 <display-name lang="zh">CCTV1</display-name>
 </channel>
