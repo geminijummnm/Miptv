@@ -77,13 +77,6 @@
 - 所有文件均托管在[GitHub](https://github.com/Meroser/IPTV)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/Meroser/IPTV/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`IPTV`或`TVlogo`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
-## 🎦频道展示
-展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(1).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(2).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(3).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(4).jpg"></p>
-
 ## 📒频道列表
 ### 📟央视高清/22个频道
 - CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育2台、中国教育3台、中国教育4台
@@ -97,6 +90,11 @@
 - 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经
 ### ⚽咪咕体育/56个频道
 - 咪咕体育4K、咪咕体育（包括NBA赛事、足球等）
+
+## 🎦频道展示
+展示内容为在小米电视+TiviMate 2.8.0示意
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(1).jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(2).jpg"></p>
 
 ## 🆕更新
 - - 2023.11.26 增加TVBOX直播链接
