@@ -78,7 +78,7 @@
 - 所有文件均托管在[GitHub](https://github.com/Meroser/IPTV)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/Meroser/IPTV/issues/new/choose)反馈您的问题。
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`IPTV`或`TVlogo`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
-## 📖频道列表
+## 🎰频道列表
 ### 📟央视高清/22个频道
 - CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育2台、中国教育3台、中国教育4台
 ### 📠卫视高清/28个频道
