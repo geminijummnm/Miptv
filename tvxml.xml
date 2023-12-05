@@ -10182,41 +10182,122 @@
 <programme start="20231206230200 +0800" stop="20231206240000 +0800" channel="D07">
 <title lang="zh">Homeless In Singapore(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206000000 +0800" stop="20231206020000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206000000 +0800" stop="20231206010000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206020000 +0800" stop="20231206040000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206010000 +0800" stop="20231206013000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206040000 +0800" stop="20231206060000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206013000 +0800" stop="20231206020000 +0800" channel="D08">
+<title lang="zh">InsideStory第501集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206060000 +0800" stop="20231206080000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206020000 +0800" stop="20231206030000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206080000 +0800" stop="20231206100100 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206030000 +0800" stop="20231206040000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206100100 +0800" stop="20231206120000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206040000 +0800" stop="20231206043000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206120000 +0800" stop="20231206140000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206043000 +0800" stop="20231206050000 +0800" channel="D08">
+<title lang="zh">Upfront第26集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206140000 +0800" stop="20231206160000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206050000 +0800" stop="20231206060000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206160000 +0800" stop="20231206190000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206060000 +0800" stop="20231206070000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206190000 +0800" stop="20231206200000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206070000 +0800" stop="20231206073000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206200000 +0800" stop="20231206220000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206073000 +0800" stop="20231206080000 +0800" channel="D08">
+<title lang="zh">Restitution-Africa'sStolenArt:Plunder</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231206220000 +0800" stop="20231206240000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231206080000 +0800" stop="20231206083000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206083000 +0800" stop="20231206090000 +0800" channel="D08">
+<title lang="zh">InsideStory第501集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206090000 +0800" stop="20231206093000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206093000 +0800" stop="20231206100000 +0800" channel="D08">
+<title lang="zh">TheBottomLine第52集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206100000 +0800" stop="20231206103000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206103000 +0800" stop="20231206110000 +0800" channel="D08">
+<title lang="zh">PeopleAndPower-ACrudeMistake?P1</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206110000 +0800" stop="20231206113000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206113000 +0800" stop="20231206120000 +0800" channel="D08">
+<title lang="zh">Upfront第26集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206120000 +0800" stop="20231206123000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206123000 +0800" stop="20231206130000 +0800" channel="D08">
+<title lang="zh">Witness-04122023</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206130000 +0800" stop="20231206133000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206133000 +0800" stop="20231206140000 +0800" channel="D08">
+<title lang="zh">CountingTheCost第48集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206140000 +0800" stop="20231206143000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206143000 +0800" stop="20231206150000 +0800" channel="D08">
+<title lang="zh">InsideStory第501集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206150000 +0800" stop="20231206160000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206160000 +0800" stop="20231206163000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206163000 +0800" stop="20231206170000 +0800" channel="D08">
+<title lang="zh">TheStream第125集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206170000 +0800" stop="20231206173000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206173000 +0800" stop="20231206180000 +0800" channel="D08">
+<title lang="zh">Restitution-Africa'sStolenArt:Plunder</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206180000 +0800" stop="20231206190000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206190000 +0800" stop="20231206193000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206193000 +0800" stop="20231206200000 +0800" channel="D08">
+<title lang="zh">InsideStory第501集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206200000 +0800" stop="20231206203000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206203000 +0800" stop="20231206210000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第44集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206210000 +0800" stop="20231206220000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206220000 +0800" stop="20231206223000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206223000 +0800" stop="20231206230000 +0800" channel="D08">
+<title lang="zh">Upfront第26集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231206230000 +0800" stop="20231206240000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231206000000 +0800" stop="20231206010000 +0800" channel="D09">
 <title lang="zh">全球财经</title><desc lang="zh"></desc>
