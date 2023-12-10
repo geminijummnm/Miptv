@@ -10170,41 +10170,122 @@
 <programme start="20231211230200 +0800" stop="20231211240000 +0800" channel="D07">
 <title lang="zh">In Plain Sight(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211000000 +0800" stop="20231211020000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211000000 +0800" stop="20231211010000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211020000 +0800" stop="20231211040000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211010000 +0800" stop="20231211013000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211040000 +0800" stop="20231211060000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211013000 +0800" stop="20231211020000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211060000 +0800" stop="20231211080000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211020000 +0800" stop="20231211030000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211080000 +0800" stop="20231211100100 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211030000 +0800" stop="20231211040000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211100100 +0800" stop="20231211120000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211040000 +0800" stop="20231211043000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211120000 +0800" stop="20231211140000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211043000 +0800" stop="20231211050000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211140000 +0800" stop="20231211160000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211050000 +0800" stop="20231211060000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211160000 +0800" stop="20231211190000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211060000 +0800" stop="20231211070000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211190000 +0800" stop="20231211200000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211070000 +0800" stop="20231211073000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211200000 +0800" stop="20231211220000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211073000 +0800" stop="20231211080000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第45集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231211220000 +0800" stop="20231211240000 +0800" channel="D08">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231211080000 +0800" stop="20231211083000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211083000 +0800" stop="20231211090000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211090000 +0800" stop="20231211093000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211093000 +0800" stop="20231211100000 +0800" channel="D08">
+<title lang="zh">PeopleAndPower-ACrudeMistake?P2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211100000 +0800" stop="20231211103000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211103000 +0800" stop="20231211110000 +0800" channel="D08">
+<title lang="zh">Restitution-Africa'sStolenArt:Plunder</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211110000 +0800" stop="20231211113000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211113000 +0800" stop="20231211120000 +0800" channel="D08">
+<title lang="zh">Upfront第27集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211120000 +0800" stop="20231211123000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211123000 +0800" stop="20231211130000 +0800" channel="D08">
+<title lang="zh">TheBottomLine第53集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211130000 +0800" stop="20231211133000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211133000 +0800" stop="20231211140000 +0800" channel="D08">
+<title lang="zh">FaultLines-DoYouWantToDieToday?</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211140000 +0800" stop="20231211143000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211143000 +0800" stop="20231211150000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211150000 +0800" stop="20231211160000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211160000 +0800" stop="20231211163000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211163000 +0800" stop="20231211170000 +0800" channel="D08">
+<title lang="zh">TalkToAlJazeera-PatriceEvra</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211170000 +0800" stop="20231211173000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211173000 +0800" stop="20231211180000 +0800" channel="D08">
+<title lang="zh">TheListeningPost第45集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211180000 +0800" stop="20231211190000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211190000 +0800" stop="20231211193000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211193000 +0800" stop="20231211200000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211200000 +0800" stop="20231211203000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211203000 +0800" stop="20231211210000 +0800" channel="D08">
+<title lang="zh">CountingTheCost第49集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211210000 +0800" stop="20231211220000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211220000 +0800" stop="20231211223000 +0800" channel="D08">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211223000 +0800" stop="20231211230000 +0800" channel="D08">
+<title lang="zh">InsideStory第506集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231211230000 +0800" stop="20231211240000 +0800" channel="D08">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231211000000 +0800" stop="20231211003000 +0800" channel="D09">
 <title lang="zh">今日世界</title><desc lang="zh"></desc>
