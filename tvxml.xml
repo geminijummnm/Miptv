@@ -190,42 +190,48 @@
 <display-name lang="zh">纪实人文</display-name>
 </channel>
 <channel id="C14">
-<display-name lang="zh">CCTV8K</display-name>
+<display-name lang="zh">纯享4K</display-name>
 </channel>
 <channel id="C15">
-<display-name lang="zh">风云剧场</display-name>
+<display-name lang="zh">CCTV4K</display-name>
 </channel>
 <channel id="C16">
-<display-name lang="zh">风云音乐</display-name>
+<display-name lang="zh">CCTV8K</display-name>
 </channel>
 <channel id="C17">
-<display-name lang="zh">第一剧场</display-name>
+<display-name lang="zh">风云剧场</display-name>
 </channel>
 <channel id="C18">
-<display-name lang="zh">女性时尚</display-name>
+<display-name lang="zh">风云音乐</display-name>
 </channel>
 <channel id="C19">
-<display-name lang="zh">风云足球</display-name>
+<display-name lang="zh">第一剧场</display-name>
 </channel>
 <channel id="C20">
-<display-name lang="zh">兵器科技</display-name>
+<display-name lang="zh">女性时尚</display-name>
 </channel>
 <channel id="C21">
-<display-name lang="zh">怀旧剧场</display-name>
+<display-name lang="zh">风云足球</display-name>
 </channel>
 <channel id="C22">
-<display-name lang="zh">世界地理</display-name>
+<display-name lang="zh">兵器科技</display-name>
 </channel>
 <channel id="C23">
-<display-name lang="zh">文化精品</display-name>
+<display-name lang="zh">怀旧剧场</display-name>
 </channel>
 <channel id="C24">
-<display-name lang="zh">央视台球</display-name>
+<display-name lang="zh">世界地理</display-name>
 </channel>
 <channel id="C25">
-<display-name lang="zh">高尔夫网球</display-name>
+<display-name lang="zh">文化精品</display-name>
 </channel>
 <channel id="C26">
+<display-name lang="zh">央视台球</display-name>
+</channel>
+<channel id="C27">
+<display-name lang="zh">高尔夫网球</display-name>
+</channel>
+<channel id="C28">
 <display-name lang="zh">电视指南</display-name>
 </channel>
 <channel id="D01">
@@ -7545,1480 +7551,1753 @@
 <programme start="20231213232600 +0800" stop="20231213240000 +0800" channel="C13">
 <title lang="zh">极限非洲行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213070000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title><desc lang="zh"></desc>
+<programme start="20231213002200 +0800" stop="20231213005000 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 安阳——革故鼎新 自强不息</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213074500 +0800" channel="C14">
-<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
+<programme start="20231213005000 +0800" stop="20231213011800 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 理塘——天空之城 同舟共济</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213074500 +0800" stop="20231213075000 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+<programme start="20231213011800 +0800" stop="20231213014800 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 温婉骄杨 杨开慧</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213075000 +0800" stop="20231213075500 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
+<programme start="20231213014800 +0800" stop="20231213021800 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 无衔将帅 许继慎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213075500 +0800" stop="20231213075900 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-太湖美（8K）</title><desc lang="zh"></desc>
+<programme start="20231213021800 +0800" stop="20231213022500 +0800" channel="C14">
+<title lang="zh">心中的树</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213075900 +0800" stop="20231213080000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+<programme start="20231213022500 +0800" stop="20231213032500 +0800" channel="C14">
+<title lang="zh">乐享汇4K 为你而歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080000 +0800" stop="20231213080100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213032500 +0800" stop="20231213040700 +0800" channel="C14">
+<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080100 +0800" stop="20231213080100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213040700 +0800" stop="20231213044900 +0800" channel="C14">
+<title lang="zh">远方的家4K 长江行 相逢在长江源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080100 +0800" stop="20231213080200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213044900 +0800" stop="20231213045400 +0800" channel="C14">
+<title lang="zh">美丽中国自然4K 岭南之南系列 绿海龟</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080200 +0800" stop="20231213080200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213045400 +0800" stop="20231213045900 +0800" channel="C14">
+<title lang="zh">美丽中国自然4K 岭南之南系列 中华白海豚</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080200 +0800" stop="20231213081000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
+<programme start="20231213045900 +0800" stop="20231213053900 +0800" channel="C14">
+<title lang="zh">探索·发现4K 守望长城 第3集 长城峥嵘铸脊梁</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213081000 +0800" stop="20231213081500 +0800" channel="C14">
-<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
+<programme start="20231213053900 +0800" stop="20231213060300 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第7集 跨界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213081500 +0800" stop="20231213084500 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国说4-成长的陪伴（8K三维声）</title><desc lang="zh"></desc>
+<programme start="20231213060300 +0800" stop="20231213062700 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第8集 小算盘</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213084500 +0800" stop="20231213085000 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
+<programme start="20231213062700 +0800" stop="20231213071700 +0800" channel="C14">
+<title lang="zh">智造美好生活4K 第4集 绿 生态</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213085000 +0800" stop="20231213085500 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213071700 +0800" stop="20231213074700 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（上）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213085500 +0800" stop="20231213085900 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+<programme start="20231213074700 +0800" stop="20231213081700 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（下）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213085900 +0800" stop="20231213090000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-极光（8K）</title><desc lang="zh"></desc>
+<programme start="20231213081700 +0800" stop="20231213084500 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 安阳——革故鼎新 自强不息</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090000 +0800" stop="20231213090100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213084500 +0800" stop="20231213091300 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 理塘——天空之城 同舟共济</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090100 +0800" stop="20231213090100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213091300 +0800" stop="20231213094300 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 温婉骄杨 杨开慧</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090100 +0800" stop="20231213090200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213094300 +0800" stop="20231213101300 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 无衔将帅 许继慎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090200 +0800" stop="20231213090200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213101300 +0800" stop="20231213101900 +0800" channel="C14">
+<title lang="zh">心中的树</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090200 +0800" stop="20231213093200 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213101900 +0800" stop="20231213111900 +0800" channel="C14">
+<title lang="zh">乐享汇4K 为你而歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213093200 +0800" stop="20231213094100 +0800" channel="C14">
-<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+<programme start="20231213111900 +0800" stop="20231213120100 +0800" channel="C14">
+<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213094100 +0800" stop="20231213094600 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+<programme start="20231213120100 +0800" stop="20231213124300 +0800" channel="C14">
+<title lang="zh">远方的家4K 长江行 相逢在长江源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213094600 +0800" stop="20231213095100 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213095100 +0800" stop="20231213095500 +0800" channel="C14">
-<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213095500 +0800" stop="20231213095700 +0800" channel="C14">
-<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213095700 +0800" stop="20231213100000 +0800" channel="C14">
-<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213100000 +0800" stop="20231213100100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213100100 +0800" stop="20231213100100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213100100 +0800" stop="20231213100200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213100200 +0800" stop="20231213100200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213100200 +0800" stop="20231213103200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213103200 +0800" stop="20231213103700 +0800" channel="C14">
-<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213103700 +0800" stop="20231213104200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213104200 +0800" stop="20231213104600 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213104600 +0800" stop="20231213104800 +0800" channel="C14">
-<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213104800 +0800" stop="20231213105600 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213105600 +0800" stop="20231213110000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213110000 +0800" stop="20231213110100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213110100 +0800" stop="20231213110100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213110100 +0800" stop="20231213110200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213110200 +0800" stop="20231213110200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213110200 +0800" stop="20231213114700 +0800" channel="C14">
-<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213114700 +0800" stop="20231213115100 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213115100 +0800" stop="20231213115600 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213115600 +0800" stop="20231213115900 +0800" channel="C14">
-<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213115900 +0800" stop="20231213120000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213120000 +0800" stop="20231213120100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213120100 +0800" stop="20231213120100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213120100 +0800" stop="20231213120200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213120200 +0800" stop="20231213120200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213120200 +0800" stop="20231213121000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213121000 +0800" stop="20231213121000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213121000 +0800" stop="20231213121500 +0800" channel="C14">
-<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213121500 +0800" stop="20231213123600 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-魅力海南（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213123600 +0800" stop="20231213124100 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213124100 +0800" stop="20231213124300 +0800" channel="C14">
-<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213124300 +0800" stop="20231213124600 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213124600 +0800" stop="20231213124900 +0800" channel="C14">
-<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+<programme start="20231213124300 +0800" stop="20231213124900 +0800" channel="C14">
+<title lang="zh">美丽中国自然4K 岭南之南系列 绿海龟</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231213124900 +0800" stop="20231213125400 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+<title lang="zh">美丽中国自然4K 岭南之南系列 中华白海豚</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213125400 +0800" stop="20231213130000 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213125400 +0800" stop="20231213133400 +0800" channel="C14">
+<title lang="zh">探索·发现4K 守望长城 第3集 长城峥嵘铸脊梁</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130000 +0800" stop="20231213130100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213133400 +0800" stop="20231213135800 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第7集 跨界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130100 +0800" stop="20231213130100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213135800 +0800" stop="20231213142200 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第8集 小算盘</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130100 +0800" stop="20231213130200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213142200 +0800" stop="20231213151100 +0800" channel="C14">
+<title lang="zh">智造美好生活4K 第4集 绿 生态</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130200 +0800" stop="20231213130200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213151100 +0800" stop="20231213154100 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（上）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130200 +0800" stop="20231213133200 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213154100 +0800" stop="20231213161100 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（下）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213133200 +0800" stop="20231213134100 +0800" channel="C14">
-<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+<programme start="20231213161100 +0800" stop="20231213163900 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 安阳——革故鼎新 自强不息</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213134100 +0800" stop="20231213134600 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+<programme start="20231213163900 +0800" stop="20231213170700 +0800" channel="C14">
+<title lang="zh">记住乡愁4K 第八季 理塘——天空之城 同舟共济</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213134600 +0800" stop="20231213135100 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+<programme start="20231213170700 +0800" stop="20231213173700 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 温婉骄杨 杨开慧</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213135100 +0800" stop="20231213135500 +0800" channel="C14">
-<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+<programme start="20231213173700 +0800" stop="20231213180700 +0800" channel="C14">
+<title lang="zh">信仰的感召4K 无衔将帅 许继慎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213135500 +0800" stop="20231213135700 +0800" channel="C14">
-<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
+<programme start="20231213180700 +0800" stop="20231213181400 +0800" channel="C14">
+<title lang="zh">心中的树</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213135700 +0800" stop="20231213140000 +0800" channel="C14">
-<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+<programme start="20231213181400 +0800" stop="20231213191400 +0800" channel="C14">
+<title lang="zh">乐享汇4K 为你而歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140000 +0800" stop="20231213140100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213191400 +0800" stop="20231213195600 +0800" channel="C14">
+<title lang="zh">远方的家4K 西藏类乌齐马鹿国家级自然保护区 高原之上 马鹿的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140100 +0800" stop="20231213140100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213195600 +0800" stop="20231213203800 +0800" channel="C14">
+<title lang="zh">远方的家4K 长江行 相逢在长江源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140100 +0800" stop="20231213140200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213203800 +0800" stop="20231213204300 +0800" channel="C14">
+<title lang="zh">美丽中国自然4K 岭南之南系列 绿海龟</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140200 +0800" stop="20231213140200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213204300 +0800" stop="20231213204800 +0800" channel="C14">
+<title lang="zh">美丽中国自然4K 岭南之南系列 中华白海豚</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140200 +0800" stop="20231213143200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
+<programme start="20231213204800 +0800" stop="20231213212800 +0800" channel="C14">
+<title lang="zh">探索·发现4K 守望长城 第3集 长城峥嵘铸脊梁</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213143200 +0800" stop="20231213143700 +0800" channel="C14">
-<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
+<programme start="20231213212800 +0800" stop="20231213215200 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第7集 跨界</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213143700 +0800" stop="20231213144200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
+<programme start="20231213215200 +0800" stop="20231213221600 +0800" channel="C14">
+<title lang="zh">了不起的冬天4K 第8集 小算盘</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213144200 +0800" stop="20231213144600 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+<programme start="20231213221600 +0800" stop="20231213230600 +0800" channel="C14">
+<title lang="zh">智造美好生活4K 第4集 绿 生态</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213144600 +0800" stop="20231213144800 +0800" channel="C14">
-<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
+<programme start="20231213230600 +0800" stop="20231213233600 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（上）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213144800 +0800" stop="20231213145600 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
+<programme start="20231213233600 +0800" stop="20231213240000 +0800" channel="C14">
+<title lang="zh">村庄故事4K 田舍延祥（下）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145600 +0800" stop="20231213150000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
+<programme start="20231213000000 +0800" stop="20231213040000 +0800" channel="C15">
+<title lang="zh">节目结束1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150000 +0800" stop="20231213150100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213040000 +0800" stop="20231213060000 +0800" channel="C15">
+<title lang="zh">节目结束2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150100 +0800" stop="20231213150100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213060000 +0800" stop="20231213060100 +0800" channel="C15">
+<title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150100 +0800" stop="20231213150200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213060100 +0800" stop="20231213064100 +0800" channel="C15">
+<title lang="zh">探索·发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150200 +0800" stop="20231213150200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213064100 +0800" stop="20231213072300 +0800" channel="C15">
+<title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150200 +0800" stop="20231213154700 +0800" channel="C14">
-<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
+<programme start="20231213072300 +0800" stop="20231213075300 +0800" channel="C15">
+<title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213154700 +0800" stop="20231213155100 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-无锡景（8K）</title><desc lang="zh"></desc>
+<programme start="20231213075300 +0800" stop="20231213081700 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155100 +0800" stop="20231213155600 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
+<programme start="20231213081700 +0800" stop="20231213084100 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155600 +0800" stop="20231213155900 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+<programme start="20231213084100 +0800" stop="20231213084600 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155900 +0800" stop="20231213160000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+<programme start="20231213084600 +0800" stop="20231213090200 +0800" channel="C15">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160000 +0800" stop="20231213160100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213090200 +0800" stop="20231213094800 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160100 +0800" stop="20231213160100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213094800 +0800" stop="20231213103500 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160100 +0800" stop="20231213160200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213103500 +0800" stop="20231213110300 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160200 +0800" stop="20231213160200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213110300 +0800" stop="20231213112700 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160200 +0800" stop="20231213161000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
+<programme start="20231213112700 +0800" stop="20231213113200 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161000 +0800" stop="20231213161000 +0800" channel="C14">
-<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+<programme start="20231213113200 +0800" stop="20231213113800 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161000 +0800" stop="20231213161500 +0800" channel="C14">
-<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
+<programme start="20231213113800 +0800" stop="20231213120300 +0800" channel="C15">
+<title lang="zh">我的美丽乡村</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161500 +0800" stop="20231213163600 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-魅力海南（8K）</title><desc lang="zh"></desc>
+<programme start="20231213120300 +0800" stop="20231213123300 +0800" channel="C15">
+<title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213163600 +0800" stop="20231213164100 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
+<programme start="20231213123300 +0800" stop="20231213131500 +0800" channel="C15">
+<title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213164100 +0800" stop="20231213164300 +0800" channel="C14">
-<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+<programme start="20231213131500 +0800" stop="20231213133900 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213164300 +0800" stop="20231213164600 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+<programme start="20231213133900 +0800" stop="20231213140300 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213164600 +0800" stop="20231213164900 +0800" channel="C14">
-<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+<programme start="20231213140300 +0800" stop="20231213145000 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213164900 +0800" stop="20231213165400 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+<programme start="20231213145000 +0800" stop="20231213153600 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213165400 +0800" stop="20231213170000 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213153600 +0800" stop="20231213160100 +0800" channel="C15">
+<title lang="zh">我的美丽乡村</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170000 +0800" stop="20231213170100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213160100 +0800" stop="20231213164100 +0800" channel="C15">
+<title lang="zh">探索·发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170100 +0800" stop="20231213170100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213164100 +0800" stop="20231213164600 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170100 +0800" stop="20231213170200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213164600 +0800" stop="20231213165100 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170200 +0800" stop="20231213170200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213165100 +0800" stop="20231213170700 +0800" channel="C15">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170200 +0800" stop="20231213173200 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+<programme start="20231213170700 +0800" stop="20231213173500 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213173200 +0800" stop="20231213174100 +0800" channel="C14">
-<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+<programme start="20231213173500 +0800" stop="20231213180000 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213174100 +0800" stop="20231213174600 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+<programme start="20231213180000 +0800" stop="20231213183000 +0800" channel="C15">
+<title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213174600 +0800" stop="20231213175100 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+<programme start="20231213183000 +0800" stop="20231213185500 +0800" channel="C15">
+<title lang="zh">我的美丽乡村</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213175100 +0800" stop="20231213175500 +0800" channel="C14">
-<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+<programme start="20231213185500 +0800" stop="20231213193700 +0800" channel="C15">
+<title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213175500 +0800" stop="20231213175700 +0800" channel="C14">
-<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
+<programme start="20231213193700 +0800" stop="20231213194200 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213175700 +0800" stop="20231213180000 +0800" channel="C14">
-<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+<programme start="20231213194200 +0800" stop="20231213195900 +0800" channel="C15">
+<title lang="zh">艺术里的奥林匹克</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180000 +0800" stop="20231213180100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213195900 +0800" stop="20231213204700 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180100 +0800" stop="20231213180100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213204700 +0800" stop="20231213213300 +0800" channel="C15">
+<title lang="zh">剧场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180100 +0800" stop="20231213180200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+<programme start="20231213213300 +0800" stop="20231213221300 +0800" channel="C15">
+<title lang="zh">探索·发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180200 +0800" stop="20231213180200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+<programme start="20231213221300 +0800" stop="20231213223800 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180200 +0800" stop="20231213183200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
+<programme start="20231213223800 +0800" stop="20231213230200 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213183200 +0800" stop="20231213183700 +0800" channel="C14">
-<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
+<programme start="20231213230200 +0800" stop="20231213232500 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213183700 +0800" stop="20231213184200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
+<programme start="20231213232500 +0800" stop="20231213233000 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184200 +0800" stop="20231213184600 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+<programme start="20231213233000 +0800" stop="20231213240000 +0800" channel="C15">
+<title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184600 +0800" stop="20231213184800 +0800" channel="C14">
-<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213184800 +0800" stop="20231213185600 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213185600 +0800" stop="20231213190000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190000 +0800" stop="20231213190100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190100 +0800" stop="20231213190100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190100 +0800" stop="20231213190200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190200 +0800" stop="20231213190200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190200 +0800" stop="20231213190700 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-17</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213190700 +0800" stop="20231213191600 +0800" channel="C14">
-<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213191600 +0800" stop="20231213191800 +0800" channel="C14">
-<title lang="zh">国博文物展示-大盂鼎</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213191800 +0800" stop="20231213192100 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213192100 +0800" stop="20231213192400 +0800" channel="C14">
-<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213192400 +0800" stop="20231213192500 +0800" channel="C14">
-<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213192500 +0800" stop="20231213192800 +0800" channel="C14">
-<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213192800 +0800" stop="20231213193000 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-迢迢牵牛星（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213193000 +0800" stop="20231213200000 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-美丽中国说-2（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200000 +0800" stop="20231213200100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200100 +0800" stop="20231213200100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200100 +0800" stop="20231213200200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200200 +0800" stop="20231213200200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200200 +0800" stop="20231213200800 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213200800 +0800" stop="20231213201300 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-18</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213201300 +0800" stop="20231213201700 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-蒹葭（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213201700 +0800" stop="20231213202000 +0800" channel="C14">
-<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213202000 +0800" stop="20231213202500 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-二泉随想（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213202500 +0800" stop="20231213203000 +0800" channel="C14">
-<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213203000 +0800" stop="20231213210000 +0800" channel="C14">
-<title lang="zh">央视外语新闻新媒体-美丽中国说-3（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210000 +0800" stop="20231213210100 +0800" channel="C14">
-<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210100 +0800" stop="20231213210100 +0800" channel="C14">
-<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210100 +0800" stop="20231213210200 +0800" channel="C14">
-<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210200 +0800" stop="20231213210200 +0800" channel="C14">
-<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210200 +0800" stop="20231213210700 +0800" channel="C14">
-<title lang="zh">8K看航展-4(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213210700 +0800" stop="20231213211200 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-19</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213211200 +0800" stop="20231213211600 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-太湖美（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213211600 +0800" stop="20231213211900 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213211900 +0800" stop="20231213212400 +0800" channel="C14">
-<title lang="zh">碧水长歌颂端阳-岸起云回（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213212400 +0800" stop="20231213213200 +0800" channel="C14">
-<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213213200 +0800" stop="20231213213500 +0800" channel="C14">
-<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213213500 +0800" stop="20231213220500 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国自然-追踪长臂猿（8K三维声）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213220500 +0800" stop="20231213221000 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-20</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213221000 +0800" stop="20231213221600 +0800" channel="C14">
-<title lang="zh">2023太湖美音乐会-二泉随想（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213221600 +0800" stop="20231213221900 +0800" channel="C14">
-<title lang="zh">8K超高清万象-美丽中国 北上广</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213221900 +0800" stop="20231213222400 +0800" channel="C14">
-<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213222400 +0800" stop="20231213222600 +0800" channel="C14">
-<title lang="zh">国博文物展示-大盂鼎</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213222600 +0800" stop="20231213222900 +0800" channel="C14">
-<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213222900 +0800" stop="20231213225900 +0800" channel="C14">
-<title lang="zh">上海总站超高清节目集锦-美丽中国说4-成长的陪伴（8K三维声）</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231213225900 +0800" stop="20231213230000 +0800" channel="C14">
+<programme start="20231213070000 +0800" stop="20231213070000 +0800" channel="C16">
 <title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213230000 +0800" stop="20231213240000 +0800" channel="C14">
+<programme start="20231213070000 +0800" stop="20231213074500 +0800" channel="C16">
+<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213074500 +0800" stop="20231213075000 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213075000 +0800" stop="20231213075500 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213075500 +0800" stop="20231213075900 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-太湖美（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213075900 +0800" stop="20231213080000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213080000 +0800" stop="20231213080100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213080100 +0800" stop="20231213080100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213080100 +0800" stop="20231213080200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213080200 +0800" stop="20231213080200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213080200 +0800" stop="20231213081000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213081000 +0800" stop="20231213081500 +0800" channel="C16">
+<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213081500 +0800" stop="20231213084500 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国说4-成长的陪伴（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213084500 +0800" stop="20231213085000 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213085000 +0800" stop="20231213085500 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213085500 +0800" stop="20231213085900 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213085900 +0800" stop="20231213090000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-极光（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213090000 +0800" stop="20231213090100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213090100 +0800" stop="20231213090100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213090100 +0800" stop="20231213090200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213090200 +0800" stop="20231213090200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213090200 +0800" stop="20231213093200 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213093200 +0800" stop="20231213094100 +0800" channel="C16">
+<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213094100 +0800" stop="20231213094600 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213094600 +0800" stop="20231213095100 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213095100 +0800" stop="20231213095500 +0800" channel="C16">
+<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213095500 +0800" stop="20231213095700 +0800" channel="C16">
+<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213095700 +0800" stop="20231213100000 +0800" channel="C16">
+<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213100000 +0800" stop="20231213100100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213100100 +0800" stop="20231213100100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213100100 +0800" stop="20231213100200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213100200 +0800" stop="20231213100200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213100200 +0800" stop="20231213103200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213103200 +0800" stop="20231213103700 +0800" channel="C16">
+<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213103700 +0800" stop="20231213104200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213104200 +0800" stop="20231213104600 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213104600 +0800" stop="20231213104800 +0800" channel="C16">
+<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213104800 +0800" stop="20231213105600 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213105600 +0800" stop="20231213110000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213110000 +0800" stop="20231213110100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213110100 +0800" stop="20231213110100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213110100 +0800" stop="20231213110200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213110200 +0800" stop="20231213110200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213110200 +0800" stop="20231213114700 +0800" channel="C16">
+<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213114700 +0800" stop="20231213115100 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213115100 +0800" stop="20231213115600 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213115600 +0800" stop="20231213115900 +0800" channel="C16">
+<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213115900 +0800" stop="20231213120000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213120000 +0800" stop="20231213120100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213120100 +0800" stop="20231213120100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213120100 +0800" stop="20231213120200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213120200 +0800" stop="20231213120200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213120200 +0800" stop="20231213121000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213121000 +0800" stop="20231213121000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213121000 +0800" stop="20231213121500 +0800" channel="C16">
+<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213121500 +0800" stop="20231213123600 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-魅力海南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213123600 +0800" stop="20231213124100 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213124100 +0800" stop="20231213124300 +0800" channel="C16">
+<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213124300 +0800" stop="20231213124600 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213124600 +0800" stop="20231213124900 +0800" channel="C16">
+<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213124900 +0800" stop="20231213125400 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213125400 +0800" stop="20231213130000 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213130000 +0800" stop="20231213130100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213130100 +0800" stop="20231213130100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213130100 +0800" stop="20231213130200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213130200 +0800" stop="20231213130200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213130200 +0800" stop="20231213133200 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213133200 +0800" stop="20231213134100 +0800" channel="C16">
+<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213134100 +0800" stop="20231213134600 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213134600 +0800" stop="20231213135100 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213135100 +0800" stop="20231213135500 +0800" channel="C16">
+<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213135500 +0800" stop="20231213135700 +0800" channel="C16">
+<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213135700 +0800" stop="20231213140000 +0800" channel="C16">
+<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213140000 +0800" stop="20231213140100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213140100 +0800" stop="20231213140100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213140100 +0800" stop="20231213140200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213140200 +0800" stop="20231213140200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213140200 +0800" stop="20231213143200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213143200 +0800" stop="20231213143700 +0800" channel="C16">
+<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213143700 +0800" stop="20231213144200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213144200 +0800" stop="20231213144600 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213144600 +0800" stop="20231213144800 +0800" channel="C16">
+<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213144800 +0800" stop="20231213145600 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213145600 +0800" stop="20231213150000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213150000 +0800" stop="20231213150100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213150100 +0800" stop="20231213150100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213150100 +0800" stop="20231213150200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213150200 +0800" stop="20231213150200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213150200 +0800" stop="20231213154700 +0800" channel="C16">
+<title lang="zh">美丽中国自然-中国：野生动物家园（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213154700 +0800" stop="20231213155100 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-无锡景（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213155100 +0800" stop="20231213155600 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-13</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213155600 +0800" stop="20231213155900 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213155900 +0800" stop="20231213160000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213160000 +0800" stop="20231213160100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213160100 +0800" stop="20231213160100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213160100 +0800" stop="20231213160200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213160200 +0800" stop="20231213160200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213160200 +0800" stop="20231213161000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-华熠千秋（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213161000 +0800" stop="20231213161000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-彩带（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213161000 +0800" stop="20231213161500 +0800" channel="C16">
+<title lang="zh">8K看航展-1(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213161500 +0800" stop="20231213163600 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-魅力海南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213163600 +0800" stop="20231213164100 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-14</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213164100 +0800" stop="20231213164300 +0800" channel="C16">
+<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213164300 +0800" stop="20231213164600 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213164600 +0800" stop="20231213164900 +0800" channel="C16">
+<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213164900 +0800" stop="20231213165400 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213165400 +0800" stop="20231213170000 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213170000 +0800" stop="20231213170100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213170100 +0800" stop="20231213170100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213170100 +0800" stop="20231213170200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213170200 +0800" stop="20231213170200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213170200 +0800" stop="20231213173200 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-美丽中国说-1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213173200 +0800" stop="20231213174100 +0800" channel="C16">
+<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213174100 +0800" stop="20231213174600 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-15</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213174600 +0800" stop="20231213175100 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-人在草木间（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213175100 +0800" stop="20231213175500 +0800" channel="C16">
+<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213175500 +0800" stop="20231213175700 +0800" channel="C16">
+<title lang="zh">玉兰之城-（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213175700 +0800" stop="20231213180000 +0800" channel="C16">
+<title lang="zh">宣传片-8K频道短视频诞生足迹（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213180000 +0800" stop="20231213180100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213180100 +0800" stop="20231213180100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213180100 +0800" stop="20231213180200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213180200 +0800" stop="20231213180200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213180200 +0800" stop="20231213183200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国说5-沙洲奇缘（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213183200 +0800" stop="20231213183700 +0800" channel="C16">
+<title lang="zh">8K看航展-5(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213183700 +0800" stop="20231213184200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-16</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213184200 +0800" stop="20231213184600 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-能不忆江南（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213184600 +0800" stop="20231213184800 +0800" channel="C16">
+<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213184800 +0800" stop="20231213185600 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆2（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213185600 +0800" stop="20231213190000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-步出夏门行（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190000 +0800" stop="20231213190100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190100 +0800" stop="20231213190100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190100 +0800" stop="20231213190200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190200 +0800" stop="20231213190200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190200 +0800" stop="20231213190700 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-17</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213190700 +0800" stop="20231213191600 +0800" channel="C16">
+<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213191600 +0800" stop="20231213191800 +0800" channel="C16">
+<title lang="zh">国博文物展示-大盂鼎</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213191800 +0800" stop="20231213192100 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213192100 +0800" stop="20231213192400 +0800" channel="C16">
+<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213192400 +0800" stop="20231213192500 +0800" channel="C16">
+<title lang="zh">8K超高清万象-莲·荷</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213192500 +0800" stop="20231213192800 +0800" channel="C16">
+<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213192800 +0800" stop="20231213193000 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-迢迢牵牛星（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213193000 +0800" stop="20231213200000 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-美丽中国说-2（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200000 +0800" stop="20231213200100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200100 +0800" stop="20231213200100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200100 +0800" stop="20231213200200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200200 +0800" stop="20231213200200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200200 +0800" stop="20231213200800 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213200800 +0800" stop="20231213201300 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-18</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213201300 +0800" stop="20231213201700 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-蒹葭（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213201700 +0800" stop="20231213202000 +0800" channel="C16">
+<title lang="zh">国博文物展示-错金银云纹铜犀尊（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213202000 +0800" stop="20231213202500 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-二泉随想（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213202500 +0800" stop="20231213203000 +0800" channel="C16">
+<title lang="zh">8K超高清万象-美丽中国 四季</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213203000 +0800" stop="20231213210000 +0800" channel="C16">
+<title lang="zh">央视外语新闻新媒体-美丽中国说-3（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210000 +0800" stop="20231213210100 +0800" channel="C16">
+<title lang="zh">宗师列传·唐宋八大家-主持人版宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210100 +0800" stop="20231213210100 +0800" channel="C16">
+<title lang="zh">中央广播电视总台2023小品相声大会-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210100 +0800" stop="20231213210200 +0800" channel="C16">
+<title lang="zh">简牍探中华-宣传片（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210200 +0800" stop="20231213210200 +0800" channel="C16">
+<title lang="zh">8K超高清万象-大雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210200 +0800" stop="20231213210700 +0800" channel="C16">
+<title lang="zh">8K看航展-4(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213210700 +0800" stop="20231213211200 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-19</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213211200 +0800" stop="20231213211600 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-太湖美（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213211600 +0800" stop="20231213211900 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213211900 +0800" stop="20231213212400 +0800" channel="C16">
+<title lang="zh">碧水长歌颂端阳-岸起云回（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213212400 +0800" stop="20231213213200 +0800" channel="C16">
+<title lang="zh">精彩集锦-喀纳斯+三沙（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213213200 +0800" stop="20231213213500 +0800" channel="C16">
+<title lang="zh">美丽中国-海南岛（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213213500 +0800" stop="20231213220500 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国自然-追踪长臂猿（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213220500 +0800" stop="20231213221000 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-如果国宝会说话第一季（8K）-20</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213221000 +0800" stop="20231213221600 +0800" channel="C16">
+<title lang="zh">2023太湖美音乐会-二泉随想（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213221600 +0800" stop="20231213221900 +0800" channel="C16">
+<title lang="zh">8K超高清万象-美丽中国 北上广</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213221900 +0800" stop="20231213222400 +0800" channel="C16">
+<title lang="zh">美丽中国-新疆1（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213222400 +0800" stop="20231213222600 +0800" channel="C16">
+<title lang="zh">国博文物展示-大盂鼎</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213222600 +0800" stop="20231213222900 +0800" channel="C16">
+<title lang="zh">舞蹈世界-四时舞-秋分(8K)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213222900 +0800" stop="20231213225900 +0800" channel="C16">
+<title lang="zh">上海总站超高清节目集锦-美丽中国说4-成长的陪伴（8K三维声）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213225900 +0800" stop="20231213230000 +0800" channel="C16">
+<title lang="zh">8K标识演绎-总宣（音乐改版）（8K）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231213230000 +0800" stop="20231213240000 +0800" channel="C16">
 <title lang="zh">8K再见</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070100 +0800" stop="20231213075200 +0800" channel="C15">
+<programme start="20231213070100 +0800" stop="20231213075200 +0800" channel="C17">
 <title lang="zh">叛逆者(34)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213075200 +0800" stop="20231213084100 +0800" channel="C15">
+<programme start="20231213075200 +0800" stop="20231213084100 +0800" channel="C17">
 <title lang="zh">叛逆者(35)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213084100 +0800" stop="20231213092900 +0800" channel="C15">
+<programme start="20231213084100 +0800" stop="20231213092900 +0800" channel="C17">
 <title lang="zh">叛逆者(36)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213092900 +0800" stop="20231213101900 +0800" channel="C15">
+<programme start="20231213092900 +0800" stop="20231213101900 +0800" channel="C17">
 <title lang="zh">叛逆者(37)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213101900 +0800" stop="20231213111100 +0800" channel="C15">
+<programme start="20231213101900 +0800" stop="20231213111100 +0800" channel="C17">
 <title lang="zh">叛逆者(38)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213111100 +0800" stop="20231213120000 +0800" channel="C15">
+<programme start="20231213111100 +0800" stop="20231213120000 +0800" channel="C17">
 <title lang="zh">叛逆者(39)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213120000 +0800" stop="20231213131800 +0800" channel="C15">
+<programme start="20231213120000 +0800" stop="20231213131800 +0800" channel="C17">
 <title lang="zh">时间管理局Ⅲ(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213131800 +0800" stop="20231213143000 +0800" channel="C15">
+<programme start="20231213131800 +0800" stop="20231213143000 +0800" channel="C17">
 <title lang="zh">时间管理局Ⅲ(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213143000 +0800" stop="20231213152200 +0800" channel="C15">
+<programme start="20231213143000 +0800" stop="20231213152200 +0800" channel="C17">
 <title lang="zh">叛逆者(40)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213152200 +0800" stop="20231213161200 +0800" channel="C15">
+<programme start="20231213152200 +0800" stop="20231213161200 +0800" channel="C17">
 <title lang="zh">叛逆者(41)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161200 +0800" stop="20231213170000 +0800" channel="C15">
+<programme start="20231213161200 +0800" stop="20231213170000 +0800" channel="C17">
 <title lang="zh">叛逆者(42)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170000 +0800" stop="20231213175100 +0800" channel="C15">
+<programme start="20231213170000 +0800" stop="20231213175100 +0800" channel="C17">
 <title lang="zh">叛逆者(43)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213175100 +0800" stop="20231213184200 +0800" channel="C15">
+<programme start="20231213175100 +0800" stop="20231213184200 +0800" channel="C17">
 <title lang="zh">人世间(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184200 +0800" stop="20231213192900 +0800" channel="C15">
+<programme start="20231213184200 +0800" stop="20231213192900 +0800" channel="C17">
 <title lang="zh">人世间(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213192900 +0800" stop="20231213201800 +0800" channel="C15">
+<programme start="20231213192900 +0800" stop="20231213201800 +0800" channel="C17">
 <title lang="zh">我在他乡挺好的(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213201800 +0800" stop="20231213210800 +0800" channel="C15">
+<programme start="20231213201800 +0800" stop="20231213210800 +0800" channel="C17">
 <title lang="zh">我在他乡挺好的(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213210800 +0800" stop="20231213220000 +0800" channel="C15">
+<programme start="20231213210800 +0800" stop="20231213220000 +0800" channel="C17">
 <title lang="zh">我在他乡挺好的(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213220000 +0800" stop="20231213232100 +0800" channel="C15">
+<programme start="20231213220000 +0800" stop="20231213232100 +0800" channel="C17">
 <title lang="zh">时间管理局Ⅲ(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213232100 +0800" stop="20231213240000 +0800" channel="C15">
+<programme start="20231213232100 +0800" stop="20231213240000 +0800" channel="C17">
 <title lang="zh">时间管理局Ⅲ(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213074500 +0800" channel="C16">
+<programme start="20231213070000 +0800" stop="20231213074500 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213074500 +0800" stop="20231213083100 +0800" channel="C16">
+<programme start="20231213074500 +0800" stop="20231213083100 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213083100 +0800" stop="20231213091600 +0800" channel="C16">
+<programme start="20231213083100 +0800" stop="20231213091600 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213091600 +0800" stop="20231213100200 +0800" channel="C16">
+<programme start="20231213091600 +0800" stop="20231213100200 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213100200 +0800" stop="20231213105200 +0800" channel="C16">
+<programme start="20231213100200 +0800" stop="20231213105200 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213105200 +0800" stop="20231213113700 +0800" channel="C16">
+<programme start="20231213105200 +0800" stop="20231213113700 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213113700 +0800" stop="20231213122200 +0800" channel="C16">
+<programme start="20231213113700 +0800" stop="20231213122200 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213122200 +0800" stop="20231213130800 +0800" channel="C16">
+<programme start="20231213122200 +0800" stop="20231213130800 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130800 +0800" stop="20231213135300 +0800" channel="C16">
+<programme start="20231213130800 +0800" stop="20231213135300 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213135300 +0800" stop="20231213142300 +0800" channel="C16">
+<programme start="20231213135300 +0800" stop="20231213142300 +0800" channel="C18">
 <title lang="zh">风华国乐</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213142300 +0800" stop="20231213150800 +0800" channel="C16">
+<programme start="20231213142300 +0800" stop="20231213150800 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150800 +0800" stop="20231213155300 +0800" channel="C16">
+<programme start="20231213150800 +0800" stop="20231213155300 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155300 +0800" stop="20231213163900 +0800" channel="C16">
+<programme start="20231213155300 +0800" stop="20231213163900 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213163900 +0800" stop="20231213172900 +0800" channel="C16">
+<programme start="20231213163900 +0800" stop="20231213172900 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213172900 +0800" stop="20231213181400 +0800" channel="C16">
+<programme start="20231213172900 +0800" stop="20231213181400 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213181400 +0800" stop="20231213185900 +0800" channel="C16">
+<programme start="20231213181400 +0800" stop="20231213185900 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213185900 +0800" stop="20231213194400 +0800" channel="C16">
+<programme start="20231213185900 +0800" stop="20231213194400 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213194400 +0800" stop="20231213202900 +0800" channel="C16">
+<programme start="20231213194400 +0800" stop="20231213202900 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213202900 +0800" stop="20231213205900 +0800" channel="C16">
+<programme start="20231213202900 +0800" stop="20231213205900 +0800" channel="C18">
 <title lang="zh">风华国乐</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213205900 +0800" stop="20231213214400 +0800" channel="C16">
+<programme start="20231213205900 +0800" stop="20231213214400 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213214400 +0800" stop="20231213222900 +0800" channel="C16">
+<programme start="20231213214400 +0800" stop="20231213222900 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213222900 +0800" stop="20231213231400 +0800" channel="C16">
+<programme start="20231213222900 +0800" stop="20231213231400 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅:名家名曲(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231400 +0800" stop="20231213240000 +0800" channel="C16">
+<programme start="20231213231400 +0800" stop="20231213240000 +0800" channel="C18">
 <title lang="zh">CCTV音乐厅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213002500 +0800" stop="20231213070000 +0800" channel="C17">
+<programme start="20231213002500 +0800" stop="20231213070000 +0800" channel="C19">
 <title lang="zh">我最爱的家人(21)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213074600 +0800" channel="C17">
+<programme start="20231213070000 +0800" stop="20231213074600 +0800" channel="C19">
 <title lang="zh">我最爱的家人(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213074600 +0800" stop="20231213084200 +0800" channel="C17">
+<programme start="20231213074600 +0800" stop="20231213084200 +0800" channel="C19">
 <title lang="zh">我最爱的家人(21)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213084200 +0800" stop="20231213092800 +0800" channel="C17">
+<programme start="20231213084200 +0800" stop="20231213092800 +0800" channel="C19">
 <title lang="zh">对手(28)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213092800 +0800" stop="20231213101400 +0800" channel="C17">
+<programme start="20231213092800 +0800" stop="20231213101400 +0800" channel="C19">
 <title lang="zh">对手(29)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213101400 +0800" stop="20231213110000 +0800" channel="C17">
+<programme start="20231213101400 +0800" stop="20231213110000 +0800" channel="C19">
 <title lang="zh">对手(30)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213110000 +0800" stop="20231213120000 +0800" channel="C17">
+<programme start="20231213110000 +0800" stop="20231213120000 +0800" channel="C19">
 <title lang="zh">对手(31)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213120000 +0800" stop="20231213124600 +0800" channel="C17">
+<programme start="20231213120000 +0800" stop="20231213124600 +0800" channel="C19">
 <title lang="zh">幸福院(33)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213124600 +0800" stop="20231213134800 +0800" channel="C17">
+<programme start="20231213124600 +0800" stop="20231213134800 +0800" channel="C19">
 <title lang="zh">幸福院(34)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213134800 +0800" stop="20231213143400 +0800" channel="C17">
+<programme start="20231213134800 +0800" stop="20231213143400 +0800" channel="C19">
 <title lang="zh">锦衣之下(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213143400 +0800" stop="20231213152000 +0800" channel="C17">
+<programme start="20231213143400 +0800" stop="20231213152000 +0800" channel="C19">
 <title lang="zh">锦衣之下(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213152000 +0800" stop="20231213160600 +0800" channel="C17">
+<programme start="20231213152000 +0800" stop="20231213160600 +0800" channel="C19">
 <title lang="zh">锦衣之下(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160600 +0800" stop="20231213165200 +0800" channel="C17">
+<programme start="20231213160600 +0800" stop="20231213165200 +0800" channel="C19">
 <title lang="zh">锦衣之下(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213165200 +0800" stop="20231213173800 +0800" channel="C17">
+<programme start="20231213165200 +0800" stop="20231213173800 +0800" channel="C19">
 <title lang="zh">锦衣之下(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213173800 +0800" stop="20231213184100 +0800" channel="C17">
+<programme start="20231213173800 +0800" stop="20231213184100 +0800" channel="C19">
 <title lang="zh">锦衣之下(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184100 +0800" stop="20231213192700 +0800" channel="C17">
+<programme start="20231213184100 +0800" stop="20231213192700 +0800" channel="C19">
 <title lang="zh">对手(32)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213192700 +0800" stop="20231213201300 +0800" channel="C17">
+<programme start="20231213192700 +0800" stop="20231213201300 +0800" channel="C19">
 <title lang="zh">对手(33)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213201300 +0800" stop="20231213205900 +0800" channel="C17">
+<programme start="20231213201300 +0800" stop="20231213205900 +0800" channel="C19">
 <title lang="zh">对手(34)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213205900 +0800" stop="20231213220000 +0800" channel="C17">
+<programme start="20231213205900 +0800" stop="20231213220000 +0800" channel="C19">
 <title lang="zh">对手(35)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213220000 +0800" stop="20231213224600 +0800" channel="C17">
+<programme start="20231213220000 +0800" stop="20231213224600 +0800" channel="C19">
 <title lang="zh">幸福院(35)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213224600 +0800" stop="20231213233900 +0800" channel="C17">
+<programme start="20231213224600 +0800" stop="20231213233900 +0800" channel="C19">
 <title lang="zh">幸福院(36)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213233900 +0800" stop="20231213240000 +0800" channel="C17">
+<programme start="20231213233900 +0800" stop="20231213240000 +0800" channel="C19">
 <title lang="zh">我最爱的家人(22)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080400 +0800" stop="20231213082700 +0800" channel="C18">
+<programme start="20231213080400 +0800" stop="20231213082700 +0800" channel="C20">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213082700 +0800" stop="20231213085200 +0800" channel="C18">
+<programme start="20231213082700 +0800" stop="20231213085200 +0800" channel="C20">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213085200 +0800" stop="20231213095000 +0800" channel="C18">
+<programme start="20231213085200 +0800" stop="20231213095000 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213095000 +0800" stop="20231213104500 +0800" channel="C18">
+<programme start="20231213095000 +0800" stop="20231213104500 +0800" channel="C20">
 <title lang="zh">正大综艺-动物来啦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213104500 +0800" stop="20231213110000 +0800" channel="C18">
+<programme start="20231213104500 +0800" stop="20231213110000 +0800" channel="C20">
 <title lang="zh">9视频</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213110000 +0800" stop="20231213112500 +0800" channel="C18">
+<programme start="20231213110000 +0800" stop="20231213112500 +0800" channel="C20">
 <title lang="zh">活力·源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213112500 +0800" stop="20231213120200 +0800" channel="C18">
+<programme start="20231213112500 +0800" stop="20231213120200 +0800" channel="C20">
 <title lang="zh">2022尚峰汇-古堡新生-41</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213120200 +0800" stop="20231213121200 +0800" channel="C18">
+<programme start="20231213120200 +0800" stop="20231213121200 +0800" channel="C20">
 <title lang="zh">时尚科技秀</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213121200 +0800" stop="20231213123400 +0800" channel="C18">
+<programme start="20231213121200 +0800" stop="20231213123400 +0800" channel="C20">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213123400 +0800" stop="20231213131300 +0800" channel="C18">
+<programme start="20231213123400 +0800" stop="20231213131300 +0800" channel="C20">
 <title lang="zh">2022尚峰汇-古堡新生-42</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213131300 +0800" stop="20231213134900 +0800" channel="C18">
+<programme start="20231213131300 +0800" stop="20231213134900 +0800" channel="C20">
 <title lang="zh">心理访谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213134900 +0800" stop="20231213144700 +0800" channel="C18">
+<programme start="20231213134900 +0800" stop="20231213144700 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213144700 +0800" stop="20231213151200 +0800" channel="C18">
+<programme start="20231213144700 +0800" stop="20231213151200 +0800" channel="C20">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213151200 +0800" stop="20231213161000 +0800" channel="C18">
+<programme start="20231213151200 +0800" stop="20231213161000 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161000 +0800" stop="20231213170800 +0800" channel="C18">
+<programme start="20231213161000 +0800" stop="20231213170800 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170800 +0800" stop="20231213173300 +0800" channel="C18">
+<programme start="20231213170800 +0800" stop="20231213173300 +0800" channel="C20">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213173300 +0800" stop="20231213183100 +0800" channel="C18">
+<programme start="20231213173300 +0800" stop="20231213183100 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213183100 +0800" stop="20231213192600 +0800" channel="C18">
+<programme start="20231213183100 +0800" stop="20231213192600 +0800" channel="C20">
 <title lang="zh">正大综艺-动物来啦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213192600 +0800" stop="20231213194100 +0800" channel="C18">
+<programme start="20231213192600 +0800" stop="20231213194100 +0800" channel="C20">
 <title lang="zh">9视频</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213194100 +0800" stop="20231213200600 +0800" channel="C18">
+<programme start="20231213194100 +0800" stop="20231213200600 +0800" channel="C20">
 <title lang="zh">活力·源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213200600 +0800" stop="20231213204300 +0800" channel="C18">
+<programme start="20231213200600 +0800" stop="20231213204300 +0800" channel="C20">
 <title lang="zh">2022尚峰汇-古堡新生-43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213204300 +0800" stop="20231213205300 +0800" channel="C18">
+<programme start="20231213204300 +0800" stop="20231213205300 +0800" channel="C20">
 <title lang="zh">时尚科技秀</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213205300 +0800" stop="20231213211500 +0800" channel="C18">
+<programme start="20231213205300 +0800" stop="20231213211500 +0800" channel="C20">
 <title lang="zh">健身动起来</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213211500 +0800" stop="20231213215400 +0800" channel="C18">
+<programme start="20231213211500 +0800" stop="20231213215400 +0800" channel="C20">
 <title lang="zh">2022尚峰汇-古堡新生-44</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213215400 +0800" stop="20231213223000 +0800" channel="C18">
+<programme start="20231213215400 +0800" stop="20231213223000 +0800" channel="C20">
 <title lang="zh">心理访谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213223000 +0800" stop="20231213232800 +0800" channel="C18">
+<programme start="20231213223000 +0800" stop="20231213232800 +0800" channel="C20">
 <title lang="zh">2021秘密大改造（第五季）-4</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213232800 +0800" stop="20231213240000 +0800" channel="C18">
+<programme start="20231213232800 +0800" stop="20231213240000 +0800" channel="C20">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213005000 +0800" stop="20231213012000 +0800" channel="C19">
+<programme start="20231213005000 +0800" stop="20231213012000 +0800" channel="C21">
 <title lang="zh">欧冠开场哨</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213012000 +0800" stop="20231213024000 +0800" channel="C19">
+<programme start="20231213012000 +0800" stop="20231213024000 +0800" channel="C21">
 <title lang="zh">法甲联赛:巴黎圣日耳曼-蒙彼利埃</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213024000 +0800" stop="20231213040500 +0800" channel="C19">
+<programme start="20231213024000 +0800" stop="20231213040500 +0800" channel="C21">
 <title lang="zh">法甲联赛第11轮:摩纳哥-布雷斯特</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213040500 +0800" stop="20231213052500 +0800" channel="C19">
+<programme start="20231213040500 +0800" stop="20231213052500 +0800" channel="C21">
 <title lang="zh">法甲第12轮:兰斯-巴黎圣日耳曼</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213052500 +0800" stop="20231213065000 +0800" channel="C19">
+<programme start="20231213052500 +0800" stop="20231213065000 +0800" channel="C21">
 <title lang="zh">2023-2024法甲第12轮:雷恩-里昂</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213065000 +0800" stop="20231213081000 +0800" channel="C19">
+<programme start="20231213065000 +0800" stop="20231213081000 +0800" channel="C21">
 <title lang="zh">法甲联赛第13轮:尼斯-图卢兹</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213081000 +0800" stop="20231213093500 +0800" channel="C19">
+<programme start="20231213081000 +0800" stop="20231213093500 +0800" channel="C21">
 <title lang="zh">法甲第13轮:巴黎圣日耳曼-摩纳哥</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213093500 +0800" stop="20231213105500 +0800" channel="C19">
+<programme start="20231213093500 +0800" stop="20231213105500 +0800" channel="C21">
 <title lang="zh">英超第16轮:埃弗顿-切尔西</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213105500 +0800" stop="20231213122000 +0800" channel="C19">
+<programme start="20231213105500 +0800" stop="20231213122000 +0800" channel="C21">
 <title lang="zh">德甲第14轮:斯图加特-勒沃库森</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213122000 +0800" stop="20231213124000 +0800" channel="C19">
+<programme start="20231213122000 +0800" stop="20231213124000 +0800" channel="C21">
 <title lang="zh">足球华彩:贺炜对话卡卡</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213124000 +0800" stop="20231213131000 +0800" channel="C19">
+<programme start="20231213124000 +0800" stop="20231213131000 +0800" channel="C21">
 <title lang="zh">足球华彩:欧冠联赛晋级决赛之路</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213131000 +0800" stop="20231213143000 +0800" channel="C19">
+<programme start="20231213131000 +0800" stop="20231213143000 +0800" channel="C21">
 <title lang="zh">女足世界杯小组赛A组:瑞士-挪威</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213143000 +0800" stop="20231213155500 +0800" channel="C19">
+<programme start="20231213143000 +0800" stop="20231213155500 +0800" channel="C21">
 <title lang="zh">女足世界杯小组赛:西班牙-赞比亚</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155500 +0800" stop="20231213171500 +0800" channel="C19">
+<programme start="20231213155500 +0800" stop="20231213171500 +0800" channel="C21">
 <title lang="zh">德甲第7轮:拜仁慕尼黑-弗赖堡</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213171500 +0800" stop="20231213184000 +0800" channel="C19">
+<programme start="20231213171500 +0800" stop="20231213184000 +0800" channel="C21">
 <title lang="zh">德甲联赛第7轮:多特蒙德-柏林联</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184000 +0800" stop="20231213190500 +0800" channel="C19">
+<programme start="20231213184000 +0800" stop="20231213190500 +0800" channel="C21">
 <title lang="zh">足球华彩:欧洲赛季50大进球</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213190500 +0800" stop="20231213202500 +0800" channel="C19">
+<programme start="20231213190500 +0800" stop="20231213202500 +0800" channel="C21">
 <title lang="zh">英超第16轮:埃弗顿-切尔西</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213202500 +0800" stop="20231213215000 +0800" channel="C19">
+<programme start="20231213202500 +0800" stop="20231213215000 +0800" channel="C21">
 <title lang="zh">德甲第14轮:斯图加特-勒沃库森</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213215000 +0800" stop="20231213231000 +0800" channel="C19">
+<programme start="20231213215000 +0800" stop="20231213231000 +0800" channel="C21">
 <title lang="zh">欧冠:顿涅茨克矿工-巴塞罗那</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231000 +0800" stop="20231213240000 +0800" channel="C19">
+<programme start="20231213231000 +0800" stop="20231213240000 +0800" channel="C21">
 <title lang="zh">欧冠小组赛:皇家社会-本菲卡</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213000000 +0800" stop="20231213080200 +0800" channel="C20">
+<programme start="20231213000000 +0800" stop="20231213080200 +0800" channel="C22">
 <title lang="zh">停机检修</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080200 +0800" stop="20231213083400 +0800" channel="C20">
+<programme start="20231213080200 +0800" stop="20231213083400 +0800" channel="C22">
 <title lang="zh">军火之源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213083400 +0800" stop="20231213092600 +0800" channel="C20">
+<programme start="20231213083400 +0800" stop="20231213092600 +0800" channel="C22">
 <title lang="zh">大家谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213092600 +0800" stop="20231213095800 +0800" channel="C20">
+<programme start="20231213092600 +0800" stop="20231213095800 +0800" channel="C22">
 <title lang="zh">武器装备背后的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213095800 +0800" stop="20231213102800 +0800" channel="C20">
+<programme start="20231213095800 +0800" stop="20231213102800 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213102800 +0800" stop="20231213105800 +0800" channel="C20">
+<programme start="20231213102800 +0800" stop="20231213105800 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213105800 +0800" stop="20231213112900 +0800" channel="C20">
+<programme start="20231213105800 +0800" stop="20231213112900 +0800" channel="C22">
 <title lang="zh">军火之源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213112900 +0800" stop="20231213115900 +0800" channel="C20">
+<programme start="20231213112900 +0800" stop="20231213115900 +0800" channel="C22">
 <title lang="zh">武器装备背后的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213115900 +0800" stop="20231213130000 +0800" channel="C20">
+<programme start="20231213115900 +0800" stop="20231213130000 +0800" channel="C22">
 <title lang="zh">兵器传奇</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130000 +0800" stop="20231213135200 +0800" channel="C20">
+<programme start="20231213130000 +0800" stop="20231213135200 +0800" channel="C22">
 <title lang="zh">大家谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213135200 +0800" stop="20231213142200 +0800" channel="C20">
+<programme start="20231213135200 +0800" stop="20231213142200 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213142200 +0800" stop="20231213145200 +0800" channel="C20">
+<programme start="20231213142200 +0800" stop="20231213145200 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145200 +0800" stop="20231213152300 +0800" channel="C20">
+<programme start="20231213145200 +0800" stop="20231213152300 +0800" channel="C22">
 <title lang="zh">军火之源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213152300 +0800" stop="20231213155300 +0800" channel="C20">
+<programme start="20231213152300 +0800" stop="20231213155300 +0800" channel="C22">
 <title lang="zh">武器装备背后的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155300 +0800" stop="20231213165400 +0800" channel="C20">
+<programme start="20231213155300 +0800" stop="20231213165400 +0800" channel="C22">
 <title lang="zh">兵器传奇</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213165400 +0800" stop="20231213174600 +0800" channel="C20">
+<programme start="20231213165400 +0800" stop="20231213174600 +0800" channel="C22">
 <title lang="zh">大家谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213174600 +0800" stop="20231213181600 +0800" channel="C20">
+<programme start="20231213174600 +0800" stop="20231213181600 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213181600 +0800" stop="20231213184600 +0800" channel="C20">
+<programme start="20231213181600 +0800" stop="20231213184600 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184600 +0800" stop="20231213191800 +0800" channel="C20">
+<programme start="20231213184600 +0800" stop="20231213191800 +0800" channel="C22">
 <title lang="zh">武器装备背后的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213191800 +0800" stop="20231213194900 +0800" channel="C20">
+<programme start="20231213191800 +0800" stop="20231213194900 +0800" channel="C22">
 <title lang="zh">军火之源</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213194900 +0800" stop="20231213204900 +0800" channel="C20">
+<programme start="20231213194900 +0800" stop="20231213204900 +0800" channel="C22">
 <title lang="zh">兵器传奇</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213204900 +0800" stop="20231213214000 +0800" channel="C20">
+<programme start="20231213204900 +0800" stop="20231213214000 +0800" channel="C22">
 <title lang="zh">大家谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213214000 +0800" stop="20231213221000 +0800" channel="C20">
+<programme start="20231213214000 +0800" stop="20231213221000 +0800" channel="C22">
 <title lang="zh">武器装备背后的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213221000 +0800" stop="20231213224000 +0800" channel="C20">
+<programme start="20231213221000 +0800" stop="20231213224000 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213224000 +0800" stop="20231213231100 +0800" channel="C20">
+<programme start="20231213224000 +0800" stop="20231213231100 +0800" channel="C22">
 <title lang="zh">兵工启示录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231100 +0800" stop="20231213240000 +0800" channel="C20">
+<programme start="20231213231100 +0800" stop="20231213240000 +0800" channel="C22">
 <title lang="zh">影视背景</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001900 +0800" stop="20231213010500 +0800" channel="C21">
+<programme start="20231213001900 +0800" stop="20231213010500 +0800" channel="C23">
 <title lang="zh">娘亲舅大(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213010500 +0800" stop="20231213080100 +0800" channel="C21">
+<programme start="20231213010500 +0800" stop="20231213080100 +0800" channel="C23">
 <title lang="zh">娘亲舅大(28)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080100 +0800" stop="20231213093500 +0800" channel="C21">
+<programme start="20231213080100 +0800" stop="20231213093500 +0800" channel="C23">
 <title lang="zh">粮食</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213093500 +0800" stop="20231213102100 +0800" channel="C21">
+<programme start="20231213093500 +0800" stop="20231213102100 +0800" channel="C23">
 <title lang="zh">娘亲舅大(26)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213102100 +0800" stop="20231213110700 +0800" channel="C21">
+<programme start="20231213102100 +0800" stop="20231213110700 +0800" channel="C23">
 <title lang="zh">娘亲舅大(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213110700 +0800" stop="20231213120000 +0800" channel="C21">
+<programme start="20231213110700 +0800" stop="20231213120000 +0800" channel="C23">
 <title lang="zh">娘亲舅大(28)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213120000 +0800" stop="20231213132500 +0800" channel="C21">
+<programme start="20231213120000 +0800" stop="20231213132500 +0800" channel="C23">
 <title lang="zh">柳堡的故事</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213132500 +0800" stop="20231213141100 +0800" channel="C21">
+<programme start="20231213132500 +0800" stop="20231213141100 +0800" channel="C23">
 <title lang="zh">大话红娘(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213141100 +0800" stop="20231213145700 +0800" channel="C21">
+<programme start="20231213141100 +0800" stop="20231213145700 +0800" channel="C23">
 <title lang="zh">大话红娘(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145700 +0800" stop="20231213154300 +0800" channel="C21">
+<programme start="20231213145700 +0800" stop="20231213154300 +0800" channel="C23">
 <title lang="zh">大话红娘(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213154300 +0800" stop="20231213163000 +0800" channel="C21">
+<programme start="20231213154300 +0800" stop="20231213163000 +0800" channel="C23">
 <title lang="zh">大话红娘(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213163000 +0800" stop="20231213171600 +0800" channel="C21">
+<programme start="20231213163000 +0800" stop="20231213171600 +0800" channel="C23">
 <title lang="zh">天涯浴血(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213171600 +0800" stop="20231213180200 +0800" channel="C21">
+<programme start="20231213171600 +0800" stop="20231213180200 +0800" channel="C23">
 <title lang="zh">天涯浴血(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180200 +0800" stop="20231213184800 +0800" channel="C21">
+<programme start="20231213180200 +0800" stop="20231213184800 +0800" channel="C23">
 <title lang="zh">天涯浴血(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184800 +0800" stop="20231213200000 +0800" channel="C21">
+<programme start="20231213184800 +0800" stop="20231213200000 +0800" channel="C23">
 <title lang="zh">天涯浴血(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213200000 +0800" stop="20231213220100 +0800" channel="C21">
+<programme start="20231213200000 +0800" stop="20231213220100 +0800" channel="C23">
 <title lang="zh">铁道游击队</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213220100 +0800" stop="20231213224700 +0800" channel="C21">
+<programme start="20231213220100 +0800" stop="20231213224700 +0800" channel="C23">
 <title lang="zh">可爱的中国(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213224700 +0800" stop="20231213233300 +0800" channel="C21">
+<programme start="20231213224700 +0800" stop="20231213233300 +0800" channel="C23">
 <title lang="zh">可爱的中国(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213233300 +0800" stop="20231213240000 +0800" channel="C21">
+<programme start="20231213233300 +0800" stop="20231213240000 +0800" channel="C23">
 <title lang="zh">娘亲舅大(29)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001200 +0800" stop="20231213001700 +0800" channel="C22">
+<programme start="20231213001200 +0800" stop="20231213001700 +0800" channel="C24">
 <title lang="zh">美丽中国:云南</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001700 +0800" stop="20231213010700 +0800" channel="C22">
+<programme start="20231213001700 +0800" stop="20231213010700 +0800" channel="C24">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213010700 +0800" stop="20231213070000 +0800" channel="C22">
+<programme start="20231213010700 +0800" stop="20231213070000 +0800" channel="C24">
 <title lang="zh">美丽中国:长白山</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213074200 +0800" channel="C22">
+<programme start="20231213070000 +0800" stop="20231213074200 +0800" channel="C24">
 <title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213074200 +0800" stop="20231213081200 +0800" channel="C22">
+<programme start="20231213074200 +0800" stop="20231213081200 +0800" channel="C24">
 <title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213081200 +0800" stop="20231213084200 +0800" channel="C22">
+<programme start="20231213081200 +0800" stop="20231213084200 +0800" channel="C24">
 <title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213084200 +0800" stop="20231213093500 +0800" channel="C22">
+<programme start="20231213084200 +0800" stop="20231213093500 +0800" channel="C24">
 <title lang="zh">深海珊瑚</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213093500 +0800" stop="20231213102500 +0800" channel="C22">
+<programme start="20231213093500 +0800" stop="20231213102500 +0800" channel="C24">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213102500 +0800" stop="20231213111700 +0800" channel="C22">
+<programme start="20231213102500 +0800" stop="20231213111700 +0800" channel="C24">
 <title lang="zh">动物的对话(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213111700 +0800" stop="20231213121800 +0800" channel="C22">
+<programme start="20231213111700 +0800" stop="20231213121800 +0800" channel="C24">
 <title lang="zh">科学动物园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213121800 +0800" stop="20231213124800 +0800" channel="C22">
+<programme start="20231213121800 +0800" stop="20231213124800 +0800" channel="C24">
 <title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213124800 +0800" stop="20231213131800 +0800" channel="C22">
+<programme start="20231213124800 +0800" stop="20231213131800 +0800" channel="C24">
 <title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213131800 +0800" stop="20231213141000 +0800" channel="C22">
+<programme start="20231213131800 +0800" stop="20231213141000 +0800" channel="C24">
 <title lang="zh">有羽毛的朋友</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213141000 +0800" stop="20231213145100 +0800" channel="C22">
+<programme start="20231213141000 +0800" stop="20231213145100 +0800" channel="C24">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145100 +0800" stop="20231213155200 +0800" channel="C22">
+<programme start="20231213145100 +0800" stop="20231213155200 +0800" channel="C24">
 <title lang="zh">科学动物园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155200 +0800" stop="20231213163400 +0800" channel="C22">
+<programme start="20231213155200 +0800" stop="20231213163400 +0800" channel="C24">
 <title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213163400 +0800" stop="20231213171500 +0800" channel="C22">
+<programme start="20231213163400 +0800" stop="20231213171500 +0800" channel="C24">
 <title lang="zh">饮食奇趣录(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213171500 +0800" stop="20231213174500 +0800" channel="C22">
+<programme start="20231213171500 +0800" stop="20231213174500 +0800" channel="C24">
 <title lang="zh">味道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213174500 +0800" stop="20231213181200 +0800" channel="C22">
+<programme start="20231213174500 +0800" stop="20231213181200 +0800" channel="C24">
 <title lang="zh">美食中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213181200 +0800" stop="20231213191700 +0800" channel="C22">
+<programme start="20231213181200 +0800" stop="20231213191700 +0800" channel="C24">
 <title lang="zh">科学动物园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213191700 +0800" stop="20231213200000 +0800" channel="C22">
+<programme start="20231213191700 +0800" stop="20231213200000 +0800" channel="C24">
 <title lang="zh">远方的家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213200000 +0800" stop="20231213205700 +0800" channel="C22">
+<programme start="20231213200000 +0800" stop="20231213205700 +0800" channel="C24">
 <title lang="zh">触碰荒野</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213205700 +0800" stop="20231213210000 +0800" channel="C22">
+<programme start="20231213205700 +0800" stop="20231213210000 +0800" channel="C24">
 <title lang="zh">美丽中国:丝绸之旅</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213210000 +0800" stop="20231213214100 +0800" channel="C22">
+<programme start="20231213210000 +0800" stop="20231213214100 +0800" channel="C24">
 <title lang="zh">饮食奇趣录(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213214100 +0800" stop="20231213223100 +0800" channel="C22">
+<programme start="20231213214100 +0800" stop="20231213223100 +0800" channel="C24">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213223100 +0800" stop="20231213231200 +0800" channel="C22">
+<programme start="20231213223100 +0800" stop="20231213231200 +0800" channel="C24">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231200 +0800" stop="20231213240000 +0800" channel="C22">
+<programme start="20231213231200 +0800" stop="20231213240000 +0800" channel="C24">
 <title lang="zh">科学动物园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001100 +0800" stop="20231213003600 +0800" channel="C23">
+<programme start="20231213001100 +0800" stop="20231213003600 +0800" channel="C25">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213003600 +0800" stop="20231213011600 +0800" channel="C23">
+<programme start="20231213003600 +0800" stop="20231213011600 +0800" channel="C25">
 <title lang="zh">百家讲坛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213011600 +0800" stop="20231213080200 +0800" channel="C23">
+<programme start="20231213011600 +0800" stop="20231213080200 +0800" channel="C25">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080200 +0800" stop="20231213082700 +0800" channel="C23">
+<programme start="20231213080200 +0800" stop="20231213082700 +0800" channel="C25">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213082700 +0800" stop="20231213090900 +0800" channel="C23">
+<programme start="20231213082700 +0800" stop="20231213090900 +0800" channel="C25">
 <title lang="zh">健康之路</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090900 +0800" stop="20231213100700 +0800" channel="C23">
+<programme start="20231213090900 +0800" stop="20231213100700 +0800" channel="C25">
 <title lang="zh">欢乐大猜想</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213100700 +0800" stop="20231213105700 +0800" channel="C23">
+<programme start="20231213100700 +0800" stop="20231213105700 +0800" channel="C25">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213105700 +0800" stop="20231213113900 +0800" channel="C23">
+<programme start="20231213105700 +0800" stop="20231213113900 +0800" channel="C25">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213113900 +0800" stop="20231213121900 +0800" channel="C23">
+<programme start="20231213113900 +0800" stop="20231213121900 +0800" channel="C25">
 <title lang="zh">百家讲坛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213121900 +0800" stop="20231213132100 +0800" channel="C23">
+<programme start="20231213121900 +0800" stop="20231213132100 +0800" channel="C25">
 <title lang="zh">解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213132100 +0800" stop="20231213142000 +0800" channel="C23">
+<programme start="20231213132100 +0800" stop="20231213142000 +0800" channel="C25">
 <title lang="zh">欢乐大猜想</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213142000 +0800" stop="20231213151000 +0800" channel="C23">
+<programme start="20231213142000 +0800" stop="20231213151000 +0800" channel="C25">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213151000 +0800" stop="20231213153700 +0800" channel="C23">
+<programme start="20231213151000 +0800" stop="20231213153700 +0800" channel="C25">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213153700 +0800" stop="20231213161700 +0800" channel="C23">
+<programme start="20231213153700 +0800" stop="20231213161700 +0800" channel="C25">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161700 +0800" stop="20231213165700 +0800" channel="C23">
+<programme start="20231213161700 +0800" stop="20231213165700 +0800" channel="C25">
 <title lang="zh">百家讲坛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213165700 +0800" stop="20231213175900 +0800" channel="C23">
+<programme start="20231213165700 +0800" stop="20231213175900 +0800" channel="C25">
 <title lang="zh">解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213175900 +0800" stop="20231213182500 +0800" channel="C23">
+<programme start="20231213175900 +0800" stop="20231213182500 +0800" channel="C25">
 <title lang="zh">回家吃饭</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213182500 +0800" stop="20231213190500 +0800" channel="C23">
+<programme start="20231213182500 +0800" stop="20231213190500 +0800" channel="C25">
 <title lang="zh">健康之路</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213190500 +0800" stop="20231213200600 +0800" channel="C23">
+<programme start="20231213190500 +0800" stop="20231213200600 +0800" channel="C25">
 <title lang="zh">科学动物园</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213200600 +0800" stop="20231213210600 +0800" channel="C23">
+<programme start="20231213200600 +0800" stop="20231213210600 +0800" channel="C25">
 <title lang="zh">解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213210600 +0800" stop="20231213215800 +0800" channel="C23">
+<programme start="20231213210600 +0800" stop="20231213215800 +0800" channel="C25">
 <title lang="zh">特别呈现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213215800 +0800" stop="20231213223800 +0800" channel="C23">
+<programme start="20231213215800 +0800" stop="20231213223800 +0800" channel="C25">
 <title lang="zh">百家讲坛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213223800 +0800" stop="20231213231800 +0800" channel="C23">
+<programme start="20231213223800 +0800" stop="20231213231800 +0800" channel="C25">
 <title lang="zh">健康之路</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231800 +0800" stop="20231213240000 +0800" channel="C23">
+<programme start="20231213231800 +0800" stop="20231213240000 +0800" channel="C25">
 <title lang="zh">探索发现</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001000 +0800" stop="20231213011500 +0800" channel="C24">
+<programme start="20231213001000 +0800" stop="20231213011500 +0800" channel="C26">
 <title lang="zh">2021斯诺克大师赛:塞尔比-马奎尔</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213011500 +0800" stop="20231213012500 +0800" channel="C24">
+<programme start="20231213011500 +0800" stop="20231213012500 +0800" channel="C26">
 <title lang="zh">2018斯诺克王中王赛:塞尔比的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213012500 +0800" stop="20231213022600 +0800" channel="C24">
+<programme start="20231213012500 +0800" stop="20231213022600 +0800" channel="C26">
 <title lang="zh">2021斯诺克大师赛:塞尔比-马奎尔</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213022600 +0800" stop="20231213023600 +0800" channel="C24">
+<programme start="20231213022600 +0800" stop="20231213023600 +0800" channel="C26">
 <title lang="zh">斯诺克中国公开赛:宾汉姆的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213023600 +0800" stop="20231213035400 +0800" channel="C24">
+<programme start="20231213023600 +0800" stop="20231213035400 +0800" channel="C26">
 <title lang="zh">2021斯诺克大师赛:塞尔比-马奎尔</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213035400 +0800" stop="20231213040000 +0800" channel="C24">
+<programme start="20231213035400 +0800" stop="20231213040000 +0800" channel="C26">
 <title lang="zh">世界斯诺克锦标赛:威尔逊的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213040000 +0800" stop="20231213041000 +0800" channel="C24">
+<programme start="20231213040000 +0800" stop="20231213041000 +0800" channel="C26">
 <title lang="zh">斯诺克威尔士公开赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213041000 +0800" stop="20231213041600 +0800" channel="C24">
+<programme start="20231213041000 +0800" stop="20231213041600 +0800" channel="C26">
 <title lang="zh">斯诺克威尔士公开赛:丁俊晖147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213041600 +0800" stop="20231213052600 +0800" channel="C24">
+<programme start="20231213041600 +0800" stop="20231213052600 +0800" channel="C26">
 <title lang="zh">斯诺克超级联赛:希金斯-艾伯顿</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213052600 +0800" stop="20231213061900 +0800" channel="C24">
+<programme start="20231213052600 +0800" stop="20231213061900 +0800" channel="C26">
 <title lang="zh">2012年斯诺克超级联赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213061900 +0800" stop="20231213073900 +0800" channel="C24">
+<programme start="20231213061900 +0800" stop="20231213073900 +0800" channel="C26">
 <title lang="zh">斯诺克超级联赛:塞尔比-丁俊晖</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213073900 +0800" stop="20231213090000 +0800" channel="C24">
+<programme start="20231213073900 +0800" stop="20231213090000 +0800" channel="C26">
 <title lang="zh">2012斯诺克超级联赛:丁俊晖-墨菲</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090000 +0800" stop="20231213104300 +0800" channel="C24">
+<programme start="20231213090000 +0800" stop="20231213104300 +0800" channel="C26">
 <title lang="zh">2012/2013斯诺克大师赛精选(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213104300 +0800" stop="20231213122600 +0800" channel="C24">
+<programme start="20231213104300 +0800" stop="20231213122600 +0800" channel="C26">
 <title lang="zh">2012/2013斯诺克大师赛精选(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213122600 +0800" stop="20231213145600 +0800" channel="C24">
+<programme start="20231213122600 +0800" stop="20231213145600 +0800" channel="C26">
 <title lang="zh">2021年斯诺克大师赛1/4决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145600 +0800" stop="20231213161600 +0800" channel="C24">
+<programme start="20231213145600 +0800" stop="20231213161600 +0800" channel="C26">
 <title lang="zh">斯诺克世界公开赛:丁俊晖-威尔逊</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213161600 +0800" stop="20231213180000 +0800" channel="C24">
+<programme start="20231213161600 +0800" stop="20231213180000 +0800" channel="C26">
 <title lang="zh">2018年斯诺克世界公开赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180000 +0800" stop="20231213192000 +0800" channel="C24">
+<programme start="20231213180000 +0800" stop="20231213192000 +0800" channel="C26">
 <title lang="zh">2012年斯诺克超级联赛半决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213192000 +0800" stop="20231213193000 +0800" channel="C24">
+<programme start="20231213192000 +0800" stop="20231213193000 +0800" channel="C26">
 <title lang="zh">斯诺克威尔士公开赛:墨菲的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213193000 +0800" stop="20231213211300 +0800" channel="C24">
+<programme start="20231213193000 +0800" stop="20231213211300 +0800" channel="C26">
 <title lang="zh">2012年斯诺克超级联赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213211300 +0800" stop="20231213212300 +0800" channel="C24">
+<programme start="20231213211300 +0800" stop="20231213212300 +0800" channel="C26">
 <title lang="zh">世界斯诺克锦标赛:塞尔比的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213212300 +0800" stop="20231213224300 +0800" channel="C24">
+<programme start="20231213212300 +0800" stop="20231213224300 +0800" channel="C26">
 <title lang="zh">世界斯诺克锦标赛半决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213224300 +0800" stop="20231213225300 +0800" channel="C24">
+<programme start="20231213224300 +0800" stop="20231213225300 +0800" channel="C26">
 <title lang="zh">世界斯诺克锦标赛:威尔逊的147</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213225300 +0800" stop="20231213240000 +0800" channel="C24">
+<programme start="20231213225300 +0800" stop="20231213240000 +0800" channel="C26">
 <title lang="zh">2015/2016世界斯诺克锦标赛决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213004500 +0800" stop="20231213020700 +0800" channel="C25">
+<programme start="20231213004500 +0800" stop="20231213020700 +0800" channel="C27">
 <title lang="zh">2023年ATP1000男子网球大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213020700 +0800" stop="20231213040000 +0800" channel="C25">
+<programme start="20231213020700 +0800" stop="20231213040000 +0800" channel="C27">
 <title lang="zh">高尔夫欧巡赛精选:葡萄牙大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213040000 +0800" stop="20231213052000 +0800" channel="C25">
+<programme start="20231213040000 +0800" stop="20231213052000 +0800" channel="C27">
 <title lang="zh">ATP1000男子网球大师赛多伦多站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213052000 +0800" stop="20231213071500 +0800" channel="C25">
+<programme start="20231213052000 +0800" stop="20231213071500 +0800" channel="C27">
 <title lang="zh">高尔夫欧巡赛精选:西班牙公开赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213071500 +0800" stop="20231213083500 +0800" channel="C25">
+<programme start="20231213071500 +0800" stop="20231213083500 +0800" channel="C27">
 <title lang="zh">ATP1000男子网球大师赛马德里站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213083500 +0800" stop="20231213101800 +0800" channel="C25">
+<programme start="20231213083500 +0800" stop="20231213101800 +0800" channel="C27">
 <title lang="zh">2022年美国高尔夫公开赛第三轮</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213101800 +0800" stop="20231213114000 +0800" channel="C25">
+<programme start="20231213101800 +0800" stop="20231213114000 +0800" channel="C27">
 <title lang="zh">赛事集锦:ATP1000男子网球大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213114000 +0800" stop="20231213133300 +0800" channel="C25">
+<programme start="20231213114000 +0800" stop="20231213133300 +0800" channel="C27">
 <title lang="zh">高尔夫欧巡赛精选(4):阿曼公开赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213133300 +0800" stop="20231213145300 +0800" channel="C25">
+<programme start="20231213133300 +0800" stop="20231213145300 +0800" channel="C27">
 <title lang="zh">2023年ATP1000男子网球大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213145300 +0800" stop="20231213165100 +0800" channel="C25">
+<programme start="20231213145300 +0800" stop="20231213165100 +0800" channel="C27">
 <title lang="zh">高尔夫欧巡赛:安达卢西亚大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213165100 +0800" stop="20231213181100 +0800" channel="C25">
+<programme start="20231213165100 +0800" stop="20231213181100 +0800" channel="C27">
 <title lang="zh">法网女单第一轮:王欣瑜-布兹科娃</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213181100 +0800" stop="20231213195400 +0800" channel="C25">
+<programme start="20231213181100 +0800" stop="20231213195400 +0800" channel="C27">
 <title lang="zh">中国业余高尔夫球公开赛总决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213195400 +0800" stop="20231213213700 +0800" channel="C25">
+<programme start="20231213195400 +0800" stop="20231213213700 +0800" channel="C27">
 <title lang="zh">2023年温布尔登网球赛男单决赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213213700 +0800" stop="20231213232000 +0800" channel="C25">
+<programme start="20231213213700 +0800" stop="20231213232000 +0800" channel="C27">
 <title lang="zh">2022年英国高尔夫公开赛第四轮</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213232000 +0800" stop="20231213240000 +0800" channel="C25">
+<programme start="20231213232000 +0800" stop="20231213240000 +0800" channel="C27">
 <title lang="zh">赛事集锦:ATP1000男子网球大师赛</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213000000 +0800" stop="20231213001000 +0800" channel="C26">
+<programme start="20231213000000 +0800" stop="20231213001000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-如果国宝会说话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213001000 +0800" stop="20231213003100 +0800" channel="C26">
+<programme start="20231213001000 +0800" stop="20231213003100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-合唱先锋</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213003100 +0800" stop="20231213005100 +0800" channel="C26">
+<programme start="20231213003100 +0800" stop="20231213005100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-健康全知道-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213005100 +0800" stop="20231213010600 +0800" channel="C26">
+<programme start="20231213005100 +0800" stop="20231213010600 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213010600 +0800" stop="20231213012100 +0800" channel="C26">
+<programme start="20231213010600 +0800" stop="20231213012100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213012100 +0800" stop="20231213020000 +0800" channel="C26">
+<programme start="20231213012100 +0800" stop="20231213020000 +0800" channel="C28">
 <title lang="zh">精选黄金档</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213020000 +0800" stop="20231213021500 +0800" channel="C26">
+<programme start="20231213020000 +0800" stop="20231213021500 +0800" channel="C28">
 <title lang="zh">整点冲击播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213021500 +0800" stop="20231213023500 +0800" channel="C26">
+<programme start="20231213021500 +0800" stop="20231213023500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213023500 +0800" stop="20231213030000 +0800" channel="C26">
+<programme start="20231213023500 +0800" stop="20231213030000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-匠人匠心-43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213030000 +0800" stop="20231213032500 +0800" channel="C26">
+<programme start="20231213030000 +0800" stop="20231213032500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-奇趣动物园-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213032500 +0800" stop="20231213034000 +0800" channel="C26">
+<programme start="20231213032500 +0800" stop="20231213034000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213034000 +0800" stop="20231213040000 +0800" channel="C26">
+<programme start="20231213034000 +0800" stop="20231213040000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213040000 +0800" stop="20231213041500 +0800" channel="C26">
+<programme start="20231213040000 +0800" stop="20231213041500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213041500 +0800" stop="20231213044000 +0800" channel="C26">
+<programme start="20231213041500 +0800" stop="20231213044000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213044000 +0800" stop="20231213050000 +0800" channel="C26">
+<programme start="20231213044000 +0800" stop="20231213050000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-美食中国-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213050000 +0800" stop="20231213051000 +0800" channel="C26">
+<programme start="20231213050000 +0800" stop="20231213051000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-如果国宝会说话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213051000 +0800" stop="20231213053100 +0800" channel="C26">
+<programme start="20231213051000 +0800" stop="20231213053100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-典故里的科学-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213053100 +0800" stop="20231213055100 +0800" channel="C26">
+<programme start="20231213053100 +0800" stop="20231213055100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-健康全知道-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213055100 +0800" stop="20231213060600 +0800" channel="C26">
+<programme start="20231213055100 +0800" stop="20231213060600 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213060600 +0800" stop="20231213062100 +0800" channel="C26">
+<programme start="20231213060600 +0800" stop="20231213062100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213062100 +0800" stop="20231213070000 +0800" channel="C26">
+<programme start="20231213062100 +0800" stop="20231213070000 +0800" channel="C28">
 <title lang="zh">精选黄金档</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213070000 +0800" stop="20231213071500 +0800" channel="C26">
+<programme start="20231213070000 +0800" stop="20231213071500 +0800" channel="C28">
 <title lang="zh">整点冲击播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213071500 +0800" stop="20231213073500 +0800" channel="C26">
+<programme start="20231213071500 +0800" stop="20231213073500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213073500 +0800" stop="20231213080000 +0800" channel="C26">
+<programme start="20231213073500 +0800" stop="20231213080000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-匠人匠心-43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213080000 +0800" stop="20231213082500 +0800" channel="C26">
+<programme start="20231213080000 +0800" stop="20231213082500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-奇趣动物园-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213082500 +0800" stop="20231213084000 +0800" channel="C26">
+<programme start="20231213082500 +0800" stop="20231213084000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213084000 +0800" stop="20231213090000 +0800" channel="C26">
+<programme start="20231213084000 +0800" stop="20231213090000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213090000 +0800" stop="20231213091500 +0800" channel="C26">
+<programme start="20231213090000 +0800" stop="20231213091500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213091500 +0800" stop="20231213094000 +0800" channel="C26">
+<programme start="20231213091500 +0800" stop="20231213094000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213094000 +0800" stop="20231213100000 +0800" channel="C26">
+<programme start="20231213094000 +0800" stop="20231213100000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-美食中国-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213100000 +0800" stop="20231213101000 +0800" channel="C26">
+<programme start="20231213100000 +0800" stop="20231213101000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-如果国宝会说话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213101000 +0800" stop="20231213103100 +0800" channel="C26">
+<programme start="20231213101000 +0800" stop="20231213103100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-典故里的科学-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213103100 +0800" stop="20231213105100 +0800" channel="C26">
+<programme start="20231213103100 +0800" stop="20231213105100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-健康全知道-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213105100 +0800" stop="20231213110600 +0800" channel="C26">
+<programme start="20231213105100 +0800" stop="20231213110600 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213110600 +0800" stop="20231213112100 +0800" channel="C26">
+<programme start="20231213110600 +0800" stop="20231213112100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213112100 +0800" stop="20231213120000 +0800" channel="C26">
+<programme start="20231213112100 +0800" stop="20231213120000 +0800" channel="C28">
 <title lang="zh">精选黄金档</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213120000 +0800" stop="20231213121500 +0800" channel="C26">
+<programme start="20231213120000 +0800" stop="20231213121500 +0800" channel="C28">
 <title lang="zh">整点冲击播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213121500 +0800" stop="20231213123500 +0800" channel="C26">
+<programme start="20231213121500 +0800" stop="20231213123500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213123500 +0800" stop="20231213130000 +0800" channel="C26">
+<programme start="20231213123500 +0800" stop="20231213130000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-匠人匠心-43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213130000 +0800" stop="20231213132500 +0800" channel="C26">
+<programme start="20231213130000 +0800" stop="20231213132500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-奇趣动物园-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213132500 +0800" stop="20231213134000 +0800" channel="C26">
+<programme start="20231213132500 +0800" stop="20231213134000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213134000 +0800" stop="20231213140000 +0800" channel="C26">
+<programme start="20231213134000 +0800" stop="20231213140000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213140000 +0800" stop="20231213141500 +0800" channel="C26">
+<programme start="20231213140000 +0800" stop="20231213141500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213141500 +0800" stop="20231213144000 +0800" channel="C26">
+<programme start="20231213141500 +0800" stop="20231213144000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213144000 +0800" stop="20231213150000 +0800" channel="C26">
+<programme start="20231213144000 +0800" stop="20231213150000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-美食中国-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213150000 +0800" stop="20231213151000 +0800" channel="C26">
+<programme start="20231213150000 +0800" stop="20231213151000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-如果国宝会说话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213151000 +0800" stop="20231213153100 +0800" channel="C26">
+<programme start="20231213151000 +0800" stop="20231213153100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-典故里的科学-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213153100 +0800" stop="20231213155100 +0800" channel="C26">
+<programme start="20231213153100 +0800" stop="20231213155100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-健康全知道-69</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213155100 +0800" stop="20231213160600 +0800" channel="C26">
+<programme start="20231213155100 +0800" stop="20231213160600 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213160600 +0800" stop="20231213162100 +0800" channel="C26">
+<programme start="20231213160600 +0800" stop="20231213162100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213162100 +0800" stop="20231213170000 +0800" channel="C26">
+<programme start="20231213162100 +0800" stop="20231213170000 +0800" channel="C28">
 <title lang="zh">精选黄金档</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213170000 +0800" stop="20231213171500 +0800" channel="C26">
+<programme start="20231213170000 +0800" stop="20231213171500 +0800" channel="C28">
 <title lang="zh">整点冲击播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213171500 +0800" stop="20231213174000 +0800" channel="C26">
+<programme start="20231213171500 +0800" stop="20231213174000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213174000 +0800" stop="20231213180000 +0800" channel="C26">
+<programme start="20231213174000 +0800" stop="20231213180000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-匠人匠心-43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213180000 +0800" stop="20231213181500 +0800" channel="C26">
+<programme start="20231213180000 +0800" stop="20231213181500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213181500 +0800" stop="20231213184000 +0800" channel="C26">
+<programme start="20231213181500 +0800" stop="20231213184000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213184000 +0800" stop="20231213190000 +0800" channel="C26">
+<programme start="20231213184000 +0800" stop="20231213190000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-美食中国-70</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213190000 +0800" stop="20231213191000 +0800" channel="C26">
+<programme start="20231213190000 +0800" stop="20231213191000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-如果国宝会说话</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213191000 +0800" stop="20231213193100 +0800" channel="C26">
+<programme start="20231213191000 +0800" stop="20231213193100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-典故里的科学-2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213193100 +0800" stop="20231213195100 +0800" channel="C26">
+<programme start="20231213193100 +0800" stop="20231213195100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-健康全知道-70</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213195100 +0800" stop="20231213200600 +0800" channel="C26">
+<programme start="20231213195100 +0800" stop="20231213200600 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213200600 +0800" stop="20231213202100 +0800" channel="C26">
+<programme start="20231213200600 +0800" stop="20231213202100 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-航拍中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213202100 +0800" stop="20231213210000 +0800" channel="C26">
+<programme start="20231213202100 +0800" stop="20231213210000 +0800" channel="C28">
 <title lang="zh">精选黄金档</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213210000 +0800" stop="20231213211500 +0800" channel="C26">
+<programme start="20231213210000 +0800" stop="20231213211500 +0800" channel="C28">
 <title lang="zh">整点冲击播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213211500 +0800" stop="20231213213500 +0800" channel="C26">
+<programme start="20231213211500 +0800" stop="20231213213500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-解码科技史</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213213500 +0800" stop="20231213220000 +0800" channel="C26">
+<programme start="20231213213500 +0800" stop="20231213220000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-匠人匠心-45</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213220000 +0800" stop="20231213222500 +0800" channel="C26">
+<programme start="20231213220000 +0800" stop="20231213222500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-奇趣动物园-2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213222500 +0800" stop="20231213224000 +0800" channel="C26">
+<programme start="20231213222500 +0800" stop="20231213224000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213224000 +0800" stop="20231213230000 +0800" channel="C26">
+<programme start="20231213224000 +0800" stop="20231213230000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-高尔夫网球赛场</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213230000 +0800" stop="20231213231500 +0800" channel="C26">
+<programme start="20231213230000 +0800" stop="20231213231500 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213231500 +0800" stop="20231213234000 +0800" channel="C26">
+<programme start="20231213231500 +0800" stop="20231213234000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-跟着书本去旅行</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231213234000 +0800" stop="20231213240000 +0800" channel="C26">
+<programme start="20231213234000 +0800" stop="20231213240000 +0800" channel="C28">
 <title lang="zh">我喜欢我推荐-美食中国-70</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231213000000 +0800" stop="20231213005700 +0800" channel="D01">
