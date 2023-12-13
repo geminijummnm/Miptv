@@ -243,7 +243,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 
 
-#咪咕体育/44个频道
+#咪咕体育/46个频道
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-2
