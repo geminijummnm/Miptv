@@ -10374,41 +10374,122 @@
 <programme start="20231218230200 +0800" stop="20231218240000 +0800" channel="D08">
 <title lang="zh">Catching A Scammer(普)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218000000 +0800" stop="20231218020000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218000000 +0800" stop="20231218010000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218020000 +0800" stop="20231218040000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218010000 +0800" stop="20231218013000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218040000 +0800" stop="20231218060000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218013000 +0800" stop="20231218020000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218060000 +0800" stop="20231218080000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218020000 +0800" stop="20231218030000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218080000 +0800" stop="20231218100100 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218030000 +0800" stop="20231218040000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218100100 +0800" stop="20231218120000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218040000 +0800" stop="20231218043000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218120000 +0800" stop="20231218140000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218043000 +0800" stop="20231218050000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218140000 +0800" stop="20231218160000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218050000 +0800" stop="20231218060000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218160000 +0800" stop="20231218190000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218060000 +0800" stop="20231218070000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218190000 +0800" stop="20231218200000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218070000 +0800" stop="20231218073000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218200000 +0800" stop="20231218220000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218073000 +0800" stop="20231218080000 +0800" channel="D09">
+<title lang="zh">TheListeningPost第46集</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218220000 +0800" stop="20231218240000 +0800" channel="D09">
-<title lang="zh">精彩节目</title><desc lang="zh"></desc>
+<programme start="20231218080000 +0800" stop="20231218083000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218083000 +0800" stop="20231218090000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218090000 +0800" stop="20231218093000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218093000 +0800" stop="20231218100000 +0800" channel="D09">
+<title lang="zh">101East-Vanished:Australia'sMissingIndigenousWomen</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218100000 +0800" stop="20231218103000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218103000 +0800" stop="20231218110000 +0800" channel="D09">
+<title lang="zh">Restitution-Africa'sStolenArt:Return</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218110000 +0800" stop="20231218113000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218113000 +0800" stop="20231218120000 +0800" channel="D09">
+<title lang="zh">Upfront第28集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218120000 +0800" stop="20231218123000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218123000 +0800" stop="20231218130000 +0800" channel="D09">
+<title lang="zh">TheBottomLine第55集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218130000 +0800" stop="20231218133000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218133000 +0800" stop="20231218140000 +0800" channel="D09">
+<title lang="zh">FaultLines-TheSharkFinHunters</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218140000 +0800" stop="20231218143000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218143000 +0800" stop="20231218150000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218150000 +0800" stop="20231218160000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218160000 +0800" stop="20231218163000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218163000 +0800" stop="20231218170000 +0800" channel="D09">
+<title lang="zh">TalkToAlJazeera-MartinGriffiths</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218170000 +0800" stop="20231218173000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218173000 +0800" stop="20231218180000 +0800" channel="D09">
+<title lang="zh">TheListeningPost第46集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218180000 +0800" stop="20231218190000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218190000 +0800" stop="20231218193000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218193000 +0800" stop="20231218200000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218200000 +0800" stop="20231218203000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218203000 +0800" stop="20231218210000 +0800" channel="D09">
+<title lang="zh">CountingTheCost第1集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218210000 +0800" stop="20231218220000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218220000 +0800" stop="20231218223000 +0800" channel="D09">
+<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218223000 +0800" stop="20231218230000 +0800" channel="D09">
+<title lang="zh">InsideStory第513集</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218230000 +0800" stop="20231218240000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231218000000 +0800" stop="20231218003000 +0800" channel="D10">
 <title lang="zh">今日世界</title><desc lang="zh"></desc>
@@ -13437,77 +13518,380 @@
 <programme start="20231218234900 +0800" stop="20231218240000 +0800" channel="E16">
 <title lang="zh">10</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218000000 +0800" stop="20231218010000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218000000 +0800" stop="20231218000800 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（17）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218010000 +0800" stop="20231218020000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218000800 +0800" stop="20231218001700 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（18）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218020000 +0800" stop="20231218030000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218001700 +0800" stop="20231218002500 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（19）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218030000 +0800" stop="20231218040000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218002500 +0800" stop="20231218003300 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（20）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218040000 +0800" stop="20231218050000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218003300 +0800" stop="20231218003900 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（38）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218050000 +0800" stop="20231218060000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218003900 +0800" stop="20231218004700 +0800" channel="E17">
+<title lang="zh">鼹鼠工程师</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218060000 +0800" stop="20231218070000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218004700 +0800" stop="20231218005500 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（5）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218070000 +0800" stop="20231218080000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218005500 +0800" stop="20231218010300 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（6）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218080000 +0800" stop="20231218090000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218010300 +0800" stop="20231218011600 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（52）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218090000 +0800" stop="20231218100000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218011600 +0800" stop="20231218012800 +0800" channel="E17">
+<title lang="zh">百变马丁Ⅶ（1）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218100000 +0800" stop="20231218110000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218012800 +0800" stop="20231218013300 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（25）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218110000 +0800" stop="20231218120000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218013300 +0800" stop="20231218014500 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（22）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218120000 +0800" stop="20231218130000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218014500 +0800" stop="20231218015700 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（23）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218130000 +0800" stop="20231218140000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218015700 +0800" stop="20231218020900 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（24）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218140000 +0800" stop="20231218150000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218020900 +0800" stop="20231218021300 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（39）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218150000 +0800" stop="20231218160000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218021300 +0800" stop="20231218022800 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（25）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218160000 +0800" stop="20231218170000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218022800 +0800" stop="20231218024300 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（26）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218170000 +0800" stop="20231218180000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218024300 +0800" stop="20231218025800 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（27）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218180000 +0800" stop="20231218190000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218025800 +0800" stop="20231218031300 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（28）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218190000 +0800" stop="20231218200000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218031300 +0800" stop="20231218031700 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（34）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218200000 +0800" stop="20231218210000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218031700 +0800" stop="20231218033000 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（52）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218210000 +0800" stop="20231218220000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218033000 +0800" stop="20231218035300 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（1）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218220000 +0800" stop="20231218230000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218035300 +0800" stop="20231218041600 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（2）</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231218230000 +0800" stop="20231218240000 +0800" channel="E17">
-<title lang="zh">精彩节目-暂未提供节目预告信息</title><desc lang="zh"></desc>
+<programme start="20231218041600 +0800" stop="20231218041900 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（42）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218041900 +0800" stop="20231218042700 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（13）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218042700 +0800" stop="20231218043600 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（14）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218043600 +0800" stop="20231218044400 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（15）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218044400 +0800" stop="20231218045200 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（16）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218045200 +0800" stop="20231218045800 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（38）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218045800 +0800" stop="20231218050500 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（1）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218050500 +0800" stop="20231218051200 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（2）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218051200 +0800" stop="20231218051900 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（3）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218051900 +0800" stop="20231218052400 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（25）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218052400 +0800" stop="20231218053700 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（50）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218053700 +0800" stop="20231218055000 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（51）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218055000 +0800" stop="20231218060200 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（19）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218060200 +0800" stop="20231218061400 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（20）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218061400 +0800" stop="20231218062600 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（21）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218062600 +0800" stop="20231218064100 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（21）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218064100 +0800" stop="20231218065600 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（22）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218065600 +0800" stop="20231218071100 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（23）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218071100 +0800" stop="20231218072600 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（24）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218072600 +0800" stop="20231218074000 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（48）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218074000 +0800" stop="20231218075300 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（49）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218075300 +0800" stop="20231218080600 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（50）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218080600 +0800" stop="20231218081900 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（51）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218081900 +0800" stop="20231218082700 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（9）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218082700 +0800" stop="20231218083600 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（10）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218083600 +0800" stop="20231218084400 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（11）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218084400 +0800" stop="20231218085200 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（12）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218085200 +0800" stop="20231218090500 +0800" channel="E17">
+<title lang="zh">机灵宠物车Ⅱ（25）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218090500 +0800" stop="20231218091800 +0800" channel="E17">
+<title lang="zh">机灵宠物车Ⅱ（26）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218091800 +0800" stop="20231218093100 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（48）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218093100 +0800" stop="20231218094400 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（49）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218094400 +0800" stop="20231218095600 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（16）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218095600 +0800" stop="20231218100800 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（17）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218100800 +0800" stop="20231218102000 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（18）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218102000 +0800" stop="20231218103500 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（17）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218103500 +0800" stop="20231218105000 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（18）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218105000 +0800" stop="20231218110500 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（19）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218110500 +0800" stop="20231218112000 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（20）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218112000 +0800" stop="20231218113400 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（44）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218113400 +0800" stop="20231218114700 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（45）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218114700 +0800" stop="20231218115900 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（46）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218115900 +0800" stop="20231218121300 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（47）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218121300 +0800" stop="20231218122100 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（13）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218122100 +0800" stop="20231218122900 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（14）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218122900 +0800" stop="20231218123800 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（15）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218123800 +0800" stop="20231218124600 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（16）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218124600 +0800" stop="20231218125300 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（1）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218125300 +0800" stop="20231218130000 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（2）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218130000 +0800" stop="20231218130700 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（3）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218130700 +0800" stop="20231218132000 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（50）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218132000 +0800" stop="20231218133300 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（51）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218133300 +0800" stop="20231218134500 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（19）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218134500 +0800" stop="20231218135700 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（20）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218135700 +0800" stop="20231218141000 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（21）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218141000 +0800" stop="20231218142500 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（21）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218142500 +0800" stop="20231218144000 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（22）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218144000 +0800" stop="20231218145500 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（23）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218145500 +0800" stop="20231218151000 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（24）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218151000 +0800" stop="20231218152300 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（48）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218152300 +0800" stop="20231218153600 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（49）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218153600 +0800" stop="20231218155000 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（50）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218155000 +0800" stop="20231218160300 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（51）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218160300 +0800" stop="20231218161100 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（21）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218161100 +0800" stop="20231218161900 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（22）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218161900 +0800" stop="20231218162700 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（23）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218162700 +0800" stop="20231218163600 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（24）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218163600 +0800" stop="20231218164300 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（7）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218164300 +0800" stop="20231218165200 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（8）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218165200 +0800" stop="20231218170100 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（9）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218170100 +0800" stop="20231218171500 +0800" channel="E17">
+<title lang="zh">百变马丁Ⅶ（2）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218171500 +0800" stop="20231218172800 +0800" channel="E17">
+<title lang="zh">百变马丁Ⅶ（3）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218172800 +0800" stop="20231218174000 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（25）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218174000 +0800" stop="20231218175200 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（26）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218175200 +0800" stop="20231218180400 +0800" channel="E17">
+<title lang="zh">聪明的顺溜之雄鹰小子Ⅱ（1）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218180400 +0800" stop="20231218181900 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（29）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218181900 +0800" stop="20231218183400 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（30）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218183400 +0800" stop="20231218184900 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（31）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218184900 +0800" stop="20231218190400 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（32）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218190400 +0800" stop="20231218192800 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（3）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218192800 +0800" stop="20231218195100 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（4）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218195100 +0800" stop="20231218201500 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（5）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218201500 +0800" stop="20231218202300 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（17）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218202300 +0800" stop="20231218203100 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（18）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218203100 +0800" stop="20231218203900 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（19）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218203900 +0800" stop="20231218204800 +0800" channel="E17">
+<title lang="zh">毛毛镇Ⅰ（20）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218204800 +0800" stop="20231218205600 +0800" channel="E17">
+<title lang="zh">鼹鼠工程师</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218205600 +0800" stop="20231218210400 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（5）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218210400 +0800" stop="20231218211100 +0800" channel="E17">
+<title lang="zh">小鹿问问故事季教育（6）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218211100 +0800" stop="20231218212400 +0800" channel="E17">
+<title lang="zh">开心超人联盟之机械堡奇遇记（52）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218212400 +0800" stop="20231218213700 +0800" channel="E17">
+<title lang="zh">百变马丁Ⅶ（1）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218213700 +0800" stop="20231218213800 +0800" channel="E17">
+<title lang="zh">萌鸡小队Ⅲ宣传片</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218213800 +0800" stop="20231218215000 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（22）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218215000 +0800" stop="20231218220200 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（23）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218220200 +0800" stop="20231218221500 +0800" channel="E17">
+<title lang="zh">彩虹宝宝Ⅳ（24）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218221500 +0800" stop="20231218221800 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（34）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218221800 +0800" stop="20231218223300 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（25）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218223300 +0800" stop="20231218224800 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（26）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218224800 +0800" stop="20231218230300 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（27）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218230300 +0800" stop="20231218231800 +0800" channel="E17">
+<title lang="zh">喜羊羊与灰太狼之深海历险记（28）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218231800 +0800" stop="20231218232400 +0800" channel="E17">
+<title lang="zh">少儿动画精彩片段（38）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218232400 +0800" stop="20231218233700 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅴ（52）</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231218233700 +0800" stop="20231218240000 +0800" channel="E17">
+<title lang="zh">甜心格格Ⅳ（1）</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231218000000 +0800" stop="20231218003000 +0800" channel="E18">
 <title lang="zh">小小星球（2）</title><desc lang="zh"></desc>
