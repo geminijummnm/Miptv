@@ -2646,41 +2646,38 @@
 <programme start="20231226235000 +0800" stop="20231227000000 +0800" channel="A22">
 <title lang="zh">燃动时分</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226000000 +0800" stop="20231226003900 +0800" channel="B01">
+<programme start="20231226000000 +0800" stop="20231226000100 +0800" channel="B01">
+<title lang="zh">开始</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226000100 +0800" stop="20231226004600 +0800" channel="B01">
 <title lang="zh">鲲鹏击浪(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226003900 +0800" stop="20231226013000 +0800" channel="B01">
+<programme start="20231226004600 +0800" stop="20231226013700 +0800" channel="B01">
 <title lang="zh">鲲鹏击浪(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226013000 +0800" stop="20231226023200 +0800" channel="B01">
+<programme start="20231226013700 +0800" stop="20231226023900 +0800" channel="B01">
 <title lang="zh">跨界喜剧王纯享版</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226023200 +0800" stop="20231226031300 +0800" channel="B01">
+<programme start="20231226023900 +0800" stop="20231226032000 +0800" channel="B01">
 <title lang="zh">以家人之名(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226031300 +0800" stop="20231226035400 +0800" channel="B01">
+<programme start="20231226032000 +0800" stop="20231226040000 +0800" channel="B01">
 <title lang="zh">以家人之名(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226035400 +0800" stop="20231226040000 +0800" channel="B01">
+<programme start="20231226040000 +0800" stop="20231226040100 +0800" channel="B01">
+<title lang="zh">以家人之名(6)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226040100 +0800" stop="20231226044900 +0800" channel="B01">
 <title lang="zh">以家人之名(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226040000 +0800" stop="20231226043900 +0800" channel="B01">
-<title lang="zh">以家人之名(7)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226043900 +0800" stop="20231226044400 +0800" channel="B01">
-<title lang="zh">大美北京</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226044400 +0800" stop="20231226050200 +0800" channel="B01">
+<programme start="20231226044900 +0800" stop="20231226050700 +0800" channel="B01">
 <title lang="zh">法治进行时</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226050200 +0800" stop="20231226050700 +0800" channel="B01">
+<programme start="20231226050700 +0800" stop="20231226051200 +0800" channel="B01">
 <title lang="zh">大美北京</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226050700 +0800" stop="20231226052500 +0800" channel="B01">
+<programme start="20231226051200 +0800" stop="20231226053300 +0800" channel="B01">
 <title lang="zh">法治进行时</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226052500 +0800" stop="20231226053300 +0800" channel="B01">
-<title lang="zh">大美北京</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226053300 +0800" stop="20231226055300 +0800" channel="B01">
 <title lang="zh">法治进行时</title><desc lang="zh"></desc>
@@ -2712,10 +2709,10 @@
 <programme start="20231226104400 +0800" stop="20231226112800 +0800" channel="B01">
 <title lang="zh">前行者(8)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226112800 +0800" stop="20231226115300 +0800" channel="B01">
+<programme start="20231226112800 +0800" stop="20231226115200 +0800" channel="B01">
 <title lang="zh">金融街午餐会</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226115300 +0800" stop="20231226120000 +0800" channel="B01">
+<programme start="20231226115200 +0800" stop="20231226120000 +0800" channel="B01">
 <title lang="zh">广宣时段</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226120000 +0800" stop="20231226130200 +0800" channel="B01">
@@ -2928,65 +2925,83 @@
 <programme start="20231226233800 +0800" stop="20231227000000 +0800" channel="B02">
 <title lang="zh">中国广播电视大奖广播电视节目奖</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226000000 +0800" stop="20231226013000 +0800" channel="B03">
+<programme start="20231226000900 +0800" stop="20231226014600 +0800" channel="B03">
 <title lang="zh">来者何人</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226013000 +0800" stop="20231226020000 +0800" channel="B03">
+<programme start="20231226014600 +0800" stop="20231226021600 +0800" channel="B03">
 <title lang="zh">平民英雄</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226020000 +0800" stop="20231226040000 +0800" channel="B03">
+<programme start="20231226021600 +0800" stop="20231226023300 +0800" channel="B03">
 <title lang="zh">新闻大求真</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226040000 +0800" stop="20231226053000 +0800" channel="B03">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20231226023300 +0800" stop="20231226030200 +0800" channel="B03">
+<title lang="zh">新闻大求真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226030200 +0800" stop="20231226033100 +0800" channel="B03">
+<title lang="zh">新闻大求真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226033100 +0800" stop="20231226040000 +0800" channel="B03">
+<title lang="zh">新闻大求真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226040000 +0800" stop="20231226043000 +0800" channel="B03">
+<title lang="zh">生我养我的地方</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226043000 +0800" stop="20231226050100 +0800" channel="B03">
+<title lang="zh">生我养我的地方</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226050100 +0800" stop="20231226053000 +0800" channel="B03">
+<title lang="zh">首发</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226053000 +0800" stop="20231226060000 +0800" channel="B03">
 <title lang="zh">平民英雄</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226060000 +0800" stop="20231226070000 +0800" channel="B03">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20231226060000 +0800" stop="20231226063000 +0800" channel="B03">
+<title lang="zh">湘行漫记</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226063000 +0800" stop="20231226070000 +0800" channel="B03">
+<title lang="zh">湘行漫记</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226070000 +0800" stop="20231226070100 +0800" channel="B03">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226070100 +0800" stop="20231226073000 +0800" channel="B03">
+<programme start="20231226070100 +0800" stop="20231226073600 +0800" channel="B03">
 <title lang="zh">湖南新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226073000 +0800" stop="20231226080000 +0800" channel="B03">
-<title lang="zh">爱情珠宝(9)</title><desc lang="zh"></desc>
+<programme start="20231226073600 +0800" stop="20231226080400 +0800" channel="B03">
+<title lang="zh">爱情珠宝(8)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226080000 +0800" stop="20231226081500 +0800" channel="B03">
+<programme start="20231226080400 +0800" stop="20231226081700 +0800" channel="B03">
 <title lang="zh">萌宝战警(21)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226081500 +0800" stop="20231226083000 +0800" channel="B03">
+<programme start="20231226081700 +0800" stop="20231226083400 +0800" channel="B03">
 <title lang="zh">萌宝战警(22)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226083000 +0800" stop="20231226092500 +0800" channel="B03">
+<programme start="20231226083400 +0800" stop="20231226093600 +0800" channel="B03">
+<title lang="zh">爱情珠宝(9)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226093600 +0800" stop="20231226103300 +0800" channel="B03">
 <title lang="zh">爱情珠宝(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226092500 +0800" stop="20231226102000 +0800" channel="B03">
+<programme start="20231226103300 +0800" stop="20231226111900 +0800" channel="B03">
 <title lang="zh">爱情珠宝(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226102000 +0800" stop="20231226111500 +0800" channel="B03">
+<programme start="20231226111900 +0800" stop="20231226121000 +0800" channel="B03">
 <title lang="zh">爱情珠宝(12)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226111500 +0800" stop="20231226121000 +0800" channel="B03">
-<title lang="zh">爱情珠宝(13)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226121000 +0800" stop="20231226123000 +0800" channel="B03">
 <title lang="zh">午间新闻</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226123000 +0800" stop="20231226123200 +0800" channel="B03">
-<title lang="zh">爱情珠宝(14)</title><desc lang="zh"></desc>
+<title lang="zh">爱情珠宝(13)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226123200 +0800" stop="20231226133000 +0800" channel="B03">
 <title lang="zh">天气预报</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226133000 +0800" stop="20231226143000 +0800" channel="B03">
-<title lang="zh">爱情珠宝(15)</title><desc lang="zh"></desc>
+<title lang="zh">爱情珠宝(14)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226143000 +0800" stop="20231226153000 +0800" channel="B03">
-<title lang="zh">爱情珠宝(16)</title><desc lang="zh"></desc>
+<title lang="zh">爱情珠宝(15)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226153000 +0800" stop="20231226162000 +0800" channel="B03">
 <title lang="zh">爱情最美丽(32)</title><desc lang="zh"></desc>
@@ -3072,14 +3087,8 @@
 <programme start="20231226070100 +0800" stop="20231226072600 +0800" channel="B04">
 <title lang="zh">浙江新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226072600 +0800" stop="20231226080100 +0800" channel="B04">
+<programme start="20231226072600 +0800" stop="20231226084500 +0800" channel="B04">
 <title lang="zh">风味人间Ⅲ(3)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226080100 +0800" stop="20231226082100 +0800" channel="B04">
-<title lang="zh">天眼归来Ⅵ(54)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226082100 +0800" stop="20231226084500 +0800" channel="B04">
-<title lang="zh">天眼归来Ⅵ(55)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226084500 +0800" stop="20231226085900 +0800" channel="B04">
 <title lang="zh">王牌部队(36)</title><desc lang="zh"></desc>
@@ -3096,32 +3105,26 @@
 <programme start="20231226111700 +0800" stop="20231226120000 +0800" channel="B04">
 <title lang="zh">王牌部队(40)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226120000 +0800" stop="20231226122800 +0800" channel="B04">
+<programme start="20231226120000 +0800" stop="20231226131700 +0800" channel="B04">
 <title lang="zh">正午播报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226122800 +0800" stop="20231226130700 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20231226131700 +0800" stop="20231226140600 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(9)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226130700 +0800" stop="20231226135400 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20231226140600 +0800" stop="20231226145500 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226135400 +0800" stop="20231226144100 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20231226145500 +0800" stop="20231226154100 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226144100 +0800" stop="20231226152900 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20231226154100 +0800" stop="20231226162800 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226152900 +0800" stop="20231226161600 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20231226162800 +0800" stop="20231226170900 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226161600 +0800" stop="20231226165700 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226165700 +0800" stop="20231226174500 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226174500 +0800" stop="20231226175600 +0800" channel="B04">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20231226170900 +0800" stop="20231226175600 +0800" channel="B04">
+<title lang="zh">鬓边不是海棠红(14)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226175600 +0800" stop="20231226175800 +0800" channel="B04">
 <title lang="zh">浙江海洋预报</title><desc lang="zh"></desc>
@@ -3147,46 +3150,46 @@
 <programme start="20231226193300 +0800" stop="20231226202100 +0800" channel="B04">
 <title lang="zh">鲲鹏击浪(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226202100 +0800" stop="20231226212900 +0800" channel="B04">
+<programme start="20231226202100 +0800" stop="20231226213000 +0800" channel="B04">
 <title lang="zh">鲲鹏击浪(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226212900 +0800" stop="20231226214300 +0800" channel="B04">
+<programme start="20231226213000 +0800" stop="20231226214300 +0800" channel="B04">
 <title lang="zh">今日评说</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226214300 +0800" stop="20231226222900 +0800" channel="B04">
+<programme start="20231226214300 +0800" stop="20231226222700 +0800" channel="B04">
+<title lang="zh">梦华录(11)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226222700 +0800" stop="20231226231300 +0800" channel="B04">
+<title lang="zh">梦华录(12)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226231300 +0800" stop="20231226232800 +0800" channel="B04">
 <title lang="zh">好戏看浙里</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226222900 +0800" stop="20231226231400 +0800" channel="B04">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
+<programme start="20231226232800 +0800" stop="20231227000000 +0800" channel="B04">
+<title lang="zh">无所畏惧(36)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226231400 +0800" stop="20231227000000 +0800" channel="B04">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226235900 +0800" stop="20231227000000 +0800" channel="B04">
-<title lang="zh">好戏看浙里</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226004000 +0800" stop="20231226012400 +0800" channel="B05">
+<programme start="20231226004300 +0800" stop="20231226012800 +0800" channel="B05">
 <title lang="zh">冰雨火</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226012400 +0800" stop="20231226022000 +0800" channel="B05">
+<programme start="20231226012800 +0800" stop="20231226022300 +0800" channel="B05">
 <title lang="zh">新生万物</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226022000 +0800" stop="20231226031800 +0800" channel="B05">
+<programme start="20231226022300 +0800" stop="20231226032200 +0800" channel="B05">
 <title lang="zh">我在岛屿读书</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226031800 +0800" stop="20231226035600 +0800" channel="B05">
+<programme start="20231226032200 +0800" stop="20231226040000 +0800" channel="B05">
 <title lang="zh">行走山河之北纬三十度</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226035600 +0800" stop="20231226043500 +0800" channel="B05">
+<programme start="20231226040000 +0800" stop="20231226043800 +0800" channel="B05">
 <title lang="zh">本草中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226043500 +0800" stop="20231226051100 +0800" channel="B05">
+<programme start="20231226043800 +0800" stop="20231226051500 +0800" channel="B05">
 <title lang="zh">本草中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226051100 +0800" stop="20231226054700 +0800" channel="B05">
+<programme start="20231226051500 +0800" stop="20231226055000 +0800" channel="B05">
 <title lang="zh">本草中国</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226054700 +0800" stop="20231226060200 +0800" channel="B05">
+<programme start="20231226055000 +0800" stop="20231226060200 +0800" channel="B05">
 <title lang="zh">本草中国</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226060200 +0800" stop="20231226063000 +0800" channel="B05">
@@ -3219,11 +3222,8 @@
 <programme start="20231226111100 +0800" stop="20231226120000 +0800" channel="B05">
 <title lang="zh">马上天下</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226120000 +0800" stop="20231226123600 +0800" channel="B05">
+<programme start="20231226120000 +0800" stop="20231226131300 +0800" channel="B05">
 <title lang="zh">正午江苏</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226123600 +0800" stop="20231226131300 +0800" channel="B05">
-<title lang="zh">毛泽东书信故事</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226131300 +0800" stop="20231226134600 +0800" channel="B05">
 <title lang="zh">毛泽东书信故事</title><desc lang="zh"></desc>
@@ -3384,28 +3384,28 @@
 <programme start="20231226235800 +0800" stop="20231227000000 +0800" channel="B06">
 <title lang="zh">激战江南(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226000000 +0800" stop="20231226021000 +0800" channel="B07">
-<title lang="zh">幸福里的故事(1)</title><desc lang="zh"></desc>
+<programme start="20231226000000 +0800" stop="20231226002700 +0800" channel="B07">
+<title lang="zh">警察荣誉(36)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226021000 +0800" stop="20231226024000 +0800" channel="B07">
+<programme start="20231226002700 +0800" stop="20231226012500 +0800" channel="B07">
+<title lang="zh">警察荣誉(37)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226012500 +0800" stop="20231226021400 +0800" channel="B07">
+<title lang="zh">警察荣誉(38)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226021400 +0800" stop="20231226030600 +0800" channel="B07">
 <title lang="zh">我的不惑青春(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226024000 +0800" stop="20231226031000 +0800" channel="B07">
+<programme start="20231226030600 +0800" stop="20231226035200 +0800" channel="B07">
 <title lang="zh">我的不惑青春(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226031000 +0800" stop="20231226034000 +0800" channel="B07">
+<programme start="20231226035200 +0800" stop="20231226044000 +0800" channel="B07">
 <title lang="zh">我的不惑青春(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226034000 +0800" stop="20231226041000 +0800" channel="B07">
-<title lang="zh">我的不惑青春(4)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226041000 +0800" stop="20231226044000 +0800" channel="B07">
-<title lang="zh">我的不惑青春(5)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226044000 +0800" stop="20231226053500 +0800" channel="B07">
+<programme start="20231226044000 +0800" stop="20231226052200 +0800" channel="B07">
 <title lang="zh">康熙王朝(22)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226053500 +0800" stop="20231226063000 +0800" channel="B07">
+<programme start="20231226052200 +0800" stop="20231226063000 +0800" channel="B07">
 <title lang="zh">康熙王朝(23)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226063000 +0800" stop="20231226070000 +0800" channel="B07">
@@ -3754,10 +3754,10 @@
 <title lang="zh">有多远走多远</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226203400 +0800" stop="20231226211800 +0800" channel="B09">
-<title lang="zh">小敏家35</title><desc lang="zh"></desc>
+<title lang="zh">小敏家34</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226211800 +0800" stop="20231226220100 +0800" channel="B09">
-<title lang="zh">小敏家36</title><desc lang="zh"></desc>
+<title lang="zh">小敏家35</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226220100 +0800" stop="20231226223200 +0800" channel="B09">
 <title lang="zh">生活服务</title><desc lang="zh"></desc>
@@ -3960,20 +3960,32 @@
 <programme start="20231226233000 +0800" stop="20231227000000 +0800" channel="B11">
 <title lang="zh">反击</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226004000 +0800" stop="20231226020000 +0800" channel="B12">
+<programme start="20231226004300 +0800" stop="20231226012400 +0800" channel="B12">
 <title lang="zh">炙爱之战</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226020000 +0800" stop="20231226040000 +0800" channel="B12">
+<programme start="20231226012400 +0800" stop="20231226015200 +0800" channel="B12">
 <title lang="zh">百年巨匠</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226040000 +0800" stop="20231226044500 +0800" channel="B12">
+<programme start="20231226015200 +0800" stop="20231226022400 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226022400 +0800" stop="20231226025600 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226025600 +0800" stop="20231226032700 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226032700 +0800" stop="20231226040000 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226040000 +0800" stop="20231226043900 +0800" channel="B12">
 <title lang="zh">华西论健</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226044500 +0800" stop="20231226060000 +0800" channel="B12">
+<programme start="20231226043900 +0800" stop="20231226055900 +0800" channel="B12">
 <title lang="zh">薛平贵与王宝钏(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226060000 +0800" stop="20231226070000 +0800" channel="B12">
-<title lang="zh">记住乡愁</title><desc lang="zh"></desc>
+<programme start="20231226055900 +0800" stop="20231226070000 +0800" channel="B12">
+<title lang="zh">记住乡愁Ⅲ</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226070000 +0800" stop="20231226070100 +0800" channel="B12">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
@@ -3981,25 +3993,25 @@
 <programme start="20231226070100 +0800" stop="20231226073000 +0800" channel="B12">
 <title lang="zh">早安四川</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226073000 +0800" stop="20231226080000 +0800" channel="B12">
+<programme start="20231226073000 +0800" stop="20231226080500 +0800" channel="B12">
 <title lang="zh">早间气象</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226080000 +0800" stop="20231226081000 +0800" channel="B12">
+<programme start="20231226080500 +0800" stop="20231226081600 +0800" channel="B12">
 <title lang="zh">超级飞侠Ⅺ(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226081000 +0800" stop="20231226082000 +0800" channel="B12">
+<programme start="20231226081600 +0800" stop="20231226082700 +0800" channel="B12">
 <title lang="zh">超级飞侠Ⅺ(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226082000 +0800" stop="20231226083000 +0800" channel="B12">
+<programme start="20231226082700 +0800" stop="20231226084200 +0800" channel="B12">
 <title lang="zh">超级飞侠Ⅺ(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226083000 +0800" stop="20231226095000 +0800" channel="B12">
+<programme start="20231226084200 +0800" stop="20231226100100 +0800" channel="B12">
 <title lang="zh">五号特工组之偷天换月(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226095000 +0800" stop="20231226111000 +0800" channel="B12">
+<programme start="20231226100100 +0800" stop="20231226112900 +0800" channel="B12">
 <title lang="zh">五号特工组之偷天换月(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226111000 +0800" stop="20231226123000 +0800" channel="B12">
+<programme start="20231226112900 +0800" stop="20231226123000 +0800" channel="B12">
 <title lang="zh">五号特工组之偷天换月(21)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226123000 +0800" stop="20231226124500 +0800" channel="B12">
@@ -4053,14 +4065,29 @@
 <programme start="20231226233000 +0800" stop="20231227000000 +0800" channel="B12">
 <title lang="zh">薛平贵与王宝钏(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226002000 +0800" stop="20231226011000 +0800" channel="B13">
-<title lang="zh">烽火连城诀(2)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226011000 +0800" stop="20231226020000 +0800" channel="B13">
+<programme start="20231226000800 +0800" stop="20231226010100 +0800" channel="B13">
 <title lang="zh">铁道风云(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226020000 +0800" stop="20231226063000 +0800" channel="B13">
+<programme start="20231226010100 +0800" stop="20231226014100 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226014100 +0800" stop="20231226021400 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226021400 +0800" stop="20231226031900 +0800" channel="B13">
+<title lang="zh">非你莫属</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226031900 +0800" stop="20231226035400 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226035400 +0800" stop="20231226042800 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226042800 +0800" stop="20231226053000 +0800" channel="B13">
 <title lang="zh">铁道风云(5)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226053000 +0800" stop="20231226063000 +0800" channel="B13">
+<title lang="zh">铁道风云(6)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226063000 +0800" stop="20231226070000 +0800" channel="B13">
 <title lang="zh">泊客中国</title><desc lang="zh"></desc>
@@ -4074,29 +4101,14 @@
 <programme start="20231226073000 +0800" stop="20231226080000 +0800" channel="B13">
 <title lang="zh">食来运转</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226080000 +0800" stop="20231226083500 +0800" channel="B13">
-<title lang="zh">阿优之神奇萝卜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226083500 +0800" stop="20231226092600 +0800" channel="B13">
-<title lang="zh">情满四合院(43)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226092600 +0800" stop="20231226101700 +0800" channel="B13">
-<title lang="zh">情满四合院(44)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226101700 +0800" stop="20231226110800 +0800" channel="B13">
-<title lang="zh">情满四合院(45)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226110800 +0800" stop="20231226120000 +0800" channel="B13">
-<title lang="zh">情满四合院(46)</title><desc lang="zh"></desc>
+<programme start="20231226080000 +0800" stop="20231226120000 +0800" channel="B13">
+<title lang="zh">阿优之神奇萝卜Ⅲ</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226120000 +0800" stop="20231226122700 +0800" channel="B13">
 <title lang="zh">12点报道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226122700 +0800" stop="20231226123500 +0800" channel="B13">
+<programme start="20231226122700 +0800" stop="20231226133400 +0800" channel="B13">
 <title lang="zh">天气预报</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226123500 +0800" stop="20231226133400 +0800" channel="B13">
-<title lang="zh">情满四合院(47)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226133400 +0800" stop="20231226143300 +0800" channel="B13">
 <title lang="zh">情满九道弯(1)</title><desc lang="zh"></desc>
@@ -4149,13 +4161,13 @@
 <programme start="20231226003900 +0800" stop="20231226004600 +0800" channel="B14">
 <title lang="zh">无奋斗不青春</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226004600 +0800" stop="20231226011300 +0800" channel="B14">
+<programme start="20231226004600 +0800" stop="20231226011200 +0800" channel="B14">
 <title lang="zh">小满生活前情回顾</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226011300 +0800" stop="20231226020100 +0800" channel="B14">
+<programme start="20231226011200 +0800" stop="20231226020000 +0800" channel="B14">
 <title lang="zh">小满生活5</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226020100 +0800" stop="20231226024900 +0800" channel="B14">
+<programme start="20231226020000 +0800" stop="20231226024900 +0800" channel="B14">
 <title lang="zh">小满生活6</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226024900 +0800" stop="20231226042400 +0800" channel="B14">
@@ -4257,10 +4269,10 @@
 <programme start="20231226235500 +0800" stop="20231227000000 +0800" channel="B14">
 <title lang="zh">旅游景区天气预报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226003400 +0800" stop="20231226011700 +0800" channel="B15">
+<programme start="20231226003300 +0800" stop="20231226011500 +0800" channel="B15">
 <title lang="zh">外交风云3</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226011700 +0800" stop="20231226021800 +0800" channel="B15">
+<programme start="20231226011500 +0800" stop="20231226021800 +0800" channel="B15">
 <title lang="zh">行进中国·黄河篇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226021800 +0800" stop="20231226031300 +0800" channel="B15">
@@ -4716,9 +4728,6 @@
 <programme start="20231226213000 +0800" stop="20231227000000 +0800" channel="B18">
 <title lang="zh">美食类纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226000100 +0800" stop="20231226003400 +0800" channel="B19">
-<title lang="zh">生命之歌</title><desc lang="zh"></desc>
-</programme>
 <programme start="20231226003400 +0800" stop="20231226011500 +0800" channel="B19">
 <title lang="zh">勇敢的心13</title><desc lang="zh"></desc>
 </programme>
@@ -4860,17 +4869,11 @@
 <programme start="20231226005300 +0800" stop="20231226020200 +0800" channel="B20">
 <title lang="zh">反击(25)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226020200 +0800" stop="20231226025300 +0800" channel="B20">
+<programme start="20231226020200 +0800" stop="20231226042800 +0800" channel="B20">
 <title lang="zh">加油!好少年</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226025300 +0800" stop="20231226034100 +0800" channel="B20">
-<title lang="zh">中国故事</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226034100 +0800" stop="20231226042800 +0800" channel="B20">
-<title lang="zh">中国故事</title><desc lang="zh"></desc>
-</programme>
 <programme start="20231226042800 +0800" stop="20231226044900 +0800" channel="B20">
-<title lang="zh">大地之上(6)</title><desc lang="zh"></desc>
+<title lang="zh">大地之上(2)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226044900 +0800" stop="20231226054200 +0800" channel="B20">
 <title lang="zh">跨过鸭绿江(20)</title><desc lang="zh"></desc>
@@ -4986,14 +4989,8 @@
 <programme start="20231226000000 +0800" stop="20231226003200 +0800" channel="B21">
 <title lang="zh">专题节目</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226003200 +0800" stop="20231226010300 +0800" channel="B21">
+<programme start="20231226003200 +0800" stop="20231226025100 +0800" channel="B21">
 <title lang="zh">中国醉美331</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226010300 +0800" stop="20231226015400 +0800" channel="B21">
-<title lang="zh">第一声枪响</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226015400 +0800" stop="20231226025100 +0800" channel="B21">
-<title lang="zh">第一声枪响</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226025100 +0800" stop="20231226033700 +0800" channel="B21">
 <title lang="zh">幸福私房菜</title><desc lang="zh"></desc>
@@ -5262,12 +5259,6 @@
 <programme start="20231226233100 +0800" stop="20231227000000 +0800" channel="B22">
 <title lang="zh">飞虎神鹰(33)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226001700 +0800" stop="20231226004700 +0800" channel="B23">
-<title lang="zh">神枪(12)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231226004700 +0800" stop="20231226012000 +0800" channel="B23">
-<title lang="zh">神枪(13)</title><desc lang="zh"></desc>
-</programme>
 <programme start="20231226012000 +0800" stop="20231226013000 +0800" channel="B23">
 <title lang="zh">欢乐送:开心十分</title><desc lang="zh"></desc>
 </programme>
@@ -5301,8 +5292,11 @@
 <programme start="20231226085100 +0800" stop="20231226093200 +0800" channel="B23">
 <title lang="zh">健康最重要</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226093200 +0800" stop="20231226102300 +0800" channel="B23">
+<programme start="20231226093200 +0800" stop="20231226100200 +0800" channel="B23">
 <title lang="zh">铁道游击队(6)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226100200 +0800" stop="20231226102300 +0800" channel="B23">
+<title lang="zh">希望的田野</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226102300 +0800" stop="20231226111500 +0800" channel="B23">
 <title lang="zh">铁道游击队(7)</title><desc lang="zh"></desc>
@@ -5505,11 +5499,14 @@
 <programme start="20231226224500 +0800" stop="20231227000000 +0800" channel="B24">
 <title lang="zh">电影时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226005600 +0800" stop="20231226014700 +0800" channel="B25">
-<title lang="zh">地球之极·侣行第八季</title><desc lang="zh"></desc>
+<programme start="20231226000700 +0800" stop="20231226004900 +0800" channel="B25">
+<title lang="zh">苍狼27</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226014700 +0800" stop="20231226021900 +0800" channel="B25">
-<title lang="zh">海洋季风-渔港走透透</title><desc lang="zh"></desc>
+<programme start="20231226004900 +0800" stop="20231226020600 +0800" channel="B25">
+<title lang="zh">中国正在说2023</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226020600 +0800" stop="20231226021900 +0800" channel="B25">
+<title lang="zh">地球之极·侣行第八季</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226021900 +0800" stop="20231226024600 +0800" channel="B25">
 <title lang="zh">海洋季风-风从海上来</title><desc lang="zh"></desc>
@@ -5655,34 +5652,61 @@
 <programme start="20231226235400 +0800" stop="20231227000000 +0800" channel="B25">
 <title lang="zh">苍狼32</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226050000 +0800" stop="20231226070000 +0800" channel="B26">
-<title lang="zh">栏目</title><desc lang="zh"></desc>
+<programme start="20231226000100 +0800" stop="20231226004300 +0800" channel="B26">
+<title lang="zh">绝密使命(14)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226004300 +0800" stop="20231226012500 +0800" channel="B26">
+<title lang="zh">绝密使命(15)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226012500 +0800" stop="20231226020600 +0800" channel="B26">
+<title lang="zh">绝密使命(16)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226020600 +0800" stop="20231226024700 +0800" channel="B26">
+<title lang="zh">绝密使命(17)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226024700 +0800" stop="20231226032900 +0800" channel="B26">
+<title lang="zh">绝密使命(18)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226032900 +0800" stop="20231226041000 +0800" channel="B26">
+<title lang="zh">绝密使命(19)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226041000 +0800" stop="20231226045200 +0800" channel="B26">
+<title lang="zh">绝密使命(20)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226045200 +0800" stop="20231226052200 +0800" channel="B26">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226052200 +0800" stop="20231226055100 +0800" channel="B26">
+<title lang="zh">纪录时间</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226055100 +0800" stop="20231226070000 +0800" channel="B26">
+<title lang="zh">动画片</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226070000 +0800" stop="20231226070100 +0800" channel="B26">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226070100 +0800" stop="20231226072600 +0800" channel="B26">
+<programme start="20231226070100 +0800" stop="20231226072900 +0800" channel="B26">
 <title lang="zh">青海新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226072600 +0800" stop="20231226073600 +0800" channel="B26">
+<programme start="20231226072900 +0800" stop="20231226073900 +0800" channel="B26">
 <title lang="zh">今日青海</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226073600 +0800" stop="20231226081100 +0800" channel="B26">
+<programme start="20231226073900 +0800" stop="20231226081700 +0800" channel="B26">
 <title lang="zh">纪录时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226081100 +0800" stop="20231226090500 +0800" channel="B26">
+<programme start="20231226081700 +0800" stop="20231226090700 +0800" channel="B26">
 <title lang="zh">妈妈在等你(31)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226090500 +0800" stop="20231226100500 +0800" channel="B26">
+<programme start="20231226090700 +0800" stop="20231226095900 +0800" channel="B26">
 <title lang="zh">妈妈在等你(32)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226100500 +0800" stop="20231226105500 +0800" channel="B26">
+<programme start="20231226095900 +0800" stop="20231226105300 +0800" channel="B26">
 <title lang="zh">妈妈在等你(33)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226105500 +0800" stop="20231226114000 +0800" channel="B26">
+<programme start="20231226105300 +0800" stop="20231226114600 +0800" channel="B26">
 <title lang="zh">妈妈在等你(34)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226114000 +0800" stop="20231226123000 +0800" channel="B26">
+<programme start="20231226114600 +0800" stop="20231226123000 +0800" channel="B26">
 <title lang="zh">妈妈在等你(35)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226123000 +0800" stop="20231226125000 +0800" channel="B26">
@@ -5742,37 +5766,37 @@
 <programme start="20231226223000 +0800" stop="20231227000000 +0800" channel="B26">
 <title lang="zh">绝密使命</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226001600 +0800" stop="20231226011700 +0800" channel="B27">
+<programme start="20231226001700 +0800" stop="20231226011500 +0800" channel="B27">
 <title lang="zh">真实纪录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226011700 +0800" stop="20231226021100 +0800" channel="B27">
+<programme start="20231226011500 +0800" stop="20231226021900 +0800" channel="B27">
 <title lang="zh">新世界(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226021100 +0800" stop="20231226030600 +0800" channel="B27">
+<programme start="20231226021900 +0800" stop="20231226030700 +0800" channel="B27">
 <title lang="zh">新世界(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226030600 +0800" stop="20231226032600 +0800" channel="B27">
+<programme start="20231226030700 +0800" stop="20231226032600 +0800" channel="B27">
 <title lang="zh">开心巴扎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226032600 +0800" stop="20231226035800 +0800" channel="B27">
+<programme start="20231226032600 +0800" stop="20231226035600 +0800" channel="B27">
 <title lang="zh">青春激扬中国梦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226035800 +0800" stop="20231226042700 +0800" channel="B27">
+<programme start="20231226035600 +0800" stop="20231226042600 +0800" channel="B27">
 <title lang="zh">真实纪录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226042700 +0800" stop="20231226053200 +0800" channel="B27">
+<programme start="20231226042600 +0800" stop="20231226052100 +0800" channel="B27">
 <title lang="zh">战长沙(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226053200 +0800" stop="20231226063800 +0800" channel="B27">
+<programme start="20231226052100 +0800" stop="20231226063700 +0800" channel="B27">
 <title lang="zh">战长沙(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226063800 +0800" stop="20231226065800 +0800" channel="B27">
+<programme start="20231226063700 +0800" stop="20231226065800 +0800" channel="B27">
 <title lang="zh">我们都是追梦人</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226065800 +0800" stop="20231226072900 +0800" channel="B27">
+<programme start="20231226065800 +0800" stop="20231226072700 +0800" channel="B27">
 <title lang="zh">真实纪录</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226072900 +0800" stop="20231226075900 +0800" channel="B27">
+<programme start="20231226072700 +0800" stop="20231226075900 +0800" channel="B27">
 <title lang="zh">动画片</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226075900 +0800" stop="20231226080000 +0800" channel="B27">
@@ -5781,19 +5805,19 @@
 <programme start="20231226080000 +0800" stop="20231226083200 +0800" channel="B27">
 <title lang="zh">新疆新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226083200 +0800" stop="20231226084300 +0800" channel="B27">
+<programme start="20231226083200 +0800" stop="20231226084200 +0800" channel="B27">
 <title lang="zh">今日聚焦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226084300 +0800" stop="20231226094600 +0800" channel="B27">
+<programme start="20231226084200 +0800" stop="20231226094200 +0800" channel="B27">
 <title lang="zh">薛平贵与王宝钏(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226094600 +0800" stop="20231226104900 +0800" channel="B27">
+<programme start="20231226094200 +0800" stop="20231226104300 +0800" channel="B27">
 <title lang="zh">薛平贵与王宝钏(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226104900 +0800" stop="20231226115300 +0800" channel="B27">
+<programme start="20231226104300 +0800" stop="20231226114500 +0800" channel="B27">
 <title lang="zh">薛平贵与王宝钏(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226115300 +0800" stop="20231226125600 +0800" channel="B27">
+<programme start="20231226114500 +0800" stop="20231226125600 +0800" channel="B27">
 <title lang="zh">薛平贵与王宝钏(8)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226125600 +0800" stop="20231226140000 +0800" channel="B27">
@@ -5847,28 +5871,37 @@
 <programme start="20231226235500 +0800" stop="20231227000000 +0800" channel="B27">
 <title lang="zh">法在身边</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226003200 +0800" stop="20231226011200 +0800" channel="B28">
+<programme start="20231226000100 +0800" stop="20231226004600 +0800" channel="B28">
+<title lang="zh">玫瑰之战(39)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226004600 +0800" stop="20231226013100 +0800" channel="B28">
 <title lang="zh">玫瑰之战(40)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226011200 +0800" stop="20231226015100 +0800" channel="B28">
+<programme start="20231226013100 +0800" stop="20231226021400 +0800" channel="B28">
 <title lang="zh">玫瑰之战(41)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226015100 +0800" stop="20231226023000 +0800" channel="B28">
+<programme start="20231226021400 +0800" stop="20231226030400 +0800" channel="B28">
 <title lang="zh">玫瑰之战(42)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226023000 +0800" stop="20231226024700 +0800" channel="B28">
+<programme start="20231226030400 +0800" stop="20231226033100 +0800" channel="B28">
 <title lang="zh">自信中国说</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226024700 +0800" stop="20231226044600 +0800" channel="B28">
+<programme start="20231226033100 +0800" stop="20231226041200 +0800" channel="B28">
 <title lang="zh">记住乡愁Ⅱ</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226044600 +0800" stop="20231226053400 +0800" channel="B28">
+<programme start="20231226041200 +0800" stop="20231226043800 +0800" channel="B28">
+<title lang="zh">多彩高原·生命之歌</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226043800 +0800" stop="20231226044600 +0800" channel="B28">
+<title lang="zh">云南密码</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226044600 +0800" stop="20231226054100 +0800" channel="B28">
 <title lang="zh">河山(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226053400 +0800" stop="20231226062400 +0800" channel="B28">
+<programme start="20231226054100 +0800" stop="20231226062500 +0800" channel="B28">
 <title lang="zh">河山(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226062400 +0800" stop="20231226070000 +0800" channel="B28">
+<programme start="20231226062500 +0800" stop="20231226070000 +0800" channel="B28">
 <title lang="zh">记住乡愁Ⅱ</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226070000 +0800" stop="20231226070100 +0800" channel="B28">
@@ -5877,19 +5910,25 @@
 <programme start="20231226070100 +0800" stop="20231226072800 +0800" channel="B28">
 <title lang="zh">云南新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226072800 +0800" stop="20231226080000 +0800" channel="B28">
+<programme start="20231226072800 +0800" stop="20231226075900 +0800" channel="B28">
 <title lang="zh">南腔北调(256)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226080000 +0800" stop="20231226084200 +0800" channel="B28">
-<title lang="zh">奇妙变身少女(1)</title><desc lang="zh"></desc>
+<programme start="20231226075900 +0800" stop="20231226081100 +0800" channel="B28">
+<title lang="zh">妙奇变身少女(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226084200 +0800" stop="20231226100000 +0800" channel="B28">
+<programme start="20231226081100 +0800" stop="20231226082200 +0800" channel="B28">
+<title lang="zh">妙奇变身少女(2)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226082200 +0800" stop="20231226084300 +0800" channel="B28">
+<title lang="zh">妙奇变身少女(3)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231226084300 +0800" stop="20231226095900 +0800" channel="B28">
 <title lang="zh">追风行动(33)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226100000 +0800" stop="20231226110100 +0800" channel="B28">
+<programme start="20231226095900 +0800" stop="20231226105900 +0800" channel="B28">
 <title lang="zh">追风行动(34)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231226110100 +0800" stop="20231226120000 +0800" channel="B28">
+<programme start="20231226105900 +0800" stop="20231226120000 +0800" channel="B28">
 <title lang="zh">追风行动(35)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231226120000 +0800" stop="20231226123400 +0800" channel="B28">
@@ -10509,122 +10548,239 @@
 <programme start="20231226233000 +0800" stop="20231227000000 +0800" channel="D08">
 <title lang="zh">Remarkable Living S5 - EP 3</title><desc lang="zh">Experience the charm of a fishing village in Kyoto, discover how French artisans are putting the fan back into the hands of women and how the men's kimono is making a comeback as everyday wear.</desc>
 </programme>
+<programme start="20231225060000 +0800" stop="20231225070000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225070000 +0800" stop="20231225073000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225073000 +0800" stop="20231225080000 +0800" channel="D09">
+<title lang="zh">The Listening Post</title><desc lang="zh">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+</programme>
+<programme start="20231225080000 +0800" stop="20231225083000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225083000 +0800" stop="20231225090000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231225090000 +0800" stop="20231225093000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225093000 +0800" stop="20231225100000 +0800" channel="D09">
+<title lang="zh">101 East</title><desc lang="zh">101 East travels to Kazakhstan, where Russians opposed to the war in Ukraine are starting new lives.</desc>
+</programme>
+<programme start="20231225100000 +0800" stop="20231225103000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225103000 +0800" stop="20231225110000 +0800" channel="D09">
+<title lang="zh">Restitution: Africas Stolen Art</title><desc lang="zh">The growth of local African museums and the struggle for reparations in the context of the global art market.</desc>
+</programme>
+<programme start="20231225110000 +0800" stop="20231225113000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225113000 +0800" stop="20231225120000 +0800" channel="D09">
+<title lang="zh">UpFront</title><desc lang="zh">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+</programme>
+<programme start="20231225120000 +0800" stop="20231225123000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225123000 +0800" stop="20231225130000 +0800" channel="D09">
+<title lang="zh">The Bottom Line</title><desc lang="zh">Weekly discussion show on US politics and policies hosted by Steve Clemons.</desc>
+</programme>
+<programme start="20231225130000 +0800" stop="20231225133000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225133000 +0800" stop="20231225140000 +0800" channel="D09">
+<title lang="zh">Fault Lines</title><desc lang="zh">Fault Lines investigates a global chemical giant that spent decades covering up links between its flagship pesticide and Parkinsons disease.</desc>
+</programme>
+<programme start="20231225140000 +0800" stop="20231225143000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225143000 +0800" stop="20231225150000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231225150000 +0800" stop="20231225160000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225160000 +0800" stop="20231225163000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225163000 +0800" stop="20231225170000 +0800" channel="D09">
+<title lang="zh">Talk to Al Jazeera</title><desc lang="zh">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+</programme>
+<programme start="20231225170000 +0800" stop="20231225173000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225173000 +0800" stop="20231225180000 +0800" channel="D09">
+<title lang="zh">The Listening Post</title><desc lang="zh">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+</programme>
+<programme start="20231225180000 +0800" stop="20231225190000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225190000 +0800" stop="20231225193000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225193000 +0800" stop="20231225200000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231225200000 +0800" stop="20231225203000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225203000 +0800" stop="20231225210000 +0800" channel="D09">
+<title lang="zh">Counting the Cost</title><desc lang="zh">Can the U.S. and Europe catch up with China in the race for electric cars?</desc>
+</programme>
+<programme start="20231225210000 +0800" stop="20231225220000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225220000 +0800" stop="20231225223000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231225223000 +0800" stop="20231225230000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231225230000 +0800" stop="20231226000000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
 <programme start="20231226000000 +0800" stop="20231226010000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226010000 +0800" stop="20231226013000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226013000 +0800" stop="20231226020000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
 <programme start="20231226020000 +0800" stop="20231226030000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226030000 +0800" stop="20231226040000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226040000 +0800" stop="20231226043000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226043000 +0800" stop="20231226050000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
-<programme start="20231226050000 +0800" stop="20231226060000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<programme start="20231226050000 +0800" stop="20231227060000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226060000 +0800" stop="20231226070000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226070000 +0800" stop="20231226073000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226073000 +0800" stop="20231226080000 +0800" channel="D09">
-<title lang="zh">Witness-AChildOfGaza</title><desc lang="zh"></desc>
+<title lang="zh">Witness</title><desc lang="zh">Inspirational and provocative stories providing a fresh and informative insight into the worlds key events as they impact on the lives of ordinary people.</desc>
 </programme>
 <programme start="20231226080000 +0800" stop="20231226083000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226083000 +0800" stop="20231226090000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
 <programme start="20231226090000 +0800" stop="20231226093000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226093000 +0800" stop="20231226100000 +0800" channel="D09">
-<title lang="zh">CountingTheCost第51集</title><desc lang="zh"></desc>
+<title lang="zh">Counting the Cost</title><desc lang="zh">Can the U.S. and Europe catch up with China in the race for electric cars?</desc>
 </programme>
 <programme start="20231226100000 +0800" stop="20231226103000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226103000 +0800" stop="20231226110000 +0800" channel="D09">
-<title lang="zh">FaultLines-ThePesticidePlaybook</title><desc lang="zh"></desc>
+<title lang="zh">Fault Lines</title><desc lang="zh">Fault Lines investigates a global chemical giant that spent decades covering up links between its flagship pesticide and Parkinsons disease.</desc>
 </programme>
 <programme start="20231226110000 +0800" stop="20231226113000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226113000 +0800" stop="20231226120000 +0800" channel="D09">
-<title lang="zh">TalkToAlJazeera-VolkerTurk</title><desc lang="zh"></desc>
+<title lang="zh">Talk to Al Jazeera</title><desc lang="zh">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
 </programme>
 <programme start="20231226120000 +0800" stop="20231226123000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226123000 +0800" stop="20231226130000 +0800" channel="D09">
-<title lang="zh">TheListeningPost第47集</title><desc lang="zh"></desc>
+<title lang="zh">The Listening Post</title><desc lang="zh">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
 </programme>
 <programme start="20231226130000 +0800" stop="20231226133000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226133000 +0800" stop="20231226140000 +0800" channel="D09">
-<title lang="zh">101East-FromRussiaToKazakhstan</title><desc lang="zh"></desc>
+<title lang="zh">101 East</title><desc lang="zh">101 East travels to Kazakhstan, where Russians opposed to the war in Ukraine are starting new lives.</desc>
 </programme>
 <programme start="20231226140000 +0800" stop="20231226143000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226143000 +0800" stop="20231226150000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
 <programme start="20231226150000 +0800" stop="20231226160000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226160000 +0800" stop="20231226163000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226163000 +0800" stop="20231226170000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
 <programme start="20231226170000 +0800" stop="20231226173000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226173000 +0800" stop="20231226180000 +0800" channel="D09">
-<title lang="zh">Witness-AChildOfGaza</title><desc lang="zh"></desc>
+<title lang="zh">Witness</title><desc lang="zh">Inspirational and provocative stories providing a fresh and informative insight into the worlds key events as they impact on the lives of ordinary people.</desc>
 </programme>
 <programme start="20231226180000 +0800" stop="20231226190000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226190000 +0800" stop="20231226193000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226193000 +0800" stop="20231226200000 +0800" channel="D09">
-<title lang="zh">InsideStory第521集</title><desc lang="zh"></desc>
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
 </programme>
 <programme start="20231226200000 +0800" stop="20231226203000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226203000 +0800" stop="20231226210000 +0800" channel="D09">
-<title lang="zh">TheBottomLine第57集</title><desc lang="zh"></desc>
+<title lang="zh">The Bottom Line</title><desc lang="zh">Weekly discussion show on US politics and policies hosted by Steve Clemons.</desc>
 </programme>
 <programme start="20231226210000 +0800" stop="20231226220000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226220000 +0800" stop="20231226223000 +0800" channel="D09">
-<title lang="zh">NewsLive</title><desc lang="zh"></desc>
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226223000 +0800" stop="20231226230000 +0800" channel="D09">
-<title lang="zh">Upfront第29集</title><desc lang="zh"></desc>
+<title lang="zh">UpFront</title><desc lang="zh">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
 </programme>
 <programme start="20231226230000 +0800" stop="20231227000000 +0800" channel="D09">
-<title lang="zh">Newshour</title><desc lang="zh"></desc>
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227000000 +0800" stop="20231227010000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227010000 +0800" stop="20231227013000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227013000 +0800" stop="20231227020000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231227020000 +0800" stop="20231227030000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227030000 +0800" stop="20231227040000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227040000 +0800" stop="20231227043000 +0800" channel="D09">
+<title lang="zh">News Live</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
+</programme>
+<programme start="20231227043000 +0800" stop="20231227050000 +0800" channel="D09">
+<title lang="zh">Inside Story</title><desc lang="zh">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+</programme>
+<programme start="20231227050000 +0800" stop="20231227060000 +0800" channel="D09">
+<title lang="zh">Newshour</title><desc lang="zh">Up to date news and analysis from around the world.</desc>
 </programme>
 <programme start="20231226000000 +0800" stop="20231226010000 +0800" channel="D10">
 <title lang="zh">全球财经</title><desc lang="zh"></desc>
