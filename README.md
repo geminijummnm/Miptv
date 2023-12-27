@@ -47,8 +47,8 @@
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
-      <td>164个</td>
-      <td>2023.12.13</td>
+      <td>165个</td>
+      <td>2023.12.27</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
@@ -84,8 +84,8 @@
 - 北京卫视、东方卫视、湖南卫视、浙江卫视、江苏卫视、江西卫视、河北卫视、 河南卫视、海南卫视、深圳卫视、湖北卫视、四川卫视、天津卫视、安徽卫视、山东卫视、广东卫视、广西卫视、贵州卫视、辽宁卫视、重庆卫视 、黑龙江卫视、甘肃卫视、吉林卫视、三沙卫视、东南卫视、青海卫视、新疆卫视、云南卫视
 ### 📱数字高清/28个频道
 - CHC高清电影、CHC家庭影院、CHC动作电影、求索纪录、求索科学、求索动物、求索生活、黑莓电影、黑莓动画、哒啵电竞、哒啵赛事、乐游、纪实人文、纯享4K、CCTV4K、CCTV8K、风云剧场、风云音乐、第一剧场、 女性时尚、风云足球、兵器科技、怀旧剧场、世界地理、文化精品、央视台球、高尔夫网球、电视指南
-### 📲港澳台国际/17个频道
-- 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
+### 📲港澳台国际/18个频道
+- 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
 ### 📺地方特色/23个频道
 - 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经
 ### ⚽咪咕体育/46个频道
@@ -97,6 +97,7 @@
 <p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(2).jpg"></p>
 
 ## 🆕更新
+- - 2023.12.27 增加Ariang TV
 - - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
 - - 2023.12.13 增加明珠台、CCTV4K、纯享4K，剔除无效咪咕直播源
 - - 2023.11.26 增加TVBOX直播链接
