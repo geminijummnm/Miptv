@@ -95,6 +95,8 @@
 展示内容为在小米电视+TiviMate 2.8.0示意
 <p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(1).jpg"></p>
 <p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(2).jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(3).jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(4).jpg"></p>
 
 ## 🆕更新
 - - 2023.12.27 增加Ariang TV
