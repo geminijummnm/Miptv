@@ -3036,10 +3036,10 @@
 <programme start="20231229135700 +0800" stop="20231229150100 +0800" channel="B03">
 <title lang="zh">偶像独播剧场:爱情珠宝(26)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229150100 +0800" stop="20231229154100 +0800" channel="B03">
+<programme start="20231229150100 +0800" stop="20231229155600 +0800" channel="B03">
 <title lang="zh">偶像独播剧场:爱情珠宝(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229154100 +0800" stop="20231229164500 +0800" channel="B03">
+<programme start="20231229155600 +0800" stop="20231229164500 +0800" channel="B03">
 <title lang="zh">偶像独播剧场:爱情珠宝(28)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229164500 +0800" stop="20231229175400 +0800" channel="B03">
@@ -3141,10 +3141,10 @@
 <programme start="20231229140700 +0800" stop="20231229145500 +0800" channel="B04">
 <title lang="zh">百姓剧场:鬓边不是海棠红 30</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229145500 +0800" stop="20231229154300 +0800" channel="B04">
+<programme start="20231229145500 +0800" stop="20231229154100 +0800" channel="B04">
 <title lang="zh">百姓剧场:鬓边不是海棠红 31</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229154300 +0800" stop="20231229163000 +0800" channel="B04">
+<programme start="20231229154100 +0800" stop="20231229163000 +0800" channel="B04">
 <title lang="zh">百姓剧场:鬓边不是海棠红 32</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229163000 +0800" stop="20231229171100 +0800" channel="B04">
@@ -3480,10 +3480,10 @@
 <programme start="20231229132300 +0800" stop="20231229142400 +0800" channel="B07">
 <title lang="zh">经典剧场:生死连(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229142400 +0800" stop="20231229153800 +0800" channel="B07">
+<programme start="20231229142400 +0800" stop="20231229153400 +0800" channel="B07">
 <title lang="zh">经典剧场:生死连(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229153800 +0800" stop="20231229164000 +0800" channel="B07">
+<programme start="20231229153400 +0800" stop="20231229164000 +0800" channel="B07">
 <title lang="zh">经典剧场:生死连(18)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229164000 +0800" stop="20231229175100 +0800" channel="B07">
@@ -4557,10 +4557,10 @@
 <programme start="20231229140100 +0800" stop="20231229144800 +0800" channel="B17">
 <title lang="zh">索芙特剧场:生死钟声(28)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229144800 +0800" stop="20231229155500 +0800" channel="B17">
+<programme start="20231229144800 +0800" stop="20231229154600 +0800" channel="B17">
 <title lang="zh">索芙特剧场:生死钟声(29)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229155500 +0800" stop="20231229165700 +0800" channel="B17">
+<programme start="20231229154600 +0800" stop="20231229165700 +0800" channel="B17">
 <title lang="zh">索芙特剧场:生死钟声(30)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229165700 +0800" stop="20231229180000 +0800" channel="B17">
@@ -5535,13 +5535,13 @@
 <programme start="20231229135300 +0800" stop="20231229143500 +0800" channel="B25">
 <title lang="zh">包青天之黄金梦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229143500 +0800" stop="20231229152600 +0800" channel="B25">
+<programme start="20231229143500 +0800" stop="20231229153000 +0800" channel="B25">
 <title lang="zh">包青天之黄金梦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229152600 +0800" stop="20231229155000 +0800" channel="B25">
+<programme start="20231229153000 +0800" stop="20231229160000 +0800" channel="B25">
 <title lang="zh">包青天之黄金梦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229155000 +0800" stop="20231229163000 +0800" channel="B25">
+<programme start="20231229160000 +0800" stop="20231229163000 +0800" channel="B25">
 <title lang="zh">包青天之黄金梦</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229163000 +0800" stop="20231229174100 +0800" channel="B25">
@@ -5739,10 +5739,10 @@
 <programme start="20231229140000 +0800" stop="20231229142800 +0800" channel="B27">
 <title lang="zh">新闻午报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229142800 +0800" stop="20231229152500 +0800" channel="B27">
+<programme start="20231229142800 +0800" stop="20231229153400 +0800" channel="B27">
 <title lang="zh">天山剧场:光荣与梦想(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20231229152500 +0800" stop="20231229162700 +0800" channel="B27">
+<programme start="20231229153400 +0800" stop="20231229162700 +0800" channel="B27">
 <title lang="zh">天山剧场:光荣与梦想(6)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229162700 +0800" stop="20231229174100 +0800" channel="B27">
@@ -7175,6 +7175,282 @@
 </programme>
 <programme start="20231229221300 +0800" stop="20231230000000 +0800" channel="C11">
 <title lang="zh">深圳DYG 对阵 MTG</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229000100 +0800" stop="20231229005200 +0800" channel="C12">
+<title lang="zh">秦淮河(3):千载风雅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229005200 +0800" stop="20231229012000 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-旅游节</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229012000 +0800" stop="20231229012400 +0800" channel="C12">
+<title lang="zh">此心安处是吾乡:记忆咖啡馆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229012400 +0800" stop="20231229015000 +0800" channel="C12">
+<title lang="zh">马背之旅(105):科罗拉多州</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229015000 +0800" stop="20231229022000 +0800" channel="C12">
+<title lang="zh">原味记忆:无锡小吃</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229022000 +0800" stop="20231229022100 +0800" channel="C12">
+<title lang="zh">黄浦微旅行(8):微旅淮海路(2)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229022100 +0800" stop="20231229024900 +0800" channel="C12">
+<title lang="zh">川菜的品格(2):热情奔放</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229024900 +0800" stop="20231229031400 +0800" channel="C12">
+<title lang="zh">紫蓬山(4):丛林</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229031400 +0800" stop="20231229034100 +0800" channel="C12">
+<title lang="zh">上海奶业百年(4):保驾护航</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229034100 +0800" stop="20231229041500 +0800" channel="C12">
+<title lang="zh">上博的至宝(4):金石永铸</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229041500 +0800" stop="20231229044600 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-美食游</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229044600 +0800" stop="20231229051200 +0800" channel="C12">
+<title lang="zh">马背之旅(104):怀俄明州</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229051200 +0800" stop="20231229054000 +0800" channel="C12">
+<title lang="zh">原味记忆:重庆小吃</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229054000 +0800" stop="20231229054300 +0800" channel="C12">
+<title lang="zh">闲着:甜品冠军</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229054300 +0800" stop="20231229061000 +0800" channel="C12">
+<title lang="zh">川菜的品格(3):天然质朴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229061000 +0800" stop="20231229061300 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(5):陈皮牛肉</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229061300 +0800" stop="20231229063900 +0800" channel="C12">
+<title lang="zh">紫蓬山(5):乐山</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229063900 +0800" stop="20231229064100 +0800" channel="C12">
+<title lang="zh">乐游徐汇:梧桐深处-衡复风貌区</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229064100 +0800" stop="20231229070800 +0800" channel="C12">
+<title lang="zh">上海奶业百年(5):时代变身</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229070800 +0800" stop="20231229071200 +0800" channel="C12">
+<title lang="zh">闲着:七宝茶馆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229071200 +0800" stop="20231229073400 +0800" channel="C12">
+<title lang="zh">上海非遗:曹素功墨锭</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229073400 +0800" stop="20231229073900 +0800" channel="C12">
+<title lang="zh">海派百工(44)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229073900 +0800" stop="20231229074200 +0800" channel="C12">
+<title lang="zh">乐游上海:豫园醉江南</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229074200 +0800" stop="20231229080400 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-留洋游</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229080400 +0800" stop="20231229080900 +0800" channel="C12">
+<title lang="zh">徐汇阅读建筑:梧桐树下的爱国心</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229080900 +0800" stop="20231229081300 +0800" channel="C12">
+<title lang="zh">乐游上海:浦江游览-寻味之旅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229081300 +0800" stop="20231229083700 +0800" channel="C12">
+<title lang="zh">意大利梦(4):那不勒斯</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229083700 +0800" stop="20231229083900 +0800" channel="C12">
+<title lang="zh">乐游徐汇:上海交响音乐博物馆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229083900 +0800" stop="20231229090400 +0800" channel="C12">
+<title lang="zh">道地陈皮(1):相遇</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229090400 +0800" stop="20231229090700 +0800" channel="C12">
+<title lang="zh">闲着:东方司宴</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229090700 +0800" stop="20231229093400 +0800" channel="C12">
+<title lang="zh">川菜的品格(4):出身布衣</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229093400 +0800" stop="20231229093600 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(6):越年面</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229093600 +0800" stop="20231229094000 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(7):全家福</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229094000 +0800" stop="20231229103500 +0800" channel="C12">
+<title lang="zh">秦淮河(1):小江大城</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229103500 +0800" stop="20231229104000 +0800" channel="C12">
+<title lang="zh">此心安处是吾乡:嘉定图书馆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229104000 +0800" stop="20231229110000 +0800" channel="C12">
+<title lang="zh">上海非遗:罗店龙船</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229110000 +0800" stop="20231229110500 +0800" channel="C12">
+<title lang="zh">海派百工(45):江南传统文人香事</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229110500 +0800" stop="20231229110900 +0800" channel="C12">
+<title lang="zh">乐游嘉定:WALK IN嘉定</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229110900 +0800" stop="20231229113900 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-文艺游</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229113900 +0800" stop="20231229120500 +0800" channel="C12">
+<title lang="zh">意大利梦(5):皮埃蒙特和伦巴第</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229120500 +0800" stop="20231229123000 +0800" channel="C12">
+<title lang="zh">道地陈皮(2):至味</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229123000 +0800" stop="20231229123300 +0800" channel="C12">
+<title lang="zh">闲着:煲王之王</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229123300 +0800" stop="20231229130300 +0800" channel="C12">
+<title lang="zh">川菜的品格(5):包容创新</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229130300 +0800" stop="20231229130600 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(8):捏菜蘑菇冬笋</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229130600 +0800" stop="20231229140100 +0800" channel="C12">
+<title lang="zh">秦淮河(2):淬火重光</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229140100 +0800" stop="20231229140500 +0800" channel="C12">
+<title lang="zh">乐游青浦:318国道青浦段</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229140500 +0800" stop="20231229140700 +0800" channel="C12">
+<title lang="zh">黄浦微旅行(9):微旅淮海路(3)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229140700 +0800" stop="20231229142700 +0800" channel="C12">
+<title lang="zh">上海非遗:龙华庙会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229142700 +0800" stop="20231229143200 +0800" channel="C12">
+<title lang="zh">海派百工(46):海派盆景技艺</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229143200 +0800" stop="20231229143600 +0800" channel="C12">
+<title lang="zh">乐游上海:书香文化淮海路</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229143600 +0800" stop="20231229150700 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-郊外游</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229150700 +0800" stop="20231229153300 +0800" channel="C12">
+<title lang="zh">意大利梦(6):普利亚</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229153300 +0800" stop="20231229155700 +0800" channel="C12">
+<title lang="zh">道地陈皮(3):传承</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229155700 +0800" stop="20231229160100 +0800" channel="C12">
+<title lang="zh">闲着:裁缝铺</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229160100 +0800" stop="20231229160200 +0800" channel="C12">
+<title lang="zh">黄浦微旅行(10):南京东路东拓</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229160200 +0800" stop="20231229162900 +0800" channel="C12">
+<title lang="zh">川菜的品格(6):乐在其中</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229162900 +0800" stop="20231229163100 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(9):红烧杂网鱼</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229163100 +0800" stop="20231229163300 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(10):大灶头菜饭</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229163300 +0800" stop="20231229172900 +0800" channel="C12">
+<title lang="zh">秦淮河(3):千载风雅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229172900 +0800" stop="20231229173300 +0800" channel="C12">
+<title lang="zh">乐游长宁:何以爱长宁巴士微旅行</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229173300 +0800" stop="20231229175600 +0800" channel="C12">
+<title lang="zh">上海非遗:沪谚</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229175600 +0800" stop="20231229180000 +0800" channel="C12">
+<title lang="zh">海派百工(47):古书画修复技艺</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229180000 +0800" stop="20231229180300 +0800" channel="C12">
+<title lang="zh">徐汇阅读建筑(4):衡复街区漫步</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229180300 +0800" stop="20231229183000 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海2-旅游节</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229183000 +0800" stop="20231229183400 +0800" channel="C12">
+<title lang="zh">此心安处是吾乡:记忆咖啡馆</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229183400 +0800" stop="20231229190000 +0800" channel="C12">
+<title lang="zh">马背之旅(105):科罗拉多州</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229190000 +0800" stop="20231229192500 +0800" channel="C12">
+<title lang="zh">道地陈皮(4):他乡</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229192500 +0800" stop="20231229192800 +0800" channel="C12">
+<title lang="zh">闲着:蟹粉面</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229192800 +0800" stop="20231229195200 +0800" channel="C12">
+<title lang="zh">味道中山(1):捕捞美味</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229195200 +0800" stop="20231229195400 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(11):八宝饭</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229195400 +0800" stop="20231229195600 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(12):桂花糖藕</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229195600 +0800" stop="20231229200000 +0800" channel="C12">
+<title lang="zh">乐游上海:浦江游览-黄浦微旅行</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229200000 +0800" stop="20231229204500 +0800" channel="C12">
+<title lang="zh">城市之岛(1):精沙绿洲</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229204500 +0800" stop="20231229205600 +0800" channel="C12">
+<title lang="zh">盛世芳华(10)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229205600 +0800" stop="20231229210000 +0800" channel="C12">
+<title lang="zh">乐游嘉定:秋霞圃</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229210000 +0800" stop="20231229213000 +0800" channel="C12">
+<title lang="zh">浦江苏河:浦东滨江城市更新之旅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229213000 +0800" stop="20231229215200 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海3-文化之旅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229215200 +0800" stop="20231229215700 +0800" channel="C12">
+<title lang="zh">乐游上海:外滩源美丰大楼</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229215700 +0800" stop="20231229220100 +0800" channel="C12">
+<title lang="zh">闲着:魔术师</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229220100 +0800" stop="20231229222700 +0800" channel="C12">
+<title lang="zh">马背之旅(106):西班牙</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229222700 +0800" stop="20231229225100 +0800" channel="C12">
+<title lang="zh">道地陈皮(4):他乡</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229225100 +0800" stop="20231229225500 +0800" channel="C12">
+<title lang="zh">闲着:蟹粉面</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229225500 +0800" stop="20231229231800 +0800" channel="C12">
+<title lang="zh">味道中山(1):捕捞美味</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229231800 +0800" stop="20231229232000 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(11):八宝饭</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229232000 +0800" stop="20231229232200 +0800" channel="C12">
+<title lang="zh">一碗人间烟火(12):桂花糖藕</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229232200 +0800" stop="20231229232600 +0800" channel="C12">
+<title lang="zh">乐游上海:浦江游览-黄浦微旅行</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229232600 +0800" stop="20231229235600 +0800" channel="C12">
+<title lang="zh">浦江苏河:浦东滨江城市更新之旅</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229235600 +0800" stop="20231229235700 +0800" channel="C12">
+<title lang="zh">乐游上海:春天的樱花</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229235700 +0800" stop="20231230000000 +0800" channel="C12">
+<title lang="zh">自然之旅欣赏</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231230000100 +0800" stop="20231230004500 +0800" channel="C12">
+<title lang="zh">城市之岛(1):精沙绿洲</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231230004500 +0800" stop="20231230004900 +0800" channel="C12">
+<title lang="zh">乐游嘉定:秋霞圃</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231230004900 +0800" stop="20231230011100 +0800" channel="C12">
+<title lang="zh">漫步中国:发现新上海3-文化之旅</title><desc lang="zh"></desc>
 </programme>
 <programme start="20231229000000 +0800" stop="20231229000700 +0800" channel="C13">
 <title lang="zh">极限非洲行－塞伦盖蒂</title><desc lang="zh"></desc>
@@ -11565,95 +11841,98 @@
 <programme start="20231229040000 +0800" stop="20231229043000 +0800" channel="D12">
 <title lang="zh">The Female Battalion -  Learning to shout out orders in the heat of battle - Female Battalion Ep.1 </title><desc lang="zh">Meet the Female Battalion, a group of young cadets in a nearly all-male military academy determined to become officers in Russia’s elite airborne troops. Though their friends think they’re crazy, for these gals, storming a building surrounded by smoke, explosions, and the sound of gunfire is a perfect day. </desc>
 </programme>
-<programme start="20231229050000 +0800" stop="20231229060000 +0800" channel="D12">
-<title lang="zh">Lifestyle - Akhal-Teke Horses: Heavenly Creatures</title><desc lang="zh">The Akhal-Teke breed, often referred to as the closest living link to wild horses, is renowned as the world's most expensive and esteemed breed. Prices for these horses can soar up to $100,000, reflecting their remarkable speed, endurance over long distances and rapid recovery. What else makes this breed special, particularly for the Turkmens?</desc>
-</programme>
-<programme start="20231229060000 +0800" stop="20231229070000 +0800" channel="D12">
-<title lang="zh">Last battle for africa</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231229070000 +0800" stop="20231229080000 +0800" channel="D12">
-<title lang="zh">Cold War Weapons - Cold War Weapons | Tanks: Episode 1</title><desc lang="zh">The new series, Cold War Weapons, explores military hardware and techniques created by the Soviet Union and the US during the nuclear arms race. In the first episode of Cold War Weapons, host Marina Kosareva visits one of the world’s best tank museums in the town of Kubinka. When the nuclear arms race between the United States and the USSR began, it became clear that tanks can withstand an atomic blast. The first episode takes a closer look at tanks produced by the Soviet Union and the US during the 1940s and 1950s, their advantages and combat experience.</desc>
-</programme>
-<programme start="20231229080000 +0800" stop="20231229083000 +0800" channel="D12">
-<title lang="zh">Arts and Culture - Directed by Neural Network</title><desc lang="zh">How does a director choose the main protagonist for a documentary? There are lnumerous techniques and life hacks to help young filmmakers find the answer to this question. But are they relevant today? The protagonist of this documentary is selected by artificial intelligence. Watch the documentary to decide if the AI managed to create an authentic film?</desc>
-</programme>
-<programme start="20231229083000 +0800" stop="20231229090000 +0800" channel="D12">
-<title lang="zh">The Silk Road Series - Language of the Silk Road</title><desc lang="zh">Modern China is a unique mix of cutting-edge technology and centuries-old tradition. It takes pride in its booming economy and rich cultural heritage. In many ways, China owes its complexity and versatility to the Silk Road, an ancient trade route established in the 2nd century BC that for hundreds of years initiated cross-cultural interaction between Eurasian civilisations.</desc>
-</programme>
-<programme start="20231229090000 +0800" stop="20231229093000 +0800" channel="D12">
-<title lang="zh">City Police Series - Water Police: How to catch suspected criminals on the river? | City Police Episode 3</title><desc lang="zh">The latest episode of the RT Documentary series City Police examines the work of the Russian Water Police. The captain of a Mongoose patrol boat takes presenter Aleksandr Nosik on board and explains the difference between this boat and others. Aleksandr even gets a chance to steer the awesome river craft. Suddenly they get a message about a suspect who tried to break into the wheelhouse of a boat. What happened next? Could the police catch him?</desc>
-</programme>
-<programme start="20231229093000 +0800" stop="20231229110000 +0800" channel="D12">
-<title lang="zh">How i became a cosmonaut</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231229110000 +0800" stop="20231229113000 +0800" channel="D12">
+<programme start="20231229050000 +0800" stop="20231229053000 +0800" channel="D12">
 <title lang="zh">This is China Series - Etiquette Of Giving</title><desc lang="zh">In China, gift-giving is an ancient tradition with sophisticated rules that has given birth to the most exquisite applied art. RTD visits the Chinese Arts and Applied Crafts Corporation in Beijing to see how designers and craftspeople set about creating the ultimate gift for foreign dignitaries, and learns the dos and don’ts of Chinese gift-giving.</desc>
 </programme>
-<programme start="20231229113000 +0800" stop="20231229123000 +0800" channel="D12">
+<programme start="20231229053000 +0800" stop="20231229063000 +0800" channel="D12">
 <title lang="zh">Travel and Adventure - Hot Race, Cold Dogs</title><desc lang="zh">2,100 kilometres across Kamchatka’s vast, snowy wilderness in a month! It’s the annual Beringia dog sled race that pits 15 teams against each other on grueling terrain in subzero temperatures and ferocious winds. The mushers and dogs are nevertheless ready to face off and fight for a prize of nearly $50,000. Ready, steady, mush mush!</desc>
 </programme>
-<programme start="20231229123000 +0800" stop="20231229130000 +0800" channel="D12">
+<programme start="20231229063000 +0800" stop="20231229070000 +0800" channel="D12">
 <title lang="zh">Human Rights - Black in the USSR</title><desc lang="zh">Hundreds of African Americans moved to the Soviet Union escaping racial discrimination in the 1930s. At home, African Americans faced a lack of prospects and restrictions which separated them from society. Fed up with constant prejudice, several hundred African Americans left the ‘land of dreams’ to live freely in the Soviet Union.</desc>
 </programme>
-<programme start="20231229130000 +0800" stop="20231229140000 +0800" channel="D12">
+<programme start="20231229070000 +0800" stop="20231229080000 +0800" channel="D12">
 <title lang="zh">Society - Donbass Volunteers: United Strength</title><desc lang="zh">‘Here, you get a sense of how precious life is, of what it is like, and you give thanks for every day you live.’ Soslan Andiev volunteered for the special military operation in Ukraine. Soslan serves in the positions at the mouth of the frontline, right next to the enemy and also heads the Humanitarian Centre that delivers aid directly to the trenches. He says that helping the guys at the front is very fulfilling. The documentary explores Soslan motivation and that of other volunteers, to selflessly serve their motherland.</desc>
 </programme>
-<programme start="20231229140000 +0800" stop="20231229143000 +0800" channel="D12">
+<programme start="20231229080000 +0800" stop="20231229083000 +0800" channel="D12">
 <title lang="zh">Arts and Culture - Banda Bassotti. The Sound of Red </title><desc lang="zh">Since 1989, Banda Bassotti, a music group, has been fighting against the legacy of fascism and its ideas through their art. The Italian musicians also organise tours, to raise money for humanitarian aid and provide support to the residents of Donbass. They were able to achieve this with the help of activists from Italy, Germany, Portugal, as well as Turkey and created the 'Anti-Fascist Caravan'. Learn more about this group.</desc>
 </programme>
-<programme start="20231229143000 +0800" stop="20231229150000 +0800" channel="D12">
+<programme start="20231229083000 +0800" stop="20231229090000 +0800" channel="D12">
 <title lang="zh">Politics - Hungary's Hunger</title><desc lang="zh">Hungary ignores sanctions against Russia, openly declares it willingness to pay for Russian gas in rubles and blocks arms deliveries to Ukraine through its territory. Budapest’s actions 'could be described as pro-Russian. But in fact, it is a policy of common sense', says Hungarian entrepreneur Ferenc Molnar. The new documentary explores Hungary’s bad blood with Ukraine, problems of the Hungarian diaspora in Transcarpathia and why calls for returning Greater Hungary have become louder in recent years.</desc>
 </programme>
-<programme start="20231229150000 +0800" stop="20231229160000 +0800" channel="D12">
-<title lang="zh">The Female Battalion -  Learning to shout out orders in the heat of battle - Female Battalion Ep.1 </title><desc lang="zh">Meet the Female Battalion, a group of young cadets in a nearly all-male military academy determined to become officers in Russia’s elite airborne troops. Though their friends think they’re crazy, for these gals, storming a building surrounded by smoke, explosions, and the sound of gunfire is a perfect day. </desc>
-</programme>
-<programme start="20231229160000 +0800" stop="20231229170000 +0800" channel="D12">
-<title lang="zh">Lifestyle - Akhal-Teke Horses: Heavenly Creatures</title><desc lang="zh">The Akhal-Teke breed, often referred to as the closest living link to wild horses, is renowned as the world's most expensive and esteemed breed. Prices for these horses can soar up to $100,000, reflecting their remarkable speed, endurance over long distances and rapid recovery. What else makes this breed special, particularly for the Turkmens?</desc>
-</programme>
-<programme start="20231229170000 +0800" stop="20231229173000 +0800" channel="D12">
-<title lang="zh">City Police Series - Water Police: How to catch suspected criminals on the river? | City Police Episode 3</title><desc lang="zh">The latest episode of the RT Documentary series City Police examines the work of the Russian Water Police. The captain of a Mongoose patrol boat takes presenter Aleksandr Nosik on board and explains the difference between this boat and others. Aleksandr even gets a chance to steer the awesome river craft. Suddenly they get a message about a suspect who tried to break into the wheelhouse of a boat. What happened next? Could the police catch him?</desc>
-</programme>
-<programme start="20231229173000 +0800" stop="20231229190000 +0800" channel="D12">
-<title lang="zh">How i became a cosmonaut</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231229190000 +0800" stop="20231229200000 +0800" channel="D12">
-<title lang="zh">Cold War Weapons - Cold War Weapons | Tanks: Episode 1</title><desc lang="zh">The new series, Cold War Weapons, explores military hardware and techniques created by the Soviet Union and the US during the nuclear arms race. In the first episode of Cold War Weapons, host Marina Kosareva visits one of the world’s best tank museums in the town of Kubinka. When the nuclear arms race between the United States and the USSR began, it became clear that tanks can withstand an atomic blast. The first episode takes a closer look at tanks produced by the Soviet Union and the US during the 1940s and 1950s, their advantages and combat experience.</desc>
-</programme>
-<programme start="20231229200000 +0800" stop="20231229210000 +0800" channel="D12">
-<title lang="zh">Society - Eden for the Homeless</title><desc lang="zh">Over half a million Americans are homeless and millions more are ‘a paycheck away’ from being homeless. A retired nurse Linda Brown and her husband David believe that no one should sleep outside. That is how they came up with an idea of Eden Village. It is a tiny home community for homeless people with a disability in Springfield, Missouri. There are 31 of fully-furnished homes built for people who had no roof over their head for a long time. Hear stories of former homeless people who finally found a permanent home in Eden Village.</desc>
-</programme>
-<programme start="20231229210000 +0800" stop="20231229213000 +0800" channel="D12">
-<title lang="zh">Lifestyle - He Traded a Paperclip for a House</title><desc lang="zh">In 2006, Canadian Kyle McDonald conducted a series of trades and exchanged a simple red paperclip for a real house. Likewise, Ruslan Chistyakov, a Russian blogger, decided to start a new life and do the same. But was he just as successful?</desc>
-</programme>
-<programme start="20231229213000 +0800" stop="20231229220000 +0800" channel="D12">
-<title lang="zh">Arts and Culture - Directed by Neural Network</title><desc lang="zh">How does a director choose the main protagonist for a documentary? There are lnumerous techniques and life hacks to help young filmmakers find the answer to this question. But are they relevant today? The protagonist of this documentary is selected by artificial intelligence. Watch the documentary to decide if the AI managed to create an authentic film?</desc>
-</programme>
-<programme start="20231229220000 +0800" stop="20231229223000 +0800" channel="D12">
-<title lang="zh">The Silk Road Series - Language of the Silk Road</title><desc lang="zh">Modern China is a unique mix of cutting-edge technology and centuries-old tradition. It takes pride in its booming economy and rich cultural heritage. In many ways, China owes its complexity and versatility to the Silk Road, an ancient trade route established in the 2nd century BC that for hundreds of years initiated cross-cultural interaction between Eurasian civilisations.</desc>
-</programme>
-<programme start="20231229223000 +0800" stop="20231229230000 +0800" channel="D12">
-<title lang="zh">Sport -  No Brakes, No Fear</title><desc lang="zh">In ice speedway, motorcyclists race without brakes on frozen circuits. RTD goes to the European Individual Ice Speedway Championship Finals in Vyatskie Polyana, Russia with veteran Finnish amateur, Tomi Kirilov and daredevil vice-champion, Eduard Krysov from Russia. So, whose combination of grit, guts and tactics will prove the winning formula?</desc>
-</programme>
-<programme start="20231229230000 +0800" stop="20231230000000 +0800" channel="D12">
-<title lang="zh">Society - Donbass Volunteers: United Strength</title><desc lang="zh">‘Here, you get a sense of how precious life is, of what it is like, and you give thanks for every day you live.’ Soslan Andiev volunteered for the special military operation in Ukraine. Soslan serves in the positions at the mouth of the frontline, right next to the enemy and also heads the Humanitarian Centre that delivers aid directly to the trenches. He says that helping the guys at the front is very fulfilling. The documentary explores Soslan motivation and that of other volunteers, to selflessly serve their motherland.</desc>
-</programme>
-<programme start="20231230000000 +0800" stop="20231230003000 +0800" channel="D12">
-<title lang="zh">Arts and Culture - Banda Bassotti. The Sound of Red </title><desc lang="zh">Since 1989, Banda Bassotti, a music group, has been fighting against the legacy of fascism and its ideas through their art. The Italian musicians also organise tours, to raise money for humanitarian aid and provide support to the residents of Donbass. They were able to achieve this with the help of activists from Italy, Germany, Portugal, as well as Turkey and created the 'Anti-Fascist Caravan'. Learn more about this group.</desc>
-</programme>
-<programme start="20231230003000 +0800" stop="20231230013000 +0800" channel="D12">
-<title lang="zh">Travel and Adventure - Russian Roots, Mongolian Life</title><desc lang="zh">Elena сame to Mongolia for a short business trip and never left. Her daughter now studies Mongolian and attends local children’s clubs. Like many others who relocate, Elena’s family observe both Russian and Mongolian customs and traditions. What attracts people to this ancient land of nomads, camels and enchanting nature?</desc>
-</programme>
-<programme start="20231230013000 +0800" stop="20231230020000 +0800" channel="D12">
-<title lang="zh">City Police Series - Water Police: How to catch suspected criminals on the river? | City Police Episode 3</title><desc lang="zh">The latest episode of the RT Documentary series City Police examines the work of the Russian Water Police. The captain of a Mongoose patrol boat takes presenter Aleksandr Nosik on board and explains the difference between this boat and others. Aleksandr even gets a chance to steer the awesome river craft. Suddenly they get a message about a suspect who tried to break into the wheelhouse of a boat. What happened next? Could the police catch him?</desc>
-</programme>
-<programme start="20231230020000 +0800" stop="20231230033000 +0800" channel="D12">
-<title lang="zh">How i became a cosmonaut</title><desc lang="zh"></desc>
-</programme>
-<programme start="20231230033000 +0800" stop="20231230040000 +0800" channel="D12">
+<programme start="20231229090000 +0800" stop="20231229093000 +0800" channel="D12">
 <title lang="zh">City Police Series - Grom Special Forces | City Police Episode 5</title><desc lang="zh">In his latest City Police quest, Alexander Nosik spends a day in the field with the GROM — the Russian special police unit. They’re called in to handle the most dangerous and complicated situations, like terrorism and drug trafficking. Since GROM is one of the most outstanding police divisions, there’s so much to look at the department gets two episodes. This first is about training, exercises and operational simulations, which are pretty similar to the real ones. More on how the GROM unit works in real life is in the next episode!</desc>
 </programme>
-<programme start="20231230040000 +0800" stop="20231230043000 +0800" channel="D12">
+<programme start="20231229093000 +0800" stop="20231229103000 +0800" channel="D12">
+<title lang="zh">Travel and Adventure - Russian Roots, Mongolian Life</title><desc lang="zh">Elena сame to Mongolia for a short business trip and never left. Her daughter now studies Mongolian and attends local children’s clubs. Like many others who relocate, Elena’s family observe both Russian and Mongolian customs and traditions. What attracts people to this ancient land of nomads, camels and enchanting nature?</desc>
+</programme>
+<programme start="20231229103000 +0800" stop="20231229113000 +0800" channel="D12">
 <title lang="zh">The Female Battalion -  Learning to shout out orders in the heat of battle - Female Battalion Ep.1 </title><desc lang="zh">Meet the Female Battalion, a group of young cadets in a nearly all-male military academy determined to become officers in Russia’s elite airborne troops. Though their friends think they’re crazy, for these gals, storming a building surrounded by smoke, explosions, and the sound of gunfire is a perfect day. </desc>
+</programme>
+<programme start="20231229113000 +0800" stop="20231229123000 +0800" channel="D12">
+<title lang="zh">Lifestyle - Akhal-Teke Horses: Heavenly Creatures</title><desc lang="zh">The Akhal-Teke breed, often referred to as the closest living link to wild horses, is renowned as the world's most expensive and esteemed breed. Prices for these horses can soar up to $100,000, reflecting their remarkable speed, endurance over long distances and rapid recovery. What else makes this breed special, particularly for the Turkmens?</desc>
+</programme>
+<programme start="20231229123000 +0800" stop="20231229140000 +0800" channel="D12">
+<title lang="zh">How i became a cosmonaut</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229140000 +0800" stop="20231229150000 +0800" channel="D12">
+<title lang="zh">Cold War Weapons - Cold War Weapons | Tanks: Episode 1</title><desc lang="zh">The new series, Cold War Weapons, explores military hardware and techniques created by the Soviet Union and the US during the nuclear arms race. In the first episode of Cold War Weapons, host Marina Kosareva visits one of the world’s best tank museums in the town of Kubinka. When the nuclear arms race between the United States and the USSR began, it became clear that tanks can withstand an atomic blast. The first episode takes a closer look at tanks produced by the Soviet Union and the US during the 1940s and 1950s, their advantages and combat experience.</desc>
+</programme>
+<programme start="20231229150000 +0800" stop="20231229160000 +0800" channel="D12">
+<title lang="zh">Society - Eden for the Homeless</title><desc lang="zh">Over half a million Americans are homeless and millions more are ‘a paycheck away’ from being homeless. A retired nurse Linda Brown and her husband David believe that no one should sleep outside. That is how they came up with an idea of Eden Village. It is a tiny home community for homeless people with a disability in Springfield, Missouri. There are 31 of fully-furnished homes built for people who had no roof over their head for a long time. Hear stories of former homeless people who finally found a permanent home in Eden Village.</desc>
+</programme>
+<programme start="20231229160000 +0800" stop="20231229163000 +0800" channel="D12">
+<title lang="zh">Lifestyle - He Traded a Paperclip for a House</title><desc lang="zh">In 2006, Canadian Kyle McDonald conducted a series of trades and exchanged a simple red paperclip for a real house. Likewise, Ruslan Chistyakov, a Russian blogger, decided to start a new life and do the same. But was he just as successful?</desc>
+</programme>
+<programme start="20231229163000 +0800" stop="20231229170000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Directed by Neural Network</title><desc lang="zh">How does a director choose the main protagonist for a documentary? There are lnumerous techniques and life hacks to help young filmmakers find the answer to this question. But are they relevant today? The protagonist of this documentary is selected by artificial intelligence. Watch the documentary to decide if the AI managed to create an authentic film?</desc>
+</programme>
+<programme start="20231229170000 +0800" stop="20231229173000 +0800" channel="D12">
+<title lang="zh">City Police Series - Grom Special Forces | City Police Episode 5</title><desc lang="zh">In his latest City Police quest, Alexander Nosik spends a day in the field with the GROM — the Russian special police unit. They’re called in to handle the most dangerous and complicated situations, like terrorism and drug trafficking. Since GROM is one of the most outstanding police divisions, there’s so much to look at the department gets two episodes. This first is about training, exercises and operational simulations, which are pretty similar to the real ones. More on how the GROM unit works in real life is in the next episode!</desc>
+</programme>
+<programme start="20231229173000 +0800" stop="20231229180000 +0800" channel="D12">
+<title lang="zh">This is China Series - Etiquette Of Giving</title><desc lang="zh">In China, gift-giving is an ancient tradition with sophisticated rules that has given birth to the most exquisite applied art. RTD visits the Chinese Arts and Applied Crafts Corporation in Beijing to see how designers and craftspeople set about creating the ultimate gift for foreign dignitaries, and learns the dos and don’ts of Chinese gift-giving.</desc>
+</programme>
+<programme start="20231229180000 +0800" stop="20231229183000 +0800" channel="D12">
+<title lang="zh">The Silk Road Series - Language of the Silk Road</title><desc lang="zh">Modern China is a unique mix of cutting-edge technology and centuries-old tradition. It takes pride in its booming economy and rich cultural heritage. In many ways, China owes its complexity and versatility to the Silk Road, an ancient trade route established in the 2nd century BC that for hundreds of years initiated cross-cultural interaction between Eurasian civilisations.</desc>
+</programme>
+<programme start="20231229183000 +0800" stop="20231229190000 +0800" channel="D12">
+<title lang="zh">Sport -  No Brakes, No Fear</title><desc lang="zh">In ice speedway, motorcyclists race without brakes on frozen circuits. RTD goes to the European Individual Ice Speedway Championship Finals in Vyatskie Polyana, Russia with veteran Finnish amateur, Tomi Kirilov and daredevil vice-champion, Eduard Krysov from Russia. So, whose combination of grit, guts and tactics will prove the winning formula?</desc>
+</programme>
+<programme start="20231229190000 +0800" stop="20231229200000 +0800" channel="D12">
+<title lang="zh">Society - Donbass Volunteers: United Strength</title><desc lang="zh">‘Here, you get a sense of how precious life is, of what it is like, and you give thanks for every day you live.’ Soslan Andiev volunteered for the special military operation in Ukraine. Soslan serves in the positions at the mouth of the frontline, right next to the enemy and also heads the Humanitarian Centre that delivers aid directly to the trenches. He says that helping the guys at the front is very fulfilling. The documentary explores Soslan motivation and that of other volunteers, to selflessly serve their motherland.</desc>
+</programme>
+<programme start="20231229200000 +0800" stop="20231229203000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Banda Bassotti. The Sound of Red </title><desc lang="zh">Since 1989, Banda Bassotti, a music group, has been fighting against the legacy of fascism and its ideas through their art. The Italian musicians also organise tours, to raise money for humanitarian aid and provide support to the residents of Donbass. They were able to achieve this with the help of activists from Italy, Germany, Portugal, as well as Turkey and created the 'Anti-Fascist Caravan'. Learn more about this group.</desc>
+</programme>
+<programme start="20231229203000 +0800" stop="20231229213000 +0800" channel="D12">
+<title lang="zh">Travel and Adventure - Russian Roots, Mongolian Life</title><desc lang="zh">Elena сame to Mongolia for a short business trip and never left. Her daughter now studies Mongolian and attends local children’s clubs. Like many others who relocate, Elena’s family observe both Russian and Mongolian customs and traditions. What attracts people to this ancient land of nomads, camels and enchanting nature?</desc>
+</programme>
+<programme start="20231229213000 +0800" stop="20231229230000 +0800" channel="D12">
+<title lang="zh">How i became a cosmonaut</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231229230000 +0800" stop="20231230000000 +0800" channel="D12">
+<title lang="zh">The Female Battalion -  Learning to shout out orders in the heat of battle - Female Battalion Ep.1 </title><desc lang="zh">Meet the Female Battalion, a group of young cadets in a nearly all-male military academy determined to become officers in Russia’s elite airborne troops. Though their friends think they’re crazy, for these gals, storming a building surrounded by smoke, explosions, and the sound of gunfire is a perfect day. </desc>
+</programme>
+<programme start="20231230000000 +0800" stop="20231230010000 +0800" channel="D12">
+<title lang="zh">Lifestyle - Akhal-Teke Horses: Heavenly Creatures</title><desc lang="zh">The Akhal-Teke breed, often referred to as the closest living link to wild horses, is renowned as the world's most expensive and esteemed breed. Prices for these horses can soar up to $100,000, reflecting their remarkable speed, endurance over long distances and rapid recovery. What else makes this breed special, particularly for the Turkmens?</desc>
+</programme>
+<programme start="20231230010000 +0800" stop="20231230013000 +0800" channel="D12">
+<title lang="zh">City Police Series - Grom Special Forces | City Police Episode 5</title><desc lang="zh">In his latest City Police quest, Alexander Nosik spends a day in the field with the GROM — the Russian special police unit. They’re called in to handle the most dangerous and complicated situations, like terrorism and drug trafficking. Since GROM is one of the most outstanding police divisions, there’s so much to look at the department gets two episodes. This first is about training, exercises and operational simulations, which are pretty similar to the real ones. More on how the GROM unit works in real life is in the next episode!</desc>
+</programme>
+<programme start="20231230013000 +0800" stop="20231230023000 +0800" channel="D12">
+<title lang="zh">Last battle for africa</title><desc lang="zh"></desc>
+</programme>
+<programme start="20231230023000 +0800" stop="20231230033000 +0800" channel="D12">
+<title lang="zh">Cold War Weapons - Cold War Weapons | Tanks: Episode 1</title><desc lang="zh">The new series, Cold War Weapons, explores military hardware and techniques created by the Soviet Union and the US during the nuclear arms race. In the first episode of Cold War Weapons, host Marina Kosareva visits one of the world’s best tank museums in the town of Kubinka. When the nuclear arms race between the United States and the USSR began, it became clear that tanks can withstand an atomic blast. The first episode takes a closer look at tanks produced by the Soviet Union and the US during the 1940s and 1950s, their advantages and combat experience.</desc>
+</programme>
+<programme start="20231230033000 +0800" stop="20231230040000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Directed by Neural Network</title><desc lang="zh">How does a director choose the main protagonist for a documentary? There are lnumerous techniques and life hacks to help young filmmakers find the answer to this question. But are they relevant today? The protagonist of this documentary is selected by artificial intelligence. Watch the documentary to decide if the AI managed to create an authentic film?</desc>
+</programme>
+<programme start="20231230040000 +0800" stop="20231230043000 +0800" channel="D12">
+<title lang="zh">City Police Series - Mounted Police | City Police Episode 7</title><desc lang="zh">At first, it might seem presenter Alexander Nosik has strayed from the regular agenda and decided to show stunt performers training. But it isn’t. In the latest episode of the City Police series, we meet the 1st mounted police regiment.</desc>
+</programme>
+<programme start="20231230043000 +0800" stop="20231230043000 +0800" channel="D12">
+<title lang="zh">The Silk Road Series - Language of the Silk Road</title><desc lang="zh">Modern China is a unique mix of cutting-edge technology and centuries-old tradition. It takes pride in its booming economy and rich cultural heritage. In many ways, China owes its complexity and versatility to the Silk Road, an ancient trade route established in the 2nd century BC that for hundreds of years initiated cross-cultural interaction between Eurasian civilisations.</desc>
 </programme>
 <programme start="20231229000000" stop="20231229010000" channel="D13">
 <title lang="zh">Global Business </title><desc lang="zh"></desc>
