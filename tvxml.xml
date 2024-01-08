@@ -457,7 +457,7 @@
 <title lang="zh">持续发力纵深推进-3</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108210400 +0800" stop="20240108210820 +0800" channel="A01">
-<title lang="zh">前情提要-《大江大河之岁月如歌》1/33</title><desc lang="zh"></desc>
+<title lang="zh">前情提要- 《大江大河之岁月如歌》第1集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108210820 +0800" stop="20240108220000 +0800" channel="A01">
 <title lang="zh">大江大河之岁月如歌-高清文件（一套版）-1/33</title><desc lang="zh"></desc>
@@ -690,11 +690,8 @@
 <programme start="20240108133215 +0800" stop="20240108145955 +0800" channel="A03">
 <title lang="zh">中央广播电视总台2023小品相声大会-6</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108145955 +0800" stop="20240108155850 +0800" channel="A03">
-<title lang="zh">我要上春晚-欢乐中国年2023-8</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240108155850 +0800" stop="20240108160505 +0800" channel="A03">
-<title lang="zh">中国文艺报道-2024-7保洁阿姨</title><desc lang="zh"></desc>
+<programme start="20240108145955 +0800" stop="20240108160505 +0800" channel="A03">
+<title lang="zh">非常6+1-2023-48</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108160505 +0800" stop="20240108170005 +0800" channel="A03">
 <title lang="zh">幸福账单-2023-52</title><desc lang="zh"></desc>
@@ -708,31 +705,37 @@
 <programme start="20240108180245 +0800" stop="20240108193000 +0800" channel="A03">
 <title lang="zh">星光大道-2024-1</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108193000 +0800" stop="20240108205435 +0800" channel="A03">
+<programme start="20240108193000 +0800" stop="20240108205355 +0800" channel="A03">
 <title lang="zh">开门大吉-2024-2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108205435 +0800" stop="20240108215145 +0800" channel="A03">
+<programme start="20240108205355 +0800" stop="20240108205935 +0800" channel="A03">
+<title lang="zh">中国文艺报道-2024-7保洁阿姨</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240108205935 +0800" stop="20240108215530 +0800" channel="A03">
 <title lang="zh">艺览天下-2024-2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108215145 +0800" stop="20240108225525 +0800" channel="A03">
+<programme start="20240108215530 +0800" stop="20240108220245 +0800" channel="A03">
+<title lang="zh">中国文艺报道-2024-2雷厝乐队</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240108220245 +0800" stop="20240108230625 +0800" channel="A03">
 <title lang="zh">综艺喜乐汇-2023-1311</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108225525 +0800" stop="20240108234410 +0800" channel="A03">
+<programme start="20240108230625 +0800" stop="20240108235510 +0800" channel="A03">
 <title lang="zh">综艺喜乐汇-2023-1697 幸福起航13/43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108234410 +0800" stop="20240109000000 +0800" channel="A03">
+<programme start="20240108235510 +0800" stop="20240109000000 +0800" channel="A03">
 <title lang="zh">综艺喜乐汇-2023-1698 幸福起航14/43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109000000 +0800" stop="20240109003125 +0800" channel="A03">
+<programme start="20240109000000 +0800" stop="20240109004225 +0800" channel="A03">
 <title lang="zh">综艺喜乐汇-2023-1698 幸福起航14/43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109003125 +0800" stop="20240109011840 +0800" channel="A03">
+<programme start="20240109004225 +0800" stop="20240109012940 +0800" channel="A03">
 <title lang="zh">综艺喜乐汇-2023-1699 幸福起航15/43</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109011840 +0800" stop="20240109020955 +0800" channel="A03">
+<programme start="20240109012940 +0800" stop="20240109022055 +0800" channel="A03">
 <title lang="zh">幸福账单-2023-50</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109020955 +0800" stop="20240109030110 +0800" channel="A03">
+<programme start="20240109022055 +0800" stop="20240109031210 +0800" channel="A03">
 <title lang="zh">我的艺术清单-2023-46</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108000000 +0800" stop="20240108001630 +0800" channel="A04">
@@ -1312,13 +1315,13 @@
 <title lang="zh">星推荐-2024年1月-8</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108192615 +0800" stop="20240108193000 +0800" channel="A09">
-<title lang="zh">本集提要-《繁花》25/30</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《繁花》第25集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108193000 +0800" stop="20240108202515 +0800" channel="A09">
 <title lang="zh">繁花25/30</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108202515 +0800" stop="20240108203010 +0800" channel="A09">
-<title lang="zh">本集提要-《繁花》26/30</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《繁花》第26集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108203010 +0800" stop="20240108212345 +0800" channel="A09">
 <title lang="zh">繁花26/30</title><desc lang="zh"></desc>
@@ -1327,7 +1330,7 @@
 <title lang="zh">本集提要- 《鸣龙少年》第30集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108212845 +0800" stop="20240108221920 +0800" channel="A09">
-<title lang="zh">鸣龙少年30/32</title><desc lang="zh"></desc>
+<title lang="zh">鸣龙少年第30集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108221920 +0800" stop="20240108230805 +0800" channel="A09">
 <title lang="zh">人生之路第6集</title><desc lang="zh"></desc>
@@ -1827,10 +1830,10 @@
 <programme start="20240108041500 +0800" stop="20240108050000 +0800" channel="A14">
 <title lang="zh">世界周刊</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108050000 +0800" stop="20240108051600 +0800" channel="A14">
+<programme start="20240108050000 +0800" stop="20240108051200 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108051600 +0800" stop="20240108060000 +0800" channel="A14">
+<programme start="20240108051200 +0800" stop="20240108060000 +0800" channel="A14">
 <title lang="zh">面对面</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108060000 +0800" stop="20240108090000 +0800" channel="A14">
@@ -1848,19 +1851,22 @@
 <programme start="20240108110000 +0800" stop="20240108120000 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108120000 +0800" stop="20240108123300 +0800" channel="A14">
+<programme start="20240108120000 +0800" stop="20240108123400 +0800" channel="A14">
 <title lang="zh">新闻30分</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108123300 +0800" stop="20240108130000 +0800" channel="A14">
+<programme start="20240108123400 +0800" stop="20240108130000 +0800" channel="A14">
 <title lang="zh">法治在线</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108130000 +0800" stop="20240108140000 +0800" channel="A14">
+<programme start="20240108130000 +0800" stop="20240108135325 +0800" channel="A14">
+<title lang="zh">持续发力纵深推进-2</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240108135325 +0800" stop="20240108140000 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108140000 +0800" stop="20240108141600 +0800" channel="A14">
+<programme start="20240108140000 +0800" stop="20240108141200 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108141600 +0800" stop="20240108150000 +0800" channel="A14">
+<programme start="20240108141200 +0800" stop="20240108150000 +0800" channel="A14">
 <title lang="zh">面对面</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108150000 +0800" stop="20240108160000 +0800" channel="A14">
@@ -1875,10 +1881,13 @@
 <programme start="20240108180000 +0800" stop="20240108190000 +0800" channel="A14">
 <title lang="zh">共同关注</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108190000 +0800" stop="20240108194030 +0800" channel="A14">
+<programme start="20240108190000 +0800" stop="20240108193210 +0800" channel="A14">
 <title lang="zh">新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240108194030 +0800" stop="20240108200000 +0800" channel="A14">
+<programme start="20240108193210 +0800" stop="20240108193850 +0800" channel="A14">
+<title lang="zh">天气预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240108193850 +0800" stop="20240108200000 +0800" channel="A14">
 <title lang="zh">焦点访谈</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108200000 +0800" stop="20240108210000 +0800" channel="A14">
@@ -1902,13 +1911,13 @@
 <programme start="20240109000000 +0800" stop="20240109010000 +0800" channel="A14">
 <title lang="zh">午夜新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109010000 +0800" stop="20240109012000 +0800" channel="A14">
+<programme start="20240109010000 +0800" stop="20240109012100 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109012000 +0800" stop="20240109013600 +0800" channel="A14">
+<programme start="20240109012100 +0800" stop="20240109013700 +0800" channel="A14">
 <title lang="zh">焦点访谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240109013600 +0800" stop="20240109020000 +0800" channel="A14">
+<programme start="20240109013700 +0800" stop="20240109020000 +0800" channel="A14">
 <title lang="zh">法治在线</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240109020000 +0800" stop="20240109023300 +0800" channel="A14">
@@ -11746,7 +11755,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240108053000" stop="20240108060000" channel="D11">
-<title lang="zh">Worlds Apart</title><desc lang="zh">Worlds Apart is a fast-paced, in-depth discussion on the most pressing issues facing the world today.It strives to depart from the traditional Q&amp;A form of interview in favor of a more emotive and engaging conversation. Host Oksana Boyko is not afraid to ask the hard questions that others avoid, with the aim of promoting intelligent public debate.</desc>
+<title lang="zh">Worlds Apart - Brutality of books? Geoffrey Roberts, Author of 'Stalin’s Library: A Dictator and His Book'</title><desc lang="zh">Worlds Apart is a fast-paced, in-depth discussion on the most pressing issues facing the world today.It strives to depart from the traditional Q&amp;A form of interview in favor of a more emotive and engaging conversation. Host Oksana Boyko is not afraid to ask the hard questions that others avoid, with the aim of promoting intelligent public debate.</desc>
 </programme>
 <programme start="20240108060000" stop="20240108063000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11782,7 +11791,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240108113000" stop="20240108120000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240108120000" stop="20240108123000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11806,7 +11815,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240108153000" stop="20240108160000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240108160000" stop="20240108163000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11830,7 +11839,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240108193000" stop="20240108200000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240108200000" stop="20240108203000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11854,7 +11863,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240108233000" stop="20240109000000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240109000000" stop="20240109003000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11878,7 +11887,7 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240109033000" stop="20240109040000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240109040000" stop="20240109043000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11896,10 +11905,10 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240109063000" stop="20240109070000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - Jasenovac</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240109070000" stop="20240109073000" channel="D11">
-<title lang="zh">Going Underground</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Going Underground - Gaza Slaughter: Is this the beginning of the end of the Zionist Israel project? Prof. Ilan Pappé</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
 </programme>
 <programme start="20240109073000" stop="20240109080000 +0800" channel="D11">
 <title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
@@ -12004,6 +12013,108 @@
 <title lang="zh">Russian alaska orthodoxy and independence</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240108043000 +0800" stop="20240108043000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Dangerous Music</title><desc lang="zh">For years, music was banned in Afghanistan as sinful, but now one school for children is planting the seeds for traditional Afghan music’s rebirth. Conservative views have left their mark, however, and the school and its young musicians face threats from some elements in society.</desc>
+</programme>
+<programme start="20240108050000 +0800" stop="20240108053000 +0800" channel="D12">
+<title lang="zh">Emergencies and Disasters - Young Hope of Donbass</title><desc lang="zh">Sonya, a 14-year-old resident of the Lugansk People's Republic, recalls that the Ukrainian armed forces deliberately targeted residential areas in Donbass. Two of the girl’s neighbours were cooking a meal in the courtyard, for example, when a shell killed both of them. This tragedy compelled Sonya to join the volunteering project herself. Now, over the course of the past year, ‘Food for Life Charity’ has distributed over 800,000 hot meals in Donbass. Who are these brave and compassionate youth who risk their lives and help others under the extreme threat of enemy fire?</desc>
+</programme>
+<programme start="20240108053000 +0800" stop="20240108060000 +0800" channel="D12">
+<title lang="zh">Politics - Hollywood’s Propaganda Factory</title><desc lang="zh">Throughout the years, the US government has closely partnered with Hollywood to further its political agenda. If national interests so required, American film studios were eager to rewrite history, portray former allies as enemies, promote unsavory political decisions, and even blacklist its actors and screenwriters for their views. A new facet of the dream factory comes to light.</desc>
+</programme>
+<programme start="20240108060000 +0800" stop="20240108063000 +0800" channel="D12">
+<title lang="zh">Investigation - Cults: The CIA's Secret Weapon</title><desc lang="zh">'These cults were mostly funded by the US and Europe,' says Oksana, an officer from Lugansk. She and her colleagues are gathering evidence to take down these totalitarian cults. Archive footage and documents found by Oksana and her team in the liberated Donbass territories, expose the neo-Nazi cults' harrowing activity of turning orphaned children into cold-blooded killers for the Ukrainian army.</desc>
+</programme>
+<programme start="20240108063000 +0800" stop="20240108070000 +0800" channel="D12">
+<title lang="zh">Lifestyle - Our Big Russian Family</title><desc lang="zh">Over the years, Tatyana and Artyom Falin fostered 30 children. These kids came from dysfunctional families, children’s homes and even straight from the streets. For every one of them, the Falin family found food and shelter and the right words to heal their traumas. All children came to love Tatyana and Arten as their parents and even wanted to return to them. So what’s it like to be foster parents to 30 kids?</desc>
+</programme>
+<programme start="20240108070000 +0800" stop="20240108073000 +0800" channel="D12">
+<title lang="zh">Society - Donbass: Restoring Childhood</title><desc lang="zh">In 2023, </desc>
+</programme>
+<programme start="20240108073000 +0800" stop="20240108083000 +0800" channel="D12">
+<title lang="zh">Red Alert - Red Alert | Hybrid Warfare</title><desc lang="zh">After the start of the special military operation in Ukraine, Western countries unleashed unprecedented sanctions, diplomatic and information warfare. ‘It was part of their policy of using Ukraine as a vehicle to weaken Russia. So this is what they wanted to happen,’ believes US military expert, Scott Ritter. Find out what 'hybrid warfare' is and why Western countries provoked the second Cold War against Russia.</desc>
+</programme>
+<programme start="20240108083000 +0800" stop="20240108093000 +0800" channel="D12">
+<title lang="zh">Politics - USSR Collapse: A Crash Course </title><desc lang="zh">In December 1991, the Russian tricolour replaced the hammer and sickle flying above the Kremlin. The Soviet Union ceased to exist. How did it happen? A new documentary, USSR Collapse: A Crash Course, looks into the fast-unfolding events of 1991, and key figures, for a better understanding of why the USSR fell and whether it was an inevitable process.</desc>
+</programme>
+<programme start="20240108093000 +0800" stop="20240108100000 +0800" channel="D12">
+<title lang="zh">City Police Series - Internal Affairs Ministry University | City Police Episode 9</title><desc lang="zh">This episode of the City Police series shows how students at the Moscow Police University study become investigators. It is one of the most complicated professions because, like any law enforcement, it requires physical fitness and significant deduction and analytical skills. But, in many cases, when a crime is committed things aren't what they seem. Only special training and attention to detail can help untangle the web.</desc>
+</programme>
+<programme start="20240108100000 +0800" stop="20240108103000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Newborn Russia: A surprisingly quiet maternity ward  (E1) </title><desc lang="zh">Maria, 34, is getting ready for the early delivery of her second child. Her last baby was also delivered preterm so she’s a little concerned about how things will progress this time. Another mum-to-be is 36-year-old Natalya who’s soon to experience labour for the first time. Despite warnings that giving birth at her age could be risky, she was determined to try and kept up her spirits throughout her pregnancy.</desc>
+</programme>
+<programme start="20240108103000 +0800" stop="20240108110000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - ‘The best song in the world’: 3 mothers welcome new-born babes - Newborn Russia (E2)</title><desc lang="zh">Evgeniya is about to have her second child by C-section. She’d been hoping for a vaginal birth because her first delivery also involved surgery.</desc>
+</programme>
+<programme start="20240108110000 +0800" stop="20240108113000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Anaesthetic-free childbirth &amp; the power of positive thinking - Newborn Russia (E3)</title><desc lang="zh">Ekaterina is having her third child. She is determined to give birth naturally and with no anaesthetic. She also aims to stay positive throughout. Meanwhile, 23-year-old Marina, who has been abandoned by her boyfriend, is having her firstborn and is looking forward to a new, better life.</desc>
+</programme>
+<programme start="20240108113000 +0800" stop="20240108120000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Do too many vitamins accelerate a baby’s growth? - Newborn Russia (E4)</title><desc lang="zh">Oksana and her husband, Aleksey, are expecting a daughter who will make their family complete, as they already have a boy. Their little son has thought of a name for his sister – Zlata, meaning “golden”. </desc>
+</programme>
+<programme start="20240108120000 +0800" stop="20240108123000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Her heart’s set on natural childbirth, no matter what - Newborn Russia (E5) </title><desc lang="zh">Yulia, a 27-year old pole dancing instructor, was relying on her physical fitness to make labour easier. Unfortunately, unexpected complications turn the experience into a lengthy ordeal. Meanwhile, Anna's doctors are confident that she is well prepared as she attended antenatal classes.</desc>
+</programme>
+<programme start="20240108123000 +0800" stop="20240108143000 +0800" channel="D12">
+<title lang="zh">Russian alaska orthodoxy and independence</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240108143000 +0800" stop="20240108150000 +0800" channel="D12">
+<title lang="zh">Society - Water: Donetsk's Lifeline</title><desc lang="zh">For almost a year Donetsk citizens have been surviving without water and heating. Ukrainian armed forces deliberately target water towers cutting off water supply for Donbass residents. ‘Yes, power can just drop out. And we live in an area where there’s no water… well, it’s very rare. So, it’s a bad situation, you can say’, says Masha, a young artist. Because of constant Ukrainian shelling the only possible way for Masha and her neighbors to get water is to ask volunteers. Who are these people who risk their lives and help others under fire?</desc>
+</programme>
+<programme start="20240108150000 +0800" stop="20240108153000 +0800" channel="D12">
+<title lang="zh">Meeting with Nature - Me and My Lions</title><desc lang="zh">Aleksey has been a lion fan his entire life. So when an opportunity presented itself, he relocated to South Africa and sold his Moscow apartment to rescue 8 lions about to be put down. But now he is fighting another battle: in an attempt to put a stop to canned hunting — chasing lions in enclosures — the South African authorities threaten to close all farms, killing lions in the process. So Aleksey has to come up with a plan to save his pets for the second time. Will he be able to do it?</desc>
+</programme>
+<programme start="20240108153000 +0800" stop="20240108163000 +0800" channel="D12">
+<title lang="zh">Military and War - Donbass: Echoes of War</title><desc lang="zh">The history of Donbass is deeply linked to World War II; the intense battles fought there and the heroism shown by the people continue to shape the region's identity and resilience to this day. Today, in the same locales where Donbass defenders fought against Hitler, their descendants continue the legacy, fighting against Ukrainian nationalists. Explore the chronicles of WWII's heaviest battles and delve into the stories of Donbass heroes, both from the past and the present.</desc>
+</programme>
+<programme start="20240108163000 +0800" stop="20240108170000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Dangerous Music</title><desc lang="zh">For years, music was banned in Afghanistan as sinful, but now one school for children is planting the seeds for traditional Afghan music’s rebirth. Conservative views have left their mark, however, and the school and its young musicians face threats from some elements in society.</desc>
+</programme>
+<programme start="20240108170000 +0800" stop="20240108173000 +0800" channel="D12">
+<title lang="zh">Emergencies and Disasters - Young Hope of Donbass</title><desc lang="zh">Sonya, a 14-year-old resident of the Lugansk People's Republic, recalls that the Ukrainian armed forces deliberately targeted residential areas in Donbass. Two of the girl’s neighbours were cooking a meal in the courtyard, for example, when a shell killed both of them. This tragedy compelled Sonya to join the volunteering project herself. Now, over the course of the past year, ‘Food for Life Charity’ has distributed over 800,000 hot meals in Donbass. Who are these brave and compassionate youth who risk their lives and help others under the extreme threat of enemy fire?</desc>
+</programme>
+<programme start="20240108173000 +0800" stop="20240108180000 +0800" channel="D12">
+<title lang="zh">History - Miracle Monk</title><desc lang="zh">Dashi-Dorzho Itigilov is a famous Buddhist monk from the Buryatia region. He lived in the 19th century, but worshippers still consider him alive. In 1927, Dashi-Dorzho Itigilov sat in a lotus pose, began to chant a prayer for the dead and entered a deep meditative state. When his body was exhumed in the early 2000s, witnesses were stunned. His body wasn’t mummified, but it didn’t decay. RT Documentary explores the science behind the miracle monk.</desc>
+</programme>
+<programme start="20240108180000 +0800" stop="20240108183000 +0800" channel="D12">
+<title lang="zh">Politics - Hollywood’s Propaganda Factory</title><desc lang="zh">Throughout the years, the US government has closely partnered with Hollywood to further its political agenda. If national interests so required, American film studios were eager to rewrite history, portray former allies as enemies, promote unsavory political decisions, and even blacklist its actors and screenwriters for their views. A new facet of the dream factory comes to light.</desc>
+</programme>
+<programme start="20240108183000 +0800" stop="20240108190000 +0800" channel="D12">
+<title lang="zh">Investigation - Cults: The CIA's Secret Weapon</title><desc lang="zh">'These cults were mostly funded by the US and Europe,' says Oksana, an officer from Lugansk. She and her colleagues are gathering evidence to take down these totalitarian cults. Archive footage and documents found by Oksana and her team in the liberated Donbass territories, expose the neo-Nazi cults' harrowing activity of turning orphaned children into cold-blooded killers for the Ukrainian army.</desc>
+</programme>
+<programme start="20240108190000 +0800" stop="20240108200000 +0800" channel="D12">
+<title lang="zh">Discovering Russia - Russia: 85 Adventures</title><desc lang="zh">The Russia Beyond team set themselves a tough challenge — to experience and document unique adventures in Russia. The team visits the birthplace of 29-time UFC champion Khabib Nurmagomedov in Dagestan and climbs Elbrus, Europe’s highest peak. From the cold of Yakutia to sunny Crimean vineyards, they explore many scenic landmarks as part of their Russia: 85 Adventures project.</desc>
+</programme>
+<programme start="20240108200000 +0800" stop="20240108203000 +0800" channel="D12">
+<title lang="zh">Society - Donbass: Restoring Childhood</title><desc lang="zh">In 2023, </desc>
+</programme>
+<programme start="20240108203000 +0800" stop="20240108213000 +0800" channel="D12">
+<title lang="zh">Environment - Cleaning the Arctic</title><desc lang="zh">'Cleaning the Arctic isn’t just words, a bunch of slogans or something. For me, it’s my destiny', says Andrey Nagibin, Office Head of ‘Clean Arctic’ Project. Now he coordinates eco-volunteers whose goal is to restore the Arctic's nature. Back in Soviet times, Andrey was a navigator and ice assistant and participated in many northern deliveries. He knows the bitter truth about the Arctic pollution firsthand. Marines used to load lots of equipment, gear, barrels of fuel and never took them back — 'leaving ballast behind' — as they said at that time. What urgent action to avoid further pollution is needed now?</desc>
+</programme>
+<programme start="20240108213000 +0800" stop="20240108223000 +0800" channel="D12">
+<title lang="zh">Red Alert - Red Alert | Hybrid Warfare</title><desc lang="zh">After the start of the special military operation in Ukraine, Western countries unleashed unprecedented sanctions, diplomatic and information warfare. ‘It was part of their policy of using Ukraine as a vehicle to weaken Russia. So this is what they wanted to happen,’ believes US military expert, Scott Ritter. Find out what 'hybrid warfare' is and why Western countries provoked the second Cold War against Russia.</desc>
+</programme>
+<programme start="20240108223000 +0800" stop="20240108230000 +0800" channel="D12">
+<title lang="zh">Lifestyle - Our Big Russian Family</title><desc lang="zh">Over the years, Tatyana and Artyom Falin fostered 30 children. These kids came from dysfunctional families, children’s homes and even straight from the streets. For every one of them, the Falin family found food and shelter and the right words to heal their traumas. All children came to love Tatyana and Arten as their parents and even wanted to return to them. So what’s it like to be foster parents to 30 kids?</desc>
+</programme>
+<programme start="20240108230000 +0800" stop="20240109000000 +0800" channel="D12">
+<title lang="zh">Politics - USSR Collapse: A Crash Course </title><desc lang="zh">In December 1991, the Russian tricolour replaced the hammer and sickle flying above the Kremlin. The Soviet Union ceased to exist. How did it happen? A new documentary, USSR Collapse: A Crash Course, looks into the fast-unfolding events of 1991, and key figures, for a better understanding of why the USSR fell and whether it was an inevitable process.</desc>
+</programme>
+<programme start="20240109000000 +0800" stop="20240109003000 +0800" channel="D12">
+<title lang="zh">Society - Water: Donetsk's Lifeline</title><desc lang="zh">For almost a year Donetsk citizens have been surviving without water and heating. Ukrainian armed forces deliberately target water towers cutting off water supply for Donbass residents. ‘Yes, power can just drop out. And we live in an area where there’s no water… well, it’s very rare. So, it’s a bad situation, you can say’, says Masha, a young artist. Because of constant Ukrainian shelling the only possible way for Masha and her neighbors to get water is to ask volunteers. Who are these people who risk their lives and help others under fire?</desc>
+</programme>
+<programme start="20240109003000 +0800" stop="20240109010000 +0800" channel="D12">
+<title lang="zh">Professions - Cinderfella</title><desc lang="zh">Yury led a simple life as a street cleaner in the Russian city of Ufa until one day, his photographer friend posted photos of him on Instagram. Then Yury’s life changed completely, as he became the city’s most famous model.</desc>
+</programme>
+<programme start="20240109010000 +0800" stop="20240109020000 +0800" channel="D12">
+<title lang="zh">Military and War - Donbass: Echoes of War</title><desc lang="zh">The history of Donbass is deeply linked to World War II; the intense battles fought there and the heroism shown by the people continue to shape the region's identity and resilience to this day. Today, in the same locales where Donbass defenders fought against Hitler, their descendants continue the legacy, fighting against Ukrainian nationalists. Explore the chronicles of WWII's heaviest battles and delve into the stories of Donbass heroes, both from the past and the present.</desc>
+</programme>
+<programme start="20240109020000 +0800" stop="20240109023000 +0800" channel="D12">
+<title lang="zh">Meeting with Nature - Me and My Lions</title><desc lang="zh">Aleksey has been a lion fan his entire life. So when an opportunity presented itself, he relocated to South Africa and sold his Moscow apartment to rescue 8 lions about to be put down. But now he is fighting another battle: in an attempt to put a stop to canned hunting — chasing lions in enclosures — the South African authorities threaten to close all farms, killing lions in the process. So Aleksey has to come up with a plan to save his pets for the second time. Will he be able to do it?</desc>
+</programme>
+<programme start="20240109023000 +0800" stop="20240109043000 +0800" channel="D12">
+<title lang="zh">Russian alaska orthodoxy and independence</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240109043000 +0800" stop="20240109043000 +0800" channel="D12">
 <title lang="zh">Arts and Culture - Dangerous Music</title><desc lang="zh">For years, music was banned in Afghanistan as sinful, but now one school for children is planting the seeds for traditional Afghan music’s rebirth. Conservative views have left their mark, however, and the school and its young musicians face threats from some elements in society.</desc>
 </programme>
 <programme start="20240108000000 +0800" stop="20240108003000 +0800" channel="D13">
