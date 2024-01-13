@@ -48,21 +48,21 @@
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
       <td>165个</td>
-      <td>2023.12.27</td>
+      <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
       <td>165个</td>
-      <td>2023.12.27</td>
+      <td>2024.01.13</td>
     </tr>
   </tbody>
 </table>
-
+<u>注：以上源请点击以上链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ## 🛠️工具
 - 📆EPG接口地址：
-  -  [https://github.com/Meroser/IPTV/blob/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
+  -  [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
 - 📌Logo来源：
   -  [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
 - 📼关于TVBOX和DIYP上的EPG接口
@@ -99,6 +99,7 @@
 <p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(4).jpg"></p>
 
 ## 🆕更新
+- - 2024.01.13 修复失效源，更新CGTN纪录为咸阳移动源
 - - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
 - - 2023.12.27 增加Ariang TV
 - - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
