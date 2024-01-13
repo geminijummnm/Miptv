@@ -47,26 +47,28 @@
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
-      <td>165个</td>
+      <td>166个</td>
       <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
-      <td>165个</td>
+      <td>166个</td>
       <td>2024.01.13</td>
     </tr>
   </tbody>
 </table>
-<u>注：以上源请点击以上链接右键复制[PC]/或长按复制[移动设备]</u>
+<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ## 🛠️工具
-- 📆EPG接口地址：
-  -  [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
+- 📆EPG文件地址[tvxml格式]：
+  -  [稳定版：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
+  -  [内测版：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
+🎈内测版目前仅提供gz版，相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编辑、主要演员等信息🎈欢迎测试反馈
 - 📌Logo来源：
   -  [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
 - 📼关于TVBOX和DIYP上的EPG接口
-  - 直接填入https://epg.112114.xyz/?ch={name}&date={date} 
+  - 推荐112114：https://epg.112114.xyz/?ch={name}&date={date} 
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
@@ -86,8 +88,8 @@
 - CHC高清电影、CHC家庭影院、CHC动作电影、求索纪录、求索科学、求索动物、求索生活、黑莓电影、黑莓动画、哒啵电竞、哒啵赛事、乐游、纪实人文、纯享4K、CCTV4K、CCTV8K、风云剧场、风云音乐、第一剧场、 女性时尚、风云足球、兵器科技、怀旧剧场、世界地理、文化精品、央视台球、高尔夫网球、电视指南
 ### 📲港澳台国际/18个频道
 - 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
-### 📺地方特色/23个频道
-- 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经
+### 📺地方特色/24个频道
+- 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
 ### ⚽咪咕体育/46个频道
 - 咪咕体育4K、咪咕体育（包括NBA赛事、足球等）
 
@@ -99,7 +101,7 @@
 <p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(4).jpg"></p>
 
 ## 🆕更新
-- - 2024.01.13 修复失效源，更新CGTN纪录为咸阳移动源
+- - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
 - - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
 - - 2023.12.27 增加Ariang TV
 - - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
