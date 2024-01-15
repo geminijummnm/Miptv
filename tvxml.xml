@@ -1297,25 +1297,25 @@
 <title lang="zh">星推荐-2024年1月-15</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115192615 +0800" stop="20240115193000 +0800" channel="A09">
-<title lang="zh">本集提要-《如果奔跑是我的人生》9/28</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《如果奔跑是我的人生》第9集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115193000 +0800" stop="20240115202510 +0800" channel="A09">
 <title lang="zh">如果奔跑是我的人生第9集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115202510 +0800" stop="20240115203010 +0800" channel="A09">
-<title lang="zh">本集提要-《如果奔跑是我的人生》10/28</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《如果奔跑是我的人生》第10集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115203010 +0800" stop="20240115212345 +0800" channel="A09">
 <title lang="zh">如果奔跑是我的人生第10集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115212345 +0800" stop="20240115212845 +0800" channel="A09">
-<title lang="zh">本集提要-《人生之路》23/37</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《人生之路》第23集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115212845 +0800" stop="20240115221820 +0800" channel="A09">
 <title lang="zh">人生之路第23集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115221820 +0800" stop="20240115221950 +0800" channel="A09">
-<title lang="zh">本集提要-《人生之路》24/37</title><desc lang="zh"></desc>
+<title lang="zh">本集提要- 《人生之路》第24集</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115221950 +0800" stop="20240115230835 +0800" channel="A09">
 <title lang="zh">人生之路第24集</title><desc lang="zh"></desc>
@@ -1809,10 +1809,10 @@
 <programme start="20240115041500 +0800" stop="20240115050000 +0800" channel="A14">
 <title lang="zh">世界周刊</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115050000 +0800" stop="20240115051600 +0800" channel="A14">
+<programme start="20240115050000 +0800" stop="20240115051200 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115051600 +0800" stop="20240115060000 +0800" channel="A14">
+<programme start="20240115051200 +0800" stop="20240115060000 +0800" channel="A14">
 <title lang="zh">面对面</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115060000 +0800" stop="20240115090000 +0800" channel="A14">
@@ -1830,19 +1830,19 @@
 <programme start="20240115110000 +0800" stop="20240115120000 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115120000 +0800" stop="20240115123300 +0800" channel="A14">
+<programme start="20240115120000 +0800" stop="20240115123400 +0800" channel="A14">
 <title lang="zh">新闻30分</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115123300 +0800" stop="20240115130000 +0800" channel="A14">
+<programme start="20240115123400 +0800" stop="20240115130000 +0800" channel="A14">
 <title lang="zh">法治在线</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115130000 +0800" stop="20240115140000 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115140000 +0800" stop="20240115141600 +0800" channel="A14">
+<programme start="20240115140000 +0800" stop="20240115141200 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115141600 +0800" stop="20240115150000 +0800" channel="A14">
+<programme start="20240115141200 +0800" stop="20240115150000 +0800" channel="A14">
 <title lang="zh">面对面</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115150000 +0800" stop="20240115160000 +0800" channel="A14">
@@ -1857,10 +1857,13 @@
 <programme start="20240115180000 +0800" stop="20240115190000 +0800" channel="A14">
 <title lang="zh">共同关注</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115190000 +0800" stop="20240115194030 +0800" channel="A14">
+<programme start="20240115190000 +0800" stop="20240115193255 +0800" channel="A14">
 <title lang="zh">新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115194030 +0800" stop="20240115200000 +0800" channel="A14">
+<programme start="20240115193255 +0800" stop="20240115194005 +0800" channel="A14">
+<title lang="zh">天气预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115194005 +0800" stop="20240115200000 +0800" channel="A14">
 <title lang="zh">焦点访谈</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115200000 +0800" stop="20240115210000 +0800" channel="A14">
@@ -1884,13 +1887,13 @@
 <programme start="20240116000000 +0800" stop="20240116010000 +0800" channel="A14">
 <title lang="zh">午夜新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240116010000 +0800" stop="20240116012000 +0800" channel="A14">
+<programme start="20240116010000 +0800" stop="20240116012100 +0800" channel="A14">
 <title lang="zh">新闻直播间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240116012000 +0800" stop="20240116013600 +0800" channel="A14">
+<programme start="20240116012100 +0800" stop="20240116013700 +0800" channel="A14">
 <title lang="zh">焦点访谈</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240116013600 +0800" stop="20240116020000 +0800" channel="A14">
+<programme start="20240116013700 +0800" stop="20240116020000 +0800" channel="A14">
 <title lang="zh">法治在线</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240116020000 +0800" stop="20240116023300 +0800" channel="A14">
@@ -2637,29 +2640,29 @@
 <programme start="20240116022100 +0800" stop="20240116031100 +0800" channel="A22">
 <title lang="zh">地理志</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000000 +0800" stop="20240115003400 +0800" channel="B01">
-<title lang="zh">侦察英雄(5)</title><desc lang="zh"></desc>
+<programme start="20240115000000 +0800" stop="20240115003600 +0800" channel="B01">
+<title lang="zh">开始</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115003400 +0800" stop="20240115012400 +0800" channel="B01">
+<programme start="20240115003600 +0800" stop="20240115012100 +0800" channel="B01">
 <title lang="zh">侦察英雄(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012400 +0800" stop="20240115021100 +0800" channel="B01">
+<programme start="20240115012100 +0800" stop="20240115012600 +0800" channel="B01">
+<title lang="zh">晚间气象服务</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115012600 +0800" stop="20240115021300 +0800" channel="B01">
 <title lang="zh">档案纯享版(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115021100 +0800" stop="20240115025000 +0800" channel="B01">
+<programme start="20240115021300 +0800" stop="20240115025200 +0800" channel="B01">
 <title lang="zh">档案纯享版(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115025000 +0800" stop="20240115033200 +0800" channel="B01">
+<programme start="20240115025200 +0800" stop="20240115033400 +0800" channel="B01">
 <title lang="zh">如果岁月可回头(23)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115033200 +0800" stop="20240115040000 +0800" channel="B01">
+<programme start="20240115033400 +0800" stop="20240115040000 +0800" channel="B01">
 <title lang="zh">如果岁月可回头(24)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115040000 +0800" stop="20240115041400 +0800" channel="B01">
+<programme start="20240115040000 +0800" stop="20240115041900 +0800" channel="B01">
 <title lang="zh">如果岁月可回头(24)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115041400 +0800" stop="20240115041900 +0800" channel="B01">
-<title lang="zh">大美北京</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115041900 +0800" stop="20240115050200 +0800" channel="B01">
 <title lang="zh">如果岁月可回头(25)</title><desc lang="zh"></desc>
@@ -2688,10 +2691,10 @@
 <programme start="20240115090400 +0800" stop="20240115095300 +0800" channel="B01">
 <title lang="zh">鲲鹏击浪(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115095300 +0800" stop="20240115103900 +0800" channel="B01">
+<programme start="20240115095300 +0800" stop="20240115103800 +0800" channel="B01">
 <title lang="zh">鲲鹏击浪(28)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115103900 +0800" stop="20240115104400 +0800" channel="B01">
+<programme start="20240115103800 +0800" stop="20240115104400 +0800" channel="B01">
 <title lang="zh">广宣时段</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115104400 +0800" stop="20240115113000 +0800" channel="B01">
@@ -2772,79 +2775,58 @@
 <programme start="20240115233000 +0800" stop="20240116000000 +0800" channel="B01">
 <title lang="zh">侦察英雄(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000000 +0800" stop="20240115004400 +0800" channel="B02">
+<programme start="20240115000900 +0800" stop="20240115005100 +0800" channel="B02">
 <title lang="zh">信仰(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115004400 +0800" stop="20240115012700 +0800" channel="B02">
+<programme start="20240115005100 +0800" stop="20240115013300 +0800" channel="B02">
 <title lang="zh">信仰(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012700 +0800" stop="20240115020300 +0800" channel="B02">
+<programme start="20240115013400 +0800" stop="20240115020900 +0800" channel="B02">
 <title lang="zh">信仰(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115020300 +0800" stop="20240115024600 +0800" channel="B02">
+<programme start="20240115020900 +0800" stop="20240115025000 +0800" channel="B02">
 <title lang="zh">信仰(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115024600 +0800" stop="20240115032900 +0800" channel="B02">
+<programme start="20240115025100 +0800" stop="20240115033200 +0800" channel="B02">
 <title lang="zh">信仰(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115032900 +0800" stop="20240115041100 +0800" channel="B02">
+<programme start="20240115033200 +0800" stop="20240115041300 +0800" channel="B02">
 <title lang="zh">信仰(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115041100 +0800" stop="20240115041500 +0800" channel="B02">
-<title lang="zh">《繁花》沪语版明日精彩看点</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115041500 +0800" stop="20240115045800 +0800" channel="B02">
+<programme start="20240115041700 +0800" stop="20240115045800 +0800" channel="B02">
 <title lang="zh">信仰(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115045800 +0800" stop="20240115053900 +0800" channel="B02">
+<programme start="20240115045800 +0800" stop="20240115055500 +0800" channel="B02">
 <title lang="zh">信仰(21)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115053900 +0800" stop="20240115055500 +0800" channel="B02">
-<title lang="zh">信仰精编(22)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115055500 +0800" stop="20240115055800 +0800" channel="B02">
-<title lang="zh">《繁花》沪语版明日精彩看点</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115055800 +0800" stop="20240115060300 +0800" channel="B02">
-<title lang="zh">向世界发出邀请</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115060300 +0800" stop="20240115065700 +0800" channel="B02">
-<title lang="zh">上甘岭(上)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115065700 +0800" stop="20240115070000 +0800" channel="B02">
-<title lang="zh">我是党员:高煜</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B02">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B02">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115085900 +0800" channel="B02">
+<programme start="20240115070000 +0800" stop="20240115085900 +0800" channel="B02">
 <title lang="zh">看东方</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115085900 +0800" stop="20240115090000 +0800" channel="B02">
-<title lang="zh">天气预报</title><desc lang="zh"></desc>
+<title lang="zh">东方新气象</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115090000 +0800" stop="20240115090400 +0800" channel="B02">
-<title lang="zh">向世界发出邀请</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115090400 +0800" stop="20240115094000 +0800" channel="B02">
-<title lang="zh">潮童天下精编(631)</title><desc lang="zh"></desc>
+<programme start="20240115090500 +0800" stop="20240115093700 +0800" channel="B02">
+<title lang="zh">潮童天下</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115094000 +0800" stop="20240115095000 +0800" channel="B02">
-<title lang="zh">繁花精编(19)</title><desc lang="zh"></desc>
+<title lang="zh">繁花(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115095000 +0800" stop="20240115103400 +0800" channel="B02">
+<programme start="20240115095000 +0800" stop="20240115103100 +0800" channel="B02">
 <title lang="zh">繁花(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115103400 +0800" stop="20240115111700 +0800" channel="B02">
+<programme start="20240115103400 +0800" stop="20240115111500 +0800" channel="B02">
 <title lang="zh">繁花(21)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115111700 +0800" stop="20240115120000 +0800" channel="B02">
 <title lang="zh">繁花(22)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115120000 +0800" stop="20240115122600 +0800" channel="B02">
+<programme start="20240115120000 +0800" stop="20240115122500 +0800" channel="B02">
 <title lang="zh">午间30分</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115122600 +0800" stop="20240115122700 +0800" channel="B02">
+<programme start="20240115122500 +0800" stop="20240115122700 +0800" channel="B02">
 <title lang="zh">天气预报</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115122700 +0800" stop="20240115130900 +0800" channel="B02">
@@ -2916,59 +2898,74 @@
 <programme start="20240115235900 +0800" stop="20240116000000 +0800" channel="B02">
 <title lang="zh">梦想改造家第十季(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000000 +0800" stop="20240115013000 +0800" channel="B03">
-<title lang="zh">你好，星期六</title><desc lang="zh"></desc>
+<programme start="20240115004300 +0800" stop="20240115021100 +0800" channel="B03">
+<title lang="zh">你好星期六</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115013000 +0800" stop="20240115020000 +0800" channel="B03">
+<programme start="20240115021100 +0800" stop="20240115024000 +0800" channel="B03">
 <title lang="zh">首发</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115020000 +0800" stop="20240115040000 +0800" channel="B03">
+<programme start="20240115024100 +0800" stop="20240115030900 +0800" channel="B03">
 <title lang="zh">新闻大求真</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115040000 +0800" stop="20240115053000 +0800" channel="B03">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20240115031000 +0800" stop="20240115033900 +0800" channel="B03">
+<title lang="zh">新闻大求真</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115053000 +0800" stop="20240115060000 +0800" channel="B03">
+<programme start="20240115033900 +0800" stop="20240115040800 +0800" channel="B03">
+<title lang="zh">新闻大求真</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115040800 +0800" stop="20240115050000 +0800" channel="B03">
+<title lang="zh">中国Ⅲ(5):双璧</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115050000 +0800" stop="20240115052900 +0800" channel="B03">
 <title lang="zh">首发</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115060000 +0800" stop="20240115070000 +0800" channel="B03">
-<title lang="zh">纪录片</title><desc lang="zh"></desc>
+<programme start="20240115053000 +0800" stop="20240115055800 +0800" channel="B03">
+<title lang="zh">首发</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B03">
+<programme start="20240115055900 +0800" stop="20240115062800 +0800" channel="B03">
+<title lang="zh">人生一万年</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115062800 +0800" stop="20240115065700 +0800" channel="B03">
+<title lang="zh">人生一万年</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B03">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115073000 +0800" channel="B03">
+<programme start="20240115070100 +0800" stop="20240115072700 +0800" channel="B03">
 <title lang="zh">湖南新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115073000 +0800" stop="20240115080000 +0800" channel="B03">
+<programme start="20240115073600 +0800" stop="20240115080200 +0800" channel="B03">
 <title lang="zh">一见倾心(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080000 +0800" stop="20240115081500 +0800" channel="B03">
-<title lang="zh">萌宝战警-源途之战(5)</title><desc lang="zh"></desc>
+<programme start="20240115080200 +0800" stop="20240115081500 +0800" channel="B03">
+<title lang="zh">萌宝战警之源途之战(5):荒野之战</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115081500 +0800" stop="20240115083000 +0800" channel="B03">
-<title lang="zh">萌宝战警-源途之战(6)</title><desc lang="zh"></desc>
+<programme start="20240115081600 +0800" stop="20240115082900 +0800" channel="B03">
+<title lang="zh">萌宝战警之源途之战(6):航海大冒险</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115083000 +0800" stop="20240115092500 +0800" channel="B03">
+<programme start="20240115083200 +0800" stop="20240115092600 +0800" channel="B03">
 <title lang="zh">一见倾心(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115092500 +0800" stop="20240115102000 +0800" channel="B03">
+<programme start="20240115093300 +0800" stop="20240115102700 +0800" channel="B03">
 <title lang="zh">一见倾心(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115102000 +0800" stop="20240115111500 +0800" channel="B03">
+<programme start="20240115103500 +0800" stop="20240115111500 +0800" channel="B03">
 <title lang="zh">一见倾心(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115111500 +0800" stop="20240115121000 +0800" channel="B03">
+<programme start="20240115112200 +0800" stop="20240115120900 +0800" channel="B03">
 <title lang="zh">一见倾心(17)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115121000 +0800" stop="20240115123000 +0800" channel="B03">
 <title lang="zh">午间新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115123000 +0800" stop="20240115133000 +0800" channel="B03">
-<title lang="zh">一见倾心(18)</title><desc lang="zh"></desc>
+<programme start="20240115123100 +0800" stop="20240115124500 +0800" channel="B03">
+<title lang="zh">卫视气象站</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115123200 +0800" stop="20240115133000 +0800" channel="B03">
+<programme start="20240115123200 +0800" stop="20240115124500 +0800" channel="B03">
 <title lang="zh">天气预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115124500 +0800" stop="20240115133000 +0800" channel="B03">
+<title lang="zh">一见倾心(18)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115133000 +0800" stop="20240115143000 +0800" channel="B03">
 <title lang="zh">一见倾心(19)</title><desc lang="zh"></desc>
@@ -3012,20 +3009,11 @@
 <programme start="20240115234000 +0800" stop="20240116000000 +0800" channel="B03">
 <title lang="zh">幸福触手可及(30)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115003100 +0800" stop="20240115003500 +0800" channel="B04">
-<title lang="zh">《江南》mv</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115003500 +0800" stop="20240115010600 +0800" channel="B04">
-<title lang="zh">奔跑吧·生态篇Ⅰ(5)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115010600 +0800" stop="20240115014300 +0800" channel="B04">
-<title lang="zh">奔跑吧·生态篇Ⅰ(5)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115014300 +0800" stop="20240115022200 +0800" channel="B04">
-<title lang="zh">奔跑吧·生态篇Ⅰ(5)</title><desc lang="zh"></desc>
+<programme start="20240115003600 +0800" stop="20240115022200 +0800" channel="B04">
+<title lang="zh">奔跑吧·生态篇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115022200 +0800" stop="20240115022400 +0800" channel="B04">
-<title lang="zh">气象</title><desc lang="zh"></desc>
+<title lang="zh">天气预报</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115022400 +0800" stop="20240115030500 +0800" channel="B04">
 <title lang="zh">西湖(4):湖山晴雨</title><desc lang="zh"></desc>
@@ -3048,71 +3036,68 @@
 <programme start="20240115063900 +0800" stop="20240115065800 +0800" channel="B04">
 <title lang="zh">南宋(4):宋画江山</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115065800 +0800" stop="20240115070000 +0800" channel="B04">
-<title lang="zh">早间气象</title><desc lang="zh"></desc>
+<programme start="20240115065800 +0800" stop="20240115065900 +0800" channel="B04">
+<title lang="zh">天气预报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B04">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B04">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115072600 +0800" channel="B04">
+<programme start="20240115070000 +0800" stop="20240115072100 +0800" channel="B04">
 <title lang="zh">浙江新闻联播</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115072600 +0800" stop="20240115075500 +0800" channel="B04">
-<title lang="zh">风味人间Ⅲ(1)</title><desc lang="zh"></desc>
+<title lang="zh">风味人间Ⅲ:天涯·四海为家</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115075500 +0800" stop="20240115075900 +0800" channel="B04">
-<title lang="zh">《江南》mv</title><desc lang="zh"></desc>
+<programme start="20240115075900 +0800" stop="20240115080400 +0800" channel="B04">
+<title lang="zh">天眼归来(395):解不下来的斗篷</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115075900 +0800" stop="20240115081900 +0800" channel="B04">
-<title lang="zh">天眼归来Ⅵ(83)</title><desc lang="zh"></desc>
+<programme start="20240115080400 +0800" stop="20240115080900 +0800" channel="B04">
+<title lang="zh">天眼归来(395):分享睡眠</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115081900 +0800" stop="20240115084300 +0800" channel="B04">
-<title lang="zh">天眼归来Ⅵ(84)</title><desc lang="zh"></desc>
+<programme start="20240115080900 +0800" stop="20240115081400 +0800" channel="B04">
+<title lang="zh">天眼归来(395):赞美镜</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115084300 +0800" stop="20240115092600 +0800" channel="B04">
-<title lang="zh">爱国者(33)</title><desc lang="zh"></desc>
+<programme start="20240115081400 +0800" stop="20240115081900 +0800" channel="B04">
+<title lang="zh">天眼归来(395):说谎标记</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115092600 +0800" stop="20240115100900 +0800" channel="B04">
-<title lang="zh">爱国者(34)</title><desc lang="zh"></desc>
+<programme start="20240115081900 +0800" stop="20240115082500 +0800" channel="B04">
+<title lang="zh">天眼归来(396):支配手柄</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115100900 +0800" stop="20240115105400 +0800" channel="B04">
-<title lang="zh">爱国者(35)</title><desc lang="zh"></desc>
+<programme start="20240115082500 +0800" stop="20240115083000 +0800" channel="B04">
+<title lang="zh">天眼归来(396):F1保障队</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115105400 +0800" stop="20240115113300 +0800" channel="B04">
-<title lang="zh">爱国者(36)</title><desc lang="zh"></desc>
+<programme start="20240115083000 +0800" stop="20240115083500 +0800" channel="B04">
+<title lang="zh">天眼归来(396):伤心糖</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115113300 +0800" stop="20240115115500 +0800" channel="B04">
-<title lang="zh">爱国者(37)</title><desc lang="zh"></desc>
+<programme start="20240115083500 +0800" stop="20240115084000 +0800" channel="B04">
+<title lang="zh">天眼归来(396):惊喜不断</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115115500 +0800" stop="20240115120000 +0800" channel="B04">
-<title lang="zh">《江南》mv</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115120000 +0800" stop="20240115122900 +0800" channel="B04">
+<programme start="20240115120000 +0800" stop="20240115122800 +0800" channel="B04">
 <title lang="zh">正午播报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115122900 +0800" stop="20240115131700 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115122900 +0800" stop="20240115131400 +0800" channel="B04">
+<title lang="zh">侦察英雄(7)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115131700 +0800" stop="20240115140300 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115131400 +0800" stop="20240115140000 +0800" channel="B04">
+<title lang="zh">侦察英雄(8)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115140300 +0800" stop="20240115144900 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115140000 +0800" stop="20240115144600 +0800" channel="B04">
+<title lang="zh">侦察英雄(9)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115144900 +0800" stop="20240115153500 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115144600 +0800" stop="20240115145900 +0800" channel="B04">
+<title lang="zh">知否知否应是绿肥红瘦(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115153500 +0800" stop="20240115161600 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115145900 +0800" stop="20240115154600 +0800" channel="B04">
+<title lang="zh">知否知否应是绿肥红瘦(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115161600 +0800" stop="20240115170400 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115154600 +0800" stop="20240115162800 +0800" channel="B04">
+<title lang="zh">知否知否应是绿肥红瘦(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115170400 +0800" stop="20240115174600 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115162800 +0800" stop="20240115170200 +0800" channel="B04">
+<title lang="zh">知否知否应是绿肥红瘦(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115174600 +0800" stop="20240115175700 +0800" channel="B04">
-<title lang="zh">百姓剧场</title><desc lang="zh"></desc>
+<programme start="20240115170200 +0800" stop="20240115175700 +0800" channel="B04">
+<title lang="zh">思想耀征程(5)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115175700 +0800" stop="20240115175800 +0800" channel="B04">
 <title lang="zh">浙江海洋预报</title><desc lang="zh"></desc>
@@ -3132,64 +3117,64 @@
 <programme start="20240115185300 +0800" stop="20240115190000 +0800" channel="B04">
 <title lang="zh">今日聚焦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115190000 +0800" stop="20240115193200 +0800" channel="B04">
+<programme start="20240115190000 +0800" stop="20240115193300 +0800" channel="B04">
 <title lang="zh">转播中央台新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115193200 +0800" stop="20240115201700 +0800" channel="B04">
+<programme start="20240115193300 +0800" stop="20240115202100 +0800" channel="B04">
 <title lang="zh">侦察英雄(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115201700 +0800" stop="20240115213000 +0800" channel="B04">
+<programme start="20240115202100 +0800" stop="20240115213000 +0800" channel="B04">
 <title lang="zh">侦察英雄(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115213000 +0800" stop="20240115214200 +0800" channel="B04">
+<programme start="20240115213000 +0800" stop="20240115214300 +0800" channel="B04">
 <title lang="zh">今日评说</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115214200 +0800" stop="20240115222700 +0800" channel="B04">
+<programme start="20240115214300 +0800" stop="20240115222800 +0800" channel="B04">
+<title lang="zh">梦华录(35)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115222800 +0800" stop="20240115231200 +0800" channel="B04">
+<title lang="zh">梦华录(36)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115231200 +0800" stop="20240115235400 +0800" channel="B04">
+<title lang="zh">梦华录(37)</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115235400 +0800" stop="20240116000000 +0800" channel="B04">
 <title lang="zh">好戏看浙里</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115222700 +0800" stop="20240115231400 +0800" channel="B04">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115231400 +0800" stop="20240115235500 +0800" channel="B04">
-<title lang="zh">剧场</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115235500 +0800" stop="20240116000000 +0800" channel="B04">
-<title lang="zh">好戏看浙里</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115003500 +0800" stop="20240115012100 +0800" channel="B05">
+<programme start="20240115003500 +0800" stop="20240115012000 +0800" channel="B05">
 <title lang="zh">长安诺</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012100 +0800" stop="20240115020700 +0800" channel="B05">
+<programme start="20240115012100 +0800" stop="20240115020600 +0800" channel="B05">
 <title lang="zh">长安诺</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115020700 +0800" stop="20240115021700 +0800" channel="B05">
+<programme start="20240115020700 +0800" stop="20240115021900 +0800" channel="B05">
 <title lang="zh">晚间新闻</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115021700 +0800" stop="20240115025800 +0800" channel="B05">
+<programme start="20240115021900 +0800" stop="20240115025800 +0800" channel="B05">
 <title lang="zh">从地球出发</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115025800 +0800" stop="20240115032800 +0800" channel="B05">
+<programme start="20240115030100 +0800" stop="20240115035900 +0800" channel="B05">
 <title lang="zh">江南文脉</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115032800 +0800" stop="20240115035900 +0800" channel="B05">
-<title lang="zh">江南文脉</title><desc lang="zh"></desc>
+<programme start="20240115040100 +0800" stop="20240115043100 +0800" channel="B05">
+<title lang="zh">酒美中国(8):当下的酒美</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115035900 +0800" stop="20240115043100 +0800" channel="B05">
-<title lang="zh">酒美中国</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115043100 +0800" stop="20240115050600 +0800" channel="B05">
+<programme start="20240115043300 +0800" stop="20240115050600 +0800" channel="B05">
 <title lang="zh">味解乡愁</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115050600 +0800" stop="20240115055300 +0800" channel="B05">
+<programme start="20240115050800 +0800" stop="20240115053900 +0800" channel="B05">
 <title lang="zh">味解乡愁</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115055300 +0800" stop="20240115062300 +0800" channel="B05">
+<programme start="20240115053900 +0800" stop="20240115054900 +0800" channel="B05">
+<title lang="zh">味解乡愁</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115055300 +0800" stop="20240115062200 +0800" channel="B05">
 <title lang="zh">约见名医</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115062300 +0800" stop="20240115070000 +0800" channel="B05">
-<title lang="zh">茶界中国</title><desc lang="zh"></desc>
+<programme start="20240115062400 +0800" stop="20240115065800 +0800" channel="B05">
+<title lang="zh">茶界中国(4):时间在奔跑</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B05">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B05">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115070100 +0800" stop="20240115072100 +0800" channel="B05">
@@ -3198,22 +3183,10 @@
 <programme start="20240115072100 +0800" stop="20240115080100 +0800" channel="B05">
 <title lang="zh">欢迎来到麦乐村</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080100 +0800" stop="20240115085100 +0800" channel="B05">
-<title lang="zh">我爱古诗词</title><desc lang="zh"></desc>
+<programme start="20240115080200 +0800" stop="20240115085100 +0800" channel="B05">
+<title lang="zh">我爱古诗词Ⅲ</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115085100 +0800" stop="20240115093700 +0800" channel="B05">
-<title lang="zh">老农民</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115093700 +0800" stop="20240115102500 +0800" channel="B05">
-<title lang="zh">老农民</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115102500 +0800" stop="20240115111300 +0800" channel="B05">
-<title lang="zh">老农民</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115111300 +0800" stop="20240115120000 +0800" channel="B05">
-<title lang="zh">老农民</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115120000 +0800" stop="20240115123200 +0800" channel="B05">
+<programme start="20240115120000 +0800" stop="20240115123000 +0800" channel="B05">
 <title lang="zh">正午江苏</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115123200 +0800" stop="20240115141500 +0800" channel="B05">
@@ -3237,23 +3210,26 @@
 <programme start="20240115185200 +0800" stop="20240115190000 +0800" channel="B05">
 <title lang="zh">天气预报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115190000 +0800" stop="20240115193100 +0800" channel="B05">
+<programme start="20240115190000 +0800" stop="20240115193500 +0800" channel="B05">
 <title lang="zh">转播中央台新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115193100 +0800" stop="20240115202000 +0800" channel="B05">
-<title lang="zh">幸福剧场</title><desc lang="zh"></desc>
+<programme start="20240115193500 +0800" stop="20240115202800 +0800" channel="B05">
+<title lang="zh">繁花(23)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115202000 +0800" stop="20240115210700 +0800" channel="B05">
-<title lang="zh">幸福剧场</title><desc lang="zh"></desc>
+<programme start="20240115202800 +0800" stop="20240115211500 +0800" channel="B05">
+<title lang="zh">繁花(24)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115210700 +0800" stop="20240115215500 +0800" channel="B05">
+<programme start="20240115211500 +0800" stop="20240115220000 +0800" channel="B05">
 <title lang="zh">一站到底</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115215500 +0800" stop="20240115235700 +0800" channel="B05">
+<programme start="20240115220000 +0800" stop="20240115225200 +0800" channel="B05">
 <title lang="zh">新相亲大会</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115235700 +0800" stop="20240116000000 +0800" channel="B05">
-<title lang="zh">晚间新闻</title><desc lang="zh"></desc>
+<programme start="20240115225200 +0800" stop="20240115234200 +0800" channel="B05">
+<title lang="zh">思想耀征程</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115234200 +0800" stop="20240116000000 +0800" channel="B05">
+<title lang="zh">思想耀征程</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115002400 +0800" stop="20240115012000 +0800" channel="B06">
 <title lang="zh">再造之恩(22)</title><desc lang="zh"></desc>
@@ -3366,25 +3342,25 @@
 <programme start="20240115233100 +0800" stop="20240116000000 +0800" channel="B06">
 <title lang="zh">再造之恩(23)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000000 +0800" stop="20240115005200 +0800" channel="B07">
+<programme start="20240115000000 +0800" stop="20240115004800 +0800" channel="B07">
 <title lang="zh">突围(9)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115005200 +0800" stop="20240115014400 +0800" channel="B07">
+<programme start="20240115004800 +0800" stop="20240115014300 +0800" channel="B07">
 <title lang="zh">突围(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115014400 +0800" stop="20240115023600 +0800" channel="B07">
+<programme start="20240115014300 +0800" stop="20240115023300 +0800" channel="B07">
 <title lang="zh">突围(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115023600 +0800" stop="20240115032800 +0800" channel="B07">
+<programme start="20240115023300 +0800" stop="20240115032300 +0800" channel="B07">
 <title lang="zh">突围(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115032800 +0800" stop="20240115042000 +0800" channel="B07">
+<programme start="20240115032300 +0800" stop="20240115042200 +0800" channel="B07">
 <title lang="zh">突围(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115042000 +0800" stop="20240115052500 +0800" channel="B07">
+<programme start="20240115042200 +0800" stop="20240115052400 +0800" channel="B07">
 <title lang="zh">父母爱情(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115052500 +0800" stop="20240115063000 +0800" channel="B07">
+<programme start="20240115052400 +0800" stop="20240115063000 +0800" channel="B07">
 <title lang="zh">父母爱情(11)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115063000 +0800" stop="20240115070000 +0800" channel="B07">
@@ -3951,22 +3927,34 @@
 <programme start="20240115233000 +0800" stop="20240116000000 +0800" channel="B11">
 <title lang="zh">神枪</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002000 +0800" stop="20240115011000 +0800" channel="B12">
+<programme start="20240115001600 +0800" stop="20240115010000 +0800" channel="B12">
 <title lang="zh">信仰(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115011000 +0800" stop="20240115020000 +0800" channel="B12">
+<programme start="20240115010000 +0800" stop="20240115014200 +0800" channel="B12">
 <title lang="zh">信仰(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115020000 +0800" stop="20240115040000 +0800" channel="B12">
+<programme start="20240115014200 +0800" stop="20240115021400 +0800" channel="B12">
 <title lang="zh">百年巨匠</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115040000 +0800" stop="20240115044500 +0800" channel="B12">
+<programme start="20240115021400 +0800" stop="20240115024500 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115024500 +0800" stop="20240115031500 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115031500 +0800" stop="20240115034500 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115034500 +0800" stop="20240115040900 +0800" channel="B12">
+<title lang="zh">百年巨匠</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115040900 +0800" stop="20240115044200 +0800" channel="B12">
 <title lang="zh">华西论健</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115044500 +0800" stop="20240115060000 +0800" channel="B12">
+<programme start="20240115044200 +0800" stop="20240115060300 +0800" channel="B12">
 <title lang="zh">信仰(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115060000 +0800" stop="20240115070000 +0800" channel="B12">
+<programme start="20240115060300 +0800" stop="20240115070000 +0800" channel="B12">
 <title lang="zh">瑶池黄龙</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B12">
@@ -3975,28 +3963,28 @@
 <programme start="20240115070100 +0800" stop="20240115073000 +0800" channel="B12">
 <title lang="zh">早安四川</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115073000 +0800" stop="20240115080000 +0800" channel="B12">
+<programme start="20240115073000 +0800" stop="20240115080600 +0800" channel="B12">
 <title lang="zh">早间气象</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080000 +0800" stop="20240115081000 +0800" channel="B12">
+<programme start="20240115080600 +0800" stop="20240115081800 +0800" channel="B12">
 <title lang="zh">疾风劲射(16)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115081000 +0800" stop="20240115082000 +0800" channel="B12">
+<programme start="20240115081800 +0800" stop="20240115083000 +0800" channel="B12">
 <title lang="zh">疾风劲射(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115082000 +0800" stop="20240115083000 +0800" channel="B12">
+<programme start="20240115083000 +0800" stop="20240115084600 +0800" channel="B12">
 <title lang="zh">疾风劲射(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115083000 +0800" stop="20240115093000 +0800" channel="B12">
+<programme start="20240115084600 +0800" stop="20240115100100 +0800" channel="B12">
 <title lang="zh">武松(12)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115093000 +0800" stop="20240115103000 +0800" channel="B12">
+<programme start="20240115100100 +0800" stop="20240115104600 +0800" channel="B12">
 <title lang="zh">武松(13)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115103000 +0800" stop="20240115113000 +0800" channel="B12">
+<programme start="20240115104600 +0800" stop="20240115113100 +0800" channel="B12">
 <title lang="zh">武松(14)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115113000 +0800" stop="20240115123000 +0800" channel="B12">
+<programme start="20240115113100 +0800" stop="20240115123000 +0800" channel="B12">
 <title lang="zh">武松(15)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115123000 +0800" stop="20240115123500 +0800" channel="B12">
@@ -4047,46 +4035,58 @@
 <programme start="20240115233000 +0800" stop="20240116000000 +0800" channel="B12">
 <title lang="zh">信仰(15)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002000 +0800" stop="20240115043000 +0800" channel="B13">
-<title lang="zh">我的前半生(6)</title><desc lang="zh"></desc>
+<programme start="20240115005900 +0800" stop="20240115013400 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115043000 +0800" stop="20240115053000 +0800" channel="B13">
+<programme start="20240115013400 +0800" stop="20240115020700 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115020800 +0800" stop="20240115031100 +0800" channel="B13">
+<title lang="zh">非你莫属</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115031200 +0800" stop="20240115034500 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115034500 +0800" stop="20240115042300 +0800" channel="B13">
+<title lang="zh">群英会</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115042400 +0800" stop="20240115050500 +0800" channel="B13">
 <title lang="zh">箭在弦上(5)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115053000 +0800" stop="20240115063000 +0800" channel="B13">
+<programme start="20240115052500 +0800" stop="20240115060500 +0800" channel="B13">
 <title lang="zh">箭在弦上(6)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115063000 +0800" stop="20240115070000 +0800" channel="B13">
-<title lang="zh">中国人</title><desc lang="zh"></desc>
+<programme start="20240115063500 +0800" stop="20240115070000 +0800" channel="B13">
+<title lang="zh">中国人:数学之美·陈省身(上)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B13">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B13">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115073000 +0800" channel="B13">
+<programme start="20240115070000 +0800" stop="20240115073000 +0800" channel="B13">
 <title lang="zh">津晨播报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115073000 +0800" stop="20240115080000 +0800" channel="B13">
-<title lang="zh">健康大智慧</title><desc lang="zh"></desc>
+<programme start="20240115081300 +0800" stop="20240115082200 +0800" channel="B13">
+<title lang="zh">旗旗号巡洋舰(24):前进!奔跑的木头象</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080000 +0800" stop="20240115084000 +0800" channel="B13">
-<title lang="zh">旗旗号巡洋舰</title><desc lang="zh"></desc>
+<programme start="20240115082200 +0800" stop="20240115083200 +0800" channel="B13">
+<title lang="zh">旗旗号巡洋舰(25):终点?奇怪的童童港</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115084000 +0800" stop="20240115094600 +0800" channel="B13">
+<programme start="20240115083800 +0800" stop="20240115091900 +0800" channel="B13">
 <title lang="zh">智者无敌(17)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115094600 +0800" stop="20240115105300 +0800" channel="B13">
+<programme start="20240115094800 +0800" stop="20240115102900 +0800" channel="B13">
 <title lang="zh">智者无敌(18)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115105300 +0800" stop="20240115120000 +0800" channel="B13">
+<programme start="20240115105700 +0800" stop="20240115113900 +0800" channel="B13">
 <title lang="zh">智者无敌(19)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115120000 +0800" stop="20240115122700 +0800" channel="B13">
+<programme start="20240115120000 +0800" stop="20240115122500 +0800" channel="B13">
 <title lang="zh">12点报道</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115122700 +0800" stop="20240115123500 +0800" channel="B13">
-<title lang="zh">天气预报</title><desc lang="zh"></desc>
+<programme start="20240115122500 +0800" stop="20240115122700 +0800" channel="B13">
+<title lang="zh">午间旅游气象</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115123500 +0800" stop="20240115134000 +0800" channel="B13">
+<programme start="20240115123100 +0800" stop="20240115134000 +0800" channel="B13">
 <title lang="zh">智者无敌(20)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115134000 +0800" stop="20240115144500 +0800" channel="B13">
@@ -4128,13 +4128,16 @@
 <programme start="20240115232000 +0800" stop="20240116000000 +0800" channel="B13">
 <title lang="zh">时代新人说</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000700 +0800" stop="20240115004900 +0800" channel="B14">
+<programme start="20240115000100 +0800" stop="20240115000700 +0800" channel="B14">
+<title lang="zh">旅游景区天气预报</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115000700 +0800" stop="20240115004600 +0800" channel="B14">
 <title lang="zh">大地情书2</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115004900 +0800" stop="20240115011700 +0800" channel="B14">
+<programme start="20240115004600 +0800" stop="20240115011500 +0800" channel="B14">
 <title lang="zh">故乡,别来无恙前情回顾</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115011700 +0800" stop="20240115020500 +0800" channel="B14">
+<programme start="20240115011500 +0800" stop="20240115020500 +0800" channel="B14">
 <title lang="zh">故乡,别来无恙3</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115020500 +0800" stop="20240115025400 +0800" channel="B14">
@@ -4239,13 +4242,13 @@
 <programme start="20240115235600 +0800" stop="20240116000000 +0800" channel="B14">
 <title lang="zh">纪录片</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000800 +0800" stop="20240115003800 +0800" channel="B15">
+<programme start="20240115001100 +0800" stop="20240115004200 +0800" channel="B15">
 <title lang="zh">小欢喜5</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115003800 +0800" stop="20240115011200 +0800" channel="B15">
+<programme start="20240115004200 +0800" stop="20240115011500 +0800" channel="B15">
 <title lang="zh">小欢喜6</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115011200 +0800" stop="20240115020700 +0800" channel="B15">
+<programme start="20240115011500 +0800" stop="20240115020700 +0800" channel="B15">
 <title lang="zh">行进中国·黄河篇</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115020700 +0800" stop="20240115030700 +0800" channel="B15">
@@ -4467,11 +4470,8 @@
 <programme start="20240115234700 +0800" stop="20240116000000 +0800" channel="B16">
 <title lang="zh">跟踪追击</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002000 +0800" stop="20240115003000 +0800" channel="B17">
+<programme start="20240115002000 +0800" stop="20240115012000 +0800" channel="B17">
 <title lang="zh">生活服务</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115003000 +0800" stop="20240115012000 +0800" channel="B17">
-<title lang="zh">决战燕子门9</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115012000 +0800" stop="20240115022000 +0800" channel="B17">
 <title lang="zh">决战燕子门10</title><desc lang="zh"></desc>
@@ -4965,71 +4965,68 @@
 <programme start="20240115234900 +0800" stop="20240116000000 +0800" channel="B20">
 <title lang="zh">武工队传奇(20)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115000000 +0800" stop="20240115003200 +0800" channel="B21">
-<title lang="zh">专题节目</title><desc lang="zh"></desc>
+<programme start="20240115003200 +0800" stop="20240115012200 +0800" channel="B21">
+<title lang="zh">黑土破晓(3):支援解放东北全境</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115003200 +0800" stop="20240115012300 +0800" channel="B21">
-<title lang="zh">黑土破晓</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115012300 +0800" stop="20240115024700 +0800" channel="B21">
-<title lang="zh">红高粱</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115024700 +0800" stop="20240115033800 +0800" channel="B21">
+<programme start="20240115024700 +0800" stop="20240115033700 +0800" channel="B21">
 <title lang="zh">一起读书吧</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115033800 +0800" stop="20240115034900 +0800" channel="B21">
+<programme start="20240115033800 +0800" stop="20240115034800 +0800" channel="B21">
 <title lang="zh">这就是黑龙江</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115034900 +0800" stop="20240115050100 +0800" channel="B21">
+<programme start="20240115034900 +0800" stop="20240115044000 +0800" channel="B21">
 <title lang="zh">铁马豪情的日子</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115050100 +0800" stop="20240115060200 +0800" channel="B21">
+<programme start="20240115050100 +0800" stop="20240115054000 +0800" channel="B21">
 <title lang="zh">铁马豪情的日子</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115060200 +0800" stop="20240115063000 +0800" channel="B21">
+<programme start="20240115060200 +0800" stop="20240115062100 +0800" channel="B21">
 <title lang="zh">铁马豪情的日子</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115063000 +0800" stop="20240115070000 +0800" channel="B21">
 <title lang="zh">共度晨光</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B21">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B21">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115071500 +0800" channel="B21">
+<programme start="20240115070000 +0800" stop="20240115071500 +0800" channel="B21">
 <title lang="zh">共度晨光</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115071500 +0800" stop="20240115080100 +0800" channel="B21">
+<programme start="20240115071500 +0800" stop="20240115074000 +0800" channel="B21">
 <title lang="zh">铁血玫瑰</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080100 +0800" stop="20240115083800 +0800" channel="B21">
-<title lang="zh">艾米咕噜Ⅱ</title><desc lang="zh"></desc>
+<programme start="20240115080100 +0800" stop="20240115080700 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:最好的宝物</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115080700 +0800" stop="20240115081300 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:恐龙不可怕</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115081300 +0800" stop="20240115081900 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:蛤蟆王子</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115081900 +0800" stop="20240115082500 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:点心盒</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115082500 +0800" stop="20240115083000 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:生日惊喜</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115083000 +0800" stop="20240115083600 +0800" channel="B21">
+<title lang="zh">艾米咕噜Ⅱ:恶作剧</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115083800 +0800" stop="20240115090500 +0800" channel="B21">
 <title lang="zh">铁血玫瑰</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115090500 +0800" stop="20240115094700 +0800" channel="B21">
+<programme start="20240115090500 +0800" stop="20240115094500 +0800" channel="B21">
 <title lang="zh">开课啦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115094700 +0800" stop="20240115101500 +0800" channel="B21">
+<programme start="20240115094700 +0800" stop="20240115101600 +0800" channel="B21">
 <title lang="zh">铁血玫瑰</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115101500 +0800" stop="20240115103800 +0800" channel="B21">
-<title lang="zh">广宣时段</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115103800 +0800" stop="20240115110600 +0800" channel="B21">
-<title lang="zh">殊死七日</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115110600 +0800" stop="20240115112900 +0800" channel="B21">
 <title lang="zh">广宣时段</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115112900 +0800" stop="20240115115700 +0800" channel="B21">
-<title lang="zh">殊死七日</title><desc lang="zh"></desc>
-</programme>
 <programme start="20240115115700 +0800" stop="20240115122100 +0800" channel="B21">
 <title lang="zh">广宣时段</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115122100 +0800" stop="20240115124900 +0800" channel="B21">
-<title lang="zh">殊死七日</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115124900 +0800" stop="20240115131200 +0800" channel="B21">
 <title lang="zh">广宣时段</title><desc lang="zh"></desc>
@@ -5253,19 +5250,19 @@
 <programme start="20240115234100 +0800" stop="20240116000000 +0800" channel="B22">
 <title lang="zh">孤岛飞鹰(23)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115001900 +0800" stop="20240115005100 +0800" channel="B23">
+<programme start="20240115001900 +0800" stop="20240115004900 +0800" channel="B23">
 <title lang="zh">我和我的三个姐姐(36)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115005100 +0800" stop="20240115012100 +0800" channel="B23">
 <title lang="zh">我和我的三个姐姐(37)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012100 +0800" stop="20240115021500 +0800" channel="B23">
+<programme start="20240115012100 +0800" stop="20240115015000 +0800" channel="B23">
 <title lang="zh">我和我的三个姐姐(38)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115021500 +0800" stop="20240115024500 +0800" channel="B23">
-<title lang="zh">天地长白</title><desc lang="zh"></desc>
+<title lang="zh">天地长白:四季流转年夜饭(3):乡味相传</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115024500 +0800" stop="20240115040700 +0800" channel="B23">
+<programme start="20240115024500 +0800" stop="20240115034500 +0800" channel="B23">
 <title lang="zh">放歌中国</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115040700 +0800" stop="20240115043700 +0800" channel="B23">
@@ -5277,31 +5274,34 @@
 <programme start="20240115050700 +0800" stop="20240115053700 +0800" channel="B23">
 <title lang="zh">猎鹰1949(50)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115053700 +0800" stop="20240115063000 +0800" channel="B23">
+<programme start="20240115053700 +0800" stop="20240115060700 +0800" channel="B23">
 <title lang="zh">陪你一起长大(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115063000 +0800" stop="20240115070000 +0800" channel="B23">
+<programme start="20240115062700 +0800" stop="20240115062900 +0800" channel="B23">
+<title lang="zh">身边发现</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115063000 +0800" stop="20240115065500 +0800" channel="B23">
 <title lang="zh">吉林新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B23">
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B23">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115070100 +0800" stop="20240115073000 +0800" channel="B23">
 <title lang="zh">新闻早报</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115073000 +0800" stop="20240115082100 +0800" channel="B23">
+<programme start="20240115073000 +0800" stop="20240115080000 +0800" channel="B23">
 <title lang="zh">猎鹰1949(24)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115082100 +0800" stop="20240115093200 +0800" channel="B23">
+<programme start="20240115082100 +0800" stop="20240115085100 +0800" channel="B23">
 <title lang="zh">猎鹰1949(25)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115093200 +0800" stop="20240115102300 +0800" channel="B23">
+<programme start="20240115093200 +0800" stop="20240115100200 +0800" channel="B23">
 <title lang="zh">猎鹰1949(26)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115102300 +0800" stop="20240115111500 +0800" channel="B23">
+<programme start="20240115102300 +0800" stop="20240115105300 +0800" channel="B23">
 <title lang="zh">猎鹰1949(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115111500 +0800" stop="20240115120700 +0800" channel="B23">
+<programme start="20240115111500 +0800" stop="20240115114500 +0800" channel="B23">
 <title lang="zh">猎鹰1949(28)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115120700 +0800" stop="20240115125700 +0800" channel="B23">
@@ -5493,10 +5493,10 @@
 <programme start="20240115224500 +0800" stop="20240116000000 +0800" channel="B24">
 <title lang="zh">电影时间</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002400 +0800" stop="20240115012400 +0800" channel="B25">
+<programme start="20240115003700 +0800" stop="20240115014200 +0800" channel="B25">
 <title lang="zh">中国正在说2023</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012400 +0800" stop="20240115021900 +0800" channel="B25">
+<programme start="20240115014200 +0800" stop="20240115021900 +0800" channel="B25">
 <title lang="zh">台湾新闻脸</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115021900 +0800" stop="20240115024900 +0800" channel="B25">
@@ -5625,16 +5625,34 @@
 <programme start="20240115231600 +0800" stop="20240116000000 +0800" channel="B25">
 <title lang="zh">早餐中国第四季</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115003000 +0800" stop="20240115023000 +0800" channel="B26">
-<title lang="zh">龙斗之ONE冠军赛</title><desc lang="zh"></desc>
+<programme start="20240115004600 +0800" stop="20240115031700 +0800" channel="B26">
+<title lang="zh">龙斗之ONE</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115023000 +0800" stop="20240115050000 +0800" channel="B26">
-<title lang="zh">锦衣之下</title><desc lang="zh"></desc>
+<programme start="20240115032700 +0800" stop="20240115041100 +0800" channel="B26">
+<title lang="zh">锦衣之下(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115050000 +0800" stop="20240115070000 +0800" channel="B26">
-<title lang="zh">栏目</title><desc lang="zh"></desc>
+<programme start="20240115041700 +0800" stop="20240115045300 +0800" channel="B26">
+<title lang="zh">锦衣之下(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B26">
+<programme start="20240115050000 +0800" stop="20240115053000 +0800" channel="B26">
+<title lang="zh">纪录时间:豆腐味道溯源篇(2):客家酿豆腐</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115053000 +0800" stop="20240115060000 +0800" channel="B26">
+<title lang="zh">纪录时间:豆腐味道溯源篇(3):腊八豆腐</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115060000 +0800" stop="20240115061300 +0800" channel="B26">
+<title lang="zh">赵琳的探险日记(11):沙漠初体验</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115061300 +0800" stop="20240115062600 +0800" channel="B26">
+<title lang="zh">赵琳的探险日记(12):难眠的寒夜</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115062600 +0800" stop="20240115063900 +0800" channel="B26">
+<title lang="zh">赵琳的探险日记(13):连环圈套</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115063900 +0800" stop="20240115065200 +0800" channel="B26">
+<title lang="zh">赵琳的探险日记(14):枯风石林</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115070000 +0800" stop="20240115070000 +0800" channel="B26">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115070100 +0800" stop="20240115072600 +0800" channel="B26">
@@ -5643,22 +5661,22 @@
 <programme start="20240115072600 +0800" stop="20240115073600 +0800" channel="B26">
 <title lang="zh">今日青海</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115073600 +0800" stop="20240115081200 +0800" channel="B26">
-<title lang="zh">纪录时间</title><desc lang="zh"></desc>
+<programme start="20240115073700 +0800" stop="20240115080700 +0800" channel="B26">
+<title lang="zh">纪录时间:我爱中国造(1):世界工厂(上)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115081200 +0800" stop="20240115090300 +0800" channel="B26">
+<programme start="20240115081400 +0800" stop="20240115090600 +0800" channel="B26">
 <title lang="zh">觉醒年代(29)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115090300 +0800" stop="20240115095200 +0800" channel="B26">
+<programme start="20240115091500 +0800" stop="20240115095700 +0800" channel="B26">
 <title lang="zh">觉醒年代(30)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115095200 +0800" stop="20240115104200 +0800" channel="B26">
+<programme start="20240115100200 +0800" stop="20240115104400 +0800" channel="B26">
 <title lang="zh">觉醒年代(31)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115104200 +0800" stop="20240115113200 +0800" channel="B26">
+<programme start="20240115105100 +0800" stop="20240115113200 +0800" channel="B26">
 <title lang="zh">觉醒年代(32)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115113200 +0800" stop="20240115123000 +0800" channel="B26">
+<programme start="20240115113900 +0800" stop="20240115122300 +0800" channel="B26">
 <title lang="zh">觉醒年代(33)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115123000 +0800" stop="20240115125000 +0800" channel="B26">
@@ -5718,64 +5736,55 @@
 <programme start="20240115230000 +0800" stop="20240116000000 +0800" channel="B26">
 <title lang="zh">锦衣之下</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002600 +0800" stop="20240115012300 +0800" channel="B27">
-<title lang="zh">真实纪录</title><desc lang="zh"></desc>
+<programme start="20240115002700 +0800" stop="20240115005300 +0800" channel="B27">
+<title lang="zh">真实纪录:记住乡愁Ⅶ(26):苏州-悠悠水城玲珑姑苏(上)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115012300 +0800" stop="20240115021500 +0800" channel="B27">
+<programme start="20240115012500 +0800" stop="20240115020700 +0800" channel="B27">
 <title lang="zh">前行者(10)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115021500 +0800" stop="20240115030800 +0800" channel="B27">
+<programme start="20240115022700 +0800" stop="20240115030900 +0800" channel="B27">
 <title lang="zh">前行者(11)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115030800 +0800" stop="20240115032500 +0800" channel="B27">
+<programme start="20240115031100 +0800" stop="20240115032000 +0800" channel="B27">
 <title lang="zh">开心巴扎</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115032500 +0800" stop="20240115035300 +0800" channel="B27">
-<title lang="zh">好大一个家之可爱的新疆</title><desc lang="zh"></desc>
+<programme start="20240115032300 +0800" stop="20240115034800 +0800" channel="B27">
+<title lang="zh">可爱的新疆</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115035300 +0800" stop="20240115042100 +0800" channel="B27">
-<title lang="zh">真实纪录</title><desc lang="zh"></desc>
+<programme start="20240115034900 +0800" stop="20240115041500 +0800" channel="B27">
+<title lang="zh">真实纪录:记住乡愁Ⅶ(25):九江-九水汇一城(下)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115042100 +0800" stop="20240115052400 +0800" channel="B27">
+<programme start="20240115041600 +0800" stop="20240115045800 +0800" channel="B27">
 <title lang="zh">叛逆者(26)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115052400 +0800" stop="20240115062700 +0800" channel="B27">
+<programme start="20240115051000 +0800" stop="20240115055200 +0800" channel="B27">
 <title lang="zh">叛逆者(27)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115062700 +0800" stop="20240115065500 +0800" channel="B27">
+<programme start="20240115062300 +0800" stop="20240115064900 +0800" channel="B27">
 <title lang="zh">青春激扬中国梦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115065500 +0800" stop="20240115072300 +0800" channel="B27">
-<title lang="zh">真实纪录</title><desc lang="zh"></desc>
+<programme start="20240115065200 +0800" stop="20240115071800 +0800" channel="B27">
+<title lang="zh">真实纪录:记住乡愁Ⅶ(26):苏州-悠悠水城玲珑姑苏(上)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115072300 +0800" stop="20240115075100 +0800" channel="B27">
-<title lang="zh">动画片</title><desc lang="zh"></desc>
+<programme start="20240115072000 +0800" stop="20240115073300 +0800" channel="B27">
+<title lang="zh">动车侠·未来高铁城:掠夺的身份(上)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115075100 +0800" stop="20240115075900 +0800" channel="B27">
-<title lang="zh">国宝里的新疆Ⅱ</title><desc lang="zh"></desc>
+<programme start="20240115073300 +0800" stop="20240115074700 +0800" channel="B27">
+<title lang="zh">动车侠·未来高铁城:掠夺的身份(下)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115075900 +0800" stop="20240115080000 +0800" channel="B27">
+<programme start="20240115075000 +0800" stop="20240115075600 +0800" channel="B27">
+<title lang="zh">国宝里的新疆Ⅱ:天山下诗篇如雪</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115075900 +0800" stop="20240115075900 +0800" channel="B27">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080000 +0800" stop="20240115083200 +0800" channel="B27">
+<programme start="20240115080000 +0800" stop="20240115083000 +0800" channel="B27">
 <title lang="zh">新疆新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115083200 +0800" stop="20240115084300 +0800" channel="B27">
+<programme start="20240115083200 +0800" stop="20240115084200 +0800" channel="B27">
 <title lang="zh">今日聚焦</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115084300 +0800" stop="20240115094600 +0800" channel="B27">
-<title lang="zh">隋唐英雄之薛刚反唐(57)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115094600 +0800" stop="20240115104900 +0800" channel="B27">
-<title lang="zh">隋唐英雄之薛刚反唐(58)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115104900 +0800" stop="20240115115300 +0800" channel="B27">
-<title lang="zh">隋唐英雄之薛刚反唐(59)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115115300 +0800" stop="20240115125600 +0800" channel="B27">
-<title lang="zh">隋唐英雄之薛刚反唐(60)</title><desc lang="zh"></desc>
-</programme>
-<programme start="20240115125600 +0800" stop="20240115140000 +0800" channel="B27">
+<programme start="20240115124700 +0800" stop="20240115140000 +0800" channel="B27">
 <title lang="zh">隋唐英雄之薛刚反唐(61)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115140000 +0800" stop="20240115142500 +0800" channel="B27">
@@ -5829,52 +5838,64 @@
 <programme start="20240115235300 +0800" stop="20240116000000 +0800" channel="B27">
 <title lang="zh">国宝里的新疆Ⅱ</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115002300 +0800" stop="20240115011000 +0800" channel="B28">
-<title lang="zh">隋唐英雄传(2)</title><desc lang="zh"></desc>
+<programme start="20240115001300 +0800" stop="20240115005800 +0800" channel="B28">
+<title lang="zh">大决战(62)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115011000 +0800" stop="20240115015700 +0800" channel="B28">
-<title lang="zh">隋唐英雄传(3)</title><desc lang="zh"></desc>
+<programme start="20240115005800 +0800" stop="20240115014300 +0800" channel="B28">
+<title lang="zh">大决战(63)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115015700 +0800" stop="20240115024400 +0800" channel="B28">
-<title lang="zh">隋唐英雄传(4)</title><desc lang="zh"></desc>
+<programme start="20240115014300 +0800" stop="20240115023800 +0800" channel="B28">
+<title lang="zh">大决战(64)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115024400 +0800" stop="20240115030400 +0800" channel="B28">
+<programme start="20240115023800 +0800" stop="20240115030600 +0800" channel="B28">
 <title lang="zh">自信中国说</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115030400 +0800" stop="20240115044600 +0800" channel="B28">
+<programme start="20240115030600 +0800" stop="20240115034700 +0800" channel="B28">
 <title lang="zh">记住乡愁Ⅱ</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115044600 +0800" stop="20240115053600 +0800" channel="B28">
+<programme start="20240115034700 +0800" stop="20240115040200 +0800" channel="B28">
+<title lang="zh">多彩高原·生命之歌</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115040200 +0800" stop="20240115041200 +0800" channel="B28">
+<title lang="zh">云南密码</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115041200 +0800" stop="20240115044600 +0800" channel="B28">
+<title lang="zh">多彩高原·生命之歌</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115044600 +0800" stop="20240115053700 +0800" channel="B28">
 <title lang="zh">隋唐英雄传(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115053600 +0800" stop="20240115062600 +0800" channel="B28">
+<programme start="20240115053700 +0800" stop="20240115062500 +0800" channel="B28">
 <title lang="zh">隋唐英雄传(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115062600 +0800" stop="20240115070000 +0800" channel="B28">
+<programme start="20240115062500 +0800" stop="20240115070000 +0800" channel="B28">
 <title lang="zh">记住乡愁Ⅱ</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115070000 +0800" stop="20240115070100 +0800" channel="B28">
 <title lang="zh">中华人民共和国国歌</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115070100 +0800" stop="20240115072800 +0800" channel="B28">
+<programme start="20240115070100 +0800" stop="20240115072700 +0800" channel="B28">
 <title lang="zh">云南新闻联播</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115072800 +0800" stop="20240115080000 +0800" channel="B28">
+<programme start="20240115072700 +0800" stop="20240115080000 +0800" channel="B28">
 <title lang="zh">血战长空(1)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115080000 +0800" stop="20240115083400 +0800" channel="B28">
-<title lang="zh">咖宝车神之飞天战队(12)</title><desc lang="zh"></desc>
+<programme start="20240115080000 +0800" stop="20240115082300 +0800" channel="B28">
+<title lang="zh">咖宝车神之飞天战队</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115083400 +0800" stop="20240115095200 +0800" channel="B28">
+<programme start="20240115082300 +0800" stop="20240115083200 +0800" channel="B28">
+<title lang="zh">小鸡彩虹</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115083200 +0800" stop="20240115095000 +0800" channel="B28">
 <title lang="zh">血战长空(2)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115095200 +0800" stop="20240115105300 +0800" channel="B28">
+<programme start="20240115095000 +0800" stop="20240115104900 +0800" channel="B28">
 <title lang="zh">血战长空(3)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115105300 +0800" stop="20240115115200 +0800" channel="B28">
+<programme start="20240115104900 +0800" stop="20240115115000 +0800" channel="B28">
 <title lang="zh">血战长空(4)</title><desc lang="zh"></desc>
 </programme>
-<programme start="20240115115200 +0800" stop="20240115122600 +0800" channel="B28">
+<programme start="20240115115000 +0800" stop="20240115122600 +0800" channel="B28">
 <title lang="zh">血战长空(5)</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115122600 +0800" stop="20240115130100 +0800" channel="B28">
@@ -10426,7 +10447,7 @@
 <title lang="zh">宣傳易[粵]</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240115125500 +0800" stop="20240115130000 +0800" channel="D04">
-<title lang="zh">「平和」抗賭20載[粵]</title><desc lang="zh">香港政府於2003年9月成立「平和基金」，資助預防及緩減與賭博有關問題的輔導和治療服務、公眾教育等措施。踏入2024年，節目以戲劇形式，讓觀眾認識基金多年來如何幫助沉迷賭海的受助��戒賭，以及向市民推廣抗賭信息。</desc>
+<title lang="zh">「平和」抗賭20載[粵]</title><desc lang="zh">香港政府於2003年9月成立「平和基金」，資助預防及緩減與賭博有關問題的輔導和治療服務、公眾教育等措施。踏入2024年，節目以戲劇形式，讓觀眾認識基金多年來如何幫助沉迷賭海的��助人戒賭，以及向市民推廣抗賭信息。</desc>
 </programme>
 <programme start="20240115130000 +0800" stop="20240115132000 +0800" channel="D04">
 <title lang="zh">午間新聞[粵]</title><desc lang="zh"></desc>
@@ -10516,7 +10537,7 @@
 <title lang="zh">宣傳易[粵]</title><desc lang="zh"></desc>
 </programme>
 <programme start="20240116013500 +0800" stop="20240116020500 +0800" channel="D04">
-<title lang="zh">MUSIC BREAK[粵]</title><desc lang="zh">星期一至五凌晨時分，不妨Take個《MUSIC BREAK》。節目播放精心挑選、最新、勁歌金榜上榜的歌曲MV，優質音樂作品每集連環放送。觀眾同時可掃瞄螢幕上的二維碼，登入網上直播平台，與開Live主持即席討論，實時互動。</desc>
+<title lang="zh">MUSIC BREAK[粵]</title><desc lang="zh">本集由彭家賢Zayden(@pky__zayden)推介歌單，播放的MV包括許廷鏗《一場同學》、關智斌《能幸福就好》、「勁歌推介」吳業坤《分手前中後》、「勁歌金榜No.1」周吉佩《你是我唯一的》、Gareth.T《緊急聯絡人》、MC張天賦《救命稻草》。</desc>
 </programme>
 <programme start="20240116020500 +0800" stop="20240116030500 +0800" channel="D04">
 <title lang="zh">流行都市[粵]</title><desc lang="zh">頸椎病有多個成因，中醫學針對氣滯血瘀、肝腎不足、寒濕凝滯的症型，提出不同治療。除食療外，醫師亦帶來相關的穴位按摩與伸展動作。要提升免疫力，應吸取維他命A和C，營養學家可有其他建議？天佑、芷倫前往健身室，接受星級教練關曜儁指導的「鋼架體能訓練」，比拼起來可會丟架？錄影廠則有專家向主持傳授伸展運動，有助改善拇指外翻，以及預防情況惡化。咖喱薯仔、三文魚似不相干，陳國賓在「睇餸食飯」示範將兩者二合為一。</desc>
@@ -11773,7 +11794,7 @@
 <title lang="zh">Documentary - Red Alert NGOs: Hostile Takeover</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240115070000" stop="20240115073000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">CrossTalk - CrossTalk Bullhorns: Escalate to de-escalate?</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
 </programme>
 <programme start="20240115073000" stop="20240115080000 +0800" channel="D11">
 <title lang="zh">Documentary - Red Alert NGOs: Hostile Takeover</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
@@ -11782,7 +11803,7 @@
 <title lang="zh">Worlds Apart - Free &amp; fair for all? Ron Carlos, Venezuela’s Deputy Minister of Foreign Affairs for North America</title><desc lang="zh">Worlds Apart is a fast-paced, in-depth discussion on the most pressing issues facing the world today.It strives to depart from the traditional Q&amp;A form of interview in favor of a more emotive and engaging conversation. Host Oksana Boyko is not afraid to ask the hard questions that others avoid, with the aim of promoting intelligent public debate.</desc>
 </programme>
 <programme start="20240115083000" stop="20240115090000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">The Modus Operandi - APEC summit outcomes</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
 </programme>
 <programme start="20240115090000" stop="20240115093000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
@@ -11794,133 +11815,133 @@
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115103000" stop="20240115110000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">CrossTalk - CrossTalk Bullhorns: Escalate to de-escalate?</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
 </programme>
 <programme start="20240115110000" stop="20240115113000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115113000" stop="20240115120000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240115120000" stop="20240115123000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115123000" stop="20240115130000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">The Modus Operandi - APEC summit outcomes</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
 </programme>
 <programme start="20240115130000" stop="20240115133000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115133000" stop="20240115140000" channel="D11">
-<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Interview</title><desc lang="zh">RT meets with leading politicians, major newsmakers, international art figures, bright new thinkers, and innovators in science and technology to conduct exclusive interviews. We travel the world to meet our guests where, relaxed and informal, we seek out important and interesting aspects of their lives and work.</desc>
 </programme>
 <programme start="20240115140000" stop="20240115143000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115143000" stop="20240115150000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">CrossTalk - CrossTalk Bullhorns: Escalate to de-escalate?</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
 </programme>
 <programme start="20240115150000" stop="20240115153000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115153000" stop="20240115160000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240115160000" stop="20240115163000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115163000" stop="20240115170000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
 </programme>
 <programme start="20240115170000" stop="20240115173000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115173000" stop="20240115180000" channel="D11">
-<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Interview</title><desc lang="zh">RT meets with leading politicians, major newsmakers, international art figures, bright new thinkers, and innovators in science and technology to conduct exclusive interviews. We travel the world to meet our guests where, relaxed and informal, we seek out important and interesting aspects of their lives and work.</desc>
 </programme>
 <programme start="20240115180000" stop="20240115183000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115183000" stop="20240115190000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">CrossTalk - CrossTalk Bullhorns: Escalate to de-escalate?</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
 </programme>
 <programme start="20240115190000" stop="20240115193000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115193000" stop="20240115200000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240115200000" stop="20240115203000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115203000" stop="20240115210000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">The Modus Operandi - APEC summit outcomes</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
 </programme>
 <programme start="20240115210000" stop="20240115213000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115213000" stop="20240115220000" channel="D11">
-<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Interview</title><desc lang="zh">RT meets with leading politicians, major newsmakers, international art figures, bright new thinkers, and innovators in science and technology to conduct exclusive interviews. We travel the world to meet our guests where, relaxed and informal, we seek out important and interesting aspects of their lives and work.</desc>
 </programme>
 <programme start="20240115220000" stop="20240115223000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115223000" stop="20240115230000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
 </programme>
 <programme start="20240115230000" stop="20240115233000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240115233000" stop="20240116000000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240116000000" stop="20240116003000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116003000" stop="20240116010000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">CrossTalk - CrossTalk Bullhorns: Escalate to de-escalate?</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
 </programme>
 <programme start="20240116010000" stop="20240116013000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116013000" stop="20240116020000" channel="D11">
-<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Interview</title><desc lang="zh">RT meets with leading politicians, major newsmakers, international art figures, bright new thinkers, and innovators in science and technology to conduct exclusive interviews. We travel the world to meet our guests where, relaxed and informal, we seek out important and interesting aspects of their lives and work.</desc>
 </programme>
 <programme start="20240116020000" stop="20240116023000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116023000" stop="20240116030000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
 </programme>
 <programme start="20240116030000" stop="20240116033000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116033000" stop="20240116040000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240116040000" stop="20240116043000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116043000" stop="20240116050000" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">The Modus Operandi - APEC summit outcomes</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
 </programme>
 <programme start="20240116050000" stop="20240116053000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116053000" stop="20240116060000" channel="D11">
-<title lang="zh">CrossTalk</title><desc lang="zh">'CrossTalk' is RT's flagship program. This TV debate experience presents hot-topic discussions on politics, business, newsmakers, global trends, present-day conflicts, and dangers and challenges facing our world. Host Peter Lavelle poses hard, straightforward questions to his guests, and demands concrete answers in response. Peter's guests are politicians, journalists, scientists and decision-makers of all sorts – anyone who influences the decisions changing our world or plays a key role in forming public opinion.</desc>
+<title lang="zh">Interview</title><desc lang="zh">RT meets with leading politicians, major newsmakers, international art figures, bright new thinkers, and innovators in science and technology to conduct exclusive interviews. We travel the world to meet our guests where, relaxed and informal, we seek out important and interesting aspects of their lives and work.</desc>
 </programme>
 <programme start="20240116060000" stop="20240116063000" channel="D11">
 <title lang="zh">News</title><desc lang="zh">RT news, interviews and shows available as podcasts you can download for free. Our coverage focuses on international headlines, giving an innovative angle set to challenge viewers worldwide.</desc>
 </programme>
 <programme start="20240116063000" stop="20240116070000" channel="D11">
-<title lang="zh">Documentary</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
+<title lang="zh">Documentary - No statute of limitation. They burned Khatyn</title><desc lang="zh">RT's documentaries give a varied and unique view on different aspects of life worldwide. They expose outdated myths and stereotypes, reveal intriguing history and geography, showcase varied wildlife and exquisite cuisines, introduce you to vibrant nightlife and curious customs. Original footage of historical events and sharp analysis of contemporary politics will give you a deeper understanding of what made history take this or that turn. RT's documentaries go beyond the bare facts, thoroughly investigating the issues and giving the viewer a chance to see below the surface.</desc>
 </programme>
 <programme start="20240116070000" stop="20240116073000" channel="D11">
-<title lang="zh">Going Underground - ‘The darkest thing I’ve seen’: Dr. Gabor Maté on Western countries supporting Israel’s Gaza slaughter</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
+<title lang="zh">Going Underground - Bombshell: Max Blumenthal accuses Israel of lies and deceit over Gaza bloodbath on October 7</title><desc lang="zh">Two times a week Afshin Rattansi and his team go underground to discover the stories that aren’t being covered by the mainstream UK media. From GCHQ to Occupy protests, and everything else in between, Going Underground is here to bring a fresh perspective to our audiences around Britain.</desc>
 </programme>
 <programme start="20240116073000" stop="20240116080000 +0800" channel="D11">
-<title lang="zh">The Modus Operandi</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
+<title lang="zh">The Modus Operandi - APEC summit outcomes</title><desc lang="zh">Modus Operandi with Manila Chan dives deep into global foreign policy to examine the methods and history which reverberate in our lives today. MO examines the world at a historical turning point, as nations rise and challenge the unipolar world that has been dominant since the end of the cold war. Who will rise, who will fall, and how will an emerging global order operate? Find out on Modus Operandi with Manila Chan.</desc>
 </programme>
 <programme start="20240114050000 +0800" stop="20240114053000 +0800" channel="D12">
 <title lang="zh">Arts and Culture - Universal Dostoevsky</title><desc lang="zh">Fyodor Dostoevsky is the most recognised Russian writer and can be easily considered a global brand. His novels, released two centuries ago, are still on point and remain the best soul-searching resource for many people around the world. Dostoevsky’s fans discover their true selves while reading him and artists channel their love for the writer through paintings and music. What makes Dostoevsky’s writing immortal?</desc>
@@ -12028,6 +12049,114 @@
 <title lang="zh">Traditions - Mexican Boom Town</title><desc lang="zh">Life in Tultepec revolves around pyrotechnics. Producing hand-made fireworks is a passion, an art form, and a source of livelihood for most residents of this Mexican town. But it’s also an extremely dangerous and unpredictable occupation, as those orphaned or widowed by fiery accidents will attest. Meet those willing to risk their lives for their explosive craft as RTD visits Tultepec’s annual pyrotechnics festival.</desc>
 </programme>
 <programme start="20240115030000 +0800" stop="20240115043000 +0800" channel="D12">
+<title lang="zh">Religion - Father Zosima: Testament of a Donetsk Seer</title><desc lang="zh">Elder Zosima foresaw the war in Ukraine and the resurgence of fascism. The monastery he founded is intentionally targeted by the Ukrainian army today. "Everything he said is now going on before our eyes," believes Sister Mariamna. Despite risking her own life, Sister Mariamna continues her service in the church according to the Seer testament. What helps her and other priests to carry on?</desc>
+</programme>
+<programme start="20240115050000 +0800" stop="20240115053000 +0800" channel="D12">
+<title lang="zh">Arts and Culture - Universal Dostoevsky</title><desc lang="zh">Fyodor Dostoevsky is the most recognised Russian writer and can be easily considered a global brand. His novels, released two centuries ago, are still on point and remain the best soul-searching resource for many people around the world. Dostoevsky’s fans discover their true selves while reading him and artists channel their love for the writer through paintings and music. What makes Dostoevsky’s writing immortal?</desc>
+</programme>
+<programme start="20240115053000 +0800" stop="20240115060000 +0800" channel="D12">
+<title lang="zh">Meeting with Nature - When an Elephant Smiles</title><desc lang="zh">Every day, dozens of elephants are killed by poachers seeking for their ivory, meat and other body parts. Elephant calves left without their mothers are sure to die as they lack survival skills and source of food. In Zimbabwe, there is a place where orphaned baby elephants can have a second chance at life. The Zimbabwe Elephant Nursery founded by Roxy Danckwerts on her family farm rescues helpless infants, providing them with care and love 24/7 in a bid to reintegrate mighty animals back to the wild.</desc>
+</programme>
+<programme start="20240115060000 +0800" stop="20240115063000 +0800" channel="D12">
+<title lang="zh">Military and War - The Frontline Grind</title><desc lang="zh">The 'Crimea' Battalion fighters came from all works of life. What unites them is that they all left the the comfort of their homes to protect their land and those they love. In 2014, they had to take up arms and learn to fight against the Ukrainian nationalists. Lacking military experience, the soldiers learned and carved out their skills from fighting with the enemy. How have their lives changed over these 9 years?</desc>
+</programme>
+<programme start="20240115063000 +0800" stop="20240115064500 +0800" channel="D12">
+<title lang="zh">Lifestyle - The Wizard of Agarkovo </title><desc lang="zh">He is called a Russian ‘Hagrid’. Just like Harry Potter’s friend, Aleksandr Biletsky is a gamekeeper, likes magic creatures, and feels in harmony with nature. RT Documentary visits Aleksandr’s fairy tale village, Agavariya, to find out more about organic living, running a creative workshop for ‘wizards and fairies’ and making ‘Muggle’ money in the middle of nowhere.</desc>
+</programme>
+<programme start="20240115064500 +0800" stop="20240115070000 +0800" channel="D12">
+<title lang="zh">Meeting with Nature - Aurora Hunters</title><desc lang="zh">Best observed in high latitudes, the Northern Lights have been fascinating people for centuries. A group of enthusiasts from St. Petersburg, known as the Aurora Hunters, has mastered the art of chasing and predicting them. Natalya, the group’s leader and mastermind, has created a website packed with statistics and forecasts invaluable for everyone who fancies spending a chilly night in the middle of nowhere staring at the sky.</desc>
+</programme>
+<programme start="20240115070000 +0800" stop="20240115073000 +0800" channel="D12">
+<title lang="zh">Human Rights - Girl Power: Hindi Style</title><desc lang="zh">Women in India still have little or no rights and are frequently abused and raped by their husbands. So Sampat Pal, an activist and a local hero, created the Gulabi Gang, which welcomes women in difficult situations and offers them protection and assistance in solving their family problems.</desc>
+</programme>
+<programme start="20240115073000 +0800" stop="20240115083000 +0800" channel="D12">
+<title lang="zh">Professions - War Correspondents</title><desc lang="zh">In the spring of 2022, Pavel Kukushkin volunteered to travel to Donbass as he sought unbiased assessments of the unfolding events. “Many reporters come, film a report, and leave as fast as they can. I have a different approach. I live with the soldiers, and I need to understand and experience the same feelings they have… when they’re here, so I can report on it more truthfully,” says Kukushkin. Now he helps to defend the people of Donbass with his own weapon – a camera and an opportunity to tell the world what’s really going on.</desc>
+</programme>
+<programme start="20240115083000 +0800" stop="20240115090000 +0800" channel="D12">
+<title lang="zh">Personalities - Danceducation</title><desc lang="zh">Percy Sackey is a Ghanaian primary school teacher who uses dance to build relationships with his pupils and get them to learn better. RTD goes to school with Ghana’s dancing teacher and sees how this dance god uses one of his country’s cultural traditions to get them to enjoy school and learn lessons they’ll never forget.</desc>
+</programme>
+<programme start="20240115090000 +0800" stop="20240115093000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Cameraman faints in maternity ward - Newborn Russia (E6)</title><desc lang="zh">Three more mothers-to-be allow RTD to share their childbirths: student Natalia is expecting her second child, psychiatric hospital worker, Maria refuses to be told her baby’s sex before it’s born, and second-time mother, Svetlana is expecting a daughter.</desc>
+</programme>
+<programme start="20240115093000 +0800" stop="20240115100000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - A Busy Day At Maternity - Newborn Russia (E7)</title><desc lang="zh">The maternity ward is busy with three mothers about to give birth. Anna and Tatyana are having complications so they will have to be induced or have C-sections. However, Olga has gone into labour and can give birth naturally and can look forward to showing husband Dmitry their new son. The rest of the family will also come along to be introduced as she leaves hospital.</desc>
+</programme>
+<programme start="20240115100000 +0800" stop="20240115103000 +0800" channel="D12">
+<title lang="zh">Newborn Russia -  A Tale Of Two Births - Newborn Russia (E8)</title><desc lang="zh">Elena and Ekaterina are first-time mums to be. Elena gives birth to baby Jamilla after a routine delivery, but things don’t go quite so smoothly for Ekaterina. At the moment of birth, her baby faces a problem and has to be kept in isolation for a little while. Not long after Elena gives birth, husband Samir, and mother Lyudmila get to meet the newest member of the family.</desc>
+</programme>
+<programme start="20240115103000 +0800" stop="20240115110000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Giving birth without an epidural - Newborn Russia (E9) </title><desc lang="zh">Anastasia is preparing to have her first baby. She's excited about going through the experience of labour and giving birth. She sees it as a privilege rather than an ordeal. Meanwhile, it's Elena's second time. She wanted a C-section, but the doctors decided she should give birth naturally. Unfortunately, Elena won’t get an epidural and will have to tough it out.</desc>
+</programme>
+<programme start="20240115110000 +0800" stop="20240115113000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Two Annas, two new babies, two first-time mothers - Newborn Russia (E10)</title><desc lang="zh">In this episode, we meet two Annas. The young first-time expectant mothers are both carrying boys. Neither has any idea yet what giving birth will be like and not knowing is making them nervous. Luckily, after being given epidurals to make the contractions more bearable, they manage to calm down a little.</desc>
+</programme>
+<programme start="20240115113000 +0800" stop="20240115120000 +0800" channel="D12">
+<title lang="zh">Newborn Russia - Inside the pathology department at a maternity hospital - Newborn Russia (E11) </title><desc lang="zh">This time, Newborn Russia comes from a maternity hospital pathology department. Three women, Margarita, Darya and Tatiana have very different stories that brought them here.</desc>
+</programme>
+<programme start="20240115120000 +0800" stop="20240115123000 +0800" channel="D12">
+<title lang="zh">Discovering Russia - Iceline. Lifeline </title><desc lang="zh">In 2022 two brand-new Russian icebreakers will operate on the Northern sea route. These ships can break through ice 118 inches thick, need no refuelling for decades, and travel at sea and along rivers. They opened a new era of Arctic sea economy — now there is a direct path between Northern Europe and Asia, bypassing all European seaports. What new opportunities can it bring?</desc>
+</programme>
+<programme start="20240115123000 +0800" stop="20240115130000 +0800" channel="D12">
+<title lang="zh">Sport - Freeze Divers </title><desc lang="zh">Freediving is a challenge in itself: diving into the deep, pitch-black abyss on a single breath, enduring water pressure and keeping a deeply calm state of mind to stay in control while diving. But some go even further and brave the cold by freediving under ice, which is even more difficult and a lot more dangerous. For Andrey Matveenko, a seasoned freediver and multiple Freediving World Championship medalist, freediving under the ice is unexplored territory. Matveenko takes the plunge and decides to go deeper than anyone ever has before to beat the current world record of 75 metres below the Arctic ice.</desc>
+</programme>
+<programme start="20240115130000 +0800" stop="20240115133000 +0800" channel="D12">
+<title lang="zh">Environment - Arctic Calling</title><desc lang="zh">‘Although our efforts may seem ridiculous and insignificant, the theory of small deeds has to work, we’ve got to fix our planet’, says Vladimir Privalov, ‘Clean Arctic’ volunteer. Vladimir joined the expedition and went to Franz Josef Land to remove car batteries and barrels contaminating the soil and water. Volunteers have to carry out extensive work as previously advanced Arctic research facilities eventually became abandoned and polluted.</desc>
+</programme>
+<programme start="20240115133000 +0800" stop="20240115140000 +0800" channel="D12">
+<title lang="zh">Professions - Men of Salt</title><desc lang="zh">Salar de Uyuni, the world’s largest salt flat, has been the source of livelihood for generations. Though working on a salt flat can be bad for their health, they still stay, go to work every day and use the salt to build houses and make art pieces. So how does it feel when salt is your whole life?</desc>
+</programme>
+<programme start="20240115140000 +0800" stop="20240115150000 +0800" channel="D12">
+<title lang="zh">Red Alert - Red Alert | NGO's Hostile Takeover</title><desc lang="zh">Anna Chapman aims to uncover the hidden agendas of Western NGOs, whose activities are supposed to be based on principles of kindness and justice rather than financial motives. Take Vanessa Billy, a journalist working in Syria, whose investigation reveals a less-than-noble objective: instead of aiding those in need, the organisation actively promotes pro-Western and anti-government ideas in Syria. Discover other inconspicuous activities of foreign non-profits around the world.</desc>
+</programme>
+<programme start="20240115150000 +0800" stop="20240115160000 +0800" channel="D12">
+<title lang="zh">Notes from an american in donbass</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240115160000 +0800" stop="20240115163000 +0800" channel="D12">
+<title lang="zh">Personalities - Ivan and the Wolf</title><desc lang="zh">When Ivan was offered a wolf cub, he immediately agreed, partly out of curiosity but also to save an animal that would otherwise have been put down. The wolf has lived with Ivan, his daughter and two dogs ever since, and soon became a part of the family, as well as regularly attracting media attention. As Ivan’s primaeval pet grows ever bigger, it demands more time, care and space. An RTD crew visits Ivan’s ‘pack’ to find out more about living with a wild predator. As we tag along, we ask if it’s possible to turn a wolf into a pet or whether the call of the wild is too strong.</desc>
+</programme>
+<programme start="20240115163000 +0800" stop="20240115170000 +0800" channel="D12">
+<title lang="zh">Traditions - Mexican Boom Town</title><desc lang="zh">Life in Tultepec revolves around pyrotechnics. Producing hand-made fireworks is a passion, an art form, and a source of livelihood for most residents of this Mexican town. But it’s also an extremely dangerous and unpredictable occupation, as those orphaned or widowed by fiery accidents will attest. Meet those willing to risk their lives for their explosive craft as RTD visits Tultepec’s annual pyrotechnics festival.</desc>
+</programme>
+<programme start="20240115170000 +0800" stop="20240115190000 +0800" channel="D12">
+<title lang="zh">Religion - Father Zosima: Testament of a Donetsk Seer</title><desc lang="zh">Elder Zosima foresaw the war in Ukraine and the resurgence of fascism. The monastery he founded is intentionally targeted by the Ukrainian army today. "Everything he said is now going on before our eyes," believes Sister Mariamna. Despite risking her own life, Sister Mariamna continues her service in the church according to the Seer testament. What helps her and other priests to carry on?</desc>
+</programme>
+<programme start="20240115190000 +0800" stop="20240115193000 +0800" channel="D12">
+<title lang="zh">Meeting with Nature - A Bear's Tale</title><desc lang="zh">Can a wild bear be a pet? After an ordinary working day at an airfield, Andrey and his colleagues noticed a very young bear running loose. Poachers had probably killed its mother and left the cub to fend for itself. The furry baby was crying just like a human child and definitely needed a family to survive. Andrey and his friends provided shelter and called him Mansur.</desc>
+</programme>
+<programme start="20240115193000 +0800" stop="20240115200000 +0800" channel="D12">
+<title lang="zh">Military and War - The Frontline Grind</title><desc lang="zh">The 'Crimea' Battalion fighters came from all works of life. What unites them is that they all left the the comfort of their homes to protect their land and those they love. In 2014, they had to take up arms and learn to fight against the Ukrainian nationalists. Lacking military experience, the soldiers learned and carved out their skills from fighting with the enemy. How have their lives changed over these 9 years?</desc>
+</programme>
+<programme start="20240115200000 +0800" stop="20240115203000 +0800" channel="D12">
+<title lang="zh">Sport - Freeze Divers </title><desc lang="zh">Freediving is a challenge in itself: diving into the deep, pitch-black abyss on a single breath, enduring water pressure and keeping a deeply calm state of mind to stay in control while diving. But some go even further and brave the cold by freediving under ice, which is even more difficult and a lot more dangerous. For Andrey Matveenko, a seasoned freediver and multiple Freediving World Championship medalist, freediving under the ice is unexplored territory. Matveenko takes the plunge and decides to go deeper than anyone ever has before to beat the current world record of 75 metres below the Arctic ice.</desc>
+</programme>
+<programme start="20240115203000 +0800" stop="20240115213000 +0800" channel="D12">
+<title lang="zh">Professions - War Correspondents</title><desc lang="zh">In the spring of 2022, Pavel Kukushkin volunteered to travel to Donbass as he sought unbiased assessments of the unfolding events. “Many reporters come, film a report, and leave as fast as they can. I have a different approach. I live with the soldiers, and I need to understand and experience the same feelings they have… when they’re here, so I can report on it more truthfully,” says Kukushkin. Now he helps to defend the people of Donbass with his own weapon – a camera and an opportunity to tell the world what’s really going on.</desc>
+</programme>
+<programme start="20240115213000 +0800" stop="20240115223000 +0800" channel="D12">
+<title lang="zh">Red Alert - Red Alert | NGO's Hostile Takeover</title><desc lang="zh">Anna Chapman aims to uncover the hidden agendas of Western NGOs, whose activities are supposed to be based on principles of kindness and justice rather than financial motives. Take Vanessa Billy, a journalist working in Syria, whose investigation reveals a less-than-noble objective: instead of aiding those in need, the organisation actively promotes pro-Western and anti-government ideas in Syria. Discover other inconspicuous activities of foreign non-profits around the world.</desc>
+</programme>
+<programme start="20240115223000 +0800" stop="20240115230000 +0800" channel="D12">
+<title lang="zh">Environment - Arctic Calling</title><desc lang="zh">‘Although our efforts may seem ridiculous and insignificant, the theory of small deeds has to work, we’ve got to fix our planet’, says Vladimir Privalov, ‘Clean Arctic’ volunteer. Vladimir joined the expedition and went to Franz Josef Land to remove car batteries and barrels contaminating the soil and water. Volunteers have to carry out extensive work as previously advanced Arctic research facilities eventually became abandoned and polluted.</desc>
+</programme>
+<programme start="20240115230000 +0800" stop="20240115233000 +0800" channel="D12">
+<title lang="zh">Society - Volunteers for Victory</title><desc lang="zh">Some Russian men have volunteered to join the fight against Ukrainian nationalists. The documentary tells the stories of four Russian men who felt they couldn’t just stand aside. Some have combat experience others have never served. Could a 60-year-old become a volunteer? Why are regular office workers willing to go to the front?</desc>
+</programme>
+<programme start="20240115233000 +0800" stop="20240116000000 +0800" channel="D12">
+<title lang="zh">Lifestyle - Tundra Wonder Mums </title><desc lang="zh">Pavla Nikolaevna is a ‘chumworker’, a housewife in the tundra.</desc>
+</programme>
+<programme start="20240116000000 +0800" stop="20240116010000 +0800" channel="D12">
+<title lang="zh">Society - 2052 See the Future</title><desc lang="zh">Eye-tracking, artificial intelligence, clinical neurotechnologies, virtual reality — all of these have already entered our daily life. Professors from the Higher School of Economics present brand-new inventions and technologies they have produced and explain how they can be effectively integrated in people's life.</desc>
+</programme>
+<programme start="20240116010000 +0800" stop="20240116020000 +0800" channel="D12">
+<title lang="zh">Notes from an american in donbass</title><desc lang="zh"></desc>
+</programme>
+<programme start="20240116020000 +0800" stop="20240116023000 +0800" channel="D12">
+<title lang="zh">Personalities - Ivan and the Wolf</title><desc lang="zh">When Ivan was offered a wolf cub, he immediately agreed, partly out of curiosity but also to save an animal that would otherwise have been put down. The wolf has lived with Ivan, his daughter and two dogs ever since, and soon became a part of the family, as well as regularly attracting media attention. As Ivan’s primaeval pet grows ever bigger, it demands more time, care and space. An RTD crew visits Ivan’s ‘pack’ to find out more about living with a wild predator. As we tag along, we ask if it’s possible to turn a wolf into a pet or whether the call of the wild is too strong.</desc>
+</programme>
+<programme start="20240116023000 +0800" stop="20240116030000 +0800" channel="D12">
+<title lang="zh">Traditions - Mexican Boom Town</title><desc lang="zh">Life in Tultepec revolves around pyrotechnics. Producing hand-made fireworks is a passion, an art form, and a source of livelihood for most residents of this Mexican town. But it’s also an extremely dangerous and unpredictable occupation, as those orphaned or widowed by fiery accidents will attest. Meet those willing to risk their lives for their explosive craft as RTD visits Tultepec’s annual pyrotechnics festival.</desc>
+</programme>
+<programme start="20240116030000 +0800" stop="20240116043000 +0800" channel="D12">
 <title lang="zh">Religion - Father Zosima: Testament of a Donetsk Seer</title><desc lang="zh">Elder Zosima foresaw the war in Ukraine and the resurgence of fascism. The monastery he founded is intentionally targeted by the Ukrainian army today. "Everything he said is now going on before our eyes," believes Sister Mariamna. Despite risking her own life, Sister Mariamna continues her service in the church according to the Seer testament. What helps her and other priests to carry on?</desc>
 </programme>
 <programme start="20240115000000 +0800" stop="20240115003000 +0800" channel="D13">

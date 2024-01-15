@@ -58,26 +58,32 @@
     </tr>
   </tbody>
 </table>
+
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
 - 稳定版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
-- 测试版： [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
+- 测试版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
 
 <u>注：🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
 ### 🎬IPTV播放器
-- 📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
-- 📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
-- 📍IOS：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
-- 📍MAC：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[IINA](https://github.com/iina/iina)
-- 📍Apple TV：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]
-- 📍Android：[Televizo](https://files.televizo.net/televizo-default.apk) 
+- 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)[`有广告，有内购`]，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
+- 💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器，支持多平台`]
+- 📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
+- 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
+- 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁]`
+- 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 ### 💡Logo来源：
-- [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
+- [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`在此特别感谢`]
 ### 🗜关于TVBOX和DIYP上的EPG接口
-- 推荐112114：https://epg.112114.xyz/?ch={name}&date={date} 
+
+- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` <!--推荐✨节目信息比较准确-->
+
+- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <!--推荐✨节目覆盖范围较广-->
+
+<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的EPG文件，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
