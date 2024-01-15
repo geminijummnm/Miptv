@@ -61,21 +61,23 @@
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ## 🛠️工具
-- 📆EPG文件地址[tvxml格式]：
-  - 稳定版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
-  - 内测版： [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
-  🎈内测版目前仅提供gz版，相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编辑、主要演员等信息🎈欢迎测试反馈
-- 🎬IPTV播放器
-  - 📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
-  - 📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
-  - 📍IOS：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
-  - 📍MAC：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[IINA](https://github.com/iina/iina)
-  - 📍Apple TV：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]
-  - 📍Android：[Televizo](https://files.televizo.net/televizo-default.apk) 
-- 📌Logo来源：
-  - [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
-- 📼关于TVBOX和DIYP上的EPG接口
-  - 推荐112114：https://epg.112114.xyz/?ch={name}&date={date} 
+### 📆EPG文件地址[tvxml格式]：
+- 稳定版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
+- 测试版： [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
+
+<u>注：🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
+
+### 🎬IPTV播放器
+- 📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
+- 📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
+- 📍IOS：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+- 📍MAC：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[IINA](https://github.com/iina/iina)
+- 📍Apple TV：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]
+- 📍Android：[Televizo](https://files.televizo.net/televizo-default.apk) 
+### 💡Logo来源：
+- [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
+### 🗜关于TVBOX和DIYP上的EPG接口
+- 推荐112114：https://epg.112114.xyz/?ch={name}&date={date} 
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
@@ -87,13 +89,13 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`IPTV`或`TVlogo`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📒频道列表
-### 📟央视高清/22个频道
+### 📀央视高清/22个频道
 - CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育2台、中国教育3台、中国教育4台
-### 📠卫视高清/28个频道
+### 💿卫视高清/28个频道
 - 北京卫视、东方卫视、湖南卫视、浙江卫视、江苏卫视、江西卫视、河北卫视、 河南卫视、海南卫视、深圳卫视、湖北卫视、四川卫视、天津卫视、安徽卫视、山东卫视、广东卫视、广西卫视、贵州卫视、辽宁卫视、重庆卫视 、黑龙江卫视、甘肃卫视、吉林卫视、三沙卫视、东南卫视、青海卫视、新疆卫视、云南卫视
-### 📱数字高清/28个频道
+### 🎥数字高清/28个频道
 - CHC高清电影、CHC家庭影院、CHC动作电影、求索纪录、求索科学、求索动物、求索生活、黑莓电影、黑莓动画、哒啵电竞、哒啵赛事、乐游、纪实人文、纯享4K、CCTV4K、CCTV8K、风云剧场、风云音乐、第一剧场、 女性时尚、风云足球、兵器科技、怀旧剧场、世界地理、文化精品、央视台球、高尔夫网球、电视指南
-### 📲港澳台国际/18个频道
+### 📽港澳台国际/18个频道
 - 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
 ### 📺地方特色/24个频道
 - 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
