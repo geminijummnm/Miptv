@@ -66,8 +66,8 @@
   - 内测版： [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
   🎈内测版目前仅提供gz版，相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编辑、主要演员等信息🎈欢迎测试反馈
 -  🎬IPTV播放器
-  -  📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
-  -  📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
+  - 📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
+  - 📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
   - 📍IOS：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
   - 📍MAC：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[IINA](https://github.com/iina/iina)
   - 📍Apple TV：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]
