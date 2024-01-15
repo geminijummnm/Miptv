@@ -62,11 +62,18 @@
 
 ## 🛠️工具
 - 📆EPG文件地址[tvxml格式]：
-  -  [稳定版：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
-  -  [内测版：https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
-🎈内测版目前仅提供gz版，相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编辑、主要演员等信息🎈欢迎测试反馈
+  - 稳定版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
+  - 内测版： [https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
+  🎈内测版目前仅提供gz版，相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编辑、主要演员等信息🎈欢迎测试反馈
+-  🎬IPTV播放器
+  -  📍Android TV：[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨]，[Televizo](https://files.televizo.net/televizo-default.apk)，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
+  -  📍Windows：[Potplayer](https://potplayer.daum.net/)，[VLC](https://www.videolan.org/)
+  - 📍IOS：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)
+  - 📍MAC：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]，[IINA](https://github.com/iina/iina)
+  - 📍Apple TV：[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐🎈]
+  - 📍Android：[Televizo](https://files.televizo.net/televizo-default.apk) 
 - 📌Logo来源：
-  -  [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
+  - [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)
 - 📼关于TVBOX和DIYP上的EPG接口
   - 推荐112114：https://epg.112114.xyz/?ch={name}&date={date} 
 
@@ -95,15 +102,16 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(1).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(2).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(3).jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87%20(4).jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img1.jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img2.jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img3.jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img4.jpg"></p>
+<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img5.jpg"></p>
 
 ## 🆕更新
-- - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
-- - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
-- - 2023.12.27 增加Ariang TV
-- - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
-- - 2023.12.13 增加明珠台、CCTV4K、纯享4K，剔除无效咪咕直播源
-- - 2023.11.26 增加TVBOX直播链接
+- 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
+- 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
+- 2023.12.27 增加Ariang TV
+- 2023.12.26 增加金鹰卡通、RT News、RT Documentary
+- 2023.12.13 增加明珠台、CCTV4K、纯享4K，剔除无效咪咕直播源
+- 2023.11.26 增加TVBOX直播链接
