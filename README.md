@@ -10,8 +10,6 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
-
-
 ---
 
 ## 🏄‍♀️源地址:
@@ -28,31 +26,31 @@
   <tbody>
     <tr>
       <td>🎠湖南联通组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎡湖南移动组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎢湖南电信组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
       <td>166个</td>
       <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
       <td>166个</td>
       <td>2024.01.13</td>
     </tr>
@@ -79,11 +77,11 @@
 - [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`在此特别感谢`]
 ### 🗜关于TVBOX和DIYP上的EPG接口
 
-- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` <!--推荐✨节目信息比较准确-->
+- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
 
-- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <!--推荐✨节目覆盖范围较广-->
+- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
 
-<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的EPG文件，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
+<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
