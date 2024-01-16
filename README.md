@@ -26,38 +26,43 @@
   <tbody>
     <tr>
       <td>🎠湖南联通组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">🌐订阅链接-湖南联通组播</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎡湖南移动组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">🌐订阅链接-湖南移动组播</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎢湖南电信组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">🌐订阅链接-湖南电信组播</a></td>
       <td>待完善</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
       <td>166个</td>
       <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt</a></td>
+      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
       <td>166个</td>
       <td>2024.01.13</td>
     </tr>
   </tbody>
 </table>
-
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
+
+<u>如果不会操作请直接复制下面的小白链接↙</u>
+
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`
+
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
