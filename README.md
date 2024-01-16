@@ -20,6 +20,7 @@
       <th>名称</th>
       <th>直播源地址</th>
       <th>频道数</th>
+      <th>状态</th>
       <th>更新时间</th>
     </tr>
   </thead>
@@ -28,30 +29,35 @@
       <td>🎠湖南联通组播源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">🌐订阅链接-湖南联通组播</a></td>
       <td>待完善</td>
+      <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎡湖南移动组播源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">🌐订阅链接-湖南移动组播</a></td>
       <td>待完善</td>
+      <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎢湖南电信组播源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">🌐订阅链接-湖南电信组播</a></td>
       <td>待完善</td>
+      <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
-      <td>166个</td>
+      <td>166</td>
+      <td>🌕日常更新</td>
       <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
       <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
-      <td>166个</td>
+      <td>166</td>
+      <td>🌕日常更新</td>
       <td>2024.01.13</td>
     </tr>
   </tbody>
