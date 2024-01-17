@@ -1,6 +1,6 @@
 <p align="center"><img alt="live.koralshelly.com" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png"></p>
 <h1 align="center"> ✯ Meroser的IPTV直播源仓库 ✯ </h1>
-<h3 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 完美EPG 强迫症福音 🔕</h3>
+<h4 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 完美EPG 强迫症福音 🔕</h3>
 
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
@@ -10,7 +10,6 @@
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Meroser/IPTV">
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
----
 
 ## 🏄‍♀️源地址:
 
@@ -67,13 +66,13 @@
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
 链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`
-
 链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml)
-- 测试版：[https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz)
+- 稳定版：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+
+- 测试版：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
 
 <u>注：🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -113,7 +112,7 @@
 ### 📽港澳台国际/18个频道
 - 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
 ### 📺地方特色/24个频道
-- 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风 云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
+- 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
 ### ⚽咪咕体育/46个频道
 - 咪咕体育4K、咪咕体育（包括NBA赛事、足球等）
 
