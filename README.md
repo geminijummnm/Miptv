@@ -1,4 +1,4 @@
-<p align="center"><img alt="live.koralshelly.com" src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png"></p>
+<p align="center"><img alt="live.koralshelly.com" src="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png"></p>
 <h1 align="center"> ✯ Meroser的IPTV直播源仓库 ✯ </h1>
 <h4 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 完美EPG 强迫症福音 🔕</h3>
 
@@ -26,54 +26,55 @@
   <tbody>
     <tr>
       <td>🎠湖南联通组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-LT.m3u">🌐订阅链接-湖南联通组播</a></td>
+      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-LT.m3u">🌐订阅链接-湖南联通组播</a></td>
       <td>待完善</td>
       <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎡湖南移动组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-YD.m3u">🌐订阅链接-湖南移动组播</a></td>
+      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-YD.m3u">🌐订阅链接-湖南移动组播</a></td>
       <td>待完善</td>
       <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>🎢湖南电信组播源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u">🌐订阅链接-湖南电信组播</a></td>
+      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-DX.m3u">🌐订阅链接-湖南电信组播</a></td>
       <td>待完善</td>
       <td>🌑不可用</td>
       <td>2023.11.20</td>
     </tr>
     <tr>
       <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
-      <td>166</td>
+      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
+      <td>164</td>
       <td>🌕日常更新</td>
       <td>2024.01.13</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
-      <td><a href="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
-      <td>166</td>
+      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
+      <td>164</td>
       <td>🌕日常更新</td>
       <td>2024.01.13</td>
     </tr>
   </tbody>
 </table>
+
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`
+链接[IPv6]：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV.m3u`
 
-链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`
+链接[TVbox]：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV-tvbox.txt`
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+- 稳定版：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/tvxml.xml`
 
-- 测试版：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+- 测试版：`https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/tvxml-test.xml.gz`
 
 <u>注：🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -84,8 +85,7 @@
 - 📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁`]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
 - 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁]`
 - 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
-### 💡Logo来源：
-- [https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`在此特别感谢`]
+
 ### 🗜关于TVBOX和DIYP上的EPG接口
 
 - erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
@@ -93,6 +93,17 @@
 - 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
 
 <u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
+
+### 💡致谢：
+- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
+- wcb1969：[wcb1969/iptv: tv (github.com)](https://github.com/wcb1969/iptv)[`特别感谢`]
+- fanmingming：[fanmingming/live(github.com)](https://github.com/fanmingming/live)[`特别感谢`]
+- Yuechan：[YueChan/Live: 收集于互联网的一些高清直播源。 (github.com)](https://github.com/YueChan/Live/tree/main)[`特别感谢`]
+- YanG-1989：[YanG-1989/m3u: 直播源 (github.com)](https://github.com/YanG-1989/m3u)[`特别感谢`]
+- [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
+- GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
+
+<u>说明：本仓库引用或参考以上内容，在此表示感谢！！！🎈</u>
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
@@ -104,8 +115,8 @@
 - 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`IPTV`或`TVlogo`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📒频道列表
-### 📀央视高清/22个频道
-- CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育2台、中国教育3台、中国教育4台
+### 📀央视高清/20个频道
+- CCTV1、CCTV2、CCTV3、CCTV4、CCTV5、CCTV5+、CCTV6、CCTV7、CCTV8、CCTV9、CCTV10、CCTV11、CCTV12、CCTV13、CCTV14、CCTV15、CCTV16、CCTV17、中国教育1台、中国教育4台
 ### 💿卫视高清/28个频道
 - 北京卫视、东方卫视、湖南卫视、浙江卫视、江苏卫视、江西卫视、河北卫视、 河南卫视、海南卫视、深圳卫视、湖北卫视、四川卫视、天津卫视、安徽卫视、山东卫视、广东卫视、广西卫视、贵州卫视、辽宁卫视、重庆卫视 、黑龙江卫视、甘肃卫视、吉林卫视、三沙卫视、东南卫视、青海卫视、新疆卫视、云南卫视
 ### 🎥数字高清/28个频道
@@ -119,16 +130,15 @@
 
 ## 🎦频道展示
 展示内容为在小米电视+TiviMate 2.8.0示意
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img1.jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img2.jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img3.jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img4.jpg"></p>
-<p align="center"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/img/img5.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img1.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img2.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img4.jpg"></p>
+<p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img5.jpg"></p>
 
 ## 🆕更新
+- 2023.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
 - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
 - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
 - 2023.12.27 增加Ariang TV
 - 2023.12.26 增加金鹰卡通、RT News、RT Documentary
-- 2023.12.13 增加明珠台、CCTV4K、纯享4K，剔除无效咪咕直播源
-- 2023.11.26 增加TVBOX直播链接
