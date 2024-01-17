@@ -72,11 +72,17 @@
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/tvxml.xml`
+- 稳定版：[官方地址🛫不推荐]~~https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml~~
 
-- 测试版：`https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/tvxml-test.xml.gz`
+  - CDN地址1[推荐✨]：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址3💣不推荐：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/tvxml.xml`
+- 测试版：[官方地址🛫不推荐] ~~https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.gz~~
+  - CDN地址1[推荐✨]：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - CDN地址3💣不推荐：`https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/tvxml-test.xml.gz`
 
-<u>注：🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
+<u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
 ### 🎬IPTV播放器
 - 📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)[`有广告，有内购`]，[Perfect IPTV Player](https://play.google.com/store/apps/details?id=com.leuco.iptv&hl=zh&gl=US)
@@ -103,7 +109,7 @@
 - [erc.cc](https://epg.erw.cc/)及[112114](https://epg.112114.xyz)提供的epg接口[`特别感谢`]
 - GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
 
-<u>说明：本仓库引用或参考以上内容，在此表示感谢！！！🎈</u>
+<u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
 
 ## 📖说明
 - 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
