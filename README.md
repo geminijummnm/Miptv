@@ -66,6 +66,7 @@
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
 链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`
+
 链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`
 
 ## 🛠️工具
