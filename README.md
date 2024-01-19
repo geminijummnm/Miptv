@@ -48,19 +48,20 @@
     <tr>
       <td>📺IPTV(IPV6专用)</td>
       <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
-      <td>164</td>
+      <td>162</td>
       <td>🌕日常更新</td>
-      <td>2024.01.13</td>
+      <td>2024.01.19</td>
     </tr>
     <tr>
       <td>🧢TVBOX专用源</td>
       <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
-      <td>164</td>
+      <td>162</td>
       <td>🌕日常更新</td>
-      <td>2024.01.13</td>
+      <td>2024.01.19</td>
     </tr>
   </tbody>
 </table>
+
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -131,7 +132,7 @@
 - 凤凰中文、凤凰资讯、凤凰香港、翡翠台 、明珠台、J2、NHK、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN纪录、CGTN法语、CGTN俄语、CGTN西语、CGTN阿语
 ### 📺地方特色/24个频道
 - 茶频道、快乐垂钓、金鹰纪实、纪实科教、卡酷少儿 、上海新闻、上海都市、东方影视、上海外语、五星体育、上海教育、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
-### ⚽咪咕体育/46个频道
+### ⚽咪咕体育/44个频道
 - 咪咕体育4K、咪咕体育（包括NBA赛事、足球等）
 
 ## 🎦频道展示
@@ -143,7 +144,8 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img5.jpg"></p>
 
 ## 🆕更新
-- 2023.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
+- 2024.01.19 移除失效咪咕源
+- 2024.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
 - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
 - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
 - 2023.12.27 增加Ariang TV
