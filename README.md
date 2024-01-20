@@ -1,8 +1,22 @@
-<p align="center"><img alt="live.koralshelly.com" src="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png"></p>
-<h1 align="center"> ✯ Meroser的IPTV直播源仓库 ✯ </h1>
-<h4 align="center">🔕 永久免费 直连访问 完整开源 不含广告 完善的台标 完美EPG 强迫症福音 🔕</h3>
+<img align="right" width="350" height="270" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Meroser.png">
 
-<p align="center">
+# Meroser's IPTV
+欢迎来到**Meroser**的**IPTV**直播源仓库🎉
+
+🎈**高清、流畅、几近完美**的直播观看体验🎈**强迫症福音**
+
+- 🔮本播放列表完美集成**高清台标**
+
+- 💯EPG深度**定制匹配**频道列表|**完美匹配**
+
+- 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
+
+## 📖说明
+所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
+
+本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
+
+<p>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Meroser/IPTV">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/Meroser/IPTV">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/Meroser/IPTV">
@@ -11,77 +25,33 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/Meroser/IPTV">
 </p>
 
-## 🏄‍♀️源地址:
+## 🏄‍♀️源地址
 
-<table>
-  <thead>
-    <tr>
-      <th>名称</th>
-      <th>直播源地址</th>
-      <th>频道数</th>
-      <th>状态</th>
-      <th>更新时间</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🎠湖南联通组播源</td>
-      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-LT.m3u">🌐订阅链接-湖南联通组播</a></td>
-      <td>待完善</td>
-      <td>🌑不可用</td>
-      <td>2023.11.20</td>
-    </tr>
-    <tr>
-      <td>🎡湖南移动组播源</td>
-      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-YD.m3u">🌐订阅链接-湖南移动组播</a></td>
-      <td>待完善</td>
-      <td>🌑不可用</td>
-      <td>2023.11.20</td>
-    </tr>
-    <tr>
-      <td>🎢湖南电信组播源</td>
-      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/m3u/IPTV-DX.m3u">🌐订阅链接-湖南电信组播</a></td>
-      <td>待完善</td>
-      <td>🌑不可用</td>
-      <td>2023.11.20</td>
-    </tr>
-    <tr>
-      <td>📺IPTV(IPV6专用)</td>
-      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV.m3u">🌐订阅链接-IPV6专用</a></td>
-      <td>162</td>
-      <td>🌕日常更新</td>
-      <td>2024.01.19</td>
-    </tr>
-    <tr>
-      <td>🧢TVBOX专用源</td>
-      <td><a href="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV-tvbox.txt">🌐订阅链接-TVBOX专用</a></td>
-      <td>162</td>
-      <td>🌕日常更新</td>
-      <td>2024.01.19</td>
-    </tr>
-  </tbody>
-</table>
 
+|     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
+| :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
+| 🎠湖南联通组播源 | [🌐订阅链接-湖南联通组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-LT.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
+| 🎡湖南移动组播源 | [🌐订阅链接-湖南移动组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-YD.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
+| 🎢湖南电信组播源 | [🌐订阅链接-湖南电信组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-DX.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u) |   162   | 🌕日常更新 | 2024.01.19 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt) |   162   | 🌕日常更新 | 2024.01.19 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV.m3u`
+链接[IPv6]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/IPTV-tvbox.txt`
+链接[TVbox]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️工具
 ### 📆EPG文件地址[tvxml格式]：
-- 稳定版：[官方地址🛫不推荐]~~https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml~~
-
-  - CDN地址1[推荐✨]：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`
+- 稳定版：`稳定、定时更新、信息准确`
+  - CDN地址1：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
   - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
-  - CDN地址3💣不推荐：`https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/tvxml.xml`
-- 测试版：[官方地址🛫不推荐] ~~https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.gz~~
-  - CDN地址1[推荐✨]：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`
+- 测试版：`内容详细、不定时手动更新、尝鲜`
+  - CDN地址1：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
-  - CDN地址3💣不推荐：`https://cdn.jsdelivr.net/gh/Meroser/EPG-test@main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈测试版目前仅提供gz版，每日不定时手动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
@@ -93,13 +63,13 @@
 - 💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`免费一条订阅，有内购解锁]`
 - 📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
-### 🗜关于TVBOX和DIYP上的EPG接口
+### 📝关于TVBOX和DIYP上的EPG接口
 
 - erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
 
 - 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
 
-<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
+<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的tvxml文件，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
 
 ### 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
@@ -111,15 +81,6 @@
 - GitHub及互联网(<u>EPG提供商</u>)其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
-
-## 📖说明
-- 本播放列表完美集成高清台标，EPG深度定制匹配频道列表，几乎每个频道都有完整的预告。
-- 所有播放源均收集于互联网，仅供测试研究使用，不得商用。
-- 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
-- 您可以Fork本项目，但引用本项目内容到其他仓库的情况，务必要遵守开源协议。
-- 本项目不保证直播频道的有效性，直播内容可能受直播服务提供商因素影响而失效。
-- 所有文件均托管在[GitHub](https://github.com/Meroser/IPTV)且自动构建，由项目发起人公益维护，欢迎Star本项目或点击[Issues](https://github.com/Meroser/IPTV/issues/new/choose)反馈您的问题。
-- 您可以编辑本项目的m3u文件或上传缺失的频道Logo到`IPTV`或`TVlogo`目录下并发起拉取请求，收到请求后我们会对您提交的内容进行验证，审核通过后会自动发布。
 
 ## 📒频道列表
 ### 📀央视高清/20个频道
@@ -148,5 +109,3 @@
 - 2024.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
 - 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
 - 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
-- 2023.12.27 增加Ariang TV
-- 2023.12.26 增加金鹰卡通、RT News、RT Documentary
