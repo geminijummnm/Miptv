@@ -69,24 +69,24 @@
 <img align="right" width="280" height="350" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/IPTV_Player.png">
 
 ## 🎬IPTV播放器
-📺*Android TV：*[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
+📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
-💻*Windows：*[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器`]
+💻**Windows：**[Potplayer](https://potplayer.daum.net/)[`Windows上最好用的本地视频播放器`]，[VLC](https://www.videolan.org/)[`开源神器`]
 
-📱*IOS：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
+📱**IOS：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[ntPlayer](https://apps.apple.com/cn/app/ntplayer/id1613758141)[`不限制订阅数量、良心，有内购去广告`]
 
-📡*MAC：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
+📡**MAC：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨]，[IINA](https://github.com/iina/iina)[`Mac上最好用的本地视频播放器`]
 
-💽*Apple TV：*[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
+💽**Apple TV：**[APTV](https://apps.apple.com/cn/app/aptv/id1630403500)[推荐✨`体验好，跨平台`]
 
-📲*Android：*[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
+📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`]
 
 ## 📒频道列表
 ### 📀央视高清/22个频道
 - CCTV-1 综合、CCTV-2 财经、CCTV-3 综艺、CCTV-4 中文国际、CCTV-5 体育、CCTV-5+ 体育赛事、CCTV-6 电影、CCTV-7 国防军事、CCTV-8 电视剧、CCTV-9 纪录、CCTV-10 科教、CCTV-11 戏曲、CCTV-12 社会与法、CCTV-13 新闻、CCTV-14 少儿、CCTV-15 音乐、CCTV-16 奥林匹克、CCTV-17 农业农村、CCTV-4K 超高清、CCTV-8K 超高清、CETV-1 综合教育、CETV-2 空中课堂[暂无]、CETV-3 教育服务[暂无]、CETV-4 职业教育
 ### 💿卫视高清/40个频道
-- **高清：**湖南卫视、浙江卫视、东方卫视、北京卫视、江苏 卫视、安徽卫视、重庆卫视、东南卫视、甘肃卫视、广东卫视、广西卫视、贵州卫视、海南卫视、河北卫视、黑龙江卫视、河南卫视、湖北卫视、江西卫视、吉林卫视、辽宁卫视、山东卫视、深圳卫视、四川卫视、天津卫视、云南卫视、新疆卫视、三沙卫视
-- **标清：**青海卫视、陕西卫视、山西卫视、西藏卫视、内蒙古卫视、宁夏卫视、兵团卫视、安多卫视、康巴卫视、大湾区卫视、农林卫视、延边卫视、厦门卫视、黄河卫视[暂无]、海峡卫视[暂无]
+- **高清：** 湖南卫视、浙江卫视、东方卫视、北京卫视、江苏 卫视、安徽卫视、重庆卫视、东南卫视、甘肃卫视、广东卫视、广西卫视、贵州卫视、海南卫视、河北卫视、黑龙江卫视、河南卫视、湖北卫视、江西卫视、吉林卫视、辽宁卫视、山东卫视、深圳卫视、四川卫视、天津卫视、云南卫视、新疆卫视、三沙卫视
+- **标清：** 青海卫视、陕西卫视、山西卫视、西藏卫视、内蒙古卫视、宁夏卫视、兵团卫视、安多卫视、康巴卫视、大湾区卫视、农林卫视、延边卫视、厦门卫视、黄河卫视[暂无]、海峡卫视[暂无]
 ### 🎥数字高清/40个频道
 - CHC高清电影、CHC家庭影院、CHC动作电影、求索纪录、求索科学、求索动物、求索生活、黑莓电影、黑莓动画、哒啵电竞、哒啵赛事、乐游、纪实人文、纯享4K、风云剧场、风云音乐、第一剧场、女性时尚、风云足球、兵器科技、怀旧剧场、世界地理、文化精品、央视台球、高尔夫网球、电视指南、都市剧场、生活时尚、金色学堂、法治天地、哈哈炫动、动漫秀场、游戏风云、七彩戏剧、欢笑剧场、第一财经、东方财经、梨园
 ### 📽港澳台国际/18个频道
