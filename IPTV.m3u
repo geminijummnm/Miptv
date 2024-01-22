@@ -36,9 +36,9 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
 #EXTINF:-1 tvg-id="A18" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
-#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="数字",CCTV-4K 超高清
+#EXTINF:-1 tvg-id="A19" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="数字",CCTV-8K 超高清
+#EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
@@ -131,9 +131,9 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3
 #EXTINF:-1 tvg-id="B40" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视",厦门卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B41" tvg-name="黄河卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Huanghe.png" group-title="卫视",黄河卫视
-# 暂无 
+
 #EXTINF:-1 tvg-id="B42" tvg-name="海峡卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Haixia.png" group-title="卫视",海峡卫视
-# 暂无 
+
 
 #数字高清/38个频道
 #EXTINF:-1 tvg-id="C01" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字",CHC高清电影
@@ -275,7 +275,7 @@ http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="E06" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan7.png" group-title="湖南",湖南电视剧
 http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="E12" tvg-name="湖南教育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan8.png" group-title="湖南",湖南教育
-#湖南教育 暂时缺
+
 
 #上海/6个频道
 #EXTINF:-1 tvg-id="F01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="地方",上海新闻综合
@@ -347,7 +347,7 @@ http://15536746789.x3322.net:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&
 #EXTINF:-1 tvg-id="J02" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_2.png" group-title="地方",山西影视
 http://15536746789.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="J03" tvg-name="山西社会法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_3.png" group-title="地方",山西社会法治
-# 暂无
+
 #EXTINF:-1 tvg-id="J04" tvg-name="山西公共" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi_4.png" group-title="地方",山西公共
 http://15536746789.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
