@@ -33,8 +33,8 @@
 | 🎠湖南联通组播源 | [🌐订阅链接-湖南联通组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-LT.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
 | 🎡湖南移动组播源 | [🌐订阅链接-湖南移动组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-YD.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
 | 🎢湖南电信组播源 | [🌐订阅链接-湖南电信组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-DX.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u) |   194   | 🌕日常更新 | 2024.01.22 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt) |   194   | 🌕日常更新 | 2024.01.22 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u) |   191   | 🌕日常更新 | 2024.01.26 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt) |   191   | 🌕日常更新 | 2024.01.26 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -52,7 +52,7 @@
 - **稳定版：** 稳定、定时更新、信息准确🎈
   - CDN地址1：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
   - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
-- **详情版：** 内容详细、不定时手动更新、尝鲜🎈
+- **详情版：** 内容详细、定时更新、尝鲜🎈
   - CDN地址1：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
   - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
 
@@ -107,7 +107,7 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img5.jpg"></p>
 
 ## 🆕更新
-- 2024.01.26 修复因上海移动而影响的频道，移除山西地方台[`原因：失效了暂未找到稳定源，等待更新`]
+- 2024.01.26 修复因上海移动而影响的频道，移除山西地方台[`原因：失效了暂未找到稳定源，等待更新`]/详情版EPG已正式投入使用
 - 2024.01.22 优选部分高码率源，新增湖南地方台，新增浙江、陕西、山西等区地方台
 - 2024.01.19 移除失效咪咕源
 - 2024.01.17 移除CETV-2、CETV-3[`原因：网友反馈节目质量一般且画质不佳`]
