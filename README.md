@@ -32,17 +32,17 @@
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
 | 🎠湖南联通组播源 | [🌐订阅链接-湖南联通组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-LT.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
 | 🎡湖南移动组播源 | [🌐订阅链接-湖南移动组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-YD.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 🎢湖南电信组播源 | [🌐订阅链接-湖南电信组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-DX.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u) |   214   | 🌕日常更新 | 2024.02.01 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt) |   214   | 🌕日常更新 | 2024.02.01 |
+| 🎢湖南电信组播源 | [🌐订阅链接-湖南电信组播](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   213   | 🌕日常更新 | 2024.02.04 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   213   | 🌕日常更新 | 2024.02.04 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 <u>如果不会操作请直接复制下面的小白链接↙</u>
 
-链接[IPv6]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
+链接[IPv6]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u`[推荐✨]
 
-链接[TVbox]：`https://raw.fgit.cf/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
+链接[TVbox]：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt`[需IPv6支持]
 
 ## 🛠️EPG
 
@@ -50,11 +50,11 @@
 
 ### 📆EPG文件地址[tvxml格式]：
 - **稳定版：** 稳定、定时更新、信息准确🎈
-  - CDN地址1：`https://raw.fgit.cf/Meroser/IPTV/main/tvxml.xml`[推荐✨]
-  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml`
 - **详情版：** 内容详细、定时更新、尝鲜🎈
-  - CDN地址1：`https://raw.fgit.cf/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
-  - CDN地址2：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
+  - CDN地址1：`https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`[推荐✨]
+  - CDN地址2：`https://gh.api.99988866.xyz/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz`
 
 <u>注：稳定版每天00:25左右自动更新，请根据自身网络情况选择以上可用地址访问。🎈详情版目前仅提供gz版，每日00:40左右自动更新。相对于稳定版预告内容更加详细，比如当前播放电视剧/电影的详情，包括：剧情简介、导演、编剧、主要演员等信息🎈欢迎测试反馈。。。</u>
 
