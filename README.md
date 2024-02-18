@@ -30,11 +30,8 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 🎠湖南联通组播源 | [🌐订阅链接-湖南联通组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-LT.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 🎡湖南移动组播源 | [🌐订阅链接-湖南移动组播](https://raw.fgit.cf/Meroser/IPTV/main/m3u/IPTV-YD.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 🎢湖南电信组播源 | [🌐订阅链接-湖南电信组播](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/m3u/IPTV-DX.m3u) | 待完善  |  🌑不可用  | 2023.11.20 |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   213   | 🌕日常更新 | 2024.02.04 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   213   | 🌕日常更新 | 2024.02.04 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   226   | 🌕日常更新 | 2024.02.18 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   226   | 🌕日常更新 | 2024.02.18 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -87,14 +84,12 @@
 ### 💿卫视高清/40个频道
 - **高清：** 湖南卫视、浙江卫视、东方卫视、北京卫视、江苏 卫视、安徽卫视、重庆卫视、东南卫视、甘肃卫视、广东卫视、广西卫视、贵州卫视、海南卫视、河北卫视、黑龙江卫视、河南卫视、湖北卫视、江西卫视、吉林卫视、辽宁卫视、山东卫视、深圳卫视、四川卫视、天津卫视、云南卫视、新疆卫视、三沙卫视
 - **标清：** 青海卫视、陕西卫视、山西卫视、西藏卫视、内蒙古卫视、宁夏卫视、兵团卫视、安多卫视、康巴卫视、大湾区卫视、农林卫视、延边卫视、厦门卫视
-### 🎥数字高清/39个频道
+### 🎥数字高清/38个频道
 - CHC高清电影、CHC家庭影院、CHC动作电影、求索纪录、求索科学、求索动物、求索生活、黑莓电影、黑莓动画、哒啵电竞、哒啵赛事、乐游、纪实人文、纯享4K、风云剧场、风云音乐、第一剧场、女性时尚、 风云足球、兵器科技、怀旧剧场、世界地理、文化精品、央视台球、高尔夫网球、电视指南、都市剧场、金色学堂、哈哈炫动、游戏风云、欢笑剧场、第一财经、武术世界、文物宝库、梨园、天元围棋、弈坛春秋、劲爆体育
-### 📽港澳台国际/18个频道
-- 凤凰中文、凤凰资讯、凤凰香港、翡翠台、明珠台、J2、NHK World、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN Documentary、CGTN Français、CGTN Русский、CGTN Español、CGTN العربية
-### 🖼湖南省内/11个频道
-- 茶频道、快乐垂钓、金鹰纪实、金鹰卡通、湖南经视、湖南都市、湖南爱晚、湖南国际、湖南娱乐、湖南电影、湖南电视剧
-### 📺地方特色/23个频道
-- 湖北综合、湖北影视、湖北教育、湖北生活、湖北公共、湖北经视、湖北垄上、浙江钱江都市、浙江经济生活、浙江科教影视、浙江民生休闲、浙江公共新闻、浙江少儿、浙江国际、纪实科教、卡酷少儿、陕西新闻资讯、陕西都市青春、陕西生活、陕西影视、陕西公共、陕西体育休闲、陕西西部电影
+### 📽国际时事/15个频道
+- 凤凰中文、凤凰资讯、凤凰香港、NHK World、CNA、AlJazeera、Arirang TV、RT News、RT Documentary、CGTN、CGTN Documentary、CGTN Français、CGTN Русский、CGTN Español、CGTN العربية
+### 📺地方特色/50个频道
+- 茶频道、快乐垂钓、金鹰纪实、金鹰卡通、先锋乒羽、湖南经视、湖南都市、湖南爱晚、湖南国际、湖南娱乐、湖南电影、湖南电视剧、长沙新闻、长沙政法、长沙女性、山西卫视、黄河电视台、山西经济与科技、山西影视、山西社会与法治、山西文体生活、湖北综合、湖北影视、湖北教育、湖北生活、湖北公共、湖北经视、湖北垄上、浙江钱江都市、浙江经济生活、浙江科教影视、浙江民生休闲、浙江公共新闻、浙江少儿、浙江国际、纪实科教、卡酷少儿、陕西新闻资讯、陕西都市青春、陕西生活、陕西影视、陕西公共、陕西体育休闲、陕西西部电影、黑龙江新闻法治、黑龙江文体、黑龙江影视、黑龙江都市、黑龙江公共农村、黑龙江少儿
 ### 🎲NewTV系列/15个频道
 - NewTV军事评论、NewTV军旅剧场、NewTV家庭剧场、NewTV中国功夫、NewTV东北热剧、NewTV惊悚悬疑、NewTV明星大片、NewTV欢乐剧场、NewTV潮妈辣婆、NewTV炫舞未来、NewTV精品体育、NewTV精品大剧、NewTV超级电影、NewTV超级综艺、NewTV超级电视剧
 ### ⚽咪咕体育/44个频道
@@ -109,12 +104,11 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img5.jpg"></p>
 
 ## 🆕更新
+- 2024.02.18 新增山西、黑龙江地方台
 - 2024.02.01 移除失效上海台
 - 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
 - 2024.01.22 优选部分高码率源，新增湖南地方台，新增浙江、陕西等区地方台
-- 2024.01.13 修复凤凰三个频道，更新CGTN纪录为咸阳移动源，新增梨园频道
-- 2024.01.08 通过遍历/咸阳移动IPTV的id找到了CGTN俄语高清频道id为2883 至此集齐全套CGTN高清🎉🎉🎉
 
 <img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
 
@@ -128,3 +122,12 @@
 - GitHub及互联网其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
+
+## 🙋‍♂️赞赏及交流群：
+<p>
+<img width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun.jpg">
+<img width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
+</p>
+
+
+
