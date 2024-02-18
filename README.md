@@ -11,6 +11,8 @@
 
 - 🈶几乎每个频道都有**完整**的预告[`咪咕除外`]
 
+🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流[点击链接加入群聊【IPTV交流群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QQgdR579HkcQpf1WIfgMhmhw__lceNHa&authKey=WgpyOGfxU7VGD%2B1KNe6djs511scQwUx1%2BrXj7KYhQAtcaEN5DwkkKs0TQc7uIllQ&noverify=0&group_code=629554537)
+
 ## 📖说明
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
 
