@@ -125,8 +125,8 @@
 
 ## 🙋‍♂️赞赏及交流群：
 <p>
-<img width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun.jpg">
-<img width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
+<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/QQqun.jpg">
+<img width="200" height="200" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/Appreciation.jpg">
 </p>
 
 
