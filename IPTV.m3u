@@ -344,17 +344,17 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3
 
 #黑龙江/6个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="地方特色",黑龙江新闻法治
-https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-#EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://cdn.jsdelivr.net/gh/wanLJglindl/TVlogo@main/img/Heilongjiang2.png" group-title="地方特色",黑龙江文体
-https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
+#EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang2.png" group-title="地方特色",黑龙江文体
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
 #EXTINF:-1 tvg-id="HLJ03" tvg-name="黑龙江影视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang3.png" group-title="地方特色",黑龙江影视
-https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
 #EXTINF:-1 tvg-id="HLJ04" tvg-name="黑龙江都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang4.png" group-title="地方特色",黑龙江都市
-https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="HLJ05" tvg-name="黑龙江公共农村" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang5.png" group-title="地方特色",黑龙江公共农村
-https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
-https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
 
 #NewTV/15个频道
 #EXTINF:-1 tvg-id="N01" tvg-name="NewTV军事评论" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV01.png" group-title="NewTV",NewTV军事评论
