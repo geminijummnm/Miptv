@@ -32,8 +32,8 @@
 
 |     📦 名称      |                         🔗直播源地址                          | 🔢频道数 |   🅿状态   | 🆕更新时间  |
 | :-------------: | :----------------------------------------------------------: | :-----: | :-------: | :--------: |
-| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   226   | 🌕日常更新 | 2024.02.18 |
-|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   226   | 🌕日常更新 | 2024.02.18 |
+| 📺IPTV(IPV6专用) | [🌐订阅链接-IPV6专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u) |   247   | 🌕日常更新 | 2024.02.27 |
+|  🧢TVBOX专用源   | [🌐订阅链接-TVBOX专用](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV-tvbox.txt) |   247   | 🌕日常更新 | 2024.02.27 |
 
 <u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
@@ -87,11 +87,11 @@
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/img3.jpg"></p>
 
 ## 🆕更新
+- 2024.02.27 新增重温经典🎈🎈/新增上海、河南地方台/RT频道
 - 2024.02.18 新增山西、黑龙江地方台
 - 2024.02.01 移除失效上海台
 - 2024.01.30 新增NewTV系列15个频道、新增湖北地方台、新增武术世界、天元围棋等特色台
 - 2024.01.26 修复因上海移动而影响的频道，详情版EPG已正式投入使用
-- 2024.01.22 优选部分高码率源，新增湖南地方台，新增浙江、陕西等区地方台
 
 <img align="right" width="300" height="300" src="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/img/doraemon.jpg">
 
