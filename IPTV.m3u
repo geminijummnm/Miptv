@@ -497,6 +497,42 @@ https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" group-title="蘇·频道",「江苏」镇江新闻综合「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无锡都市资讯" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",无锡都市资讯
+http://stream.thmz.com/wxtv3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无锡教育" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",无锡教育
+https://tv.wxjy.com.cn:9001/tvwebstream/tv_channel_1359/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无锡经济" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",无锡经济
+http://stream.thmz.com/wxtv5/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无锡生活" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",无锡生活
+http://stream.thmz.com/wxtv4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",无锡娱乐
+http://stream.thmz.com/wxtv2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="常熟新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",常熟新闻综合
+http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="常熟民生经济" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",常熟民生经济
+http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="句容影视频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",句容影视频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高邮综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",高邮综合
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="张家港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",张家港新闻综合
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="张家港民生" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",张家港民生
+http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="连云港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",连云港新闻综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="连云港公共频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",连云港公共频道
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州一套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州一套
+http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州二套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州二套
+http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州三套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州三套
+http://stream3.huaihai.tv/xz3t/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="徐州四套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州四套
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
 #咪咕体育/44个频道
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
