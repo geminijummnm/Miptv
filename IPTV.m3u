@@ -533,6 +533,127 @@ http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州四套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州四套
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#山东·频道/32个频道
+#EXTINF:-1 tvg-id="" tvg-name="山东新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-新闻频道.png" group-title="山东",山东新闻频道
+http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东教育频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-山东教育卫视.png" group-title="山东",山东教育频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东农科频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-农科频道.png" group-title="山东",山东农科频道
+http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东齐鲁频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-齐鲁频道.png" group-title="山东",山东齐鲁频道
+http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东少儿频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-少儿频道.png" group-title="山东",山东少儿频道
+http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东生活频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-生活频道.png" group-title="山东",山东生活频道
+http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东体育频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-体育频道.png" group-title="山东",山东体育频道
+http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东文旅频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-文旅频道.png" group-title="山东",山东文旅频道
+http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="山东综艺频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-综艺频道.png" group-title="山东",山东综艺频道
+http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东营新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",东营新闻综合
+https://stream.hhek.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东营公共" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",东营公共
+https://stream.hhek.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东营科教" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",东营科教
+https://stream.hhek.cn/dyjy/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽一套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",菏泽一套
+http://live.hznet.tv:1935/live/live1/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽二套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",菏泽二套
+http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="菏泽三套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",菏泽三套
+http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="临沂综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",临沂综合
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="临沂公共" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",临沂公共
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="临沂经济" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",临沂经济
+https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青岛新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",青岛新闻综合
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青岛教育" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",青岛教育
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="青岛生活" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",青岛生活
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泰安新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",泰安新闻综合
+http://zzbb.1545ts.com:8068/live/tatv0111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泰安经济生活" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",泰安经济生活
+http://zzbb.1545ts.com:8068/live/tatv222.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",潍坊新闻综合
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊经济生活" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",潍坊经济生活
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊科教文旅" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",潍坊科教文旅
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="潍坊影视综艺" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",潍坊影视综艺
+https://wfrtv-live-tz.wfcmw.cn:5443/live/wftv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="枣庄新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",枣庄新闻综合
+http://stream.zztvzd.com/1/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="枣庄公共频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",枣庄公共频道
+http://stream.zztvzd.com/3/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="枣庄经济生活" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",枣庄经济生活
+http://stream.zztvzd.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="昌邑频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/" group-title="山东",昌邑频道
+https://wfrtv-live-tz.wfcmw.cn/live/12-xsq-wfchangyi.m3u8
+#香港/20个频道
+#EXTINF:-1 tvg-id="" tvg-name="Bread TV" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",Bread TV
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BSTV-耀才财经台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",BSTV-耀才财经台
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies-天映频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",Celestial Movies-天映频道
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HKCATV有线新闻台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/Cabletv-新闻台.png" group-title="香港",HKCATV有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HKCATV有线新闻直播台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/Cabletv-新闻直播.png" group-title="香港",HKCATV有线新闻直播台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HKCATV有线财经资讯台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/Cabletv-财经资讯.png" group-title="香港",HKCATV有线财经资讯台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/KixTV.png" group-title="香港",KIX
+http://210.210.155.37/dr9445/h/h07/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pet Club TV" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/PetClubTV.png" group-title="香港",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/RTHK31.png" group-title="香港",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/RTHK32.png" group-title="香港",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK33" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/RTHK33.png" group-title="香港",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK34" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/RTHK34.png" group-title="香港",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTHK35" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/RTHK35.png" group-title="香港",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB翡翠台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/TVB-翡翠台.png" group-title="香港",TVB翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/TVB-星河.png" group-title="香港",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB亚洲武侠频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/TVB-亚洲武侠.png" group-title="香港",TVB亚洲武侠频道
+https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB娱乐新闻台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVB直播台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",TVB直播台
+https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tvN Movies" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV-环球电视台" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/" group-title="香港",UTV-环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#澳门/44个频道
+#EXTINF:-1 tvg-id="" tvg-name="澳门Macau" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳门Macau
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门莲花" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳门莲花
+http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门体育" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳门体育
+http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门资讯" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳门资讯
+http://61.244.22.5/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳门综艺" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳门综艺
+http://61.244.22.5/ch6/hd_ch6.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/" group-title="澳门",澳视澳门
+http://61.244.22.5/ch1/ch1.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视葡文" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/TDM-Macau.png" group-title="澳门",澳视葡文
+http://61.244.22.5/ch2/ch2.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳亚卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/mo/MASTV-澳亚卫视.png" group-title="澳门",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #咪咕体育/44个频道
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="移动咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
