@@ -383,7 +383,7 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#江苏省/60个频道
+#江苏省/62个频道
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京娱乐.png" group-title="蘇·频道",南京娱乐
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京新闻综合.png" group-title="蘇·频道",南京新闻综合
@@ -533,6 +533,10 @@ http://stream3.huaihai.tv/xz2t/sd/live.m3u8
 http://stream3.huaihai.tv/xz3t/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="徐州四套" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",徐州四套
 http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宜兴新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",宜兴新闻频道
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="宜兴紫砂频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",宜兴紫砂频道
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 #山东·频道/32个频道
 #EXTINF:-1 tvg-id="" tvg-name="山东新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/sd/Shandong-新闻频道.png" group-title="山东",山东新闻频道
 http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
