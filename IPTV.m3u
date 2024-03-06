@@ -130,6 +130,8 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="B40" tvg-name="厦门卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Xiamen.png" group-title="卫视高清",厦门卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="B41" tvg-name="香港卫视" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/hk/HKS-香港卫视.png" group-title="卫视高清",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 #数字高清/40个频道
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC高清电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CHC1.png" group-title="数字高清",CHC高清电影
