@@ -400,7 +400,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/ind
 #EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" group-title="地方特色",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 
-#海外/8个频道
+#香港/8个频道
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐"  group-title="地方特色",中天娱乐
