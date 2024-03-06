@@ -358,7 +358,7 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方特色",BTV体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#陕西/7个频道
+#陕西/25个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="I02" tvg-name="陕西都市青春" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi2.png" group-title="地方特色",陕西都市青春
@@ -373,8 +373,46 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="I07" tvg-name="陕西西部电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi7.png" group-title="地方特色",陕西西部电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="I08" tvg-name="陕西宝鸡1" group-title="地方特色",陕西宝鸡1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226383/index.m3u8
+#EXTINF:-1 tvg-id="I09" tvg-name="陕西宝鸡2" group-title="地方特色",陕西宝鸡2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226384/index.m3u8
+#EXTINF:-1 tvg-id="I09" tvg-name="陕西安康综合" group-title="地方特色",陕西安康综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226385/index.m3u8
+#EXTINF:-1 tvg-id="I10" tvg-name="陕西西乡融媒" group-title="地方特色",陕西西乡融媒
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+#EXTINF:-1 tvg-id="I11" tvg-name="陕西商洛1" group-title="地方特色",陕西商洛1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226378/index.m3u8
+#EXTINF:-1 tvg-id="I12" tvg-name="陕西城园" group-title="地方特色",陕西城园
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
+#EXTINF:-1 tvg-id="I13" tvg-name="陕西扶风" group-title="地方特色",陕西扶风
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
+#EXTINF:-1 tvg-id="I14" tvg-name="陕西汉中1" group-title="地方特色",陕西汉中1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
+#EXTINF:-1 tvg-id="I15" tvg-name="陕西汉中2" group-title="地方特色",陕西汉中2
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
+#EXTINF:-1 tvg-id="I16" tvg-name="陕西汉中3" group-title="地方特色",陕西汉中3IPV6
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
+#EXTINF:-1 tvg-id="I17" tvg-name="陕西千阳" group-title="地方特色",陕西千阳
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
+#EXTINF:-1 tvg-id="I18" tvg-name="陕西神木1" group-title="地方特色",陕西神木1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226993/index.m3u8
+#EXTINF:-1 tvg-id="I19" tvg-name="陕西石泉电视台" group-title="地方特色",陕西石泉电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/index.m3u8
+#EXTINF:-1 tvg-id="I20" tvg-name="陕西岐山" group-title="地方特色」",陕西岐山
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226982/index.m3u8
+#EXTINF:-1 tvg-id="I21" tvg-name="陕西吴起电视台" group-title="地方特色",陕西吴起电视台
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226967/index.m3u8
+#EXTINF:-1 tvg-id="I22" tvg-name="陕西洋县电视台1" group-title="地方特色",陕西洋县电视台1
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226938/index.m3u8
+#EXTINF:-1 tvg-id="I23" tvg-name="陕西紫阳综合" group-title="地方特色",陕西紫阳综合
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
+#EXTINF:-1 tvg-id="I24" tvg-name="陕西FGTV 1" group-title="地方特色",陕西FGTV 1
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
+#EXTINF:-1 tvg-id="I25" tvg-name="陕西佛坪电视台"group-title="地方特色",陕西佛坪电视台
+http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
 
-#黑龙江/13个频道
+#黑龙江/12个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="地方特色",黑龙江新闻法治
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225967/index.m3u8
 #EXTINF:-1 tvg-id="HLJ02" tvg-name="黑龙江文体" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang2.png" group-title="地方特色",黑龙江文体
@@ -387,19 +425,19 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-name="HRB蓝网" group-title="地方特色",「黑龙江」HRB新闻综合
+#EXTINF:-1 tvg-id="HLJ07" tvg-name="HRB蓝网" group-title="地方特色",「黑龙江」HRB新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" group-title="地方特色",「黑龙江」齐齐哈尔新闻综合「IPV6」
+#EXTINF:-1 tvg-id="HLJ08" tvg-name="齐齐哈尔新闻综合" group-title="地方特色",黑龙江齐齐哈尔新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 tvg-name="齐齐哈尔经济法治" group-title="地方特色",「黑龙江」齐齐哈尔经济法治「IPV6」
+#EXTINF:-1 tvg-id="HLJ08" tvg-name="黑龙江齐齐哈尔经济法治" group-title="地方特色",黑龙江齐齐哈尔经济法治「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
-#EXTINF:-1 tvg-name="佳木斯新闻综合" group-title="地方特色",「黑龙江」佳木斯新闻综合「IPV6」
+#EXTINF:-1 tvg-id="HLJ09" tvg-name="佳木斯新闻综合" group-title="地方特色",黑龙江佳木斯新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
-#EXTINF:-1 tvg-name="大庆新闻综合" group-title="地方特色",「黑龙江」大庆新闻综合「IPV6」
+#EXTINF:-1 tvg-id="HLJ10" tvg-name="大庆新闻综合" group-title="地方特色",黑龙江大庆新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226484/index.m3u8
-#EXTINF:-1 tvg-name="双鸭山综合" group-title="地方特色",「黑龙江」双鸭山综合「IPV6」
+#EXTINF:-1 tvg-id="HLJ11" tvg-name="双鸭山综合" group-title="地方特色",黑龙江双鸭山综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-#EXTINF:-1 tvg-name="鹤岗新闻综合" group-title="地方特色",「黑龙江」鹤岗新闻综合「IPV6」
+#EXTINF:-1 tvg-id="HLJ12 "tvg-name="鹤岗新闻综合" group-title="地方特色",黑龙江鹤岗新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 #海南/5个频道
