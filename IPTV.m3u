@@ -399,15 +399,24 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" group-title="地方特色",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#香港/4个频道
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" group-title="地方特色",翡翠台
-http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" group-title="地方特色",无线新闻
-http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" group-title="地方特色",无线财经
-http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-#EXTINF:-1 tvg-id="香港开电视" tvg-name="香港开电视" group-title="地方特色",香港开电视
-https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+
+#海外/70个频道
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻"  group-title="地方特色",中天新闻
+http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐"  group-title="地方特色",中天娱乐
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1"  group-title="地方特色",爱尔达体育1
+http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2"  group-title="地方特色",爱尔达体育2
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+#EXTINF:-1 tvg-id="NHK-G" tvg-name="NHK-G"  group-title="地方特色",NHK-G
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="BBC-1" tvg-name="BBC-1"  group-title="地方特色",BBC-1
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+#EXTINF:-1 tvg-id="BBC-2" tvg-name="BBC-2"  group-title="地方特色",BBC-2
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN"  group-title="地方特色",CNN
+http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 
 #江苏省/70个频道
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京娱乐.png" group-title="蘇·频道",南京娱乐
