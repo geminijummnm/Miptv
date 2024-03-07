@@ -393,7 +393,7 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-id="I15" tvg-name="陕西汉中2" group-title="地方特色",陕西汉中2
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225990/index.m3u8
-#EXTINF:-1 tvg-id="I16" tvg-name="陕西汉中3" group-title="地方特色",陕西汉中3IPV6
+#EXTINF:-1 tvg-id="I16" tvg-name="陕西汉中3" group-title="地方特色",陕西汉中3
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225991/index.m3u8
 #EXTINF:-1 tvg-id="I17" tvg-name="陕西千阳" group-title="地方特色",陕西千阳
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226945/index.m3u8
@@ -427,11 +427,11 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-id="HLJ06" tvg-name="黑龙江少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang6.png" group-title="地方特色",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 tvg-id="HLJ07" tvg-name="HRB蓝网" group-title="地方特色",黑龙江HRB新闻综合
+#EXTINF:-1 tvg-id="HLJ07" tvg-name="黑龙江哈尔滨新闻综合" group-title="地方特色",黑龙江哈尔滨新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 #EXTINF:-1 tvg-id="HLJ08" tvg-name="齐齐哈尔新闻综合" group-title="地方特色",黑龙江齐齐哈尔新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-#EXTINF:-1 tvg-id="HLJ08" tvg-name="黑龙江齐齐哈尔经济法治" group-title="地方特色",黑龙江齐齐哈尔经济法治「IPV6」
+#EXTINF:-1 tvg-id="HLJ08" tvg-name="黑龙江齐齐哈尔经济法治" group-title="地方特色",黑龙江齐齐哈尔经济法治
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
 #EXTINF:-1 tvg-id="HLJ09" tvg-name="佳木斯新闻综合" group-title="地方特色",黑龙江佳木斯新闻综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
