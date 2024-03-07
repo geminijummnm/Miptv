@@ -464,31 +464,6 @@ https://yang-1989.eu.org/gz/ys
 https://yang-1989.eu.org/gz/fz
 #EXTINF:-1 tvg-id="HN05" tvg-name="广州南国都市" group-title="地方特色",广州南国都市
 https://yang-1989.eu.org/gz/ngds
-#台湾/12个频道
-#EXTINF:-1 tvg-id="HN01" tvg-name="朝鲜中央台" group-title="地方特色",朝鲜中央台
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 tvg-id="HN02" tvg-name="俄罗斯中文" group-title="地方特色",俄罗斯中文
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="HN03" tvg-name="BBC America" group-title="地方特色",BBC America
-https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-#EXTINF:-1 tvg-id="HN04" tvg-name="KBS 1" group-title="地方特色",KBS 1
-https://tv.iill.top/kbs/11&p=0
-#EXTINF:-1 tvg-id="HN05" tvg-name="KBS 2" group-title="地方特色",KBS 2
-https://tv.iill.top/kbs/12&p=0
-#EXTINF:-1 tvg-id="HN06" tvg-name="SBS" group-title="地方特色",SBS
-http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-#EXTINF:-1 tvg-id="HN07" tvg-name="TBS Seoul" group-title="地方特色",TBS Seoul
-https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HN08" tvg-name="NHK BS1" group-title="地方特色",NHK BS1
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="HN09" tvg-name="NHK教育" group-title="地方特色",NHK教育
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="HN10" tvg-name="NHK総合" group-title="地方特色",NHK総合
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="HN11" tvg-name="BSアニマックス" group-title="•地方特色",BSアニマックス
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 tvg-id="HN12" tvg-name="BSテレ東" group-title="地方特色",BSテレ東
-https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #江苏省/70个频道
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京娱乐.png" group-title="蘇·频道",南京娱乐
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
