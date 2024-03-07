@@ -355,9 +355,8 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="BJ10" tvg-name="北京新闻" group-title="地方特色",北京新闻
-http://live.funhillrm.com/5/sd/live.m3u8?zbeidp://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+#EXTINF:-1 tvg-id="BJ09" tvg-name="北京新闻" group-title="地方特色",北京新闻
+http://live.funhillrm.com/5/sd/live.m3u8?zbeid
 
 #陕西/25个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
@@ -452,7 +451,50 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" group-title="地方特色",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-
+#广东/6个频道
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州综合" group-title="地方特色",广州综合
+https://yang-1989.eu.org/gz/zh
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州新闻" group-title="地方特色",广州新闻
+https://yang-1989.eu.org/gz/xw
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州竞赛" group-title="地方特色",广州竞赛
+https://yang-1989.eu.org/gz/jj
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州影视" group-title="地方特色",广州影视
+https://yang-1989.eu.org/gz/ys
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州法治" group-title="地方特色",广州法治
+https://yang-1989.eu.org/gz/fz
+#EXTINF:-1 tvg-id="HN05" tvg-name="广州南国都市" group-title="地方特色",广州南国都市
+https://yang-1989.eu.org/gz/ngds
+#台湾/12个频道
+#EXTINF:-1  tvg-id="TW01" tvg-name="广州南国都市" group-title="地方特色",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1  tvg-id="TW02" tvg-name="寰宇新闻" group-title="地方特色",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1  tvg-id="TW03" tvg-name="东森财经新闻" group-title="地方特色",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1  tvg-id="TW04" tvg-name="中视新闻" group-title="地方特色",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1  tvg-id="TW05" tvg-name="K-POP" group-title="地方特色",K-POP
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1  tvg-id="TW06" tvg-name="民视新闻" group-title="地方特色",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1  tvg-id="TW07" tvg-name="台视新闻" group-title="地方特色",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1  tvg-id="TW08" tvg-name="三立NEWS+" group-title="地方特色",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1  tvg-id="TW09" tvg-logo="https://epg.112114.xyz/logo/BBCEARTH.png" group-title="地方特色",BBC Earth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308
+#EXTINF:-1  tvg-id="TW10" tvg-logo="https://epg.112114.xyz/logo/BBCWORLDNEWS.png" group-title="地方特色",BBC World News
+http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+#EXTINF:-1  tvg-id="TW11" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="地方特色",ELEVEN 體育1台
+http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+#EXTINF:-1  tvg-id="TW12" tvg-logo="https://epg.112114.xyz/logo/EYETV旅遊.png" group-title="地方特色",EYETV旅遊
+http://50.7.238.114:8278/eyetvtravel_twn/playlist.m3u8?tid=MFDF5066608450666084&ct=19254&tsum=0bb4cbfc0d32bff89ab5b3a5352fcf94
+#EXTINF:-1  tvg-id="TW13" tvg-logo="https://epg.112114.xyz/logo/EYETV戲劇.png" group-title="地方特色",EYETV戲劇
+http://50.7.238.114:8278/eyetvxiju_twn/playlist.m3u8?tid=ME3E6686724066867240&ct=19254&tsum=728fc49fcd53cd770381ffd87883b1d1
+#EXTINF:-1  tvg-id="TW14" group-title="地方特色",愛爾達體育1台
+http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+#EXTINF:-1  tvg-id="TW15" tvg-logo="https://epg.112114.xyz/logo/愛爾達體育2.png" group-title="地方特色",愛爾達體育2
+http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
 #江苏省/70个频道
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京娱乐.png" group-title="蘇·频道",南京娱乐
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
