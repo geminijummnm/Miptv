@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#央视高清/38个频道
+#央视高清/39个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
@@ -72,10 +72,13 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="A36" tvg-name="GB News" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="A37" tvg-name="NASA TV Media" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="英语",NASA TV Media
+#EXTINF:-1 tvg-id="A37" tvg-name="NASA TV Media" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="A38" tvg-name="NASA TV Public" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="英语",NASA TV Public
+#EXTINF:-1 tvg-id="A38" tvg-name="NASA TV Public" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="A39" tvg-name="4K UHD" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/shuzi/" group-title="央视高清",4K UHD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+
 
 #卫视高清/40个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
