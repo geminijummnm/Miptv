@@ -458,7 +458,6 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-id="ZJ49" tvg-name="诸暨新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",诸暨新闻综合
 
-
 #上海/6个频道
 #EXTINF:-1 tvg-id="SH01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="地方特色",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
@@ -600,44 +599,6 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="FJ03" tvg-name="福州生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州生活
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-
-#安徽省/18个频道
-#EXTINF:-1 tvg-id="AN01" tvg-name="安徽公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽公共
-https://live.ahsx.ahtv.cn/live/ggtv.m3u8
-#EXTINF:-1 tvg-id="AN02" tvg-name="安徽国际" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽国际
-https://live.ahsx.ahtv.cn/live/gjtv.m3u8
-#EXTINF:-1 tvg-id="AN03" tvg-name="安徽经济生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽经济生活
-https://live.ahsx.ahtv.cn/live/jjshtv.m3u8
-#EXTINF:-1 tvg-id="AN04" tvg-name="安徽农业科教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽农业科教
-https://live.ahsx.ahtv.cn/live/nykjtv.m3u8
-#EXTINF:-1 tvg-id="AN05" tvg-name="安徽影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽影视
-https://live.ahsx.ahtv.cn/live/ystv.m3u8
-#EXTINF:-1 tvg-id="AN06" tvg-name="安徽综艺体育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",安徽综艺体育
-https://live.ahsx.ahtv.cn/live/zytytv.m3u8
-#EXTINF:-1 tvg-id="AN07" tvg-name="池州文教生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",池州文教生活
-http://cm.wshls.homecdn.com/live/4abdf.m3u8
-#EXTINF:-1 tvg-id="AN08" tvg-name="滁州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",滁州新闻综合
-http://live.cztv.cc:85/live/xwpd.m3u8
-#EXTINF:-1 tvg-id="AN09" tvg-name="滁州公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",滁州公共
-http://live.cztv.cc:85/live/ggpd.m3u8
-#EXTINF:-1 tvg-id="AN10" tvg-name="滁州科教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",滁州科教
-http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1 tvg-id="AN11" tvg-name="淮南新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",淮南新闻综合
-http://stream.0554news.com/hnds1/sd/live.m3u8
-#EXTINF:-1 tvg-id="AN12" tvg-name="淮南民生" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",淮南民生
-http://stream.0554news.com/hnds2/sd/live.m3u8
-#EXTINF:-1 tvg-id="AN13" tvg-name="宿州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 tvg-id="AN14" tvg-name="宿州经济生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",宿州经济生活
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
-#EXTINF:-1 tvg-id="AN15" tvg-name="宿州科教频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",宿州科教频道
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 tvg-id="AN16" tvg-name="固镇综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",固镇综合
-http://www.guzhenm.com:7001/hls/hd-live.m3u8
-#EXTINF:-1 tvg-id="AN17" tvg-name="固镇影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",固镇影视
-http://www.guzhenm.com:7004/hls/hd-live.m3u8
-#EXTINF:-1 tvg-id="AN18" tvg-name="灵璧新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/ah/" group-title="地方特色",灵璧新闻综合
-http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 
 #贵州省/5个频道
 #EXTINF:-1 tvg-id="GZ01" tvg-name="贵州公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州公共频道.png" group-title="地方特色",贵州公共频道
