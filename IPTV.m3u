@@ -669,6 +669,8 @@ http://58.208.109.32:8888/udp/239.49.9.38:6000
 http://58.208.109.32:8888/udp/239.49.9.40:6000
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" group-title="蘇·频道",江苏教育
 http://58.208.109.32:8888//udp/239.49.9.42:6000
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="蘇·频道",优漫卡通
+http://58.208.109.32:8888/udp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京少儿.png" group-title="蘇·频道",南京少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京教科.png" group-title="蘇·频道",南京教科
