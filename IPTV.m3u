@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#央视高清/38个频道
+#央视高清/41个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视高清",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
@@ -54,29 +54,34 @@ http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="A27" tvg-name="FOX Live Now" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",FOX Live Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="A28" tvg-name="Fox Weather" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",Fox Weather
-https://247wlive.foxweather.com/stream/index_1280x720.m3u8
-#EXTINF:-1 tvg-id="A29" tvg-name="KBS World" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",KBS World
+#EXTINF:-1 tvg-id="A28" tvg-name="KBS World" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="A30" tvg-name="KSBW" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",KSBW
+#EXTINF:-1 tvg-id="A29" tvg-name="KSBW" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",KSBW
 https://lnc-ksbw.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="A31" tvg-name="NBC News NOW" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NBC News NOW
+#EXTINF:-1 tvg-id="A30" tvg-name="NBC News NOW" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NBC News NOW
 https://lnc-nbc-news-now.tubi.video/master.m3u8
-#EXTINF:-1 tvg-id="A32" tvg-name="GB News" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",GB News
+#EXTINF:-1 tvg-id="A31" tvg-name="GB News" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="A33" tvg-name="Russia Today" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",Russia Today
+#EXTINF:-1 tvg-id="A32" tvg-name="Russia Today" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="A34" tvg-name="GB News" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",GB News
+#EXTINF:-1 tvg-id="A33" tvg-name="GB News" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="A35" tvg-name="NASA TV Media" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Media
+#EXTINF:-1 tvg-id="A34" tvg-name="NASA TV Media" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="A36" tvg-name="NASA TV Public" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Public
+#EXTINF:-1 tvg-id="A35" tvg-name="NASA TV Public" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="A37" tvg-name="日本全天新聞" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",日本全天新聞
+#EXTINF:-1 tvg-id="A36" tvg-name="日本全天新聞" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="A38" tvg-name="朝鲜新闻" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",朝鲜新闻
+#EXTINF:-1 tvg-id="A37" tvg-name="朝鲜新闻" tvg-logo="https://suxiaoming.codeberg.page/logo/tv/english/" group-title="央视高清",朝鲜新闻
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-
+#EXTINF:-1 tvg-id="A38" tvg-name="EBC-东森财经新闻" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/EBC-东森财经新闻.png" group-title="央视高清",EBC-东森财经新闻
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 tvg-id="A39" tvg-name="EBC-东森洋片" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/EBC-东森洋片.png" group-title="央视高清",EBC-东森洋片
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-id="A40" tvg-name="TVBS新闻台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/" group-title="央视高清",TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 tvg-id="A41" tvg-name="民视新闻台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/tw/" group-title="央视高清",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 
 
 #卫视高清/40个频道
