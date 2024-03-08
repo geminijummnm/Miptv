@@ -662,7 +662,7 @@ http://58.208.109.32:8888/rtp://239.49.8.107:8000
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏影视.png" group-title="蘇·频道",江苏综艺
 http://58.208.109.32:8888/rtp://239.49.8.108:8000
 #EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏体育·休闲.png" group-title="蘇·频道",江苏体育·休闲
-http://182.148.75.163:5555//rtp://239.49.8.117:8000
+http://58.208.109.32:8888/rtp://239.49.8.117:8000
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" group-title="蘇·频道",江苏影视
 http://58.208.109.32:8888/rtp://239.49.8.118:8000
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="蘇·频道",江苏新闻
