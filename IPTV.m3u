@@ -600,19 +600,6 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-id="FJ03" tvg-name="福州生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州生活
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
-#贵州省/5个频道
-#EXTINF:-1 tvg-id="GZ01" tvg-name="贵州公共频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州公共频道.png" group-title="地方特色",贵州公共频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou01.m3u8
-#EXTINF:-1 tvg-id="GZ02 tvg-name="贵州影视文艺频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州影视频道.png" group-title="地方特色",贵州影视·文艺频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou02.m3u8
-#EXTINF:-1 tvg-id="GZ03" tvg-name="贵州大众生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州生活频道.png" group-title="地方特色",贵州大众·生活频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou03.m3u8
-#EXTINF:-1 tvg-id="GZ04" tvg-name="贵州生态·乡村频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州乡村频道.png" group-title="地方特色",贵州生态·乡村频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou04.m3u8
-#EXTINF:-1 tvg-id="GZ05" tvg-name="贵州科教健康频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州科教健康频道.png" group-title="地方特色",贵州科教·健康频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou05.m3u8
-#EXTINF:-1 tvg-id="GZ06" tvg-name="贵州经济频道" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/贵州经济频道.png" group-title="地方特色",贵州经济频道
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV-DF/main/m3u8/guizhou/guizhou06.m3u8
 #宁夏省/5个频道
 #EXTINF:-1 tvg-id="NX01" tvg-name="宁夏公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/Ningxia-公共频道.png" group-title="地方特色",宁夏公共
 https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
