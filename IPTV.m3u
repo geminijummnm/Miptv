@@ -659,8 +659,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ot
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏城市.png" group-title="蘇·频道",江苏城市
 http://121.226.107.171:55555/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏影视.png" group-title="蘇·频道",江苏影视
-http://180.107.78.184:4100/rtp/239.49.9.38:6000
+#EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏影视.png" group-title="蘇·频道",江苏综艺
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw105610815_-1378935043/ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8?icpid=3&RTS=1669269209&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/江苏体育·休闲.png" group-title="蘇·频道",江苏体育·休闲
 http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw4122585160_1534269250/ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京少儿.png" group-title="蘇·频道",南京少儿
