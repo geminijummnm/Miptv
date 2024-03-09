@@ -150,15 +150,15 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="Qiusuo4" tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo4.png" group-title="数字高清",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="huashu1" tvg-name="华数-电子竞技" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-电子竞技
+#EXTINF:-1 tvg-id="huashu1" tvg-name="华数-电子竞技" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-电子竞技
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="huashu2" tvg-name="华数-高清娱乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-高清娱乐
+#EXTINF:-1 tvg-id="huashu2" tvg-name="华数-高清娱乐" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-高清娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="huashu3" tvg-name="华数-精彩影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-精彩影视.png" group-title="数字高清",华数-精彩影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8
-#EXTINF:-1 tvg-id="huashu4" tvg-name="华数-精彩综艺" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-精彩综艺
+#EXTINF:-1 tvg-id="huashu4" tvg-name="华数-精彩综艺" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
-#EXTINF:-1 tvg-id="huashu5" tvg-name="华数-漫游世界" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-漫游世界
+#EXTINF:-1 tvg-id="huashu5" tvg-name="华数-漫游世界" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-漫游世界
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="hmdy" tvg-name="黑莓电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/hmdy.png" group-title="数字高清",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
@@ -348,51 +348,51 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="ZJ08" tvg-name="之江纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj/Zhejiang-之江纪录.png" group-title="地方特色",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="ZJ09" tvg-name="嘉兴新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴新闻综合
+#EXTINF:-1 tvg-id="ZJ09" tvg-name="嘉兴新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴新闻综合
 http://play-a2.quklive.com/live/1675942165226154.m3u8
-#EXTINF:-1 tvg-id="ZJ10" tvg-name="嘉兴公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴公共
+#EXTINF:-1 tvg-id="ZJ10" tvg-name="嘉兴公共" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴公共
 http://play-a2.quklive.com/live/1675149601192103.m3u8
-#EXTINF:-1 tvg-id="ZJ11" tvg-name="嘉兴文化影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴文化影视
+#EXTINF:-1 tvg-id="ZJ11" tvg-name="嘉兴文化影视" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴文化影视
 http://play-a2.quklive.com/live/1675149625220101.m3u8
-#EXTINF:-1 tvg-id="ZJ12" tvg-name="绍兴新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴新闻综合
+#EXTINF:-1 tvg-id="ZJ12" tvg-name="绍兴新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴新闻综合
 http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-#EXTINF:-1 tvg-id="ZJ13" tvg-name="绍兴公共频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴公共频道
+#EXTINF:-1 tvg-id="ZJ13" tvg-name="绍兴公共频道" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴公共频道
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 tvg-id="ZJ14" tvg-name="绍兴文化影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴文化影视
+#EXTINF:-1 tvg-id="ZJ14" tvg-name="绍兴文化影视" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",绍兴文化影视
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="ZJ15" tvg-name="东阳影视生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",东阳影视生活
+#EXTINF:-1 tvg-id="ZJ15" tvg-name="东阳影视生活" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",东阳影视生活
 http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ16" tvg-name="海宁新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",海宁新闻综合
+#EXTINF:-1 tvg-id="ZJ16" tvg-name="海宁新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",海宁新闻综合
 http://live.hndachao.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-id="ZJ17" tvg-name="开化综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",开化综合
+#EXTINF:-1 tvg-id="ZJ17" tvg-name="开化综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",开化综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ18" tvg-name="开化国家公园" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",开化国家公园
+#EXTINF:-1 tvg-id="ZJ18" tvg-name="开化国家公园" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",开化国家公园
 http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ19" tvg-name="缙云新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",缙云新闻综合
+#EXTINF:-1 tvg-id="ZJ19" tvg-name="缙云新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",缙云新闻综合
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ20" tvg-name="兰溪新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",兰溪新闻综合
+#EXTINF:-1 tvg-id="ZJ20" tvg-name="兰溪新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ21" tvg-name="龙泉新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙泉新闻综合
+#EXTINF:-1 tvg-id="ZJ21" tvg-name="龙泉新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙泉新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ22" tvg-name="龙游新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游新闻综合
+#EXTINF:-1 tvg-id="ZJ22" tvg-name="龙游新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ23" tvg-name="龙游电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游电视台
+#EXTINF:-1 tvg-id="ZJ23" tvg-name="龙游电视台" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游电视台
 http://l.cztvcloud.com/channels/lantian/SXlongyou3/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ24" tvg-name="龙游生活娱乐" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游生活娱乐
+#EXTINF:-1 tvg-id="ZJ24" tvg-name="龙游生活娱乐" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",龙游生活娱乐
 http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ25" tvg-name="平湖新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",平湖新闻综合
+#EXTINF:-1 tvg-id="ZJ25" tvg-name="平湖新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",平湖新闻综合
 http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ26" tvg-name="普陀电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",普陀电视台
+#EXTINF:-1 tvg-id="ZJ26" tvg-name="普陀电视台" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",普陀电视台
 http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ27" tvg-name="青田电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",青田电视台
+#EXTINF:-1 tvg-id="ZJ27" tvg-name="青田电视台" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",青田电视台
 http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ28" tvg-name="庆元电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",庆元电视台
+#EXTINF:-1 tvg-id="ZJ28" tvg-name="庆元电视台" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",庆元电视台
 http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ29" tvg-name="衢江综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",衢江综合
+#EXTINF:-1 tvg-id="ZJ29" tvg-name="衢江综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",衢江综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ30" tvg-name="上虞新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",上虞新闻综合
+#EXTINF:-1 tvg-id="ZJ30" tvg-name="上虞新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 tvg-id="ZJ31" tvg-name="上虞文化影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",上虞文化影视
+#EXTINF:-1 tvg-id="ZJ31" tvg-name="上虞文化影视" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",上虞文化影视
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 tvg-id="ZJ32" tvg-name="上虞新商都" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
@@ -533,21 +533,21 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 #海南/5个频道
-#EXTINF:-1 tvg-id="HN01" tvg-name="海南自贸" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/海南自贸.png" group-title="地方特色",海南自贸
+#EXTINF:-1 tvg-id="HN01" tvg-name="海南自贸" tvg-logo="https://cdn.jsdelivr.net/github.com/vircloud/TVLogo/blob/main/海南自贸.png" group-title="地方特色",海南自贸
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 #EXTINF:-1 tvg-id="HN02" tvg-name="海南新闻" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/海南新闻.png" group-title="地方特色",海南新闻
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
-#EXTINF:-1 tvg-id="HN03" tvg-name="海南文旅" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/海南文旅.png"group-title="地方特色",海南文旅
+#EXTINF:-1 tvg-id="HN03" tvg-name="海南文旅" tvg-logo="https://cdn.jsdelivr.net/github.com/vircloud/TVLogo/blob/main/海南文旅.png"group-title="地方特色",海南文旅
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 tvg-id="HN04" tvg-name="海南少儿" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/海南少儿.png"group-title="地方特色",海南少儿
+#EXTINF:-1 tvg-id="HN04" tvg-name="海南少儿" tvg-logo="https://cdn.jsdelivr.net/github.com/vircloud/TVLogo/blob/main/海南少儿.png"group-title="地方特色",海南少儿
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/海南公共.png"group-title="地方特色",海南公共
+#EXTINF:-1 tvg-id="HN05" tvg-name="海南公共" tvg-logo="https://cdn.jsdelivr.net/github.com/vircloud/TVLogo/blob/main/海南公共.png"group-title="地方特色",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 tvg-id="HN06" tvg-name="海口一套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口一套
+#EXTINF:-1 tvg-id="HN06" tvg-name="海口一套" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口一套
 http://124.225.35.97:16080/live/tv2401.m3u8
-#EXTINF:-1 tvg-id="HN07" tvg-name="海口二套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口二套
+#EXTINF:-1 tvg-id="HN07" tvg-name="海口二套" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口二套
 http://124.225.35.97:16080/live/tv2402.m3u8
-#EXTINF:-1 tvg-id="HN08" tvg-name="海口三套" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口三套
+#EXTINF:-1 tvg-id="HN08" tvg-name="海口三套" tvg-logo="https://cdn.jsdelivr.net//huangsuming.codeberg.page/logo/tv/local/hi/" group-title="地方特色",海口三套
 http://124.225.35.97:16080/live/tv2403.m3u8
 
 #广东/6个频道
