@@ -581,11 +581,11 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#香港/13个频道
+#香港/20个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-#EXTINF:-1 tvg-id="xg02" tvg-name="中天娱乐"  group-title="地方特色",中天娱乐
-http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1 tvg-id="xg02" tvg-name="中天综合"  group-title="地方特色",中天综合
+http://50.7.238.114:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 #EXTINF:-1 tvg-id="xg03" tvg-name="TVBS"  group-title="地方特色",TVBS
 http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 #EXTINF:-1 tvg-id="xg04" tvg-name="TVBS新闻"  group-title="地方特色",TVBS新闻
@@ -603,11 +603,26 @@ http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzb
 #EXTINF:-1 tvg-id="xg10" tvg-name="LIVE三立"  group-title="地方特色",LIVE三立
 http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
 #EXTINF:-1 tvg-id="xg11" tvg-name="NHK-G"  group-title="地方特色",NHK-G
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="xg12" tvg-name="NHK-华语"  group-title="地方特色",NHK-华语
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="xg13" tvg-name="NHK-BSP"  group-title="地方特色",NHK-BSP
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="xg14" tvg-name="BBC-1"  group-title="地方特色",BBC-1
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 tvg-id="xg15" tvg-name="BBC-2"  group-title="地方特色",BBC-2
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="xg16" tvg-name="CNBC-HD"  group-title="地方特色",CNBC-HD
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176804
+#EXTINF:-1 tvg-id="xg17" tvg-name="CNBC-TV18"  group-title="地方特色",CNBC-TV18
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="xg18" tvg-name="テレビ朝日"  group-title="地方特色",テレビ朝日
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="xg19" tvg-name="NHK体育"  group-title="地方特色",NHK体育
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 tvg-id="xg20" tvg-name="纬来体育"  group-title="地方特色",纬来体育
+http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
