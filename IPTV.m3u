@@ -581,7 +581,7 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#香港/4个频道
+#香港/6个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="翡翠台"  group-title="地方特色",翡翠台
 http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
 #EXTINF:-1 tvg-id="xg02" tvg-name="无线新闻"  group-title="地方特色",无线新闻
