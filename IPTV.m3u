@@ -348,6 +348,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="ZJ08" tvg-name="之江纪录" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj/Zhejiang-之江纪录.png" group-title="地方特色",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="ZJ08" tvg-name="杭州综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/zj/Zhejiang-杭州综合.png" group-title="地方特色",杭州综合
+http://115.203.58.116:9999/rtp/233.50.201.173:5140
 #EXTINF:-1 tvg-id="ZJ09" tvg-name="嘉兴新闻综合" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴新闻综合
 http://play-a2.quklive.com/live/1675942165226154.m3u8
 #EXTINF:-1 tvg-id="ZJ10" tvg-name="嘉兴公共" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/local/zj"  group-title="地方特色",嘉兴公共
