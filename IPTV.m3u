@@ -446,19 +446,11 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="地方特色",东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 
-#北京/6个频道
+#北京/2个频道
 #EXTINF:-1 tvg-id="BJ05" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="地方特色",纪实科教
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 tvg-id="BJ08" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-#EXTINF:-1 tvg-id="BJ09" tvg-name="北京文艺"  group-title="地方特色",北京文艺
-http://115.171.239.63:4022/udp/225.1.8.22:8002
-#EXTINF:-1 tvg-id="BJ10" tvg-name="北京影视"  group-title="地方特色",北京影视
-http://111.207.22.10:8888/newlive/live/hls/57/live.m3u8
-#EXTINF:-1 tvg-id="BJ11" tvg-name="北京科教"  group-title="地方特色",北京科教
-https://epg.pw/stream/d9607dea2f8e18d2582700bb5a7943c130bfc731c57ae9615971865692191e70.ctv
-#EXTINF:-1 tvg-id="BJ12" tvg-name="北京生活"  group-title="地方特色",北京生活
-http://115.171.239.63:4022/udp/225.1.8.108:800
 
 #陕西/25个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
@@ -774,7 +766,7 @@ http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="高邮综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",高邮综合
 http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="张家港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",张家港新闻综合
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="" tvg-name="张家港民生" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",张家港民生
 http://3gvod.zjgonline.com.cn:1935/live/shehuishenghuo2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="连云港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",连云港新闻综合
