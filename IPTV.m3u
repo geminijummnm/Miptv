@@ -785,7 +785,5 @@ http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",靖江新闻综合
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="江阴新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",江阴新闻综合
-http://221.228.70.101:8080/live/xinwen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",姜堰新闻综合
 https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
