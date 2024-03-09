@@ -650,7 +650,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw3568749588_-1882152959/o
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3614839407_-1644050596/ott.mobaibox.com/PLTV/4/224/3221227719/index.m3u8
 #EXTINF:-1 tvg-id="南通公共" tvg-name="南通公共" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南通3.png" group-title="蘇·频道",南通公共
 http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw1440049912_-2025370179/ott.mobaibox.com/PLTV/4/224/3221228451/index.m3u8
-#EXTINF:-1 tvg-id="盐城1" tvg-name="盐城1" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/盐城1.png" group-title="蘇·频道",盐城1
+#EXTINF:-1 tvg-id="盐城1" tvg-name="盐城1" tvg-logo="https://github.com/vircloud/TVLogo/blob/main/%E7%9B%90%E5%9F%8E%E4%B8%80%E5%A5%97.png" group-title="蘇·频道",盐城1
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-id="盐城2" tvg-name="盐城2" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/盐城2.png" group-title="蘇·频道",盐城2
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw1131928239_2039612798/ott.mobaibox.com/PLTV/4/224/3221228433/index.m3u8
