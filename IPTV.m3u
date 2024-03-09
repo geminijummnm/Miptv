@@ -568,7 +568,7 @@ https://yang-1989.eu.org/gz/ngds
 #EXTINF:-1 tvg-id="FJ01" tvg-name="福州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="FJ02" tvg-name="福州少儿" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州少儿
-http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="FJ03" tvg-name="福州生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州生活
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
@@ -784,6 +784,6 @@ http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宜兴紫砂频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",宜兴紫砂频道
 http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",靖江新闻综合
-rtmp://visit.jjbctv.com:1935/live/xwzhpc
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",姜堰新闻综合
 https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
