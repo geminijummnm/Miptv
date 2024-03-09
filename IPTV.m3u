@@ -581,7 +581,7 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#香港/17个频道
+#香港/18个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="xg02" tvg-name="TVBS"  group-title="地方特色",TVBS
@@ -614,7 +614,9 @@ http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzm
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="xg16" tvg-name="无线新闻"  group-title="地方特色",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="xg17" tvg-name="香港32台"  group-title="地方特色",香港32台
+#EXTINF:-1 tvg-id="xg17" tvg-name="无线财经"  group-title="地方特色",无线财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="xg18" tvg-name="香港32台"  group-title="地方特色",香港32台
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 
 #ihot/18个频道
