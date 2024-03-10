@@ -582,7 +582,7 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 
-#香港/29个频道
+#香港/35个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="xg02" tvg-name="TVBS"  group-title="地方特色",TVBS
@@ -639,8 +639,21 @@ http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfh
 http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
 #EXTINF:-1 tvg-id="xg28" tvg-name="澳门莲花"  group-title="地方特色",澳门莲花
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-#EXTINF:-1 tvg-id="xg29" tvg-name="viu TV6"  group-title="地方特色",viu TV6
+#EXTINF:-1 tvg-id="xg29" tvg-name="viu TV"  group-title="地方特色",viu TV
+http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+#EXTINF:-1 tvg-id="xg30" tvg-name="viu TV6"  group-title="地方特色",viu TV6
 http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+#EXTINF:-1 tvg-id="xg31" tvg-name="RHK-31"  group-title="地方特色",RHK-31
+http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+#EXTINF:-1 tvg-id="xg32" tvg-name="RHK-32"  group-title="地方特色",RHK-32
+http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+#EXTINF:-1 tvg-id="xg33" tvg-name="HBO-HD"  group-title="地方特色",HBO-HD
+http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+#EXTINF:-1 tvg-id="xg34" tvg-name="HBO-家庭"  group-title="地方特色",HBO-家庭
+http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+#EXTINF:-1 tvg-id="xg35" tvg-name="HBO-强档"  group-title="地方特色",HBO-强档
+http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
