@@ -582,7 +582,7 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 
-#香港/34个频道
+#香港/35个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="xg02" tvg-name="TVBS"  group-title="地方特色",TVBS
@@ -651,6 +651,8 @@ http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzf
 http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
 #EXTINF:-1 tvg-id="xg34" tvg-name="HBO-强档"  group-title="地方特色",HBO-强档
 http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+#EXTINF:-1 tvg-id="xg35" tvg-name="NHK"  group-title="地方特色",NHK
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
