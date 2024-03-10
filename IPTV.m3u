@@ -581,7 +581,8 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/nx/" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-#香港/18个频道
+
+#香港/23个频道
 #EXTINF:-1 tvg-id="xg01" tvg-name="中天新闻"  group-title="地方特色",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="xg02" tvg-name="TVBS"  group-title="地方特色",TVBS
@@ -612,12 +613,23 @@ http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzs
 http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd.flv
 #EXTINF:-1 tvg-id="xg15" tvg-name="探索频道"  group-title="地方特色",探索频道
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-#EXTINF:-1 tvg-id="xg16" tvg-name="无线新闻"  group-title="地方特色",无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="xg17" tvg-name="无线财经"  group-title="地方特色",无线财经
-http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="xg18" tvg-name="AXN"  group-title="地方特色",AXN
+#EXTINF:-1 tvg-id="xg16" tvg-name="翡翠台"  group-title="地方特色",翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+#EXTINF:-1 tvg-id="xg17" tvg-name="无线新闻"  group-title="地方特色",无线新闻
+http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+#EXTINF:-1 tvg-id="xg18" tvg-name="无线财经1"  group-title="地方特色",无线财经1
+http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+#EXTINF:-1 tvg-id="xg19" tvg-name="无线财经2"  group-title="地方特色",无线财经2
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+#EXTINF:-1 tvg-id="xg20" tvg-name="明珠台"  group-title="地方特色",明珠台
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+#EXTINF:-1 tvg-id="xg21" tvg-name="HOY资讯"  group-title="地方特色",HOY资讯
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+#EXTINF:-1 tvg-id="xg22" tvg-name="AXN"  group-title="地方特色",AXN
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+#EXTINF:-1 tvg-id="xg23" tvg-name="东森新闻"  group-title="地方特色",东森新闻
+http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+
 
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
