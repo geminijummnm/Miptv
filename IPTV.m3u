@@ -841,7 +841,7 @@ http://stream.thmz.com/wxtv5/sd/live.m3u8
 http://stream.thmz.com/wxtv4/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="无锡娱乐" tvg-logo="tvg-logo="https://upload.112114.xyz/logo/WUXIjiaoyu.png" group-title="蘇·频道",无锡娱乐
 http://stream.thmz.com/wxtv2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="常熟新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",常熟新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="常熟新闻综合" tvg-logo="https://upload.112114.xyz/logo/CSTV1.png" group-title="蘇·频道",常熟新闻综合
 http://cstvplay.21cs.cn/cstv1/cstv1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="常熟民生经济" tvg-logo="https://iptv-hsm.netlify.app/logo/tv/local/js/" group-title="蘇·频道",常熟民生经济
 http://cstvplay.21cs.cn/cstv2/cstv2.m3u8
