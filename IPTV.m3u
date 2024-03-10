@@ -621,7 +621,7 @@ http://live.cooltv.top/tv/tvb.php?id=0&hq
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="xg19" tvg-logo="https://upload.112114.xyz/logo/TVB2.png" tvg-name="明珠台"  group-title="地方特色",明珠台
 http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-#EXTINF:-1 tvg-id="xg20" tvg-name="HOY资讯"  group-title="地方特色",HOY资讯
+#EXTINF:-1 tvg-id="xg20" tvg-logo="https://upload.112114.xyz/logo/HOY%E8%B5%84%E8%AE%AF.png" tvg-name="HOY资讯"  group-title="地方特色",HOY资讯
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 #EXTINF:-1 tvg-id="xg21" tvg-logo="https://epg.112114.xyz/logo/J2.png" tvg-name="J2"  group-title="地方特色",J2
 http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
@@ -629,13 +629,13 @@ http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvx
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
 #EXTINF:-1 tvg-id="xg23" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" tvg-name="东森新闻"  group-title="地方特色",东森新闻
 http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-#EXTINF:-1 tvg-id="xg24" tvg-name="东森戏剧"  group-title="地方特色",东森戏剧
+#EXTINF:-1 tvg-id="xg24" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7.png" tvg-name="东森戏剧"  group-title="地方特色",东森戏剧
 http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
 #EXTINF:-1 tvg-id="xg25" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" tvg-name="东森洋片"  group-title="地方特色",东森洋片
 http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
 #EXTINF:-1 tvg-id="xg26" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" tvg-name="东森电影"  group-title="地方特色",东森电影
 http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-#EXTINF:-1 tvg-id="xg27" tvg-name="澳门莲花"  group-title="地方特色",澳门莲花
+#EXTINF:-1 tvg-id="xg27" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" tvg-name="澳门莲花"  group-title="地方特色",澳门莲花
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 #EXTINF:-1 tvg-id="xg28" tvg-logo="https://upload.112114.xyz/logo/viutv.png" tvg-name="viu TV"  group-title="地方特色",viu TV
 http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
