@@ -582,94 +582,6 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://upload.112114.xyz/logo/%E5%AE%81%E5%A4%8F%E6%96%87%E6%97%85.png" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 
-#香港/43个频道
-#EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" tvg-name="中天新闻"  group-title="地方特色",中天新闻
-http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
-#EXTINF:-1 tvg-id="xg02" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" tvg-name="TVBS"  group-title="地方特色",TVBS
-http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-#EXTINF:-1 tvg-id="xg03" tvg-logo="https://upload.112114.xyz/logo/TVBSNEW.png"  tvg-name="TVBS新闻"  group-title="地方特色",TVBS新闻
-http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-#EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="民视新闻"  group-title="地方特色",民视新闻
-http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
-#EXTINF:-1 tvg-id="xg05" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="中视新闻"  group-title="地方特色",中视新闻
-http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
-#EXTINF:-1 tvg-id="xg06" tvg-logo="https://upload.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" tvg-name="寰宇新闻"  group-title="地方特色",寰宇新闻
-http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
-#EXTINF:-1 tvg-id="xg07" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" tvg-name="非凡新闻"  group-title="地方特色",非凡新闻
-http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
-#EXTINF:-1 tvg-id="xg08" tvg-logo="https://upload.112114.xyz/logo/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="台视新闻"  group-title="地方特色",台视新闻
-http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
-#EXTINF:-1 tvg-id="xg09" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" tvg-name="LIVE三立"  group-title="地方特色",LIVE三立
-http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
-#EXTINF:-1 tvg-id="xg10" tvg-logo="https://upload.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" tvg-name="天映频道"  group-title="地方特色",天映频道
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
-#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi1.png" tvg-name="華雲綜合"  group-title="地方特色",華雲綜合
-http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
-#EXTINF:-1 tvg-id="xg12" tvg-logo="https://upload.112114.xyz/logo/%E5%A3%B9%E6%96%B0%E9%97%BB.png" tvg-name="壹新聞"  group-title="地方特色",壹新聞
-http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
-#EXTINF:-1 tvg-id="xg13" tvg-logo="https://upload.112114.xyz/logo/TVBSHD.png" tvg-name="TVBS頻道"  group-title="地方特色",TVBS頻道
-http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
-#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA2.png" tvg-name="355台"  group-title="地方特色",355台
-http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd.flv
-#EXTINF:-1 tvg-id="xg15" tvg-logo="https://upload.112114.xyz/logo/%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93.png" tvg-name="探索频道"  group-title="地方特色",探索频道
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
-#EXTINF:-1 tvg-id="xg16" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="地方特色",TVB翡翠台
-http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
-#EXTINF:-1 tvg-id="xg17" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" tvg-name="TVB无线新闻"  group-title="地方特色",TVB无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 tvg-id="xg18" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="地方特色",TVB无线财经
-http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="xg19" tvg-logo="https://upload.112114.xyz/logo/TVB2.png" tvg-name="TVB明珠台"  group-title="地方特色",TVB明珠台
-http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
-#EXTINF:-1 tvg-id="xg20" tvg-logo="https://upload.112114.xyz/logo/TVB6.png" tvg-name="TVB星河台"  group-title="地方特色",TVB明珠台
-http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
-#EXTINF:-1 tvg-id="xg21" tvg-logo="https://upload.112114.xyz/logo/HOY%E8%B5%84%E8%AE%AF.png" tvg-name="HOY资讯"  group-title="地方特色",HOY资讯
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
-#EXTINF:-1 tvg-id="xg22" tvg-logo="https://epg.112114.xyz/logo/J2.png" tvg-name="J2"  group-title="地方特色",J2
-http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
-#EXTINF:-1 tvg-id="xg23" tvg-logo="https://epg.112114.xyz/logo/AXN.png" tvg-name="AXN"  group-title="地方特色",AXN
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
-#EXTINF:-1 tvg-id="xg24" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" tvg-name="东森新闻"  group-title="地方特色",东森新闻
-http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
-#EXTINF:-1 tvg-id="xg25" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7.png" tvg-name="东森戏剧"  group-title="地方特色",东森戏剧
-http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
-#EXTINF:-1 tvg-id="xg26" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" tvg-name="东森洋片"  group-title="地方特色",东森洋片
-http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
-#EXTINF:-1 tvg-id="xg27" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" tvg-name="东森电影"  group-title="地方特色",东森电影
-http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
-#EXTINF:-1 tvg-id="xg28" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" tvg-name="澳门莲花"  group-title="地方特色",澳门莲花
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
-#EXTINF:-1 tvg-id="xg29" tvg-logo="https://upload.112114.xyz/logo/viutv.png" tvg-name="viu TV"  group-title="地方特色",viu TV
-http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
-#EXTINF:-1 tvg-id="xg30" tvg-logo="https://upload.112114.xyz/logo/viutv6.png" tvg-name="viu TV6"  group-title="地方特色",viu TV6
-http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
-#EXTINF:-1 tvg-id="xg31" tvg-logo="https://upload.112114.xyz/logo/RHK31.png" tvg-name="RHK-31"  group-title="地方特色",RHK-31
-http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
-#EXTINF:-1 tvg-id="xg32" tvg-logo="https://upload.112114.xyz/logo/RHK32.png" tvg-name="RHK-32"  group-title="地方特色",RHK-32
-http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
-#EXTINF:-1 tvg-id="xg33" tvg-logo="https://upload.112114.xyz/logo/HBO-HD.png" tvg-name="HBO-HD"  group-title="地方特色",HBO-HD
-http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
-#EXTINF:-1 tvg-id="xg34" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" tvg-name="HBO-家庭"  group-title="地方特色",HBO-家庭
-http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
-#EXTINF:-1 tvg-id="xg35" tvg-logo="https://upload.112114.xyz/logo/HBOSign.png" tvg-name="HBO-强档"  group-title="地方特色",HBO-强档
-http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
-#EXTINF:-1 tvg-id="xg36" tvg-logo="https://upload.112114.xyz/logo/CINEMAX.png" tvg-name="CINEMAX HD"  group-title="地方特色",CINEMAX HD
-http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
-#EXTINF:-1 tvg-id="xg37" tvg-logo="https://upload.112114.xyz/logo/%E5%8F%B0%E8%A7%86.png" tvg-name="台视"  group-title="地方特色",台视
-http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
-#EXTINF:-1 tvg-id="xg38" tvg-logo="https://upload.112114.xyz/logo/%E5%8D%8E%E8%A7%86.png" tvg-name="华视"  group-title="地方特色",华视
-http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
-#EXTINF:-1 tvg-id="xg39" tvg-logo="https://upload.112114.xyz/logo/%E6%B0%91%E8%A7%86.png" tvg-name="民视"  group-title="地方特色",民视
-http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
-#EXTINF:-1 tvg-id="xg40" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E8%A7%86.png" tvg-name="中视"  group-title="地方特色",中视
-http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
-#EXTINF:-1 tvg-id="xg41" tvg-logo="https://upload.112114.xyz/logo/%E9%95%9C%E6%96%B0%E9%97%BB.png" tvg-name="镜新闻"  group-title="地方特色",镜新闻
-http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
-#EXTINF:-1 tvg-id="xg42" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" tvg-name="三洋频道"  group-title="地方特色",三洋频道
-http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
-#EXTINF:-1 tvg-id="xg43" tvg-logo="https://upload.112114.xyz/logo/%E6%9C%89%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png" tvg-name="有线新闻台"  group-title="地方特色",有线新闻台
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
@@ -876,3 +788,89 @@ http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
 http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",姜堰新闻综合
 https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+
+#港澳台/42个频道
+#EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻
+http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+#EXTINF:-1 tvg-id="xg02" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
+http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1 tvg-id="xg03" tvg-logo="https://upload.112114.xyz/logo/TVBSNEW.png"  tvg-name="TVBS新闻"  group-title="港澳台",TVBS新闻
+http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+#EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="民视新闻"  group-title="港澳台",民视新闻
+http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+#EXTINF:-1 tvg-id="xg05" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="中视新闻"  group-title="港澳台",中视新闻
+http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+#EXTINF:-1 tvg-id="xg06" tvg-logo="https://upload.112114.xyz/logo/%E5%AF%B0%E5%AE%87%E6%96%B0%E9%97%BB.png" tvg-name="寰宇新闻"  group-title="港澳台",寰宇新闻
+http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 tvg-id="xg07" tvg-logo="https://upload.112114.xyz/logo/%E9%9D%9E%E5%87%A1%E6%96%B0%E9%97%BB.png" tvg-name="非凡新闻"  group-title="港澳台",非凡新闻
+http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+#EXTINF:-1 tvg-id="xg08" tvg-logo="https://upload.112114.xyz/logo/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="台视新闻"  group-title="港澳台",台视新闻
+http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+#EXTINF:-1 tvg-id="xg09" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" tvg-name="LIVE三立"  group-title="港澳台",LIVE三立
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://upload.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E9%A2%91%E9%81%93.png" tvg-name="天映频道"  group-title="港澳台",天映频道
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz.flv
+#EXTINF:-1 tvg-id="xg11" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/huayi1.png" tvg-name="華雲綜合"  group-title="港澳台",華雲綜合
+http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
+#EXTINF:-1 tvg-id="xg12" tvg-logo="https://upload.112114.xyz/logo/%E5%A3%B9%E6%96%B0%E9%97%BB.png" tvg-name="壹新聞"  group-title="港澳台",壹新聞
+http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+#EXTINF:-1 tvg-id="xg13" tvg-logo="https://upload.112114.xyz/logo/TVBSHD.png" tvg-name="TVBS頻道"  group-title="港澳台",TVBS頻道
+http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1 tvg-id="xg14" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA2.png" tvg-name="355台"  group-title="港澳台",355台
+http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd.flv
+#EXTINF:-1 tvg-id="xg15" tvg-logo="https://upload.112114.xyz/logo/%E6%8E%A2%E7%B4%A2%E9%A2%91%E9%81%93.png" tvg-name="探索频道"  group-title="港澳台",探索频道
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+#EXTINF:-1 tvg-id="xg16" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+#EXTINF:-1 tvg-id="xg17" tvg-logo="https://upload.112114.xyz/logo/TVB4.png" tvg-name="TVB无线新闻"  group-title="港澳台",TVB无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 tvg-id="xg18" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
+http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="xg19" tvg-logo="https://upload.112114.xyz/logo/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+#EXTINF:-1 tvg-id="xg20" tvg-logo="https://upload.112114.xyz/logo/TVB6.png" tvg-name="TVB星河台"  group-title="港澳台",TVB明珠台
+http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+#EXTINF:-1 tvg-id="xg21" tvg-logo="https://upload.112114.xyz/logo/HOY%E8%B5%84%E8%AE%AF.png" tvg-name="HOY资讯"  group-title="港澳台",HOY资讯
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+#EXTINF:-1 tvg-id="xg22" tvg-logo="https://epg.112114.xyz/logo/J2.png" tvg-name="J2"  group-title="港澳台",J2
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+#EXTINF:-1 tvg-id="xg23" tvg-logo="https://epg.112114.xyz/logo/AXN.png" tvg-name="AXN"  group-title="港澳台",AXN
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+#EXTINF:-1 tvg-id="xg24" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB.png" tvg-name="东森新闻"  group-title="港澳台",东森新闻
+http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 tvg-id="xg25" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%88%8F%E5%89%A7.png" tvg-name="东森戏剧"  group-title="港澳台",东森戏剧
+http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+#EXTINF:-1 tvg-id="xg26" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png" tvg-name="东森洋片"  group-title="港澳台",东森洋片
+http://ali.hlspull.yximgs.com/live/twlivezmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp.flv
+#EXTINF:-1 tvg-id="xg27" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E7%94%B5%E5%BD%B1.png" tvg-name="东森电影"  group-title="港澳台",东森电影
+http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
+#EXTINF:-1 tvg-id="xg28" tvg-logo="https://upload.112114.xyz/logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" tvg-name="澳门莲花"  group-title="港澳台",澳门莲花
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
+#EXTINF:-1 tvg-id="xg29" tvg-logo="https://upload.112114.xyz/logo/viutv.png" tvg-name="viu TV"  group-title="港澳台",viu TV
+http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+#EXTINF:-1 tvg-id="xg30" tvg-logo="https://upload.112114.xyz/logo/viutv6.png" tvg-name="viu TV6"  group-title="港澳台",viu TV6
+http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+#EXTINF:-1 tvg-id="xg31" tvg-logo="https://upload.112114.xyz/logo/RHK31.png" tvg-name="RHK-31"  group-title="港澳台",RHK-31
+http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+#EXTINF:-1 tvg-id="xg32" tvg-logo="https://upload.112114.xyz/logo/RHK32.png" tvg-name="RHK-32"  group-title="港澳台",RHK-32
+http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+#EXTINF:-1 tvg-id="xg33" tvg-logo="https://upload.112114.xyz/logo/HBO-HD.png" tvg-name="HBO-HD"  group-title="港澳台",HBO-HD
+http://ali.hlspull.yximgs.com/live/twlivemzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo.flv
+#EXTINF:-1 tvg-id="xg34" tvg-logo="https://upload.112114.xyz/logo/HBO%20Family.png" tvg-name="HBO-家庭"  group-title="港澳台",HBO-家庭
+http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevenerfyi.flv
+#EXTINF:-1 tvg-id="xg35" tvg-logo="https://upload.112114.xyz/logo/HBOSign.png" tvg-name="HBO-强档"  group-title="港澳台",HBO-强档
+http://ali.hlspull.yximgs.com/live/twlivetzcvszgczyhpvobzxclmvhzogdzbodbszhlelevendhbosignature.flv
+#EXTINF:-1 tvg-id="xg36" tvg-logo="https://upload.112114.xyz/logo/CINEMAX.png" tvg-name="CINEMAX HD"  group-title="港澳台",CINEMAX HD
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+#EXTINF:-1 tvg-id="xg37" tvg-logo="https://upload.112114.xyz/logo/%E5%8F%B0%E8%A7%86.png" tvg-name="台视"  group-title="港澳台",台视
+http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
+#EXTINF:-1 tvg-id="xg38" tvg-logo="https://upload.112114.xyz/logo/%E5%8D%8E%E8%A7%86.png" tvg-name="华视"  group-title="港澳台",华视
+http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+#EXTINF:-1 tvg-id="xg39" tvg-logo="https://upload.112114.xyz/logo/%E6%B0%91%E8%A7%86.png" tvg-name="民视"  group-title="港澳台",民视
+http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+#EXTINF:-1 tvg-id="xg40" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%AD%E8%A7%86.png" tvg-name="中视"  group-title="港澳台",中视
+http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+#EXTINF:-1 tvg-id="xg41" tvg-logo="https://upload.112114.xyz/logo/%E9%95%9C%E6%96%B0%E9%97%BB.png" tvg-name="镜新闻"  group-title="港澳台",镜新闻
+http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
+#EXTINF:-1 tvg-id="xg42" tvg-logo="https://upload.112114.xyz/logo/%E4%B8%89%E7%AB%8B%E6%96%B0%E9%97%BB.png" tvg-name="三洋频道"  group-title="港澳台",三洋频道
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
