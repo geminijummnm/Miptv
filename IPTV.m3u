@@ -908,6 +908,8 @@ http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzo
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
 #EXTINF:-1 tvg-id="xg45" tvg-logo="https://upload.112114.xyz/logo/TBS.png" tvg-name="TBS-SOUL"  group-title="港澳台",TBS-SOUL
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="xg88" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Aoya.png" tvg-name="澳亚卫视"  group-title="港澳台"澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="xg46" tvg-name="" tvg-logo="" group-title="港澳台",ABCテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="xg47" tvg-name="" tvg-logo="" group-title="港澳台",BS-TBS
