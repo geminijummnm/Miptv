@@ -564,7 +564,7 @@ http://124.225.35.97:16080/live/tv2402.m3u8
 #EXTINF:-1 tvg-id="HN08" tvg-name="海口三套" tvg-logo="https://upload.112114.xyz/logo/%E6%B5%B7%E5%8F%A33.png" group-title="地方特色",海口三套
 http://124.225.35.97:16080/live/tv2403.m3u8
 
-#广东/6个频道
+#广东/14个频道
 #EXTINF:-1 tvg-id="HN01" tvg-name="广州综合" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E5%B7%9E%E7%BB%BC%E5%90%88.png" group-title="地方特色",广州综合
 https://yang-1989.eu.org/gz/zh
 #EXTINF:-1 tvg-id="HN02" tvg-name="广州新闻" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E5%B7%9E%E6%96%B0%E9%97%BB.png" group-title="地方特色",广州新闻
@@ -577,8 +577,24 @@ https://yang-1989.eu.org/gz/ys
 https://yang-1989.eu.org/gz/fz
 #EXTINF:-1 tvg-id="HN06" tvg-name="广州南国都市" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E5%B7%9E%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png" group-title="地方特色",广州南国都市
 https://yang-1989.eu.org/gz/ngds
+#EXTINF:-1 tvg-id="HN07" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png group-title="地方特色",广东珠江
+http://58.63.67.196:8888/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="HN08" tvg-name="广东公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东公共
+http://58.63.67.196:8888/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="HN09" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东体育
+http://58.63.67.196:8888/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="HN10" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东经济科教
+http://58.63.67.196:8888/udp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="HN11" tvg-name="广东南方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东南方卫视
+http://58.63.67.196:8888/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="HN12" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东影视
+http://58.63.67.196:8888/udp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="HN13" tvg-name="广东少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东少儿
+http://58.63.67.196:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="HN14" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东新闻
+http://58.63.67.196:8888/udp/239.77.0.173:5146
 
-#福建省/3个频道
+#福建省/5个频道
 #EXTINF:-1 tvg-id="FJ01" tvg-name="福州新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-id="FJ02" tvg-name="福州少儿" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/gd/" group-title="地方特色",福州少儿
@@ -640,17 +656,17 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ot
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京新闻综合.png" group-title="蘇·频道",南京新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png.png" group-title="蘇·频道",江苏城市
-http://121.226.107.171:55555/udp/239.49.9.35:6000
+http://222.188.68.38:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="蘇·频道",江苏综艺
-http://121.226.107.171:55555/udp/239.49.9.36:6000
+http://222.188.68.38:8888/newlive/live/hls/22/live.m3u8
 #EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="蘇·频道",江苏体育·休闲
-http://121.226.107.171:55555/udp/239.49.9.37:6000
+http://222.188.68.38:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png"  group-title="蘇·频道",江苏影视
-http://121.226.107.171:55555/udp/239.49.9.38:6000
+http://222.188.68.38:8888/newlive/live/hls/24/live.m3u8
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E6%96%B0%E9%97%BB.png" group-title="蘇·频道",江苏新闻
-http://58.208.109.32:8888/udp/239.49.9.40:6000
+http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="蘇·频道",江苏教育
-http://121.226.107.171:55555/udp/239.49.9.42:6000
+http://222.188.68.38:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="蘇·频道",优漫卡通
 http://121.226.107.171:55555/udp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京少儿.png" group-title="蘇·频道",南京少儿
