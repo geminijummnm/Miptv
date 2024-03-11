@@ -610,24 +610,6 @@ https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://upload.112114.xyz/logo/%E5%AE%81%E5%A4%8F%E6%96%87%E6%97%85.png" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
 
-#四川省/5个频道
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV2" tvg-logo="https://live.fanmingming.com/tv/sctv2.png"tvg-name="四川经济" ,SCTV2
-http://60.255.59.174:20010/live/SCTV-2-H265_4000.m3u8
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV3" tvg-logo="https://live.fanmingming.com/tv/sctv3.png"tvg-name="四川文化旅游" ,SCTV3
-http://60.255.59.174:20010/live/SCTV-3-H265_4000.m3u8
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV4" tvg-logo="https://live.fanmingming.com/tv/sctv4.png"tvg-name="四川新闻" ,SCTV4
-http://60.255.59.174:20010/live/SCTV-4H265_4000.m3u8
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV7" tvg-logo="https://live.fanmingming.com/tv/sctv7.png"tvg-name="四川妇女儿童" ,SCTV7
-http://60.255.59.173:20010/live/SCTV-7-_4000.m3u8
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV8" tvg-logo="https://live.fanmingming.com/tv/sctv8.png"tvg-name="四川科教" ,SCTV8
-http://60.255.59.173:20010/live/SCTV-ggSCTV-8_4000.m3u8
-#EXTINF:-1 group-title="地方特色" tvg-id="SCTV9" tvg-logo="https://live.fanmingming.com/tv/sctv9.png"tvg-name="四川乡村" ,SCTV9
-http://60.255.59.173:20010/live/SCTV-kjSCTV-9-_4000.m3u8
-#EXTINF:-1 group-title="地方特色"tvg-name="峨嵋电影" ,峨嵋电影
-http://60.255.59.174:20010/live/emdygqH265_4000.m3u8
-#EXTINF:-1 group-title="地方特色"tvg-name="川网导视" ,川网导视
-http://60.255.59.173:20010/live/cwdsbqH264_2000.m3u8
-
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
