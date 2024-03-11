@@ -789,7 +789,7 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="蘇·频道",姜堰新闻综合
 https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
 
-#港澳台/45个频道
+#港澳台/54个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻
 http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" tvg-name="TVBS"  group-title="港澳台",TVBS
@@ -880,10 +880,22 @@ http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzo
 http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
 #EXTINF:-1 tvg-id="xg45" tvg-logo="https://upload.112114.xyz/logo/TBS.png" tvg-name="TBS-SOUL"  group-title="港澳台",TBS-SOUL
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="xg46" tvg-logo="https://upload.112114.xyz/logo/TBS.png" tvg-name="BS-TBS"  group-title="港澳台",BS-TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg47" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="NHK-综合"  group-title="港澳台",NHK-综合
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg48" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="テレビ朝日"  group-title="港澳台",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg49" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="BS朝日"  group-title="港澳台",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg50" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="J-sports-1"  group-title="港澳台",J-sports-1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg51" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="J-sports-2"  group-title="港澳台",J-sports-2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg52" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="J-sports-3"  group-title="港澳台",J-sports-3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg53" tvg-logo="https://upload.112114.xyz/logo/nhk2.png" tvg-name="J-sports-4"  group-title="港澳台",J-sports-4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="xg54" tvg-logo="https://upload.112114.xyz/logo/NHKBSP.png" tvg-name="NHK-BSP"  group-title="港澳台",NHK-BSP
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 
