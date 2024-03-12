@@ -813,12 +813,14 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 tvg-id="xg47" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育1"  group-title="港澳台",爱尔达体育1
 http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
-#EXTINF:-1 tvg-id="xg48" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育2"  group-title="港澳台",爱尔达体育2
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-#EXTINF:-1 tvg-id="xg49" tvg-logo="" tvg-name="EZTV-1"  group-title="港澳台",EZTV-1
-http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-#EXTINF:-1 tvg-id="xg50" tvg-logo="" tvg-name="EZTV-2"  group-title="港澳台",EZTV-2
+#EXTINF:-1 tvg-id="xg48" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" tvg-name="爱尔达体育3"  group-title="港澳台",爱尔达体育3
+mitv://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646
+#EXTINF:-1 tvg-id="xg49" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育4"  group-title="港澳台",爱尔达体育4
+mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
+#EXTINF:-1 tvg-id="xg50" tvg-logo="" tvg-name="EZTV-1"  group-title="港澳台",EZTV-1
+mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
+#EXTINF:-1 tvg-id="xg51" tvg-logo="" tvg-name="EZTV-2"  group-title="港澳台",EZTV-2
 http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-#EXTINF:-1 tvg-id="xg51" tvg-logo="" tvg-name="EZTV-6"  group-title="港澳台",EZTV-6
+#EXTINF:-1 tvg-id="xg52" tvg-logo="" tvg-name="EZTV-6"  group-title="港澳台",EZTV-6
 http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 
