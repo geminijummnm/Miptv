@@ -381,7 +381,7 @@ http://218.241.192.50:8808/udp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png" group-title="地方特色",北京体育休闲
 http://218.241.192.50:8808/udp/239.3.1.243:8000
 
-#陕西/25个频道
+#陕西/26个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001719/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="I02" tvg-name="陕西都市青春" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi2.png" group-title="地方特色",陕西都市青春
@@ -434,7 +434,7 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 #EXTINF:-1 tvg-id="I25" tvg-name="陕西佛坪电视台"group-title="地方特色",陕西佛坪电视台
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-#EXTINF:-1 tvg-id="I25" tvg-name="陕西岚皋电视台"group-title="地方特色",陕西岚皋电视台
+#EXTINF:-1 tvg-id="I26" tvg-name="陕西岚皋电视台"group-title="地方特色",陕西岚皋电视台
 http://[2409:8087:7001:20:3::4]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221227057/index.m3u8
 
 #黑龙江/12个频道
