@@ -434,6 +434,8 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 #EXTINF:-1 tvg-id="I25" tvg-name="陕西佛坪电视台"group-title="地方特色",陕西佛坪电视台
 http://[2409:8087:7002:20::3]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
+#EXTINF:-1 tvg-id="I25" tvg-name="陕西岚皋电视台"group-title="地方特色",陕西岚皋电视台
+http://[2409:8087:7001:20:3::4]/dbiptv.sn.chinamobile.com/PLTV/4/224/3221227057/index.m3u8
 
 #黑龙江/12个频道
 #EXTINF:-1 tvg-id="HLJ01" tvg-name="黑龙江新闻法治" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Heilongjiang1.png" group-title="地方特色",黑龙江新闻法治
