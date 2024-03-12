@@ -409,7 +409,7 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 #EXTINF:-1 tvg-id="I12" tvg-name="陕西城园" group-title="地方特色",陕西城园
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226920/index.m3u8
 #EXTINF:-1 tvg-id="I13" tvg-name="陕西扶风" group-title="地方特色",陕西扶风
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227005/index.m3u8
+http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221227005/index.m3u8
 #EXTINF:-1 tvg-id="I14" tvg-name="陕西汉中1" group-title="地方特色",陕西汉中1
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/index.m3u8
 #EXTINF:-1 tvg-id="I15" tvg-name="陕西汉中2" group-title="地方特色",陕西汉中2
