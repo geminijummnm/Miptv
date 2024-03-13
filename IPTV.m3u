@@ -359,17 +359,18 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="BJ02" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-http://218.241.192.50:8808/udp/239.3.1.159:8000
+https://live.goodiptv.club/api/ghyx.php?id=BTV9HD_6000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-http://218.241.192.50:8808/udp/239.3.1.158:8000
+https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://218.241.192.50:8808/udp/239.3.1.242:8000
+https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-http://218.241.192.50:8808/udp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BJ08" tvg-name="北京国际" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",北京国际
-http://218.241.192.50:8808/udp/239.3.1.235:8000
+https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000
+#EXTINF:-1 tvg-id="BJ08" tvg-name="北京青年" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",北京青年
+https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png" group-title="地方特色",北京体育休闲
-http://218.241.192.50:8808/udp/239.3.1.243:8000
+https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
+
 
 #陕西/26个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
@@ -504,6 +505,21 @@ https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 #EXTINF:-1 tvg-id="NX04" tvg-name="宁夏文旅" tvg-logo="https://upload.112114.xyz/logo/%E5%AE%81%E5%A4%8F%E6%96%87%E6%97%85.png" group-title="地方特色",宁夏文旅
 https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
+#甘肃省/7个频道
+#EXTINF:-1,tvg-id="gs01" tvg-name="甘肃都市" tvg-logo="https://epg.112114.xyz/logo/甘肃都市.png" group-title="地方特色",甘肃都市频道
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1,tvg-id="gs02" tvg-name="甘肃公共" tvg-logo="https://epg.112114.xyz/logo/甘肃公共.png" group-title="地方特色",甘肃公共应急
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226250/1.m3u8
+#EXTINF:-1,tvg-id="gs03" tvg-name="甘肃经济" tvg-logo="https://epg.112114.xyz/logo/甘肃经济.png" group-title="地方特色",甘肃经济频道
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226252/1.m3u8
+#EXTINF:-1,tvg-id="gs04" tvg-name="甘肃少儿" tvg-logo="https://epg.112114.xyz/logo/甘肃少儿.png" group-title="地方特色",甘肃少儿频道
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226289/1.m3u8
+#EXTINF:-1,tvg-id="gs05" tvg-name="甘肃文化影视" tvg-logo="https://epg.112114.xyz/logo/甘肃文化影视.png" group-title="地方特色",甘肃文化影视
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226287/1.m3u8
+#EXTINF:-1,tvg-id="gs06" tvg-name="兰州文旅频道" tvg-logo="https://epg.112114.xyz/logo/兰州文旅.png" group-title="地方特色",兰州文旅频道
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226597/1.m3u8
+#EXTINF:-1,tvg-id="gs07" tvg-name="兰州新闻综合" tvg-logo="https://epg.112114.xyz/logo/兰州新闻综合.png" group-title="地方特色",兰州新闻综合
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226242/1.m3u8
 
 #ihot/18个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="iHot-爱电竞" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱电竞.png" group-title="地方特色",iHot-爱电竞
