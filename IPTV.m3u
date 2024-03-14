@@ -381,7 +381,7 @@ http://218.241.192.50:8808/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="北京青年" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",北京青年
 https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png" group-title="地方特色",北京体育休闲
-https://live.goodiptv.club/api/ghyx.php?id=BTVjishiHD_6000
+http://qnap.yjnhome.com:4000/udp/239.3.1.243:8000
 
 
 #陕西/26个频道
