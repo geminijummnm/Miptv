@@ -576,7 +576,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京新闻综合.png" group-title="蘇·频道",南京新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png.png" group-title="蘇·频道",江苏城市
+#EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="蘇·频道",江苏城市
 http://114.229.202.87:8800/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="蘇·频道",江苏综艺
 http://114.229.202.87:8800/rtp/239.49.9.36:6000
