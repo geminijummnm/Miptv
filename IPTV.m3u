@@ -567,19 +567,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ot
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京新闻综合.png" group-title="蘇·频道",南京新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png.png" group-title="蘇·频道",江苏城市
-http://[2409:8087:2001:20:2800:0:df6e:eb15]/ott.mobaibox.com/PLTV/4/224/3221225929/index.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="蘇·频道",江苏综艺
-http://222.188.68.38:8888/newlive/live/hls/22/live.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.36:6000
 #EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="蘇·频道",江苏体育·休闲
-http://222.188.68.38:8888/newlive/live/hls/23/live.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.37:6000
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png"  group-title="蘇·频道",江苏影视
-http://222.188.68.38:8888/newlive/live/hls/24/live.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.38:6000
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E6%96%B0%E9%97%BB.png" group-title="蘇·频道",江苏新闻
-http://222.188.68.38:8888/newlive/live/hls/26/live.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.40:6000
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="蘇·频道",江苏教育
-http://222.188.68.38:8888/newlive/live/hls/28/live.m3u8
+http://114.229.202.87:8800/rtp/239.49.9.42:6000
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="蘇·频道",优漫卡通
-http://121.226.107.171:55555/udp/239.49.9.39:6000
+http://114.229.202.87:8800/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="南京少儿" tvg-name="南京少儿" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京少儿.png" group-title="蘇·频道",南京少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3425352611_209642410/ott.mobaibox.com/PLTV/4/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-id="南京教科" tvg-name="南京教科" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京教科.png" group-title="蘇·频道",南京教科
@@ -619,13 +619,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2711841019_318571591/ott
 #EXTINF:-1 tvg-id="睢宁资讯" tvg-name="睢宁资讯" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/睢宁资讯.png" group-title="蘇·频道",睢宁资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2785939281_491930384/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
 #EXTINF:-1 tvg-id="常州公共" tvg-name="常州公共" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/常州公共.png" group-title="蘇·频道",常州公共
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4212693148_669088627/ott.mobaibox.com/PLTV/3/224/3221227905/index.m3u8
+http://114.229.202.87:8800/rtp/239.49.1.131:6000
 #EXTINF:-1 tvg-id="常州新闻综合" tvg-name="常州新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/常州新闻综合.png" group-title="蘇·频道",常州新闻综合
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3810615020_450111224/ott.mobaibox.com/PLTV/3/224/3221227899/index.m3u8
+http://114.229.202.87:8800/rtp/239.49.1.134:6000
 #EXTINF:-1 tvg-id="常州生活" tvg-name="常州生活" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/常州生活.png" group-title="蘇·频道",常州生活
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3951544714_750576923/ott.mobaibox.com/PLTV/3/224/3221227902/index.m3u8
+http://114.229.202.87:8800/rtp/239.49.1.132:6000
 #EXTINF:-1 tvg-id="常州都市" tvg-name="常州都市" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/常州都市.png" group-title="蘇·频道",常州都市
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4002153568_939060722/ott.mobaibox.com/PLTV/3/224/3221227955/index.m3u8
+http://114.229.202.87:8800/rtp/239.49.1.133:6000
 #EXTINF:-1 tvg-id="宝应新闻综合" tvg-name="宝应新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/宝应新闻综合.png" group-title="蘇·频道",宝应新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/wh7f454c46tw2870965829_-39927312/ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
 #EXTINF:-1 tvg-id="宝应生活资讯" tvg-name="宝应生活资讯" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/宝应生活资讯.png" group-title="蘇·频道",宝应生活资讯
