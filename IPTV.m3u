@@ -577,13 +577,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw3055198838_-954191684/ot
 #EXTINF:-1 tvg-id="南京新闻综合" tvg-name="南京新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/ClodQiu/TVBox@main/TVlogo/南京新闻综合.png" group-title="蘇·频道",南京新闻综合
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/wh7f454c46tw3127461495_-1929938189/ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="江苏城市" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png.png" group-title="蘇·频道",江苏城市
-http://221.226.4.10:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.229.202.87:8800/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="江苏综艺" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="蘇·频道",江苏综艺
-http://221.226.4.10:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.229.202.87:8800/rtp/239.49.9.36:6000
 #EXTINF:-1 tvg-id="江苏体育·休闲" tvg-name="江苏体育·休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="蘇·频道",江苏体育·休闲
 http://114.229.202.87:8800/rtp/239.49.9.37:6000
 #EXTINF:-1 tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png"  group-title="蘇·频道",江苏影视
-http://221.226.4.10:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://114.229.202.87:8800/rtp/239.49.9.38:6000
 #EXTINF:-1 tvg-id="江苏新闻" tvg-name="江苏新闻" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%8B%8F%E6%96%B0%E9%97%BB.png" group-title="蘇·频道",江苏新闻
 http://114.229.202.87:8800/rtp/239.49.9.40:6000
 #EXTINF:-1 tvg-id="江苏教育" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="蘇·频道",江苏教育
