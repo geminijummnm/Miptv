@@ -306,6 +306,7 @@ http://223.12.5.52:8084/udp/239.1.1.4:8004
 http://223.12.5.52:8084/udp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="SX05" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="地方特色",山西文体生活
 http://223.12.5.52:8084/udp/239.1.1.6:8006
+
 #湖北/7个频道
 #EXTINF:-1 tvg-id="HB01" tvg-name="湖北综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei1.png" group-title="地方特色",湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
@@ -510,7 +511,33 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 #EXTINF:-1 tvg-id="I18" tvg-name="iHot-爱院线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱院线.png" group-title="地方特色",iHot-爱院线
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
-#江苏省/7个频道
+#广东/10个频道
+#EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/ihot/ihot-爱院线.png" group-title="地方特色",广东珠江
+http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
+#EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
+http://ddns.cyruslee.top:8888/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="地方特色",广东民生
+http://ddns.cyruslee.top:8888/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方特色",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="ttps://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="地方特色",广东经济科教
+http://ddns.cyruslee.top:8888/udp/239.77.0.85:5146
+#EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
+http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
+http://ddns.cyruslee.top:8888/udp/239.77.0.217:5146
+#EXTINF:-1 tvg-id="GD08" tvg-name="广东少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong6.png" group-title="地方特色",广东少儿
+http://ddns.cyruslee.top:8888/udp/239.77.0.250:5146
+#EXTINF:-1 tvg-id="GD09" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png" group-title="地方特色",广州综合
+http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
+#EXTINF:-1 tvg-id="GD10" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png" group-title="地方特色",广州新闻
+http://ddns.cyruslee.top:8888/udp/239.253.43.72:5146
+#EXTINF:-1 tvg-id="GD11" tvg-name="广东综艺4K" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%BB%BC%E8%89%BA4K.png" group-title="地方特色",广东综艺4K
+http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="GD12" tvg-name="广东南方都市4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东南方都市4K
+http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
+
+#江苏省/12个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://114.229.202.87:8800/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
@@ -525,7 +552,18 @@ http://114.229.202.87:8800/rtp/239.49.9.40:6000
 http://114.229.202.87:8800/rtp/239.49.9.42:6000
 #EXTINF:-1 tvg-id="JS07" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="地方特色",优漫卡通
 http://114.229.202.87:8800/rtp/239.49.9.39:6000
-
+#EXTINF:-1 tvg-id="JS07" tvg-name="苏州综合" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方特色",苏州综合
+https://liveshowbak2.kan0512.com/norecord/tv_csztv1.m3u8
+#EXTINF:-1 tvg-id="JS08" tvg-name="苏州社会经济" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方特色",苏州社会经济
+https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 tvg-id="JS09" tvg-name="苏州文化生活" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E6%96%87%E5%8C%96%E7%94%9F%E6%B4%BB.png" group-title="地方特色",苏州文化生活
+https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 tvg-id="JS10" tvg-name="苏州电影娱乐" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="地方特色",苏州电影娱乐
+https://liveshowbak2.kan0512.com/norecord/tv_csztv4.m3u8
+#EXTINF:-1 tvg-id="JS11" tvg-name="苏州生活资讯" tvg-logo="https://upload.112114.xyz/logo/%E8%8B%8F%E5%B7%9E%E7%94%9F%E6%B4%BB%E8%B5%84%E8%AE%AF.png.png" group-title="地方特色",苏州生活资讯
+https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-id="JS12" tvg-name="苏州4k" tvg-logo="https://upload.112114.xyz/logo/SZTV.png" group-title="地方特色",苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #港澳台/50个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" tvg-name="中天新闻"  group-title="港澳台",中天新闻
