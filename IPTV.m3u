@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#总台高清/27个频道
+#总台高清/25个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="总台高清",CCTV-1 综合
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="总台高清",CCTV-2 财经
@@ -66,17 +66,13 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="总台高清",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 tvg-id="A21" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4欧洲高清
-http://foxwywh.x3322.net:8888/udp/239.252.219.192:5140
-#EXTINF:-1 tvg-id="A22" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4美洲高清
-http://foxwywh.x3322.net:8888/udp/239.252.219.193:5140
-#EXTINF:-1 tvg-id="A23" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="总台高清",CETV-1 综合教育
+#EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="总台高清",CETV-1 综合教育
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="A24" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="总台高清",CETV-2 空中课堂
+#EXTINF:-1 tvg-id="A22" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="总台高清",CETV-2 空中课堂
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="A25" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="总台高清",CETV-3 教育服务
+#EXTINF:-1 tvg-id="A23" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="总台高清",CETV-3 教育服务
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="A264" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="总台高清",CETV-4 职业教育
+#EXTINF:-1 tvg-id="A24" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="总台高清",CETV-4 职业教育
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #卫视高清/40个频道
@@ -449,17 +445,17 @@ http://124.225.35.97:16080/live/tv2402.m3u8
 http://124.225.35.97:16080/live/tv2403.m3u8
 
 #江西/8个频道
-#EXTINF:-1 tvg-id=""JX01 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E9%83%BD%E5%B8%82.png" group-title="江西",江西都市频道高清
+#EXTINF:-1 tvg-id=""JX01 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E9%83%BD%E5%B8%82.png" group-title="地方特色",江西都市频道高清
 http://foxwywh.x3322.net:8888/udp/239.252.220.238:5140
-#EXTINF:-1 tvg-id="JX02" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="江西",江西经济生活高清
+#EXTINF:-1 tvg-id="JX02" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E7%BB%8F%E6%B5%8E%E7%94%9F%E6%B4%BB.png" group-title="地方特色",江西经济生活高清
 http://foxwywh.x3322.net:8888/udp/239.252.219.173:5140
-#EXTINF:-1 tvg-id="JX03" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%BD%B1%E8%A7%86%E6%97%85%E6%B8%B8.png" group-title="江西",江西影视旅游高清
+#EXTINF:-1 tvg-id="JX03" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%BD%B1%E8%A7%86%E6%97%85%E6%B8%B8.png" group-title="地方特色",江西影视旅游高清
 http://foxwywh.x3322.net:8888/udp/239.252.220.242:5140
-#EXTINF:-1 tvg-id="JX04" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%85%AC%E5%85%B1%E5%86%9C%E4%B8%9A.png" group-title="江西",江西公共农业高清
+#EXTINF:-1 tvg-id="JX04" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%85%AC%E5%85%B1%E5%86%9C%E4%B8%9A.png" group-title="地方特色",江西公共农业高清
 http://foxwywh.x3322.net:8888/udp/239.252.220.102:5140
-#EXTINF:-1 tvg-id="JX05" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%B0%91%E5%84%BF.png" group-title="江西",江西少儿频道高清
+#EXTINF:-1 tvg-id="JX05" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E5%B0%91%E5%84%BF.png" group-title="地方特色",江西少儿频道高清
 http://foxwywh.x3322.net:8888/udp/239.252.219.113:5140
-#EXTINF:-1 tvg-id="JX06" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E6%96%B0%E9%97%BB.png" group-title="江西",江西新闻频道高清
+#EXTINF:-1 tvg-id="JX06" tvg-name="" tvg-logo="https://upload.112114.xyz/logo/%E6%B1%9F%E8%A5%BF%E6%96%B0%E9%97%BB.png" group-title="地方特色",江西新闻频道高清
 http://foxwywh.x3322.net:8888/udp/239.252.220.100:5140
 #EXTINF:-1 tvg-id="JX07" tvg-name="" tvg-logo="" group-title="江西",江西移动电视高清
 http://foxwywh.x3322.net:8888/udp/239.252.220.241:5140
@@ -515,7 +511,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #江苏省/7个频道
-#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏综艺
+#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://114.229.202.87:8800/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
 http://114.229.202.87:8800/rtp/239.49.9.36:6000
