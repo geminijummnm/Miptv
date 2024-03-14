@@ -375,9 +375,9 @@ https://live.goodiptv.club/api/ghyx.php?id=BTV9HD_6000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
 https://live.goodiptv.club/api/ghyx.php?id=BTV4HD_6000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-https://live.goodiptv.club/api/ghyx.php?id=BTVwenyiHD_6000
+http://218.241.192.50:8808/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-https://live.goodiptv.club/api/ghyx.php?id=BTVShengHuoHD_6000
+http://218.241.192.50:8808/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="北京青年" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",北京青年
 https://live.goodiptv.club/api/ghyx.php?id=BTVQingNianHD_6000
 #EXTINF:-1 tvg-id="BJ09" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png" group-title="地方特色",北京体育休闲
