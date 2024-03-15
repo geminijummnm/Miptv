@@ -571,7 +571,8 @@ http://117.81.150.40:9999/rtp/239.49.9.40:6000
 http://117.81.150.40:9999/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
 http://117.81.150.40:9999/rtp/239.49.9.42:6000
-
+#EXTINF:-1 tvg-id="JS07" tvg-name="江阴新闻综合" tvg-logo="" group-title="地方特色",江阴新闻综合
+http://221.228.70.101:8080/live/xinwen.m3u8
 #港澳台/4个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
