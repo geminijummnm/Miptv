@@ -75,7 +75,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3
 #EXTINF:-1 tvg-id="A23" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="总台高清",CETV-3 教育服务
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A24" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="总台高清",CETV-4 职业教育
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://113.15.185.206:8181/tsfile/live/1025_1.m3u8
 
 #卫视高清/40个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
@@ -504,15 +504,15 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u
 
 #广东/10个频道
 #EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
-http://183.17.224.90:8888/udp/239.77.0.1:5146
+http://113.15.185.206:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
-http://183.17.224.90:8888/udp/239.77.0.173:5146
+http://113.15.185.206:8181/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="地方特色",广东民生
-http://183.17.224.90:8888/udp/239.77.0.225:5146
+http://113.15.185.206:8181/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方特色",广东体育
-http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+http://113.15.185.206:8181/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="ttps://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="地方特色",广东经济科教
-http://183.17.224.90:8888/udp/239.77.0.85:5146
+http://113.15.185.206:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
 http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
@@ -528,9 +528,9 @@ http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
 #EXTINF:-1 tvg-id="GD12" tvg-name="广东南方都市4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东南方都市4K
 http://183.17.224.90:8888/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="GD13" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen5.png" group-title="地方特色",深圳娱乐
-http://ddns.cyruslee.top:8888/udp/239.77.1.243:5146
+http://113.15.185.206:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="GD14" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",深圳都市
-http://ddns.cyruslee.top:8888/udp/239.77.1.176:5146
+http://113.15.185.206:8181/tsfile/live/1012_1.m3u8
 #EXTINF:-1 tvg-id="GD15" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen6.png" group-title="地方特色",深圳少儿
 http://ddns.cyruslee.top:8888/udp/239.77.1.244:5146
 #EXTINF:-1 tvg-id="GD16" tvg-name="深圳公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen3.png" group-title="地方特色",深圳公共
@@ -544,11 +544,11 @@ http://ddns.cyruslee.top:8888/udp/239.77.1.224:5146
 #EXTINF:-1 tvg-id="GD20" tvg-name="深圳众创TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="地方特色",深圳众创TV
 http://ddns.cyruslee.top:8888/udp/239.77.1.247:5146
 #EXTINF:-1 tvg-id="GD20" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen2.png" group-title="地方特色",深圳电视剧
-http://ddns.cyruslee.top:8888/udp/239.77.1.177:5146
+http://113.15.185.206:8181/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="GD20" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen4.png" group-title="地方特色",深圳财经生活
 http://ddns.cyruslee.top:8888/udp/239.77.1.242:5146
 #EXTINF:-1 tvg-id="GD20" tvg-name="深圳体育健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",深圳体育健康
-http://ddns.cyruslee.top:8888/udp/239.77.1.128:5146
+http://113.15.185.206:8181/tsfile/live/1015_1.m3u8
 
 #江苏/44个频道
 #EXTINF:-1 tvg-id="" tvg-name="南京新闻综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/nanjing-新闻综合.png" group-title="江苏",南京新闻综合
