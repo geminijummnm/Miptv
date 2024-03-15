@@ -299,15 +299,15 @@ http://42.49.189.17:9008/tsfile/live/1004_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="Shanxi" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="地方特色",山西卫视
 http://220.194.178.58:8888/newlive/live/hls/42/live.m3u8
 #EXTINF:-1 tvg-id="SX01" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi1.png" group-title="地方特色",黄河电视台
-http://220.194.178.58:8888/udp/239.1.1.2:8002
+http://223.10.32.226:8083/udp/239.1.1.2:8002
 #EXTINF:-1 tvg-id="SX02" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi2.png" group-title="地方特色",山西经济与科技
-http://220.194.178.58:8888/udp/239.1.1.3:8003
+http://223.10.32.226:8083/udp/239.1.1.3:8003
 #EXTINF:-1 tvg-id="SX03" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi3.png" group-title="地方特色",山西影视
-http://220.194.178.58:8888/udp/239.1.1.4:8004
+http://223.10.32.226:8083/udp/239.1.1.4:8004
 #EXTINF:-1 tvg-id="SX04" tvg-name="山西社会与法治" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi4.png" group-title="地方特色",山西社会与法治
-http://220.194.178.58:8888/udp/239.1.1.5:8005
+http://223.10.32.226:8083/udp/239.1.1.5:8005
 #EXTINF:-1 tvg-id="SX05" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="地方特色",山西文体生活
-http://220.194.178.58:8888/udp/239.1.1.6:8006
+http://223.10.32.226:8083/udp/239.1.1.6:8006
 
 #湖北/7个频道
 #EXTINF:-1 tvg-id="HB01" tvg-name="湖北综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei1.png" group-title="地方特色",湖北综合
