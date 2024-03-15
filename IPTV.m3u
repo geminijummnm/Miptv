@@ -516,7 +516,7 @@ http://113.15.185.206:8181/tsfile/live/1001_1.m3u8
 #EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
 http://ddns.cyruslee.top:8888/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
-http://180.142.145.135:8181/tsfile/live/0131_1.m3u8
+http://113.15.184.185:8181/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="GD08" tvg-name="广东少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong6.png" group-title="地方特色",广东少儿
 http://183.17.224.90:8888/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="GD09" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png" group-title="地方特色",广州综合
@@ -524,7 +524,7 @@ http://ddns.cyruslee.top:8888/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="GD10" tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou5.png" group-title="地方特色",广州影视
 http://180.142.145.135:8181/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-id="GD11" tvg-name="广东综艺4K" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%BB%BC%E8%89%BA4K.png" group-title="地方特色",广东综艺4K
-http://ddns.cyruslee.top:8888/udp/239.77.1.236:5146
+http://113.15.184.185:8181/tsfile/live/faacts/1010_1.m3u8
 #EXTINF:-1 tvg-id="GD12" tvg-name="广东南方都市4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="地方特色",广东南方都市4K
 http://183.17.224.90:8888/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-id="GD13" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen5.png" group-title="地方特色",深圳娱乐
