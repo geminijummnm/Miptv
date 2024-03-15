@@ -377,15 +377,15 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="BJ02" tvg-name="卡酷少儿" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing8.png" group-title="地方特色",卡酷少儿
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="BJ03" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
-http://124.64.182.54:8180/udp/239.3.1.159:8000
+http://1.203.77.117:7788/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
-http://124.64.182.54:8180/udp/239.3.1.158:8000
+http://1.203.77.117:7788/udp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BJ05" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
-http://124.64.182.54:8180/udp/239.3.1.242:8000
+http://1.203.77.117:7788/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
-http://124.64.182.54:8180/udp/239.3.1.117:8000
+http://1.203.77.117:7788/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BJ08" tvg-name="北京体育休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing6.png" group-title="地方特色",北京体育休闲
-http://124.64.182.54:8180/udp/239.3.1.243:8000
+http://1.203.77.117:7788/udp/239.3.1.243:8000
 
 
 #陕西/7个频道
