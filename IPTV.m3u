@@ -351,7 +351,7 @@ http://122.235.162.97:4022/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="ZJ14" tvg-name="杭州导视" tvg-logo="" group-title="地方特色",杭州导视
 http://122.235.162.97:4022//rtp/233.50.201.182:5140
 
-#上海/6个频道
+#上海/9个频道
 #EXTINF:-1 tvg-id="SH01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="地方特色",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SH02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="地方特色",上海都市
@@ -364,6 +364,12 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SH06" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="地方特色",东方财经
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SH07" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="地方特色",上海教育
+http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SH08" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="地方特色",新视觉
+http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="SH09" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png" group-title="地方特色",魅力足球
+http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 #北京/8个频道
 #EXTINF:-1 tvg-id="BJ01" tvg-name="纪实科教" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Beijing5.png" group-title="地方特色",纪实科教
