@@ -540,6 +540,23 @@ http://118.113.157.65:4022/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="地方特色",四川公共乡村
 http://118.113.157.65:4022/udp/239.93.0.52:5140
 
+#内蒙古/7个频道
+#EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
+#EXTINF:-1 tvg-id="NM02" tvg-name="内蒙古新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng1.png" group-title="地方特色",内蒙古新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
+#EXTINF:-1 tvg-id="NM03" tvg-name="内蒙古经济生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng3.png" group-title="地方特色",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+#EXTINF:-1 tvg-id="NM04" tvg-name="内蒙古少儿频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng5.png" group-title="地方特色",内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
+#EXTINF:-1 tvg-id="NM05" tvg-name="内蒙古文体娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng2.png" group-title="地方特色",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
+#EXTINF:-1 tvg-id="NM06" tvg-name="内蒙古农牧频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng4.png" group-title="地方特色",内蒙古农牧频道
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
+#EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
+https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
+
+
 #江苏/8个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.81.150.40:9999/rtp/239.49.9.35:6000
