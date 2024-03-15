@@ -557,7 +557,7 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 
-#江苏/8个频道
+#江苏/7个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.81.150.40:9999/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
@@ -572,10 +572,9 @@ http://117.81.150.40:9999/rtp/239.49.9.40:6000
 http://117.81.150.40:9999/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
 http://117.81.150.40:9999/rtp/239.49.9.42:6000
-#EXTINF:-1 tvg-id="JS08" tvg-name="江阴新闻综合" tvg-logo="" group-title="地方特色",江阴新闻综合
-http://221.228.70.101:8080/live/xinwen.m3u8
 
-#港澳台/4个频道
+
+#港澳台/10个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
 http://iptv.hiper25.com:42487/TVB/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="xg02" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" tvg-name="TVB明珠台"  group-title="港澳台",TVB明珠台
@@ -584,4 +583,17 @@ http://iptv.hiper25.com:42487/Pearl/video.m3u8?token=1710447330
 http://live.cooltv.top/tv/tvb.php?id=0&hq
 #EXTINF:-1 tvg-id="xg04" tvg-logo="https://upload.112114.xyz/logo/TVB5.png" tvg-name="TVB无线财经"  group-title="港澳台",TVB无线财经
 http://live.cooltv.top/tv/tvb.php?id=2&hq
+#EXTINF:-1 tvg-id="xg05" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" tvg-name="爱尔达体育Ⅰ台"  group-title="港澳台",爱尔达体育Ⅰ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
+#EXTINF:-1 tvg-id="xg06" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" tvg-name="爱尔达体育Ⅱ台"  group-title="港澳台",爱尔达体育Ⅱ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
+#EXTINF:-1 tvg-id="xg07" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png"  group-title="港澳台",爱尔达体育Ⅲ台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
+#EXTINF:-1 tvg-id="xg08" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png"  group-title="港澳台",中天新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
+#EXTINF:-1 tvg-id="xg09" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png"  group-title="港澳台",东森新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+#EXTINF:-1 tvg-id="xg10" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png"  group-title="港澳台",TVBS
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+
 
