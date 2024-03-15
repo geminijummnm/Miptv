@@ -551,19 +551,19 @@ http://ddns.cyruslee.top:8888/udp/239.77.1.242:5146
 http://113.15.185.206:8181/tsfile/live/1015_1.m3u8
 
 #江苏/7个频道
-#EXTINF:-1 tvg-id="" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="江苏",江苏城市
+#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.81.150.40:9999/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="江苏",江苏影视
+#EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
 http://117.81.150.40:9999/rtp/239.49.9.38:6000
-#EXTINF:-1 tvg-id="" tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="江苏",江苏体育
+#EXTINF:-1 tvg-id="JS03" tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="地方特色",江苏体育
 http://117.81.150.40:9999/rtp/239.49.9.37:6000
-#EXTINF:-1 tvg-id="" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="江苏",江苏综艺
+#EXTINF:-1 tvg-id="JS04" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
 http://117.81.150.40:9999/rtp/239.49.9.36:6000
-#EXTINF:-1 tvg-id="" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="江苏",江苏新闻
+#EXTINF:-1 tvg-id="JS05" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
 http://117.81.150.40:9999/rtp/239.49.9.40:6000
-#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="江苏",优漫卡通
+#EXTINF:-1 tvg-id="JS06" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="地方特色",优漫卡通
 http://117.81.150.40:9999/rtp/239.49.9.39:6000
-#EXTINF:-1 tvg-id="" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="江苏",江苏教育
+#EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
 http://117.81.150.40:9999/rtp/239.49.9.42:6000
 
 #港澳台/50个频道
