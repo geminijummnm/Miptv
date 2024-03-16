@@ -528,17 +528,17 @@ http://113.15.185.206:8181/tsfile/live/1015_1.m3u8
 
 #四川/6个频道
 #EXTINF:-1 tvg-id="SC01" tvg-name="四川经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="地方特色",四川经济
-http://118.113.157.65:4022/udp/239.93.1.101:5140
+http://171.88.134.186:3333/udp/239.93.1.101:5140
 #EXTINF:-1 tvg-id="SC02" tvg-name="四川文化旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="地方特色",四川文化旅游
-http://118.113.157.65:4022/udp/239.93.1.102:5140
+http://171.88.134.186:3333/udp/239.93.1.102:5140
 #EXTINF:-1 tvg-id="SC03" tvg-name="四川妇女儿童" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="地方特色",四川妇女儿童
-http://118.113.157.65:4022/udp/239.93.0.219:5140
+http://171.88.134.186:3333/udp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="SC04" tvg-name="四川影视文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="地方特色",四川影视文艺
-http://118.113.157.65:4022/udp/239.93.0.166:5140
+http://171.88.134.186:3333/udp/239.93.0.166:5140
 #EXTINF:-1 tvg-id="SC05" tvg-name="四川新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="地方特色",四川新闻
-http://118.113.157.65:4022/udp/239.93.0.47:5140
+http://171.88.134.186:3333/udp/239.93.0.47:5140
 #EXTINF:-1 tvg-id="SC06" tvg-name="四川公共乡村" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="地方特色",四川公共乡村
-http://118.113.157.65:4022/udp/239.93.0.52:5140
+http://171.88.134.186:3333/udp/239.93.0.52:5140
 
 #内蒙古/7个频道
 #EXTINF:-1 tvg-id="NM01" tvg-name="内蒙古蒙古语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语卫视
