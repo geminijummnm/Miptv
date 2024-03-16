@@ -557,21 +557,21 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
 
-#江苏/7个频道
-#EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
-http://117.81.150.40:9999/rtp/239.49.9.35:6000
-#EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
-http://117.81.150.40:9999/rtp/239.49.9.38:6000
-#EXTINF:-1 tvg-id="JS03" tvg-name="江苏体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu5.png" group-title="地方特色",江苏体育
-http://117.81.150.40:9999/rtp/239.49.9.37:6000
-#EXTINF:-1 tvg-id="JS04" tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu3.png" group-title="地方特色",江苏综艺
-http://117.81.150.40:9999/rtp/239.49.9.36:6000
-#EXTINF:-1 tvg-id="JS05" tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu1.png" group-title="地方特色",江苏新闻
-http://117.81.150.40:9999/rtp/239.49.9.40:6000
-#EXTINF:-1 tvg-id="JS06" tvg-name="优漫卡通" tvg-logo="https://upload.112114.xyz/logo/%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A.png" group-title="地方特色",优漫卡通
-http://117.81.150.40:9999/rtp/239.49.9.39:6000
-#EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu7.png" group-title="地方特色",江苏教育
-http://117.81.150.40:9999/rtp/239.49.9.42:6000
+#北京/7个频道
+#EXTINF:-1 tvg-id="JS01" tvg-name="北京新闻" tvg-logo="" group-title="地方特色",北京新闻
+http://123.117.34.236:4000/rtp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="JS02" tvg-name="北京影视" tvg-logo="" group-title="地方特色",北京影视
+http://123.117.34.236:4000/rtp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="JS03" tvg-name="北京文艺" tvg-logo="" group-title="地方特色",北京文艺
+http://123.117.34.236:4000/rtp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="JS04" tvg-name="北京财经" tvg-logo="" group-title="地方特色",北京财经
+http://123.117.34.236:4000/rtp/239.3.1.116:8000
+#EXTINF:-1 tvg-id="JS05" tvg-name="北京生活" tvg-logo="" group-title="地方特色",北京生活
+http://123.117.34.236:4000/rtp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="JS06" tvg-name="北京青年" tvg-logo="" group-title="地方特色",北京青年
+http://123.117.34.236:4000/#rtp/239.3.1.118:8000
+#EXTINF:-1 tvg-id="JS07" tvg-name="北京体育" tvg-logo="" group-title="地方特色",北京体育
+http://123.117.34.236:4000/rtp/239.3.1.243:8000
 
 
 #港澳台/10个频道
