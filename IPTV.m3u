@@ -568,19 +568,19 @@ http://218.241.192.50:8808/udp/239.3.1.116:8000
 
 #江苏/7个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="" group-title="地方特色",江苏城市
-http://180.126.96.225:8800/rtp/239.49.9.35:6000
+http://117.86.51.241:8888/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="" group-title="地方特色",江苏影视
-http://180.126.96.225:8800/rtp/239.49.9.38:6000
+http://117.86.51.241:8888/rtp/239.49.9.38:6000
 #EXTINF:-1 tvg-id="JS03" tvg-name="江苏综艺" tvg-logo="" group-title="地方特色",江苏综艺
-http://180.126.96.225:8800/rtp/239.49.9.36:6000
+http://117.86.51.241:8888/rtp/239.49.9.36:6000
 #EXTINF:-1 tvg-id="JS04" tvg-name="江苏新闻" tvg-logo="" group-title="地方特色",江苏新闻
-http://180.126.96.225:8800/rtp/239.49.9.40:6000
+http://117.86.51.241:8888/rtp/239.49.9.40:6000
 #EXTINF:-1 tvg-id="JS05" tvg-name="优漫卡通" tvg-logo="" group-title="地方特色",优漫卡通
 http://180.126.96.225:8800/rtp/239.49.9.39:6000
 #EXTINF:-1 tvg-id="JS06" tvg-name="江苏体育" tvg-logo="" group-title="地方特色",江苏体育
-http://180.126.96.225:8800/rtp/239.49.9.37:6000
+http://117.86.51.241:8888/rtp/239.49.9.37:6000
 #EXTINF:-1 tvg-id="JS07" tvg-name="江苏教育" tvg-logo="" group-title="地方特色",江苏教育
-http://180.126.96.225:8800/rtp/239.49.9.42:6000
+http://117.86.51.241:8888/rtp/239.49.9.42:6000
 
 #港澳台/10个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
