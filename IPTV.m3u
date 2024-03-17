@@ -492,13 +492,13 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u
 #EXTINF:-1 tvg-id="GD01" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方特色",广东珠江
 http://iptv.hiper25.com:42487/gdzhujiangHD/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD02" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方特色",广东新闻
-http://116.30.250.162:8888/udp/239.77.0.173:5146
+http://iptv.hiper25.com:42487/guangdongnews/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD03" tvg-name="广东民生" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong2.png" group-title="地方特色",广东民生
-http://116.30.250.162:8888/udp/239.77.0.225:5146
+http://iptv.hiper25.com:42487/guangdongmingsheng/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD04" tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong5.png" group-title="地方特色",广东体育
 http://iptv.hiper25.com:42487/guangdongtiyu/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD05" tvg-name="广东经济科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong7.png" group-title="地方特色",广东经济科教
-http://116.30.250.162:8888/udp/239.77.0.85:5146
+http://iptv.hiper25.com:42487/GDjingjikejiaoHD/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD06" tvg-name="广东大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="地方特色",广东大湾区卫视
 http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD07" tvg-name="广东影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong3.png" group-title="地方特色",广东影视
