@@ -505,14 +505,6 @@ http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
 http://iptv.hiper25.com:42487/gdyingshi/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="GD08" tvg-name="广东少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong6.png" group-title="地方特色",广东少儿
 hhttp://116.30.250.162:8888/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-id="GD09" tvg-name="广州综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou1.png" group-title="地方特色",广州综合
-http://iptv.hiper25.com:42487/guangzhouzonghe/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD10" tvg-name="广州影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou5.png" group-title="地方特色",广州影视
-http://180.142.145.135:8181/tsfile/live/0131_1.m3u8
-#EXTINF:-1 tvg-id="GD10" tvg-name="广州新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangzhou2.png" group-title="地方特色",广州新闻
-http://iptv.hiper25.com:42487/guangzhouxinwen/video.m3u8?token=1710447330
-#EXTINF:-1 tvg-id="GD11" tvg-name="广东综艺4K" tvg-logo="https://upload.112114.xyz/logo/%E5%B9%BF%E4%B8%9C%E7%BB%BC%E8%89%BA4K.png" group-title="地方特色",广东综艺4K
-http://113.15.184.185:8181/tsfile/live/faacts/1010_1.m3u8
 #EXTINF:-1 tvg-id="GD12" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen5.png" group-title="地方特色",深圳娱乐
 http://113.15.185.206:8181/tsfile/live/1014_1.m3u8
 #EXTINF:-1 tvg-id="GD13" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen1.png" group-title="地方特色",深圳都市
@@ -558,6 +550,21 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 #EXTINF:-1 tvg-id="NM07" tvg-name="内蒙古蒙古语文化" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Neimeng.png" group-title="地方特色",内蒙古蒙古语文化
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 
+#北京/7个频道
+#EXTINF:-1 tvg-id="BJ01" tvg-name="北京新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing1.png" group-title="地方特色",北京新闻
+http://218.241.192.50:8808/udp/239.3.1.159:8000
+#EXTINF:-1 tvg-id="BJ02" tvg-name="北京影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing4.png" group-title="地方特色",北京影视
+http://218.241.192.50:8808/udp/239.3.1.158:8000
+#EXTINF:-1 tvg-id="BJ03" tvg-name="北京文艺" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing3.png" group-title="地方特色",北京文艺
+http://218.241.192.50:8808/udp/239.3.1.242:8000
+#EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
+http://218.241.192.50:8808/udp/239.3.1.117:8000
+#EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="地方特色",北京国际
+http://218.241.192.50:8808/udp/239.3.1.235:8000
+#EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
+http://218.241.192.50:8808/udp/239.3.1.189:8000
+#EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
+http://218.241.192.50:8808/udp/239.3.1.116:8000
 
 #江苏/7个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="" group-title="地方特色",江苏城市
