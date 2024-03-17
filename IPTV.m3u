@@ -559,7 +559,7 @@ http://218.241.192.50:8808/udp/239.3.1.158:8000
 http://218.241.192.50:8808/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BJ04" tvg-name="北京生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing7.png" group-title="地方特色",北京生活
 http://218.241.192.50:8808/udp/239.3.1.117:8000
-#EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="地方特色",北京国际
+#EXTINF:-1 tvg-id="BJ05" tvg-name="北京国际" tvg-logo="" group-title="地方特色",北京国际
 http://218.241.192.50:8808/udp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="BJ06" tvg-name="北京少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing8.png" group-title="地方特色",北京少儿
 http://218.241.192.50:8808/udp/239.3.1.189:8000
