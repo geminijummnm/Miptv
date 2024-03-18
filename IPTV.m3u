@@ -181,7 +181,7 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000011654/index.m3u
 #EXTINF:-1 tvg-id="huashu2" tvg-name="华数-高清娱乐" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-高清娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="huashu3" tvg-name="华数-精彩影视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/shuzi/wasu/Wasu-精彩影视.png" group-title="数字高清",华数-精彩影视
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000063&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="huashu4" tvg-name="华数-精彩综艺" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8
 #EXTINF:-1 tvg-id="huashu5" tvg-name="华数-漫游世界" tvg-logo="https://cdn.jsdelivr.net/huangsuming.codeberg.page/logo/tv/shuzi/wasu/" group-title="数字高清",华数-漫游世界
