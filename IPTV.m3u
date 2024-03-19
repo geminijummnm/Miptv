@@ -353,7 +353,7 @@ http://nas.mfparking.com:8125/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-id="ZJ14" tvg-name="杭州导视" tvg-logo="" group-title="地方特色",杭州导视
 http://nas.mfparking.com:8125/udp/233.50.201.182:5140
 
-#上海/9个频道
+#上海/10个频道
 #EXTINF:-1 tvg-id="SH01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="地方特色",上海新闻
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SH02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="地方特色",上海都市
@@ -372,7 +372,8 @@ http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51
 http://iptv.hiper25.com:42487/xinshijue/video.m3u8?token=1710447330
 #EXTINF:-1 tvg-id="SH09" tvg-name="魅力足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/mlzq.png" group-title="地方特色",魅力足球
 http://140.249.247.141/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-
+#EXTINF:-1 tvg-id="SH10" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="地方特色",法治天地
+http://nas.mfparking.com:8125/udp/233.50.201.191:5140
 
 #陕西/7个频道
 #EXTINF:-1 tvg-id="I01" tvg-name="陕西新闻资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanxi1.png" group-title="地方特色",陕西新闻资讯
