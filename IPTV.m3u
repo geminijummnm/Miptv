@@ -552,26 +552,6 @@ http://101.228.122.236:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
 http://218.241.192.50:8808/udp/239.3.1.116:8000
 
-#福建/10个频道
-#EXTINF:-1 tvg-id="FJ01" tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian1.png" group-title="地方特色",福建综合
-http://110.81.150.47:4022/rtp/239.61.3.4:9542
-#EXTINF:-1 tvg-id="FJ02" tvg-name="福建公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian2.png" group-title="地方特色",福建公共
-http://110.81.150.47:4022/rtp/239.61.2.3:8012
-#EXTINF:-1 tvg-id="FJ03" tvg-name="福建新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian3.png" group-title="地方特色",福建新闻
-http://110.81.150.47:4022/rtp/239.61.2.4:8018
-#EXTINF:-1 tvg-id="FJ04" tvg-name="福建电视剧" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian4.png" group-title="地方特色",福建电视剧
-http://110.81.150.47:4022/rtp/239.61.2.5:8024
-#EXTINF:-1 tvg-id="FJ05" tvg-name="福建旅游" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian5.png" group-title="地方特色",福建旅游
-http://110.81.150.47:4022/rtp/239.61.2.6:8030
-#EXTINF:-1 tvg-id="FJ06" tvg-name="福建经济生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian6.png.png" group-title="地方特色",福建经济生活
-http://110.81.150.47:4022/rtp/239.61.2.7:8036
-#EXTINF:-1 tvg-id="FJ07" tvg-name="福建体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian7.png" group-title="地方特色",福建体育
-http://110.81.150.47:4022/rtp/239.61.2.160:8948
-#EXTINF:-1 tvg-id="FJ08" tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian8.png" group-title="地方特色",福建少儿
-http://110.81.150.47:4022/rtp/239.61.2.9:8048
-#EXTINF:-1 tvg-id="FJ09" tvg-name="福建教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Fujian9.png" group-title="地方特色",福建教育
-http://110.81.150.47:4022/rtp/239.61.2.173:9026
-
 #江苏/13个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.86.51.241:8888/rtp/239.49.9.35:6000
