@@ -552,7 +552,7 @@ http://101.228.122.236:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
 http://218.241.192.50:8808/udp/239.3.1.116:8000
 
-#江苏/16个频道
+#江苏/32个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.86.51.241:8888/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
@@ -585,6 +585,38 @@ https://nt-hls.ntjoy.com/live/4f1.m3u8
 https://nt-hls.ntjoy.com/live/4f5.m3u8
 #EXTINF:-1 tvg-id="JS16" tvg-name="南通社教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通社教
 https://nt-hls.ntjoy.com/live/4f3.m3u8
+#EXTINF:-1 tvg-id="JS17" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small4670d7f9cb844b91cacbca499a085ce4.png" group-title="地方特色",无锡新闻综合频道
+http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=b27ac8431707368778
+#EXTINF:-1 tvg-id="JS18" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small88815cec22c049be0abd3787c67bba62.png" group-title="地方特色",无锡都市资讯频道
+http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=f8565e4d1707369057
+#EXTINF:-1 tvg-id="JS19" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/smallaf6ef562b74bdd5dad32a21db5ebab16.png" group-title="地方特色",无锡娱乐频道
+http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=22c8ae641707368797
+#EXTINF:-1 tvg-id="JS20" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/smalld249ac6e41324c6696a6b0ae8e561fec.png" group-title="地方特色",无锡经济频道
+http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=2e07387a1707368071
+#EXTINF:-1 tvg-id="JS21" tvg-logo="http://tv.haoqu99.com/d/file/2017/0125/small4752ae71aa5e6e9173fcb8cdb86d28d3.png" group-title="地方特色",无锡生活频道
+http://stream.thmz.com/wxtv4/playlist.m3u8?_upt=8c51357c1707362770
+#EXTINF:-1 tvg-id="JS22" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616110930536.jpg" group-title="地方特色", 常州新闻综合频道
+https://livekcz.cztv.tv/kcz/cztv1.m3u8?auth_key=1707367388-0-0-6f5e2e2932ef1f9bffe15a88b6fc5b42
+#EXTINF:-1 tvg-id="JS23" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616110506576.jpg" group-title="地方特色",常州生活频道
+https://livekcz.cztv.tv/kcz/cztv3.m3u8?auth_key=1707366043-0-0-ce29c65111abd317e8446076b8e156f7
+#EXTINF:-1 tvg-id="JS24" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616110351560.jpg",group-title="地方特色",常州公共频道
+https://livekcz.cztv.tv/kcz/cztv4.m3u8?auth_key=1707366158-0-0-19e2683b415d71b230f4dc37f2483c55
+#EXTINF:-1 tvg-id="JS25" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614040628288.jpg" group-title="地方特色",连云港新闻综合频道
+http://live.lyg1.com/zhpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="JS26" tvg-logo="http://tv.haoqu99.com/d/file/2017/0910/small0d2f1938a6403e2e6ab6aaa2c6e9c50d1505057861.jpg",group-title="地方特色",连云港公共频道
+http://live.lyg1.com/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="JS27" tvg-logo="http://tv.haoqu99.com/d/file/2016/0616/20160616104103369.jpg" group-title="地方特色",扬州新闻频道
+http://cm-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 tvg-id="JS28" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb841adbf1bfe4e2dc6a276e6606f92881505113348.jpg" group-title="地方特色",扬州城市频道
+http://cm-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 tvg-id="JS29" tvg-logo="http://tv.haoqu99.com/d/file/2017/0911/smallb94f04ceba1968e4d83fa53987cbc3901505113554.jpg" group-title="地方特色",扬州生活频道
+http://cm-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 tvg-id="JS30" tvg-logo="http://tv.haoqu99.com/d/file/2018/0710/small5d39a69577b731bbe17776177dea2f241531236297.jpg" group-title="地方特色",扬州邗江频道
+http://cm-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 tvg-id="JS31" tvg-logo="http://tv.haoqu99.com/d/file/2016/0614/20160614045900469.jpg" group-title="地方特色",镇江新闻综合频道
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1 tvg-id="JS32" tvg-logo="http://tv.haoqu99.com/d/file/2018/0706/smallfb8863a64a6166c400b765d5a930323b1530866940.jpg" group-title="地方特色",镇江二套社会民生频道
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 #港澳台/4个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
