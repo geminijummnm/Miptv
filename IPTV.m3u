@@ -69,7 +69,7 @@ http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/001/ysp/2012513503.m3u8
 #EXTINF:-1 tvg-id="CCTVdszn" tvg-name="电视指南" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTVdszn.png" group-title="总台高清",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="A21" tvg-name="CETV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV1.png" group-title="总台高清",CETV-1 综合教育
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="A22" tvg-name="CETV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV2.png" group-title="总台高清",CETV-2 空中课堂
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A23" tvg-name="CETV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV3.png" group-title="总台高清",CETV-3 教育服务
