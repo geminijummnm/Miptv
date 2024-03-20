@@ -552,7 +552,7 @@ http://101.228.122.236:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-id="BJ07" tvg-name="北京财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing2.png" group-title="地方特色",北京财经
 http://218.241.192.50:8808/udp/239.3.1.116:8000
 
-#江苏/13个频道
+#江苏/16个频道
 #EXTINF:-1 tvg-id="JS01" tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu2.png" group-title="地方特色",江苏城市
 http://117.86.51.241:8888/rtp/239.49.9.35:6000
 #EXTINF:-1 tvg-id="JS02" tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Jiangsu4.png" group-title="地方特色",江苏影视
@@ -579,6 +579,12 @@ https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
 https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
 #EXTINF:-1 tvg-id="JS13" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="地方特色",靖江新闻综合
 rtmp://visit.jjbctv.com:1935/live/xwzhpc
+#EXTINF:-1 tvg-id="JS14" tvg-name="南通综合" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通综合
+https://nt-hls.ntjoy.com/live/4f1.m3u8
+#EXTINF:-1 tvg-id="JS15" tvg-name="南通公共" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通公共
+https://nt-hls.ntjoy.com/live/4f5.m3u8
+#EXTINF:-1 tvg-id="JS16" tvg-name="南通社教" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/js/" group-title="地方特色",南通社教
+https://nt-hls.ntjoy.com/live/4f3.m3u8
 
 #港澳台/4个频道
 #EXTINF:-1 tvg-id="xg01" tvg-logo="https://upload.112114.xyz/logo/TVBFEICUITAI.png" tvg-name="TVB翡翠台"  group-title="港澳台",TVB翡翠台
