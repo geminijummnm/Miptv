@@ -76,6 +76,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001064/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A24" tvg-name="CETV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CETV4.png" group-title="总台高清",CETV-4 职业教育
 http://113.15.185.206:8181/tsfile/live/1025_1.m3u8
+#EXTINF:-1 tvg-id="A25" tvg-name="足球频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/FTV-足球频道.png" group-title="总台高清",足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 
 #卫视高清/40个频道
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视高清",湖南卫视
@@ -229,7 +231,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/3/224/32212285
 #EXTINF:-1 tvg-id="ytcq" tvg-name="弈坛春秋" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ytcq.png" group-title="数字高清",弈坛春秋
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#国际频道/20个频道
+#国际频道/27个频道
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
 http://113.64.145.228:8081/hls/37/index.m3u8
 #EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
@@ -260,6 +262,18 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://hls.rt.com/hls/rtdru360.m3u8
 #EXTINF:-1 tvg-id="RT08" tvg-name="日本新闻" tvg-logo="" group-title="国际时事",日本新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 tvg-id="K01" tvg-name="KBS World" tvg-logo="https://huangsuming.codeberg.page/logo/tv/Korean/" group-title="国际时事",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="N01" tvg-name="NBC News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",NBC News
+https://lnc-nbc-news-now.tubi.video/master.m3u8
+#EXTINF:-1 tvg-id="N02" tvg-name="News 12 New York" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 tvg-id="F01" tvg-name="FOX News" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="F02" tvg-name="Fox Weather" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",Fox Weather
+https://247wlive.foxweather.com/stream/index_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://huangsuming.codeberg.page/logo/tv/English/" group-title="国际时事",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="CGTN01" tvg-name="CGTN" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTN.png" group-title="国际时事",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CGTN02" tvg-name="CGTN Documentary" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CGTNjilu.png" group-title="国际时事",CGTN Documentary
